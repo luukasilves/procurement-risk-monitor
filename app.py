@@ -49,7 +49,10 @@ def load_monthly_results(month: str) -> dict | None:
     if not path.exists():
         return None
     with open(path) as f:
-        return json.load(f)
+        data = json.load(f)
+    for r in data.get("results", []):
+        r["stage1_probability"] = calibrate_score(r["stage1_probability"])
+    return data
 
 
 @st.cache_data
@@ -58,14 +61,22 @@ def load_combined_results(month: str) -> dict | None:
     if not path.exists():
         return None
     with open(path) as f:
-        return json.load(f)
+        data = json.load(f)
+    for r in data.get("results", []):
+        r["stage1_probability"] = calibrate_score(r["stage1_probability"])
+        if "combined_score" in r:
+            r["combined_score"] = calibrate_score(r["combined_score"])
+    return data
 
 
 @st.cache_data
 def load_all_scores() -> pd.DataFrame:
     with open(MODEL_DIR / "stage1_scores.json") as f:
         data = json.load(f)
-    return pd.DataFrame(data)
+    df = pd.DataFrame(data)
+    if "stage1_probability" in df.columns:
+        df["stage1_probability"] = df["stage1_probability"].apply(calibrate_score)
+    return df
 
 
 @st.cache_data
@@ -601,6 +612,25 @@ FEATURE_EXPLANATIONS = {
         "This can indicate undisclosed related-party transactions."
     ),
 }
+
+
+# ── Risk score calibration ────────────────────────────────────────────────
+# The ML model uses class_weight='balanced' which inflates raw probabilities
+# (base rate ~1.7%, so positives get ~50x upweighting).  We correct this
+# with the standard inverse-weighting formula so the displayed scores
+# approximate true dispute probabilities.
+_BASE_RATE = 959 / 57_313  # historical dispute rate
+
+
+def calibrate_score(p_model: float) -> float:
+    """Correct balanced-class-weight inflation to approximate true probability."""
+    if p_model <= 0:
+        return 0.0
+    if p_model >= 1:
+        return 1.0
+    num = p_model * _BASE_RATE
+    den = num + (1 - p_model) * (1 - _BASE_RATE)
+    return num / den
 
 
 def risk_color(score: float) -> str:
@@ -1470,7 +1500,8 @@ if page == t("page_about"):
     # Hero section
     st.markdown(f"""
 <div style="background: linear-gradient(135deg, #0f1e3d 0%, #1e3a5f 50%, #2563eb 100%);
-            padding: 48px 40px; border-radius: 16px; margin-bottom: 24px;">
+            padding: 48px 40px; border-radius: 16px; margin-bottom: 24px;
+            box-sizing: border-box; max-width: 100%; overflow: hidden;">
     <h1 style="color: #fff !important; font-size: 2.6rem; margin: 0; font-weight: 800;">
         \U0001f50d ProcureSight
     </h1>
