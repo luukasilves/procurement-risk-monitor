@@ -1,0 +1,1784 @@
+=== 9830944_305192_hankepass_taiendavate_selgitustega.pdf ===
+1/21
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+Riigi ametlik teataja:
+305192
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+AS HOOLEKANDETEENUSED (10399457)
+Riik:
+Eesti
+Hankija aadress:
+Merimetsa tee 1
+Hankija veebiaadress:
+http://www.hoolekandeteenused.ee
+E-posti aadress:
+info@hoolekandeteenused.ee
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+2/21
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Emajõe keskuse hoonete tehnosüsteemide hooldus ja kontroll
+Lühikirjeldus:
+Hanke eesmärk on sõlmida hankeleping tehnosüsteemide hoolduseks Emajõe Keskuses (aadressil
+Kaveri tee Kaagvere Tartumaa) eeldusliku algusajaga 01.04.2026.
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+305192
+Hanke liik:
+Teenused
+Hanke CPV-d:
+50343000-1 Videoseadmete remondi- ja hooldusteenused
+50720000-8 Keskkütteseadmete remondi- ja hooldusteenused
+50730000-1 Jahutusseadmete remondi- ja hooldusteenused
+50800000-3 Mitmesugused remondi- ja hooldusteenused
+65300000-6 Elektrijaotus- ja seonduvad teenused
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+3/21
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+4/21
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+5/21
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+6/21
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kuritegelikus ühenduses osalemise eest". Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud aususe kohustuse rikkumise või korruptiivse teo eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+7/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kelmuse eest kõige rohkem viimase viie aasta jooksul või kehtib
+süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kelmuse eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+8/21
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo
+või sellele kihutamise, kaasaaitamise või selle katse eest". Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud rahapesualase süüteo või terrorismi rahastamise eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+9/21
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 3 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud
+teo eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada
+tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise
+võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või
+hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg
+maksukorralduse seaduse tähenduses või maksuvõlg /…/ tema asukohariigi õigusaktide kohaselt“
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+10/21
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul, kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku /…/ makse /…/ maksuvõlg maksukorralduse seaduse
+tähenduses või sotsiaalkindlustusemaksete võlg tema asukohariigi õigusaktide kohaselt
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+11/21
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+keskkonnaõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+12/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+sotsiaalõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid tööõiguse
+valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+13/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PANKROT
+Kas ettevõtja on pankrotis?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud
+juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on likvideerimisel või kelle suhtes on algatatud pankrotimenetlus, välja
+arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+14/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt“,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+15/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, likvideerimisel või kelle suhtes on algatatud
+pankrotimenetlus või kes on muus sellesarnases olukorras tema asukohamaa õigusaktide
+kohaselt, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kelle äritegevus on peatatud, välja arvatud asjade ostmisel RHS § 49 lõikes 4
+sätestatud juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+16/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Viide seadusele:
+RHS § 95 lg 4 p 4 „kes on raskelt eksinud ametialaste käitumisreeglite vastu ja see muudab tema
+aususe küsitavaks“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Viide seadusele:
+RHS § 95 lg 4 p 5 „konkurentsi kahjustava kokkuleppe, ettevõtjate ühenduse otsuse või
+kooskõlastatud tegevuse tõttu“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+17/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Viide seadusele:
+RHS § 95 lg 4 p 6 „kui huvide konflikti ei ole muude vahenditega võimalik vältida“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Viide seadusele:
+RHS § 95 lg 4 p 7 „kelle pakkumuse või taotluse koostamisel on osalenud isik, kes on osalenud
+sama riigihanke ettevalmistamisel või on muul viisil hankijaga seotud, ja sellele isikule seetõttu
+teadaolev info annab talle eelise teiste riigihankes osalejate eest ning sellest tingitud konkurentsi
+moonutamist ei ole muude vahenditega võimalik vältida“. Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+18/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Viide seadusele:
+RHS § 95 lg 4 p 8 „kes on oluliselt või pidevalt rikkunud eelnevalt sõlmitud hankelepingu olulist
+tingimust või hankelepingute olulisi tingimusi nii, et rikkumise tulemusena on lepingust
+taganetud või leping üles öeldud, hinda alandatud, hüvitatud kahju või makstud leppetrahvi". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud. Alates 1.09.2017 alustatud hangete tulemusena sõlmitud
+riigihankelepingute kohta leiab infot riigihangete registrist.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Viide seadusele:
+RHS § 95 lg 4 p 9 „kes on esitanud valeandmeid käesolevas paragrahvis sätestatud või RHS §-
+des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele vastavuse kohta“;
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+19/21
+RHS § 95 lg 4 p 9 „kes on jätnud andmed käesolevas paragrahvis sätestatud või käesoleva
+seaduse §-des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele
+vastavuse kohta esitamata“;
+RHS § 95 lg 4 p 9 „kes on jätnud käesoleva seaduse § 104 lõigete 7 ja 8 alusel hankija nõutud
+täiendavad dokumendid esitamata“;
+RHS § 95 lg 4 p 10 „kes on tegutsenud eesmärgiga mõjutada hankijat või esitanud hooletusest
+eksitavat teavet, mis on võinud mõjutada hankija otsuseid riigihankes, või on tegutsenud
+eesmärgiga saada konfidentsiaalset teavet, mis on võinud anda talle põhjendamatu eelise teiste
+riigihankes osalejate ees“.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 2 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud riigis ilma seadusliku aluseta viibivale välismaalasele töötamise
+võimaldamise või välismaalase Eestis töötamise tingimuste rikkumise võimaldamise, sealhulgas
+seaduses sätestatud töötasu määrast väiksema töötasu maksmise eest“. Kohustuslik kõrvaldamise
+alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+20/21
+Viide seadusele:
+RHS § 95 lg 1 p 5. Kellega hankelepingu sõlmimine rikuks rahvusvahelist või Vabariigi
+Valitsuse sanktsiooni rahvusvahelise sanktsiooni seaduse tähenduses. Hankija kontrollib
+käesoleva seaduse § 95 lõike 1 punktis 5 sätestatud kõrvaldamise alust pakkuja või taotleja
+kinnituse alusel. Hankija võib põhjendatud kahtluse korral nõuda pakkujalt või taotlejalt
+täiendavate andmete või tõendite esitamist, mis võimaldavad kõrvaldamise alust kontrollida.
+(RHS § 96 lg 2.1).
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 11 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku esindajat on karistatud maksualaste süütegude eest“. Vabatahtlik kõrvaldamise alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+IV OSA: KVALIFITSEERIMISTINGIMUSED
+C: Tehniline ja kutsealane suutlikkus
+TEENUSLEPINGUTE PUHUL: TÄPSUSTATUD LIIKI TEENUSTE OSUTAMINE
+Ainult teenuste riigihankelepingute puhul: "nimekiri hankija kindlaksmääratud tunnustele
+vastavate teenuste osutamise lepingutest, mis on täidetud riigihanke algamisele eelneva 36 kuu
+jooksul, koos teabega nende maksumuse, kuupäevade ja teiste lepingupoolte kohta." Avaliku
+sektori hankijad võivad võtta arvesse rohkem kui kolme aasta vanuseid kogemusi.
+Viide seadusele:
+RHS § 101 lg 1 p 2 „nimekiri hankija kindlaks määratud tunnustele vastavate teenuste osutamise
+lepingutest, mis on täidetud riigihanke algamisele eelneva 36 kuu jooksul, koos teabega nende
+maksumuse, kuupäevade ja teiste lepingupoolte kohta“
+RHS § 101 lg 2 „hankija võib piisava konkurentsi tagamiseks arvesse võtta andmeid rohkem kui
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+21/21
+36 kuu eest täidetud teenuste osutamise lepingute kohta“
+Tingimuse selgitus:
+Pakkujal peab olema varasem kogemus käesoleva riigihanke esemega sarnaste teenuste
+osutamisel ajavahemikus, mis jääb vahetult enne riigihanke väljakuulutamist viimase
+kolmekümne kuue (36) kuu sisse.
+Pakkuja esitab tõendamiseks andmed kahe (2) lepingu kohta, millest iga lepingu maksumus on
+olnud vähemalt 25 000 eurot (ilma käibemaksuta).
+Kui tegemist on riigihangetega, siis märkida hanke viitenumber, kui tegemist ei ole riigihankega
+RHR-s, siis lepingupartneri andmed (nimi, e-mail ja telefon) ja lepingu andmed (lepingu
+kehtivuse aeg, number, maksumus). Hankija võib pakkuja esitatud referentslepingute nimekirjas
+esitatud lepingupartneritelt küsida kinnitust, kas esitatud lepingud on nõuetekohaselt täidetud.
+Tingimuse kirjeldus:
+Minimaalne teostatud tööde arv: 2
+Kirjeldus: Pakkujal peab olema varasem kogemus käesoleva riigihanke esemega sarnaste teenuste
+osutamisel ajavahemikus, mis jääb vahetult enne riigihanke väljakuulutamist viimase
+kolmekümne kuue (36) kuu sisse. Pakkuja esitab tõendamiseks andmed kahe (2) lepingu kohta,
+millest iga lepingu maksumus on olnud vähemalt 25 000 eurot (ilma käibemaksuta). Kui tegemist
+on riigihangetega, siis märkida hanke viitenumber, kui tegemist ei ole riigihankega RHR-s, siis
+lepingupartneri andmed (nimi, e-mail ja telefon) ja lepingu andmed (lepingu kehtivuse aeg,
+number, maksumus). Hankija võib pakkuja esitatud referentslepingute nimekirjas esitatud
+lepingupartneritelt küsida kinnitust, kas esitatud lepingud on nõuetekohaselt täidetud.
+Ettevõtjalt oodatavad vastused:
+1. Kirjeldus (Suur sisestusala (max pikkus 4000 tähemärki))
+2. Kogusumma (Summa)
+3. Valuuta (Vääring)
+4. Ettevõtja vastutusala (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Summa (Summa)
+6. Valuuta (Vääring)
+7. Ajavahemik (Periood)
+8. Kas info on konfidentsiaalne? (Raadionupp valikutega "Jah/Ei")
+9. Tellija nimi (Sisestusväli (max pikkus 250 tähemärki))
+10. Kontaktisiku nimi (Sisestusväli (max pikkus 250 tähemärki))
+11. E-mail (Sisestusväli (max pikkus 250 tähemärki))
+12. Telefon (Sisestusväli (max pikkus 250 tähemärki))
+13. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+14. URL (Url)
+15. Kood (Sisestusväli (max pikkus 250 tähemärki))
+16. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 21.01.2026 09:39:59
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+
+=== 9830944_305192_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 305192
+Hankija:AS HOOLEKANDETEENUSED (10399457)
+Hange:Emajõe keskuse hoonete tehnosüsteemide hooldus ja kontroll
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Teenuse 1 kuu maksumus hanke Pakkuja esitab 1 kuu maksumuse. Maksumus - 90 EUR jah
+perioodil Pakkumuse maksumus peab sisaldama vähim on parim
+kõiki kulusid, mis on vajalikud teenuse
+nõuetekohaseks osutamiseks (materjalid,
+abimaterjalid, töö, transport,
+abivahendid jms) ja mis on vajalikud
+Hankija eesmärgi
+saavutamiseks.Teenuse kuutasu (1 kuu)
+määramisel on aluseks LISA 1 Tehniline
+kirjeldus (objektide põhised), milles on
+detailselt kirjeldatud teenused ja mahud.
+2 Lisatööde 1h maksumus Lisatööde hind peab sisaldama transporti. Kulu - vähim on 10 EUR/h jah
+parim
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Teenuse 1 kuu maksumus hanke perioodil
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+2. Lisatööde 1h maksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 21.01.2026 09:41:23 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9830944/general-info
+
+=== 9830944_305192_vastavustingimused.pdf ===
+1/3
+VASTAVUSTINGIMUSED
+Viitenumber: 305192
+Hankija: AS HOOLEKANDETEENUSED (10399457)
+Hange: Emajõe keskuse hoonete tehnosüsteemide hooldus ja kontroll
+EL NÕUKOGU SANKTSIOON. ALLTÖÖVÕTJAD JA TARNIJAD.
+Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on:
+1. Vene Föderatsiooni kodanik, resident või Vene Föderatsioonis asutatud ettevõtja, sh füüsilisest
+isikust ettevõtja, juriidiline isik, asutus või muu üksus;
+2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või muu
+üksuse omandis;
+3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või tegutseb sellise isiku
+juhiste alusel.
+Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav hankeleping oleks RSanS § 7 lg 1 alusel
+tühine.
+Määrust kohaldatakse riigihangetele alates rahvusvahelisest piirmäärast. NÕUKOGU MÄÄRUS
+(EL) 2022/576, 8. aprill 2022, millega muudetakse määrust (EL) nr 833/2014, mis käsitleb
+piiravaid meetmeid seoses Venemaa tegevusega, mis destabiliseerib olukorda Ukrainas.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on: 1. Vene Föderatsiooni kodanik, resident või Vene
+Föderatsioonis asutatud ettevõtja, sh füüsilisest isikust ettevõtja, juriidiline isik, asutus või muu
+üksus; 2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või
+muu üksuse omandis; 3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või
+tegutseb sellise isiku juhiste alusel. (Raadionupp valikutega "Jah/Ei")
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+Koostatud 21.01.2026 09:41:11
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+2/3
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Küsimused ettevõtjale:
+1. Kas ettevõtja kinnitab, et täidab pakkumuse lehe "Hindamiskriteeriumid ja hinnatavad
+näitajad" lehel ette antud struktuuri kohaselt? (Raadionupp valikutega "Jah/Ei")
+VOLIKIRI
+Juhul, kui pakkumuse esitanud isik(ud) ei ole pakkuja esindajana äriregistris märgitud juhatuse
+liige, kes omab juriidilise isiku esindamise õigust, esitab pakkuja volikirja tema esindamiseks.
+Küsimused ettevõtjale:
+1. Volikiri (Raadionupp valikutega "Jah/Ei")
+OBJEKTIGA TUTVUMISE KOHUSTUS
+Pakkuja vastutab pakkumuse esitamisel selle eest, et ta on pakkumuse objektiga eelnevalt
+piisavalt tutvunud ja pakkumuse esitamisel arvestanud objekti seisundi ja sellest tuleneva tööde
+mahu ning iseloomuga. Pakkumust on õigus esitada vaid siis, kui pakkuja on enne pakkumuse
+esitamist hankelepingu objektiga kohapeal tutvunud ja selle tõendamiseks andnud hankija
+esindaja juuresolekul allkirja objektiga tutvumise lehele. Kui pakkuja ei täida hanke objektiga
+tutvumise nõuet, siis hankija lükkab pakkumuse tagasi seda läbi vaatamata (RHS § 111 lg 6 p1).
+Hanke objekti külastuse aja kokku leppimiseks tuleb pakkujal ühendust võtta hankija
+kontaktisikuga. Pakkuja peab arvestama, et objektiga tutvumiseks tuleb hankijaga ühendust võtta
+mõistliku aja jooksul enne pakkumuste esitamise tähtaja saabumist.
+Hankijapoolne kontaktisik on Margo Hõim, telefon 58866423
+Küsimused ettevõtjale:
+1. Kas pakkuja kinnitab, et on tutvunud objektiga? (Raadionupp valikutega "Jah/Ei")
+PAKKUJA PROJEKTIJUHT (TÖÖDEJUHATAJA)
+Töövõtjal peab kogu lepingu täitmise aja jooksul olema projektijuht (töödejuhataja), kes on
+töövõtja poolseks kontaktisikuks teenuse osutamisel, kes korraldab teenuste osutamist ning
+kontrollib teenuste kvaliteeti ja muud nõuetekohasust ja kes on telefonitsi kättesaadav kogu
+sellisel ajal, mis teenust faktiliselt osutatakse.
+Nõuded projektijuhile:
+Kutsekvalifikatsioon - Eesti Kinnisvara Korrashoiu Liidu väljastatud kutsetunnistus vähemalt
+Kinnisvarahaldur, tase 5 või Kinnisvara hooldusmeister, tase 5 või Kinnisvara tehnohoolduse
+meister, tase 5 (või samaväärne)
+JA töökogemus – kes on hanketeate riiklikus riigihangete registris avaldamise kuupäevale
+eelneva kolme aasta jooksul juhtinud vähemalt kahe üle 1000 m² suletud netopinnaga hoone
+Koostatud 21.01.2026 09:41:11
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+3/3
+tehnohooldustöid, kusjuures iga nimetatud tehnohooldusteenuse osutamise puhul peab juhtimine
+olema kestnud vähemalt kuus kuud. Töökogemuse peab olema tõendatud (kas tellija kinnitusega,
+lepinguga või dokumendiga, mille on allkirjastanud tellija).
+Projektijuht (töödejuhataja) vastutab selle eest, et tehnohooldustöid teostavad spetsialistid
+vastaksid kehtivatele nõuetele, sh omaksid vastavat pädevust, erialast töökogemust ning vajaduse
+korral MTR-i registreeringut.
+Küsimused ettevõtjale:
+1. Kas pakkuja kinnitab, et projektijuhil (töödejuhatajal) on nõutud kvalifikatsioon või
+töökogemus? (Raadionupp valikutega "Jah/Ei")
+2. Kas pakkuja esitas projektijuhi (töödejuhataja) kvalifikatsiooni või töökogemust tõendava
+dokumendi? (Raadionupp valikutega "Jah/Ei")
+PAKKUJA JUHTIVISIKUTE LOETELU, KES EI OLE NÄHTAVAD ÄRIREGISTRIS
+Esitada pakkuja poolt volitatud isikute andmed (nimi, isikukood), kellel on õigus ettevõtjat
+esindada, tema nimel otsuseid teha või teda kontrollida ning kes ei ole nähtavad äriregistrist.
+Eelpool nimetatud isikuteks on näiteks tegevdirektor, kes ei ole juhatuse liige, prokurist,
+järelevalveorgani liige jms.
+Küsimused ettevõtjale:
+1. Pakkuja esitab volitatud isikute nime(d) ja isikukoodi(d), kes ei ole nähtav(ad) äriregistris või
+kinnituse, et selliseid isikuid pakkujal ei ole. (Suur sisestusala (max pikkus 4000 tähemärki))
+Koostatud 21.01.2026 09:41:11
+https://riigihanked.riik.ee/rhr-web/#/procurement/9830944/general-info
+
+=== 9830944_LISA_1_Tehniline_kirjeldus_Emajõe_keskuse_tehnosüsteemid.xlsx ===
+[Sheet: Savikoda- Mõisaköögi tee 9]
+Objektipõhine tehniline kirjeldus 
+Tehnohoolduse tegevused ja tulemus on kirjas Tehnilise kirjelduse üldosas
+Nimetus: | Emajõe keskus | Savikoda | Aadress: | Mõisaköögi tee 9, Kaagvere küla, Tartumaa (Pakkumuse maksumuse tabelis objekt Mõisakoha, Kaagvere küla)
+Suletud netopind: | 154.4 | Mõisakelder (Savikoda) | Kinnistu kood: | MOISAKOOGITEE9
+Hoone korruselisus: | 2 k
+Teenuse eeldatav algus:  | Objekt avatud 24/7   (EI)      | Tööaeg:   (08:00-17:00)
+Eritingimused: | Valik: | Täpsustus
+1. | Riigisaladusetele juurdepääsu õigust vajavad/eeldavad hooldus ja remonttööd (EVS 807 klassifikaatori kood 400) | Ei
+2. | Objektil alaliselt töötav hooldustööline | Ei
+3. | Avarii, rike ja puuduse reageerimisaja vähendamine | Ei
+4. | Taustakontrolli nõue | Ei
+5. | Keskkonna luba | Ei
+EVS 807:2016 | Kirjeldus EVS 807:2016 | Kliendi poolt Tellitavad teenused | Kirjelduse täpsustus või erisus | Süst. olemasolu | Tehn.kirjeldus, kaardistamine  | Link projekt dok'le | Märkused | Baaspaketi erisused | Otsus TH tellimise kohta
+___ | _ | ____ | Täpsustus1 | Täpsustus 2 | Täpsustus 3 | __ | . | .. | … | …. | …..
+150 | Info liikumise korraldamine korrashoiuobjektiga seotud poolte vahel | 
+156 | Avarii-, dispetšerteenistus | JAH | Olemas | Keskse klienditeeninduse punkti olemasolu kinnisvaraobjekti kasutajatel ilmnevate probleemide lahendamiseks (murekontor, ingl helpdesk) ning hoones ilmnevatest mittevastavustest operatiivse info edastamiseks    (24/7) | JAH
+210 | Krundi rajatiste TH | 
+211 | Teekatete TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+212 | Sildade, treppide, truupide TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+215 | Piirdeaedade, tarade, väravate, tugimüüride ja jalutusaedade TH | EI | Väravad, tõkkepuud, pollarid | Olemas | kahe poolega käsitsi avatav metallist värav | EI
+EI | Piirdeaed | Olemas | kiviaed;  | EI
+216 | Väikehoonete (katusealused, jäätmehoidlad, abihooned) TH | EI | sh kuurid, kuudid, kennelid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+217 | Veekogude (basseinid, tiigid, purskkaevud) korrashoid | EI | sh tuletõrje veevõtukohad | Puudub | EI
+218 | Eritarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+219 | Muude krundil alaliselt või ajutiselt paiknevate elementide TH | EI | Puudub | EI
+220 | Ehitise põhitarindite TH | 
+221 | Vundamentide ja aluste TH | EI | Olemas | madalvundament |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+222 | Kande-, jäigastavate ja piirdetarindite TH | EI | Olemas | maakivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+223 | Katuste ja katuseräästaste TH | JAH | Olemas | viilkatus, kivikatus; sadevee rennid  | Visuaalne kontroll 1x aastas kevadel. | JAH
+EI | Katusepollarid, julgestustrossid ja    turvasiinid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Seina- ja katuseredelid, katusesillad (käiguteed), teenindusplatformid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+224 | Fassaadide ja fassaadielementide TH | EI | Olemas | maakivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+225 | Akende TH | EI | Olemas | puitraamiga |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+226 | Välisuste TH | JAH | Välisuksed | Olemas | puit | JAH
+EI | Välisuksed | elektrilised | Puudub | EI
+EI | Tõstuksed | Puudub | EI
+EI | Voldikuksed | Puudub | EI
+227 | Korstnate TH | JAH | Olemas | kivikorsten | JAH
+228 | Piksekaitse TH | EI | Kontroll + katsetused vastavalt standardi EVS-EN 62305 „Piksekaitse“ nõuetele. (TKÜ-s kirjeldatud kood 252 all) | Puudub | puudub | EI
+229 | Ehitise muude põhitarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+230 | Hoone siseruumides tehtav tarindite TH | 
+231 | Seinte pindade TH | EI | Olemas | lubjatud, maakivi, tapeet |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+232 | Põrandakatete TH | EI | Olemas | tellis, puit, betoon |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+233 | Vaheseinte TH | EI | Olemas | kivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+234 | Lagede TH | EI | Olemas | laed värvitud |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+235 | Avatäidete TH | JAH | Siseuksed, vitriinid, kattekilbid | Olemas | puit uksed | JAH
+EI | Turvakardin ja turvaruloo | Puudub | EI
+EI | Tuletõkkekardin | Puudub | EI
+JAH | Tuletõkke- ja evakuatsiooniuksed | Olemas | EVAK >=9 TK | JAH
+236 | Ahjude, kaminate, pliitide ja muude küttekollete TH | JAH | Ahjud, kaminad, pliidid ja muud küttekolded | Olemas | puuküttel kamin | JAH
+EI | Kerised | Puudub | EI
+239 | Muude siseruumides paiknevate elementide TH | EI | Puudub | EI
+240 | Hoone keskkonnatehnika süsteemid | 
+241 | Küttesüsteemide TH | JAH | Soojusvarustuse liik | Olemas | lokaalne | JAH
+EI | Soojusarvestid | Peaarvesti | Puudub | taatleb võrguettevõtte | EI
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Puudub | EI
+EI | Soojasõlme hooldus | Puudub |   | EI
+EI | Küttesüsteemi torustikud ja küttekehad | Puudub | EI
+EI | Vesipõrandaküte | Puudub | EI
+EI | Õhkkardin, õhkkütteagregaat           | Puudub | EI
+EI | Kütuse etteandmine koos tuha ärastusega | Puudub | EI
+EI | Gaasikatlad | Puudub | EI
+EI | Kerge kütteõli katlad | Puudub | EI
+EI | Raske kütteõli katlad | Puudub | EI
+EI | Pelletikatlad | Puudub | EI
+EI | Hakkepuidu katlad | Puudub | EI
+EI | Kivisöekatlad | Puudub | EI
+EI | Puidukatlad | Puudub | EI
+EI | Kütusemahutid (kütteõli, kivisüsi, hakkepuit jm.) | Puudub | EI
+EI | Soojuspump-süsteemid (maa-vesi; vesi-vesi; õhk-vesi) | Puudub | EI
+JAH | Soojuspump-süsteemid (õhk-õhk)  | Olemas | Mitsubishi FDC155KXZES1 (R410A) koos mitme siseosaga (füüsiliselt asub kõrval oleva hoone Kõrrekoda (Maakivist laut) küljes) | suvel kasutatakse jahutuseks | JAH
+EI | Päikesekollektori-süsteem | Puudub | EI
+242 | Veevarustus-süsteemide TH | JAH | Tsentraalne veevarustussüsteem | Olemas | JAH
+EI | Tsentraalne veetrass | Olemas | Platsisisene |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Tuletõrjeveemahuti | Puudub | EI
+EI | Tuletõrjehüdrant | Puudub | EI
+JAH | Soe tarbevesi | Elektriboiler | Olemas | Ca 50L >=1 tk | JAH
+EI | Gaasiboiler | Puudub | EI
+EI | Muu | Puudub | EI
+JAH | Veearvestid | Peaarvesti | Olemas | taatleb võrguettevõtte | JAH
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Puudub | EI
+JAH | Hoone sisene veevarustus | Torustikud, sanseadmed | Olemas | JAH
+EI | Hüdrofoor | Puudub | EI
+JAH | Mehaaniline filter | Olemas | JAH
+EI | Veetöötlusseade | Veepehmendus | Puudub | EI
+EI | Rauaeraldusseade | Puudub | EI
+EI | Aktiivsöefilter | Puudub | EI
+EI | Elektromagnet | Puudub | EI
+EI | Magnet | Puudub | EI
+EI | Lokaalne veehaarde-rajatis | Salvkaev | Puudub | EI
+EI | Puurkaev | Puudub | EI
+EI | Tuletõrje vooliku-süsteemide hooldus | Tuletõrjevesikud | Puudub | EI
+EI | Voolikusüsteemid, -kapid | Puudub | EI
+EI | Rõhutõstepumbad | Puudub | EI
+EI | Basseini ja basseinitehnika-seadmete hooldus (miinimum-nõuded). | Puudub | EI
+243 | Kanalisatsiooni- ja drenaaži-süsteemid | JAH | Kanalisatsiooni- ja drenaaži-süsteemid | Olemas | Tsentraalne, vabavoolne | JAH
+EI | Reoveepumpla | Puudub | EI
+EI | Sademevee pumpla | Puudub | EI
+[Sheet: Kõrrekoda- Mõisaköögi tee 9]
+Objektipõhine tehniline kirjeldus 
+Tehnohoolduse tegevused ja tulemus on kirjas Tehnilise kirjelduse üldosas
+Nimetus: | Emajõe keskus | Kõrrekoda | Aadress: | Mõisaköögi tee 9, Kaagvere küla, Tartumaa (Pakkumuse maksumuse tabelis objekt Mõisakoha, Kaagvere küla)
+Suletud netopind: | 25.8 | Maakivist hoone (laut) | Kinnistu kood: | MOISAKOOGITEE9
+Hoone korruselisus: | 1k | Paketi valik:  
+Teenuse eeldatav algus:  | Objekt avatud 24/7   (EI)      | Tööaeg:   (08:00-17:00)
+Eritingimused: | Valik: | Täpsustus
+1. | Riigisaladusetele juurdepääsu õigust vajavad/eeldavad hooldus ja remonttööd (EVS 807 klassifikaatori kood 400) | Ei
+2. | Objektil alaliselt töötav hooldustööline | Ei
+3. | Avarii, rike ja puuduse reageerimisaja vähendamine | Ei
+4. | Taustakontrolli nõue | Ei
+5. | Keskkonna luba | Ei
+EVS 807:2016 | Kirjeldus EVS 807:2016 | Kliendi poolt Tellitavad teenused | Kirjelduse täpsustus või erisus | Süst. olemasolu | Tehn.kirjeldus, kaardistamine  | Link projekt dok'le | Märkused | Baaspaketi erisused | Otsus TH tellimise kohta
+___ | _ | ____ | Täpsustus1 | Täpsustus 2 | Täpsustus 3 | __ | . | .. | … | …. | …..
+150 | Info liikumise korraldamine korrashoiuobjektiga seotud poolte vahel | 
+156 | Avarii-, dispetšerteenistus | JAH | Olemas | Keskse klienditeeninduse punkti olemasolu kinnisvaraobjekti kasutajatel ilmnevate probleemide lahendamiseks (murekontor, ingl helpdesk) ning hoones ilmnevatest mittevastavustest operatiivse info edastamiseks    (24/7) | JAH
+210 | Krundi rajatiste TH | 
+211 | Teekatete TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+212 | Sildade, treppide, truupide TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+215 | Piirdeaedade, tarade, väravate, tugimüüride ja jalutusaedade TH | EI | Väravad, tõkkepuud, pollarid | Puudub | EI
+EI | Piirdeaed | Olemas | kiviaed | EI
+216 | Väikehoonete (katusealused, jäätmehoidlad, abihooned) TH | EI | sh kuurid, kuudid, kennelid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+217 | Veekogude (basseinid, tiigid, purskkaevud) korrashoid | EI | sh tuletõrje veevõtukohad | Puudub | EI
+218 | Eritarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+219 | Muude krundil alaliselt või ajutiselt paiknevate elementide TH | EI | Puudub | EI
+220 | Ehitise põhitarindite TH | 
+221 | Vundamentide ja aluste TH | EI | Olemas | madalvundament |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+222 | Kande-, jäigastavate ja piirdetarindite TH | EI | Olemas | maakivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+223 | Katuste ja katuseräästaste TH | JAH | Olemas | viilkatus, kivikatus; sadevee rennid  | Visuaalne kontroll 1x aastas kevadel. | JAH
+EI | Katusepollarid, julgestustrossid ja    turvasiinid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Seina- ja katuseredelid, katusesillad (käiguteed), teenindusplatformid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+224 | Fassaadide ja fassaadielementide TH | EI | Olemas | maakivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+225 | Akende TH | EI | Olemas | puitraamiga |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+226 | Välisuste TH | EI | Välisuksed | Olemas | puit | EI
+EI | Välisuksed | elektrilised | Puudub | EI
+EI | Tõstuksed | Puudub | EI
+EI | Voldikuksed | Puudub | EI
+227 | Korstnate TH | EI | Puudub | EI
+228 | Piksekaitse TH | EI | Kontroll + katsetused vastavalt standardi EVS-EN 62305 „Piksekaitse“ nõuetele. (TKÜ-s kirjeldatud kood 252 all) | Puudub | puudub | EI
+229 | Ehitise muude põhitarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+230 | Hoone siseruumides tehtav tarindite TH | 
+231 | Seinte pindade TH | EI | Olemas | lubjatud, maakivi, tapeet |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+232 | Põrandakatete TH | EI | Olemas | tellis, puit, betoon |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+233 | Vaheseinte TH | EI | Olemas | kivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+234 | Lagede TH | EI | Olemas | laed värvitud |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+235 | Avatäidete TH | EI | Siseuksed, vitriinid, kattekilbid | Puudub | puit uksed | EI
+EI | Turvakardin ja turvaruloo | Puudub | EI
+EI | Tuletõkkekardin | Puudub | EI
+EI | Tuletõkke- ja evakuatsiooniuksed | Puudub | EI
+236 | Ahjude, kaminate, pliitide ja muude küttekollete TH | EI | Ahjud, kaminad, pliidid ja muud küttekolded | Puudub | EI
+EI | Kerised | Puudub | EI
+239 | Muude siseruumides paiknevate elementide TH | EI | Puudub | EI
+240 | Hoone keskkonnatehnika süsteemid | 
+241 | Küttesüsteemide TH | JAH | Soojusvarustuse liik | Olemas | lokaalne | JAH
+EI | Soojusarvestid | Peaarvesti | Puudub | taatleb võrguettevõtte | EI
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Puudub | EI
+EI | Soojasõlme hooldus | Puudub |   | EI
+EI | Küttesüsteemi torustikud ja küttekehad | Puudub | EI
+EI | Vesipõrandaküte | Puudub | EI
+EI | Õhkkardin, õhkkütteagregaat           | Puudub | EI
+EI | Kütuse etteandmine koos tuha ärastusega | Puudub | EI
+EI | Gaasikatlad | Puudub | EI
+EI | Kerge kütteõli katlad | Puudub | EI
+EI | Raske kütteõli katlad | Puudub | EI
+EI | Pelletikatlad | Puudub | EI
+EI | Hakkepuidu katlad | Puudub | EI
+EI | Kivisöekatlad | Puudub | EI
+EI | Puidukatlad | Puudub | EI
+EI | Kütusemahutid (kütteõli, kivisüsi, hakkepuit jm.) | Puudub | EI
+EI | Soojuspump-süsteemid (maa-vesi; vesi-vesi; õhk-vesi) | Puudub | EI
+EI | Soojuspump-süsteemid (õhk-õhk)  | Puudub | suvel kasutatakse jahutuseks | EI
+EI | Päikesekollektori-süsteem | Puudub | EI
+242 | Veevarustus-süsteemide TH | EI | Tsentraalne veevarustussüsteem | Olemas | EI
+EI | Tsentraalne veetrass | Olemas | Platsisisene |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Tuletõrjeveemahuti | Puudub | EI
+EI | Tuletõrjehüdrant | Puudub | EI
+EI | Soe tarbevesi | Elektriboiler | Olemas | ca 50L, >=1 tk | EI
+EI | Gaasiboiler | Puudub | EI
+EI | Muu | Puudub | EI
+EI | Veearvestid | Peaarvesti | Olemas | taatleb võrguettevõtte | EI
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Puudub | EI
+EI | Hoone sisene veevarustus | Torustikud, sanseadmed | Olemas | EI
+EI | Hüdrofoor | Puudub | EI
+EI | Mehaaniline filter | Olemas | EI
+EI | Veetöötlusseade | Veepehmendus | Puudub | EI
+EI | Rauaeraldusseade | Puudub | EI
+EI | Aktiivsöefilter | Puudub | EI
+EI | Elektromagnet | Puudub | EI
+EI | Magnet | Puudub | EI
+EI | Lokaalne veehaarde-rajatis | Salvkaev | Puudub | EI
+EI | Puurkaev | Puudub | EI
+EI | Tuletõrje vooliku-süsteemide hooldus | Tuletõrjevesikud | Puudub | EI
+EI | Voolikusüsteemid, -kapid | Puudub | EI
+EI | Rõhutõstepumbad | Puudub | EI
+EI | Basseini ja basseinitehnika-seadmete hooldus (miinimum-nõuded). | Puudub | EI
+243 | Kanalisatsiooni- ja drenaaži-süsteemid | EI | Kanalisatsiooni- ja drenaaži-süsteemid | Olemas | Tsentraalne, vabavoolne | EI
+EI | Reoveepumpla | Puudub | EI
+EI | Sademevee pumpla | Puudub | EI
+[Sheet: Kaveri-Kaveri tee 1]
+Objektipõhine tehniline kirjeldus 
+Tehnohoolduse tegevused ja tulemus on kirjas Tehnilise kirjelduse üldosas
+Nimetus: | Emajõe keskus | Kaveri | Aadress: | Kaveri tee 1, Kaagvere küla, Tartumaa (Pakkumuse maksumuse tabelis objekt Kaveri, Kaagvere küla)
+Suletud netopind: | 159.9 | Kinnistu kood: | KAVERI
+Hoone korruselisus: | 1 K | Paketi valik:  
+Teenuse eeldatav algus:  | Objekt avatud 24/7   (EI)      | Tööaeg:   (08:00-17:00)
+Eritingimused: | Valik: | Täpsustus
+1. | Riigisaladusetele juurdepääsu õigust vajavad/eeldavad hooldus ja remonttööd (EVS 807 klassifikaatori kood 400) | Ei
+2. | Objektil alaliselt töötav hooldustööline | Ei
+3. | Avarii, rike ja puuduse reageerimisaja vähendamine | Ei
+4. | Taustakontrolli nõue | Ei
+5. | Keskkonna luba | Ei
+EVS 807:2016 | Kirjeldus EVS 807:2016 | Kliendi poolt Tellitavad teenused | Kirjelduse täpsustus või erisus | Süst. olemasolu | Tehn.kirjeldus, kaardistamine  | Link projekt dok'le | Märkused | Baaspaketi erisused | Otsus TH tellimise kohta
+___ | _ | ____ | Täpsustus1 | Täpsustus 2 | Täpsustus 3 | __ | . | .. | … | …. | …..
+150 | Info liikumise korraldamine korrashoiuobjektiga seotud poolte vahel | 
+156 | Avarii-, dispetšerteenistus | JAH | Olemas | Keskse klienditeeninduse punkti olemasolu kinnisvaraobjekti kasutajatel ilmnevate probleemide lahendamiseks (murekontor, ingl helpdesk) ning hoones ilmnevatest mittevastavustest operatiivse info edastamiseks    (24/7) | JAH
+210 | Krundi rajatiste TH | 
+211 | Teekatete TH | EI | Olemas | looduslik, unikivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+212 | Sildade, treppide, truupide TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+215 | Piirdeaedade, tarade, väravate, tugimüüride ja jalutusaedade TH | EI | Väravad, tõkkepuud, pollarid | Puudub | EI
+EI | Piirdeaed | Puudub | EI
+216 | Väikehoonete (katusealused, jäätmehoidlad, abihooned) TH | EI | sh kuurid, kuudid, kennelid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+217 | Veekogude (basseinid, tiigid, purskkaevud) korrashoid | EI | sh tuletõrje veevõtukohad | Puudub | EI
+218 | Eritarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+219 | Muude krundil alaliselt või ajutiselt paiknevate elementide TH | EI | Puudub | EI
+220 | Ehitise põhitarindite TH | 
+221 | Vundamentide ja aluste TH | EI | Olemas | madalvundament |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+222 | Kande-, jäigastavate ja piirdetarindite TH | EI | Olemas | maakivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+223 | Katuste ja katuseräästaste TH | JAH | Olemas | viilkatus, kivikatus; sadevee rennid;  | Visuaalne kontroll 1x aastas kevadel | JAH
+EI | Katusepollarid, julgestustrossid ja    turvasiinid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Seina- ja katuseredelid, katusesillad (käiguteed), teenindusplatformid | Olemas | korstna puhastuseks platform |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+224 | Fassaadide ja fassaadielementide TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+225 | Akende TH | EI | Olemas | puitraamiga; olemas katuseaknad |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+226 | Välisuste TH | JAH | Välisuksed | Olemas | puit | JAH
+EI | Välisuksed | elektrilised | Puudub | EI
+EI | Tõstuksed | Puudub | EI
+EI | Voldikuksed | Puudub | EI
+227 | Korstnate TH | JAH | Olemas | kivikorsten  | JAH
+228 | Piksekaitse TH | JAH | Kontroll + katsetused vastavalt standardi EVS-EN 62305 „Piksekaitse“ nõuetele. (TKÜ-s kirjeldatud kood 252 all) | Olemas | III kaitseklass | täielik kontroll 01.10.2026. | JAH
+229 | Ehitise muude põhitarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+230 | Hoone siseruumides tehtav tarindite TH | 
+231 | Seinte pindade TH | EI | Olemas | puit |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+232 | Põrandakatete TH | EI | Olemas | betoon |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+233 | Vaheseinte TH | EI | Olemas | kivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+234 | Lagede TH | EI | Olemas | laed värvitud |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+235 | Avatäidete TH | JAH | Siseuksed, vitriinid, kattekilbid | Olemas | puit uksed | JAH
+EI | Turvakardin ja turvaruloo | Puudub | EI
+EI | Tuletõkkekardin | Puudub | EI
+JAH | Tuletõkke- ja evakuatsiooniuksed | Olemas | EVAK uksed >=3 | JAH
+236 | Ahjude, kaminate, pliitide ja muude küttekollete TH | JAH | Ahjud, kaminad, pliidid ja muud küttekolded | Olemas | Klaasuksega kivist ahi | JAH
+EI | Kerised | Puudub | EI
+239 | Muude siseruumides paiknevate elementide TH | EI | Puudub | EI
+240 | Hoone keskkonnatehnika süsteemid | 
+241 | Küttesüsteemide TH | JAH | Soojusvarustuse liik | Olemas | lokaalne | JAH
+EI | Soojusarvestid | Peaarvesti | Puudub | taatleb võrguettevõtte | EI
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Puudub | EI
+EI | Soojasõlme hooldus | Puudub | EI
+EI | Küttesüsteemi torustikud ja küttekehad | Puudub | EI
+EI | Vesipõrandaküte | Puudub | EI
+EI | Õhkkardin, õhkkütteagregaat           | Puudub | EI
+EI | Kütuse etteandmine koos tuha ärastusega | Puudub | EI
+EI | Gaasikatlad | Puudub | EI
+EI | Kerge kütteõli katlad | Puudub | EI
+EI | Raske kütteõli katlad | Puudub | EI
+EI | Pelletikatlad | Puudub | EI
+EI | Hakkepuidu katlad | Puudub | EI
+EI | Kivisöekatlad | Puudub | EI
+EI | Puidukatlad | Puudub | EI
+EI | Kütusemahutid (kütteõli, kivisüsi, hakkepuit jm.) | Puudub | EI
+EI | Soojuspump-süsteemid (maa-vesi; vesi-vesi; õhk-vesi) | Puudub | EI
+JAH | Soojuspump-süsteemid (õhk-õhk)  | Olemas | Fuijitsu mod AOYZ24LBT, R410A 1,9kg >=1tk ;
+Fuijitsu mod AOYZ14LBC, R410A / 1,35 kg >=1 tk | suvekuudel kasutatakse jahutuseks | JAH
+EI | Päikesekollektori-süsteem | Puudub | EI
+242 | Veevarustus-süsteemide TH | JAH | Tsentraalne veevarustussüsteem | Olemas | JAH
+EI | Tsentraalne veetrass | Olemas | Platsisisene |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Tuletõrjeveemahuti | Puudub | EI
+EI | Tuletõrjehüdrant | Puudub | EI
+JAH | Soe tarbevesi | Elektriboiler | Olemas | ca 50L 1 tk | JAH
+EI | Gaasiboiler | Puudub | EI
+EI | Muu | Puudub | EI
+JAH | Veearvestid | Peaarvesti | Olemas | taatleb võrguettevõtte | JAH
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Puudub | EI
+JAH | Hoone sisene veevarustus | Torustikud, sanseadmed | Olemas | JAH
+EI | Hüdrofoor | Puudub | EI
+JAH | Mehaaniline filter | Olemas | JAH
+EI | Veetöötlusseade | Veepehmendus | Puudub | EI
+EI | Rauaeraldusseade | Puudub | EI
+EI | Aktiivsöefilter | Puudub | EI
+EI | Elektromagnet | Puudub | EI
+EI | Magnet | Puudub | EI
+EI | Lokaalne veehaarde-rajatis | Salvkaev | Puudub | EI
+EI | Puurkaev | Puudub | EI
+EI | Tuletõrje vooliku-süsteemide hooldus | Tuletõrjevesikud | Puudub | EI
+EI | Voolikusüsteemid, -kapid | Puudub | EI
+EI | Rõhutõstepumbad | Puudub | EI
+EI | Basseini ja basseinitehnika-seadmete hooldus (miinimum-nõuded). | Puudub | EI
+243 | Kanalisatsiooni- ja drenaaži-süsteemid | JAH | Kanalisatsiooni- ja drenaaži-süsteemid | Olemas | Tsentraalne, vabavoolne | JAH
+EI | Reoveepumpla | Puudub | EI
+EI | Sademevee pumpla | Puudub | EI
+[Sheet: Täiendav info]
+Peamaja
+Kood 219: Muude krundil alaliselt või ajutiselt paiknevate elementide TH | Turvasüsteemid kood 280 | Maarjamaa Hariduskolleegium küttesüsteem Kood 241 | Kood 253 | Kood 252
+Kasutus ja hooldusjuhendid | Ventseadmed kood 244 | Hooneautomaatika kood 246
+Kood 272 | Kliimaseadmed kood 245
+[Sheet: Peamaja]
+Objektipõhine tehniline kirjeldus 
+Tehnohoolduse tegevused ja tulemus on kirjas Tehnilise kirjelduse üldosas
+Nimetus: | Emajõe keskus | Peamaja | Aadress: | Kaveri tee 3, Kaagvere küla, Tartumaa (Pakkumuse maksumuse tabelis objekt Mõisaaia, Kaagvere küla)
+Suletud netopind: | 2792.5 | Kinnistu kood: | MOISAAIA
+Hoone korruselisus: | 1k + katusel ventkamber | Paketi valik:  
+Teenuse eeldatav algus:  | Objekt avatud 24/7   (JAH)      | Tööaeg:   24/7
+Eritingimused: | Valik: | Täpsustus
+1. | Riigisaladusetele juurdepääsu õigust vajavad/eeldavad hooldus ja remonttööd (EVS 807 klassifikaatori kood 400) | Ei
+2. | Objektil alaliselt töötav hooldustööline | Ei
+3. | Avarii, rike ja puuduse reageerimisaja vähendamine | Ei
+4. | Taustakontrolli nõue | Ei
+5. | Keskkonna luba | Ei
+EVS 807:2016 | Kirjeldus EVS 807:2016 | Kliendi poolt Tellitavad teenused | Kirjelduse täpsustus või erisus | Süst. olemasolu | Tehn.kirjeldus, kaardistamine  | Link projekt dok'le | Märkused | Baaspaketi erisused | Otsus TH tellimise kohta
+___ | _ | ____ | Täpsustus1 | Täpsustus 2 | Täpsustus 3 | __ | . | .. | … | …. | …..
+150 | Info liikumise korraldamine korrashoiuobjektiga seotud poolte vahel | 
+156 | Avarii-, dispetšerteenistus | JAH | Olemas | Keskse klienditeeninduse punkti olemasolu kinnisvaraobjekti kasutajatel ilmnevate probleemide lahendamiseks (murekontor, ingl helpdesk) ning hoones ilmnevatest mittevastavustest operatiivse info edastamiseks    (24/7) | JAH
+210 | Krundi rajatiste TH | 
+211 | Teekatete TH | EI | Olemas | Asfaltbetoonkate, betoonkivikate, kloostrikivi |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+212 | Sildade, treppide, truupide TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+215 | Piirdeaedade, tarade, väravate, tugimüüride ja jalutusaedade TH | JAH | Väravad, tõkkepuud, pollarid | Olemas | krundile sisenemiseksel ajamiga kiirvoldikvärav  (5220x2440) koos magnetlukuga; 
+jalgvärav (kaardilugejaga avamine) >=3 tk
+Korvpalli väljakul metallist värav 1 tk | JAH
+EI | Piirdeaed | Olemas | metallaed; korvpalliväljakul keevisvõrkpiire | EI
+216 | Väikehoonete (katusealused, jäätmehoidlad, abihooned) TH | EI | sh kuurid, kuudid, kennelid | Olemas | Jäätmemaja (monteerritav rb) 1 tk; 
+väliklass  (Betoonsoklil puitehitised: puitlaudis-sõrestikud, üks sein tihelaudisega) ca 18.5m2>=2 tk |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+217 | Veekogude (basseinid, tiigid, purskkaevud) korrashoid | EI | Puudub | EI
+218 | Eritarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+219 | Muude krundil alaliselt või ajutiselt paiknevate elementide TH | JAH | Olemas | Spordiväljak; mänguväljak, lipumastid; ronimispüramiid | Täiendav info | Spordiväljaku, mänguväljaku liikuvate detailide hooldus | JAH
+220 | Ehitise põhitarindite TH | 
+221 | Vundamentide ja aluste TH | EI | Olemas | Lintvundament (Betooni klass C25/30). Raudbetoon |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+222 | Kande-, jäigastavate ja piirdetarindite TH | EI | Olemas | Monoliitne vundamendi lint ja alusmüür. Raudbetoonist sandwich paneelid. |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+223 | Katuste ja katuseräästaste TH | JAH | Olemas | Lamekatus, SBS rullmaterjal | VISUAALNE KONTROLL 1x aastas kevadel | JAH
+EI | Katusepollarid, julgestustrossid ja    turvasiinid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Seina- ja katuseredelid, katusesillad (käiguteed), teenindusplatformid | Puudub | Katusele mineku redel fassaadil (eemaldatud) |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+224 | Fassaadide ja fassaadielementide TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+225 | Akende TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+226 | Välisuste TH | JAH | Välisuksed | Olemas | JAH
+JAH | Välisuksed | elektrilised | Olemas | kaardiga avatavad >=22 | Aluprof MB-86 SI; Aluprof MB-86 ST; Aluprof MB-45; Aluprof MB-45
+RAL 9011 | JAH
+EI | Tõstuksed | Puudub | EI
+EI | Voldikuksed | Puudub | EI
+227 | Korstnate TH | JAH | Olemas | Katla korsten + diiselgeneraatori heitegaaasi korsten | JAH
+228 | Piksekaitse TH | JAH | Kontroll + katsetused vastavalt standardi EVS-EN 62305 „Piksekaitse“ nõuetele. (TKÜ-s kirjeldatud kood 252 all) | Olemas | III kaitseklass |  täielik kontroll 01.10.2026. | JAH
+229 | Ehitise muude põhitarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+230 | Hoone siseruumides tehtav tarindite TH | 
+231 | Seinte pindade TH | EI | Olemas | värvkate |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+232 | Põrandakatete TH | EI | Olemas | Keraamiline plaat, homogeenne turvapõrand, linoleum, betoon, plaatvaip, homogeene PVC |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+233 | Vaheseinte TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+234 | Lagede TH | EI | Olemas | ripplaed; värvitud; jne |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+235 | Avatäidete TH | EI | Siseuksed, vitriinid, kattekilbid | Olemas | Puit; metallprofiil; jms; Sööklas lükanduks | EI
+JAH | Turvakardin ja turvaruloo | Olemas | Sööklas >=2 tk | JAH
+EI | Tuletõkkekardin | Puudub | EI
+JAH | Tuletõkke- ja evakuatsiooniuksed | Olemas | Peamajas Tuletõkkeuksi 14, Evakuatsiooniuksi 22 | JAH
+236 | Ahjude, kaminate, pliitide ja muude küttekollete TH | EI | Ahjud, kaminad, pliidid ja muud küttekolded | Puudub | EI
+EI | Kerised | Puudub | EI
+239 | Muude siseruumides paiknevate elementide TH | EI | Puudub | EI
+240 | Hoone keskkonnatehnika süsteemid | 
+241 | Küttesüsteemide TH | JAH | Soojusvarustuse liik | Olemas | Lokaalne (maa/vesi soojuspump); reservkatlamaja | JAH
+JAH | Soojusarvestid | Peaarvesti | Olemas | JAH
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Olemas | Ultraheli soojusarvesti MULTICAL 402 soojuspumpade 3 tk ja katla poolt toodetud soojuse mõõtmiseks 1 tk; põrandakütte 2 tk; radiaatorküte 1 tk ja ventkkütte 1 tk energia mõõtmiseks,;ühendatud hooneautomaatika süsteemi | EI
+JAH | Soojasõlme hooldus | Olemas | Ringluspumbad Biral >= 13 tk; küttevee akumulatsiooni paak; küttevee paisunõu 250L >=1 tk; põrandakütte reguleersõlm tsirkulats pump Biral +elektrilise ajamiga ventiilil 2 tk; radiaatorkütte reguleersõlm tsirkulats pump Biral +elektrilise ajamiga ventiilil 1 tk; vent.kütte reguleersõlm tsirkulats pump Biral +elektrilise ajamiga ventiilil 1 tk; mudafiltrid, jms süsteemi toimimiseks vajalik | Täiendav info | JAH
+JAH | Küttesüsteemi torustikud ja küttekehad | Olemas | Torustikud; termopeadega varustatud plekkradiaatorid
+El.ajamiga sulgventiiliga kollekorid
+Ventilatsiooniseadmete eel ja järelkütte segamissõlmed | JAH
+JAH | Vesipõrandaküte | Olemas | Torustik; kollektorid koos vooluhulga regulaatoriga; jms süsteemi toimimiseks vajalikud seadmed | JAH
+JAH | Õhkkardin, õhkkütteagregaat           | Olemas | Õhkkütte kardin koos juhtsõlme ja automaatikaga>=1 | JAH
+EI | Kütuse etteandmine koos tuha ärastusega | Puudub | EI
+EI | Gaasikatlad | Puudub | EI
+JAH | Kerge kütteõli katlad | Olemas | Komlektne katel Wolf; Õlipõleti Elco Vectron VL3.360 Duo KL Q=284kW;  | JAH
+EI | Raske kütteõli katlad | Puudub | EI
+EI | Pelletikatlad | Puudub | EI
+EI | Hakkepuidu katlad | Puudub | EI
+EI | Kivisöekatlad | Puudub | EI
+EI | Puidukatlad | Puudub | EI
+JAH | Kütusemahutid (kütteõli, kivisüsi, hakkepuit jm.) | Olemas | Õlimahuti Shütz BTV 1000, 1000L >=3 tk | JAH
+JAH | Soojuspump-süsteemid (maa-vesi; vesi-vesi; õhk-vesi) | Olemas | Komplektne maa vesi Alpha InnoTec, SWP691, Qküte=67kW; N=21kW; 400V/3P = 2 tk (MSP nr 1 ja 2); Maakollektori paisunõu 300L >=3 tk.; ringluspumbad Grundfoss >=2 tk; soojusvaheti väli ja siseringi vahel; rõhuandurid; paisupaal ca 30L;  | JAH
+JAH | Olemas | Komplektne maa vesi Alpha InnoTec, SWP1100; Qküte=100kW; N=31kW; 400V/3P, = 1 tk | JAH
+EI | Soojuspump-süsteemid (õhk-õhk)  | Puudub | EI
+EI | Päikesekollektori-süsteem | Puudub | EI
+242 | Veevarustus-süsteemide TH | JAH | Tsentraalne veevarustussüsteem | Olemas | JAH
+EI | Tsentraalne veetrass | Olemas | Platsisisene |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+JAH | Tuletõrjeveemahuti | Olemas | 3 tk | Nivooandurid puuduvad, täitmine toimub veevärgist avades kraani mehhaaniliselt | JAH
+JAH | Tuletõrjehüdrant | Olemas | 2tk | Parklas ja staadioni lõpus | JAH
+EI | Soe tarbevesi | Elektriboiler | Puudub | EI
+EI | Gaasiboiler | Puudub | EI
+JAH | Muu | Olemas | Kahesüsteemne (küttevesi/elekter 6kW), 500L >=1 tk; tsirkulatsiooni pump; paisupaak ca 50L; jms süsteemi toimimiseks vajalik | JAH
+EI | Veearvestid | Peaarvesti | Olemas | sh ühendatud hoobeautomaatikasse  | taatleb võrguettevõtte | EI |  
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Olemas | Sooja ja külma vee arvestid (M-bus väljundiga, ühendatud hooneautomaatikasse) >=8 tk | EI |  
+JAH | Hoone sisene veevarustus | Torustikud, sanseadmed | Olemas | sh külmumiskindlad kastmiskraanid; tarbevee autommatne liiniseade ventiil; | JAH
+JAH | Survetõste keskus | Olemas | 2 pumpa Grunfoss, sagedusmuundurid; hüdrofoor ca 100L +ca 20L; juhtautomaatika; jms süsteemi toimimiseks vajalikud seadmed | ühildub hooneautomaatikasse) | JAH
+EI | Hüdrofoor | Puudub | EI
+JAH | Mehaaniline filter | Olemas | mehhaaniline filter, käsitsi tagasipesuga | JAH
+JAH | Veetöötlusseade | Veepehmendus | Olemas | Miridon Logix 764  | JAH
+EI | Rauaeraldusseade | Puudub | EI
+EI | Aktiivsöefilter | Puudub | EI
+JAH | Elektromagnet | Olemas | Bauer | JAH
+EI | Magnet | Puudub | EI
+EI | Lokaalne veehaarde-rajatis | Salvkaev | Puudub | EI
+EI | Puurkaev | Puudub | EI
+EI | Tuletõrje vooliku-süsteemide hooldus | Tuletõrjevesikud | Puudub | EI
+EI | Voolikusüsteemid, -kapid | Puudub | EI
+EI | Rõhutõstepumbad | Puudub | EI
+EI | Basseini ja basseinitehnika-seadmete hooldus (miinimum-nõuded). | Puudub | EI
+243 | Kanalisatsiooni- ja drenaaži-süsteemid | JAH | Kanalisatsiooni- ja drenaaži-süsteemid | Olemas | Tsentraalne, vabavoolne | JAH
+[Sheet: Peremaja- Kaveri tee3]
+Objektipõhine tehniline kirjeldus 
+Tehnohoolduse tegevused ja tulemus on kirjas Tehnilise kirjelduse üldosas
+Nimetus: | Emajõe keskus | Peremaja | Aadress: | Kaveri tee 3, Kaagvere küla, Tartumaa (Pakkumuse maksumuse tabelis objekt Mõisaaia, Kaagvere küla)
+Suletud netopind: | 309.5 | Kinnistu kood: | MOISAAIA
+Hoone korruselisus: | 1K | Paketi valik:  
+Teenuse eeldatav algus:  | Objekt avatud 24/7   (JAH)      | Tööaeg:   24/7
+Eritingimused: | Valik: | Täpsustus
+1. | Riigisaladusetele juurdepääsu õigust vajavad/eeldavad hooldus ja remonttööd (EVS 807 klassifikaatori kood 400) | Ei
+2. | Objektil alaliselt töötav hooldustööline | Ei
+3. | Avarii, rike ja puuduse reageerimisaja vähendamine | Ei
+4. | Taustakontrolli nõue | Ei
+5. | Keskkonna luba | Ei
+EVS 807:2016 | Kirjeldus EVS 807:2016 | Kliendi poolt Tellitavad teenused | Kirjelduse täpsustus või erisus | Süst. olemasolu | Tehn.kirjeldus, kaardistamine  | Link projekt dok'le | Märkused | Baaspaketi erisused | Otsus TH tellimise kohta
+___ | _ | ____ | Täpsustus1 | Täpsustus 2 | Täpsustus 3 | __ | . | .. | … | …. | …..
+150 | Info liikumise korraldamine korrashoiuobjektiga seotud poolte vahel | 
+156 | Avarii-, dispetšerteenistus | JAH | Olemas | Keskse klienditeeninduse punkti olemasolu kinnisvaraobjekti kasutajatel ilmnevate probleemide lahendamiseks (murekontor, ingl helpdesk) ning hoones ilmnevatest mittevastavustest operatiivse info edastamiseks    (24/7) | JAH
+210 | Krundi rajatiste TH | 
+211 | Teekatete TH | EI | Olemas | kirjeldatud "Peamaja" kood 211 |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+212 | Sildade, treppide, truupide TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+215 | Piirdeaedade, tarade, väravate, tugimüüride ja jalutusaedade TH | EI | Väravad, tõkkepuud, pollarid | Puudub | EI
+EI | Piirdeaed | Puudub | EI
+216 | Väikehoonete (katusealused, jäätmehoidlad, abihooned) TH | EI | sh kuurid, kuudid, kennelid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+217 | Veekogude (basseinid, tiigid, purskkaevud) korrashoid | EI | sh tuletõrje veevõtukohad | Puudub | EI
+218 | Eritarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+219 | Muude krundil alaliselt või ajutiselt paiknevate elementide TH | EI | Puudub | EI
+220 | Ehitise põhitarindite TH | 
+221 | Vundamentide ja aluste TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+222 | Kande-, jäigastavate ja piirdetarindite TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+223 | Katuste ja katuseräästaste TH | JAH | Olemas | Lamekatus, SBS rullmaterjal | Visuaalkontroll 1x aastas kevadel | JAH
+EI | Katusepollarid, julgestustrossid ja    turvasiinid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Seina- ja katuseredelid, katusesillad (käiguteed), teenindusplatformid | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+224 | Fassaadide ja fassaadielementide TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+225 | Akende TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+226 | Välisuste TH | JAH | Välisuksed | Olemas | JAH
+JAH | Välisuksed | elektrilised | Olemas | >=1 | JAH
+EI | Tõstuksed | Puudub | EI
+EI | Voldikuksed | Puudub | EI
+227 | Korstnate TH | EI | Puudub | EI
+228 | Piksekaitse TH | JAH | Kontroll + katsetused vastavalt standardi EVS-EN 62305 „Piksekaitse“ nõuetele. (TKÜ-s kirjeldatud kood 252 all) | Olemas | III liik |  täielik kontroll 01.10.2026. | JAH
+229 | Ehitise muude põhitarindite TH | EI | Puudub |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+230 | Hoone siseruumides tehtav tarindite TH | 
+231 | Seinte pindade TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+232 | Põrandakatete TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+233 | Vaheseinte TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+234 | Lagede TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+235 | Avatäidete TH | JAH | Siseuksed, vitriinid, kattekilbid | Olemas | JAH
+EI | Turvakardin ja turvaruloo | Puudub | EI
+EI | Tuletõkkekardin | Puudub | EI
+JAH | Tuletõkke- ja evakuatsiooniuksed | Olemas | Tuletõkkeuksed 9 tk, Evakuatsiooniuksed >=2tk | JAH
+236 | Ahjude, kaminate, pliitide ja muude küttekollete TH | EI | Ahjud, kaminad, pliidid ja muud küttekolded | Puudub | EI
+EI | Kerised | Puudub | EI
+239 | Muude siseruumides paiknevate elementide TH | EI | Puudub | EI
+240 | Hoone keskkonnatehnika süsteemid | 
+241 | Küttesüsteemide TH | JAH | Soojusvarustuse liik | Olemas | lokaalne küte (soojuspump+elekter) | JAH
+JAH | Soojusarvestid | Peaarvesti | Olemas | soojuspumba poolt toodetud energia mõõtmine | JAH
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Puudub | EI
+JAH | Soojasõlme hooldus | Olemas | Ringluspumbad >= 4tk; küttevee akumulatsiooni paak 200L koos elektriküttega 6KW; küttevee paisunõu 25L >=1 tk; | Täiendav info | JAH
+JAH | Küttesüsteemi torustikud ja küttekehad | Olemas | JAH
+JAH | Vesipõrandaküte | Olemas | Torustik; kollektorid koos vooluhulga regulaatoriga; jms süsteemi toimimiseks vajalikud seadmed | JAH
+EI | Õhkkardin, õhkkütteagregaat           | Puudub | EI
+EI | Kütuse etteandmine koos tuha ärastusega | Puudub | EI
+EI | Gaasikatlad | Puudub | EI
+EI | Kerge kütteõli katlad | Puudub | EI
+EI | Raske kütteõli katlad | Puudub | EI
+EI | Pelletikatlad | Puudub | EI
+EI | Hakkepuidu katlad | Puudub | EI
+EI | Kivisöekatlad | Puudub | EI
+EI | Puidukatlad | Puudub | EI
+EI | Kütusemahutid (kütteõli, kivisüsi, hakkepuit jm.) | Puudub | EI
+JAH | Soojuspump-süsteemid (maa-vesi; vesi-vesi; õhk-vesi) | Olemas | komplektne Alpha InnoTec SWC192H3, Q küte= 18.3Kw; N=8 kW 1 tk | JAH
+EI | Soojuspump-süsteemid (õhk-õhk)  | Puudub | EI |  
+EI | Päikesekollektori-süsteem | Puudub | EI
+242 | Veevarustus-süsteemide TH | JAH | Tsentraalne veevarustussüsteem | Olemas | JAH
+EI | Tsentraalne veetrass | Olemas | Platsisisene |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+EI | Tuletõrjeveemahuti | Puudub | EI
+EI | Tuletõrjehüdrant | Puudub | EI
+EI | Soe tarbevesi | Elektriboiler | Puudub | "…?" = "pakkuja täpsustab" | EI
+EI | Gaasiboiler | Puudub | EI
+JAH | Muu | Olemas | Kahesüsteemne (küttevesi/elekter 6kW), ca 300L >=1 tk; tsirkulatsiooni pump; paisupaak ca 25L; jms süsteemi toimimiseks vajalik | JAH
+JAH | Veearvestid | Peaarvesti | Olemas | taatleb võrguettevõtte | JAH
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Olemas | kastmisvee arvesti | EI
+JAH | Hoone sisene veevarustus | Torustikud, sanseadmed | Olemas | JAH
+EI | Hüdrofoor | Puudub | EI
+JAH | Mehaaniline filter | Olemas | mehhaaniline filter, käsitsi tagasipesuga | JAH
+EI | Veetöötlusseade | Veepehmendus | Puudub | EI
+EI | Rauaeraldusseade | Puudub | EI
+EI | Aktiivsöefilter | Puudub | EI
+EI | Elektromagnet | Puudub | EI
+EI | Magnet | Puudub | EI
+EI | Lokaalne veehaarde-rajatis | Salvkaev | Puudub | EI
+EI | Puurkaev | Puudub | EI
+EI | Tuletõrje vooliku-süsteemide hooldus | Tuletõrjevesikud | Puudub | EI
+EI | Voolikusüsteemid, -kapid | Puudub | EI
+EI | Rõhutõstepumbad | Puudub | EI
+EI | Basseini ja basseinitehnika-seadmete hooldus (miinimum-nõuded). | Puudub | EI
+243 | Kanalisatsiooni- ja drenaaži-süsteemid | JAH | Kanalisatsiooni- ja drenaaži-süsteemid | Olemas | Tsentraalne, vabavoolne | JAH
+EI | Reoveepumpla | Puudub | EI
+EI | Sademevee pumpla | Puudub | EI
+[Sheet: Rühmakodud- Kaveri tee 5]
+Objektipõhine tehniline kirjeldus (ühele "rühmakodule")
+Tehnohoolduse tegevused ja tulemus on kirjas Tehnilise kirjelduse üldosas | Kaveri tee 5, Kaagvere küla, Tartumaa (Pakkumuse maksumuse tabelis objekt Uuekooli, Kaagvere küla)
+Nimetus: | Emajõe keskus | Rühmakodud | Aadress:
+Suletud netopind: | 170.7 | Kokku 6 hoonet=1022,9m2 | Kinnistu kood: | UUEKOOLI
+Hoone korruselisus: | 1 k | Paketi valik:  
+Eritingimused: | Valik: | Täpsustus
+1. | Riigisaladusetele juurdepääsu õigust vajavad/eeldavad hooldus ja remonttööd (EVS 807 klassifikaatori kood 400) | Ei
+2. | Objektil alaliselt töötav hooldustööline | Ei
+3. | Avarii, rike ja puuduse reageerimisaja vähendamine | Ei
+4. | Taustakontrolli nõue | Ei
+5. | Keskkonna luba | Ei
+EVS 807:2016 | Kirjeldus EVS 807:2016 | Kliendi poolt Tellitavad teenused | Kirjelduse täpsustus või erisus | Süst. olemasolu | Tehn.kirjeldus, kaardistamine  | Link projekt dok'le | Märkused | Baaspaketi erisused | Otsus TH tellimise kohta
+___ | _ | ____ | Täpsustus1 | Täpsustus 2 | Täpsustus 3 | __ | . | .. | … | …. | …..
+150 | Info liikumise korraldamine korrashoiuobjektiga seotud poolte vahel |  | 
+156 | Avarii-, dispetšerteenistus | JAH | Olemas | Keskse klienditeeninduse punkti olemasolu kinnisvaraobjekti kasutajatel ilmnevate probleemide lahendamiseks (murekontor, ingl helpdesk) ning hoones ilmnevatest mittevastavustest operatiivse info edastamiseks    (24/7) | JAH
+210 | Krundi rajatiste TH |  | 
+211 | Teekatete TH | EI | Olemas | kirjeldatud "Peamaja" kood 211 |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+220 | Ehitise põhitarindite TH |  | 
+221 | Vundamentide ja aluste TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+222 | TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+223 | Katuste ja katuseräästaste TH | JAH | Olemas | Lamekatus, SBS rullmaterjal | Visuaalne kontroll 1x aastas | JAH
+224 | Fassaadide ja fassaadielementide TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+225 | Akende TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+226 | Välisuste TH | JAH | Välisuksed | Olemas | Tehnoruumil 1 välisuks; Kokku 6 tk | Igas rühmakodus (kokku 6 hoonet) | JAH
+JAH | Välisuksed | elektrilised | Olemas | Kokku 6tk, igas majas 1 | Igas rühmakodus (kokku 6 hoonet) | JAH
+228 | Piksekaitse TH | JAH | Kontroll + katsetused vastavalt standardi EVS-EN 62305 „Piksekaitse“ nõuetele. (TKÜ-s kirjeldatud kood 252 all) | Olemas | III liik | täielik kontroll 01.10.2026. | JAH
+230 | Hoone siseruumides tehtav tarindite TH |  | 
+231 | Seinte pindade TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+232 | Põrandakatete TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+233 | Vaheseinte TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+234 | Lagede TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+235 | Avatäidete TH | JAH | Siseuksed, vitriinid, kattekilbid | Olemas | JAH
+JAH | Tuletõkke- ja evakuatsiooniuksed | Olemas | Igas hoones : Tuletõkkeuksed >= 8 tk Evakuatsiooniuksed>=2 tk | Igas rühmakodus (kokku 6 hoonet) | JAH
+240 | Hoone keskkonnatehnika süsteemid |  | 
+241 | Küttesüsteemide TH | JAH | Soojusvarustuse liik | Olemas | lokaalne küte (soojuspump+elekter) | JAH
+JAH | Soojusarvestid | Peaarvesti | Olemas | soojuspumba poolt toodetud energia mõõtmine | JAH
+JAH | Soojasõlme hooldus | Olemas | Ringluspumbad >= 4tk; küttevee akumulatsiooni paak 200L koos elektriküttega 6KW; küttevee paisunõu ca 35L >=1 tk; | Täiendav info | JAH
+JAH | Küttesüsteemi torustikud ja küttekehad | Olemas | JAH
+JAH | Vesipõrandaküte | Olemas | Torustik; kollektorid koos vooluhulga regulaatoriga; jms süsteemi toimimiseks vajalikud seadmed | JAH
+JAH | Soojuspump-süsteemid (maa-vesi; vesi-vesi; õhk-vesi) | Olemas | komplektne Alpha InnoTec SWC192H3, Q küte= 9,5Kw; N=5 kW 1 tk | JAH
+242 | Veevarustus-süsteemide TH | JAH | Tsentraalne veevarustussüsteem | Olemas | Igas rühmakodus (kokku 6 hoonet) | JAH
+EI | Tsentraalne veetrass | Olemas | Platsisisene |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+JAH | Muu | Olemas | Kahesüsteemne (küttevesi/elekter 6kW), ca 300L >=1 tk; tsirkulatsiooni pump; paisupaak ca 12L; jms süsteemi toimimiseks vajalik | JAH
+JAH | Veearvestid | Peaarvesti | Olemas | taatleb võrguettevõtte | JAH
+EI | Alamarvesti (rahalise arvelduse aluseks olevad arvestid) | Olemas | kastmisvee arvesti | EI
+JAH | Hoone sisene veevarustus | Torustikud, sanseadmed | Olemas | JAH
+JAH | Mehaaniline filter | Olemas | mehhaaniline filter, käsitsi tagasipesuga | JAH
+243 | Kanalisatsiooni- ja drenaaži-süsteemid | JAH | Kanalisatsiooni- ja drenaaži-süsteemid | Olemas | Tsentraalne, vabavoolne | Igas rühmakodus (kokku 6 hoonet) | JAH
+244 | Ventilatsiooni-süsteemi TH   | JAH | Ventilatsiooni liik | Olemas | sundventilatsiooon | Igas rühmakodus (kokku 6 hoonet) | JAH
+JAH | Ventilatsiooni-agregaat 1 | SV310_ ("vastav rühmakodu nr" | Olemas | asub tehnoruumis; komplektne ventagregaat Vallox; Filtrid SP F7, väljatõmme M5; vesikütte kalorifeer; segamissõlm: tsirkulats pump, 3T reguleerventiil; plaat soojusvaheti; sagedusmuundurid; reguleerautomaatika ; ühendatud hooneautomaatikase;  jms süsteemi toimimiseks vajalik; | Täiendav info | (ventilatsioonifiltrite andmed leiab toote kirjeldusest lehel "Täiendav info") | JAH
+JAH | Tuletõkkeklapid | Olemas | TK 100 >=8 tk; TK 125>=8 tk; TK 200 >=2 tk | JAH
+EI | Vent kubud  | Olemas | olmekubu pliidi kohal | EI
+245 | Kliimaseadmete TH | JAH | Split-süsteemid | Olemas | Jahutuse välisosa (multi) Mitshubishi SCM71ZS-W, jahutusvõimsus 7 kW; R32/2,55 kg, CO2eqv=1,721; siseosad:  SRK20ZS-W  1kompl ( seinakasett_kasvatajaruum) + FDTC25VH1 2kompl (laekasett_elutuba) | 2022 paigaldatud | JAH
+246 | Hoone-automaatika TH | JAH | Hooneautomaatika | Olemas | Lokaalne kontroller VAK kilbis; andmed ja parameetrid on reguleeritavad peahoone keskarvutist LON ühenduse kaudu;  2022.a lisati hooneautomaatikasse jahutuse juhtimine | Täiendav info | Hoone on varustatud hooneautomaatika Siemens Desigo süsteemiga BACS (Building Automation and Control System). Igas rühmakodus (kokku 6 tk) | JAH
+250 | Elektripaigaldise TH |  | 
+251 | Käidukorraldus | JAH | Käidu- ja hoolduskavad | Olemas | Igas rühmakodus (kokku 6 tk) | JAH
+JAH | Paigaldise liik | Olemas | liik 2 | JAH
+JAH | Liitumiskilbis peakaitsme suurus | Olemas | Liitumine peamaja PJK | JAH
+JAH | Elektripaigaldise skeemid | Olemas | JAH
+252 | Käidutööd | JAH | Liitumis-, pea- ja jaotuskilbid | Olemas | PJK + jaotuskilbid.>= 2 tk | G toitele üleminekul vähendatakse objekti koormust hooneautomaatika süsteemi abil (osa magnetkäiviteid lülitatakse välja) | JAH
+JAH | Elaktriarvestid, mõõtetrafod | Peaarvesti | Olemas | taatleb võrguettevõtte | JAH
+JAH | Valgustid (sisevalgustus) | Olemas | JAH
+JAH | Välisvalgustus (kinnistule kuuluv) | Olemas | Kirjeldatud "Peamaja" kood 252 | JAH
+JAH | Liigpingepiirikute  ja nende kaitsmete korrasoleku kontroll | Olemas | >=2 t | JAH
+JAH | Küttekaablid ja -seadmed (renniküte, põrandaküte, välisalade kütted) | Elektriküttekaabel, juhtimine | Olemas | sh sadeveelektrite ja allaviigu torude küttekaabel | JAH
+253 | Turvavalgustus-süsteemide käit | JAH | Hädavalgustus EVS-EN 1838:2013 mõistes: (sh Evakuatsiooni-valgustus; Tööjätkamisvalgustus; Väljapääsutee valgustus; Paanikavastane valgustus; Ohtliku tööpiirkonna valgustus; Ohutusmärgid (EXIT)) | Olemas | LUM/LED >=6tk+ 1 tk tööjätkamise akuseadmega valgusti tehnoruumis | JAH
+254 | Rikkevoolu-kaitselülitite testimine | JAH | RVKL | Olemas | >=13 tk | JAH
+255 | Elektrotehnilised mõõtmised | JAH | Mõõtmisprotokollid | Olemas | teostada enne sept 2025 toimuvat auditit | JAH
+256 | Elektripaigaldise korraline audit | JAH | Auditi protokoll | Olemas | EP-0055928; teostaja: Indrek Teearu; otsus: Positiivne; teostatud: 24. sept 2015 Uus audit: sept.2025 | JAH
+260 | Nõrkvoolupaigaldise TH |  | 
+261 | Arvutivõrgu TH | EI | Olemas |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+263 | Meedia-edastus-süsteemi TH | EI | Olemas | antennimast+antenn UHV+VHF II+FM  |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+264 | Helindus-süsteemi, teadustussüsteemi TH | EI | Olemas | Keskseadmed peamajas, kirjeldatud kood 264; kohapeal pindpaigaldusega kõlar 100W >=1 tk | EI
+265 | Tehnoseadmete ja -süsteemide jälgimise automaatika TH | EI | Kaugseire olemasolu ja võimalus. | Olemas | Ühendus kesksüsteemiga LON ühenduse kaudu |  EH ei tellita.  Märkida vajalik hooldussagedus | EI
+270 | Eriseadmete ja -süsteemide TH |  | 
+272 | Elektrisüsteemi eriseadmete (generaator, kondensaatorseade,             RLA, PV-paneelid) TH | EI | Generaator | Mark ja võimsus | Puudub | EI
+JAH | UPS | Seade | Olemas | Riello, VSD 2200 A3; 2,2 kVA | Igas rühmakodus (kokku 6 hoonet). Kirjeldatud teostusdokumentatsioonis. | JAH
+280 | Turvasüsteemide TH |  | 
+281 | Automaatse tulekahju-signalisatsiooni-süsteemi TH | EI | Automaatne tulekahju-signalisatsiooni-süsteem | Olemas | SmartLine 1 kompl;reservtoite akud 12V/18 Ah 2 tk; adresseeritav suitsuandur + alus >=19 tk;  adresseeritav temp. tõusu andur+alus >=3 tk; adresseeritavkäsiteadusti/häirenupp >=2 tk;  häirekell >=2tk; välisireen >=1 tk; vaherelee 24VDC >=2 tk; LED indikaatorid;  jms süsteemi toimimiseks vajalik | Täiendav info | Igas rühmakodus (kokku 6 hoonet) | EI
+282 | Häire-seadmestiku TH | EI | Häireseadmestik | Olemas | Integreeritud valve- ja läbipääsu tarkvara   InnerRange; keskseade InnerRange 1 kompl; laiendusmoodul  >= 1 tk;   magnetkontaktid>=3tk; reservtoite akud 12V/7AH 1 kompl. sõrmistikud LCD>=1 tk; liikumisandureid>= 14 tk; häiresireen >= 1 tk; jms süsteemi toimimiseks vajalik | Täiendav info | Igas rühmakodus (kokku 6 hoonet) | EI
+283 | Jälgimis-seadmestiku TH | EI | Jälgimisseadmestik | Olemas | Videosalvesti >=1 tk; kuppelkaamera sisepaigalduseks >= 3 tk; inegreeritud ühisesse süsteemi,  | Täiendav info | Igas rühmakodus (kokku 6 hoonet) | EI
+284 | Läbipääsu kontrollsüsteemi TH | EI | Läbipääsu kontroll-süsteem | Olemas | Integreeritud valve- ja läbipääsu tarkvara   InnerRange; keskseade InnerRange 1 kompl; ukserkontroller 1 tk;  distantskaardilugeja >=  3 tk; avamisnupp>= 1 tk; magnetkontakt süvistatav uksestaatuse määramiseks>= 2 tk; el lukud>= 2 tk; laienduskaardid; reservtoide 12V/7 Ah >= 2 tk ;jms süsteemi toimimiseks vajalik | Täiendav info | Igas rühmakodus (kokku 6 hoonet) | EI
+289 | Muude turva-süsteemide TH | JAH | Kustutid | Tulekustutid | Olemas | igas hoones: >= 2 Tk; Kokku 12 tk | Igas rühmakodus (kokku 6 hoonet) | JAH
+JAH | Tuletõkke-sektsioonide terviklikkuse kontroll | Olemas | Igas rühmakodus (kokku 6 hoonet) | JAH
+300 | Heakorratööde tegemine krundil ja hoones |  | 
+333 | Tehniliste ruumide puhastamine ja koristamine | JAH | Olemas | Põrandate, seinte ja lagede ning kõikvõimalike detailide (sh. valgustid, kaabliredelid, torustikud jne) puhastus ning  pesu. Vajadusel eritööde teostamine (õli- ja roosteplekkide eemaldamine vms). Tehnoruumide puhastus teostatakse aprillis ja oktoobris | Igas rühmakodus (kokku 6 tk) | JAH
+
+=== 9830944_LISA_2_Toovotulepingu_projekt.docx ===
+
+TÖÖVÕTULEPING nr 
+
+
+Käesolev töövõtuleping (edaspidi leping) on sõlmitud järgmiste poolte vahel: 
+
+AS HOOLEKANDETEENUSED 	registrikood 10399457, aadress Merimetsa tee 1, Tallinn, 10614, (edaspidi tellija), keda esindab haldusjuht Aivo Lätt
+ja 
+
+__________________	registrikood _____________, aadress ___________________ (edaspidi täitja),  keda esindab juhatuse liige _______________ 
+
+
+edaspidi eraldi nimetatud pool ja ühiselt pooled, 
+
+KUNA		Tellija viis läbi hanke nr _____________ (edaspidi hange) ja soovib tellida hanke alusdokumentides sätestatud töid ja teenuseid,
+
+SIIS on pooled sõlminud käesoleva lepingu alljärgnevas:
+1. LEPINGU EESMÄRK JA ESE
+	•	Tellija tellib ja täitja kohustub osutama Emajõe Keskuse tehnosüsteemide hooldust ja kontrolli (aadressil Kaveri tee 3 Kaagvere Tartumaa) hanke alusdokumentides ja käesolevas lepingus sätestatud ning tellija esitatud tingimustel ja mahus. Lepingu osutamisega seoses osutatavad teenused ja teostatavad tööd edaspidi nimetatud teenused.  
+	•	Selguse mõttes lepivad pooled kokku, et täitja poolt lepingu alusel osutatav teenus või teostatav töö sisaldab ka mistahes selliseid töid ja teenuseid, mida ei ole käesolevas lepingus ja/või hanke alusdokumentides eraldi nimetatud, kuid mis on tavapäraselt vajalikud lepingu eesmärgi saavutamiseks. Kõik lepingu eesmärgi saavutamiseks vajalikud kulud kannab täitja.
+	•	Täitja kinnitab, et tal on teenuse nõuetekohaseks osutamiseks olemas vajalik kvalifikatsioon ja erialane ettevalmistus ning muud seaduses sätestatud ja sätestamata eeldused. 
+2. TEENUSE OSUTAMINE 
+	•	Täitja osutab teenuseid omal kulul ja riisikol ning käesolevas lepingus  sätestatud viisil, nõuetekohase kvaliteedi ja hoolikusega ning kooskõlas tellija korralduste ja vastava valdkonna üldtunnustatud heade tavadega ning õigusaktidega, pakkudes välja parima hinna ja kvaliteedi suhtega lahendusi. 
+	•	Lepingu sätestamata nõuete osas peab teenuse osutamine vastama tavaliselt sarnasele tegevusele esitatavatele nõuetele ja võimaldama tellija jaoks lepingu eesmärgi saavutamist vastavalt lepingus ettenähtule ning olema vähemalt keskmise kvaliteediga. 
+	•	Täitja kohustub teenuse osutamisel järgima õigusaktides sätestatud nõudeid. 
+	•	Tingimustes, mida ei ole reguleeritud hanke alusdokumentides, käesolevas lepingus või seaduses, kuid mille reguleerimine on lepingu eesmärgi saavutamiseks vajalik, lepivad pooled kokku lepingu juurde kuuluvate täpsustavate tingimustena.  
+3. POOLTE ÕIGUSED JA KOHUSTUSED
+	•	Täitja kohustub osutama teenust vastavuses lepinguga kvaliteetselt, tagades teenuse osutamiseks kvaliteetse, kvalifitseeritud personali ning töötervishoiu- ja tervisekaitsealaste nõuete täitmise..  
+	•	Täitja kohustub enne teenuse osutamist kooskõlastama tellijaga teenuse tehnilise lahenduse tingimused.
+	•	Täitja kohustub järgima kokku lepitud ajagraafikut.
+	•	Täitjal on õigus saada tellijalt teenuse osutamiseks vajalikku informatsiooni. 
+	•	Tellija võib täitjalt igal ajal nõuda informatsiooni, mis on vajalik teenuse kvaliteetsuse kontrollimiseks. 
+	•	Tellija ning täitja kindlustavad teenuse osutamiseks vajaliku informatsiooni saamiseks inimeste ja vajamineva dokumentatsiooni kättesaadavuse. Tööprotsessis üles kerkinud küsimustele vastavad pooled üksteisele mõistliku aja jooksul.
+	•	Kui Töövõtja ei teosta Töid vastavalt Lepingule, on Tellijal õigus punktis 4 sätestatud tasu kuni Tööde kohase teostamiseni vastavas osas maksmata jätta ning rakendada muid seaduses ettenähtud õiguskaitsevahendeid.
+	•	Töövõtja on kohustatud informeerima Tellijat Töö teostamise seisust ja võimaldama Tellijal tutvuda teostatud Tööga hiljemalt ülejärgmisel tööpäeval arvates Tellijalt vastava nõude saamisest.
+
+4 LEPINGU HIND JA ARVELDAMINE
+
+4.1. Lepingu kogumaksumus on .......... eurot, millele lisandub käibemaks seaduses sätestatud määras.
+
+4.1.1 Teenuse 1 kuu maksumus lepingu perioodil  ……………. eurot, millele lisandub käibemaks seaduses sätestatud määras.
+4.1.2 Teenuse lisatööde maksumus lepingu perioodil ……….. eurot, millele lisandub käibemaks seaduses sätestatud määras.
+
+4.2. Lepingu hind sisaldab kõiki hüvitisi ja tasusid seoses lepingust tulenevate õiguste teostamise ja kohustuste täitmisega ning pärast lepingu lõppemist edasi kestvate kohustustega.
+
+4.3. Lepingu hind katab kõik lepingu täitmiseks vajalikud täitja kulutused, sealhulgas, kuid mitte ainult transpordi  ja seadmete kulud, teenuse osutamisel kasutavate töötajate palgakulud jne.
+
+4.4 Juhul, kui lepingu täitmise käigus osutab täitja tellijale lisateenuseid, so tööd ja/või teenused, mis ei kuulu lepingu objekti hulka, siis maksab tellija täitjale lisateenuste eest eraldi, tingimusel, et lisateenuste osutamine, selle maht ja tasu on poolte vahel eelnevalt kirjalikus või kirjalikku taasesitamist võimaldavas vormis kokku lepitud.
+
+4.5 Täitja esitab kõik arved elektroonilisel kujul, kasutades Eesti e-arve standardile vastavat formaati. E-arvel peab olema kindlasti märgitud riigihanke number …………… ja lepingu nr …………
+
+4.6 Tellija tasub täitja arve 14 kalendripäeva jooksul selle saamisest, tingimusel, et arvel märgitud teenuste osas puuduvad tellija poolt pretensioonid, millest tellija kohustub täitjat 5 tööpäeva jooksul akti või arve saamisest teavitama.
+	•	LEPINGU KEHTIVUS JA LÕPPEMINE
+
+	•	Leping jõustub alates …….. ja kehtib …….. või kuni punktis 4.1 sätestatud hanke kogumaksumuse täitumiseni.
+	•	Tellija teavitab täitjat ette mõistliku aja jooksul (kuid mitte üle 14 kalendripäeva) lepingu mahu täis saamisest ja sellega seotud lepingu lõppemisest. Lepingut võib muuta ainult pooltevahelise kirjaliku kokkuleppega ning kooskõlas riigihangete seadusega. 
+	•	Lepingu sätteid võib muuta ainult poolte kirjalikul kokkuleppel, kui lepingus ei ole sätestatud teisiti. Kirjaliku vormi nõude rikkumise korral on muudatus tühine.
+	•	Leping lõpeb ennetähtaegselt poolte kokkuleppel või kui üks pool lõpetab lepingu, teatades sellest teisele poolele kirjalikult 1 kuu ette.
+	•	Kui pool rikub oluliselt lepingut ega kõrvalda rikkumist heastamiseks antud mõistliku aja jooksul, on teisel poolel omal valikul õigus leping erakorraliselt etteteatamistähtajata lõpetada. 
+	•	VASTUTUS
+	•	Pooled vastutavad kõikide nende isikute rikkumiste eest, kes osalevad poole lepingust või seadusest tulenevate kohustuste täitmisel, kooskõlas käesolevas lepingus ettenähtud piirangutega. Kohustuse rikkumine või mittenõuetekohane täitmine on vabandatav vääramatu jõu (force majeure) korral. Vääramatuks jõuks lepingu tähenduses on sündmused või asjaolud, mis ei allu poole mõistlikule kontrollile, muuhulgas loodusõnnetused, streigid, erakordsed ilmastikunähtused, sõda ja terrorism. 
+	•	Pool võib lepingu rikkumise korral kasutada eraldi või koos kõiki seadusest tulenevaid õiguskaitsevahendeid, kui pooled ei ole kirjalikku taasesitamist võimaldavas vormis kokku leppinud teisiti. 
+	•	Pooled vastutavad lepingus sätestatud kohustuste mittekohase täitmise või täitmata jätmise eest sellega põhjustatud otsese varalise kahju ulatuses. 
+	•	Täitja vastutab teenuse osutamise ja kvaliteedi, töötulemuste õige kajastamise ja kavandatud eesmärkide saavutamise eest. 
+	•	Kui teenuse kvaliteet ei vasta hanke tehnilises kirjelduses esitatud nõuetele, on tellijal õigus nõuda leppetrahvi 20%  fikseeritud heakorratööde kuutasust.
+
+	•	MUUD TINGIMUSED
+	•	Kõik Lepingu täitmisega seotud teated ja informatsioon tuleb esitada kirjalikus ja/või kirjalikku taasesitamist võimaldavas vormis. Teated loetakse kohaselt esitatuks, kui need on esitatud Poole kontaktisikutele. Poolte kontaktisikud ja nende kontaktandmed on:
+	•	Tellija: Margo Hõim, telefon  58866423, e-posti aadress margo.hoim@hoolekandeteenused.ee 
+	•	Täitja:___________ , telefon  __________ , e-posti aadress _______________
+	•	Täitja ei või täita käesolevat lepingut alltöövõtu korras ilma tellija eelneva kirjaliku nõusolekuta. Alltöövõtu kasutamise korral vastutab tellija ees alltöövõtjate osutatud teenuste eest täitja. Täitja tagab kõigi oma käesolevast lepingust tulenevate kohustuste, sealhulgas konfidentsiaalsuskohustuse, täitmise ka alltöövõtjate poolt ning vastutab selle eest.
+	•	Ilma tellija kirjaliku nõusolekuta ei või täitja lepingu kehtivusaja jooksul ega mistahes ajal pärast selle lõppemist avaldada mistahes isikule, institutsioonile, äriühingule ega asutusele mistahes konfidentsiaalset informatsiooni, mille ta on saanud käesoleva lepinguga seoses. Pooled loevad konfidentsiaalseks informatsiooniks kogu lepingu alusel üleantud teabe, selle täitmise raames vahendatud ja loodud teabe, lepingu sõlmimise fakti ja selle tingimused. Konfidentsiaalseks informatsiooniks ei loe pooled informatsiooni, mis oli avalik vastava teabe üleandmise või loomise ajal ning mis oli avalikuks saanud muul alusel kui lepingu rikkumine. Seejuures tagab täitja, et täitja ja mistahes muud isikud, keda täitja kasutab lepingu täitmisel ja kes võivad puutuda kokku konfidentsiaalse informatsiooniga on kohustatud hoidma sellist informatsiooni salajas vähemalt samas ulatuses, kui see leping nõuab seda täitjalt endalt. 
+	•	Lepingu muudatused kehtivad üksnes juhul, kui need on vormistatud kirjalikult. 
+	•	Käesolev Leping jõustub mõlema Poole poolt allakirjutamise hetkel. 
+	•	Kõik vaidlused, lahkarvamused ja nõuded, mis on tekkinud käesoleva lepingu põhjal või tulenevad sellest või selle rikkumisest, lõpetamisest või kehtetusest, mida ei suudeta lõpetada kokkuleppe teel, lahendatakse Harju Maakohus. 
+	•	
+
+
+=== 9830944_Pakkumuse_esitamise_ettepanek_Emajõe_keskuse_tehnosüsteemide_hooldus.docx ===
+
+Pakkumuse esitamise ettepanek
+,,Emajõe keskuse hoonete tehnosüsteemide hooldus ja kontroll”
+ 
+
+Hankija AS Hoolekandeteenused teeb ettepaneku esitada pakkumus avatud hankes „Emajõe keskuse hoonete tehnosüsteemide hooldus ja kontroll” (Kaveri tee 3, Kaagvere, Tartumaa) vastavalt hanketeates ja riigihanke alusdokumentides esitatud tingimustele. Riigihanke alusdokumentideks loetakse kõik käesoleva hankega seotud dokumendid ja nende lisad.
+
+
+	•	Üldine info
+	•	Riigihanke esemeks on „Emajõe keskuse hoonete tehnosüsteemide hooldus ja kontroll“. Hankelepingu eseme kirjeldus, sealhulgas asja või teenuse omadused ja neile esitatavad nõuded, on toodud tehnilises kirjelduses.
+	•	Riigihange korraldatakse e-riigihangete keskkonnas. Juhised ja lisainfo e-riigihangete keskkonna kasutamiseks leiab https://riigihanked.riik.ee.
+	•	Hankeleping sõlmitakse eduka pakkujaga tähtajaga 01.04.2026–30.04.2028. Tähtaeg hõlmab kõigi lepingupoolte põhikohustuste täitmist, sh hankija kui tellija poolt arve täielikku tasumist. 
+Teenuse osutamise periood 01.04.2026 - 31.03.2028
+	•	Hange ei ole jaotatud osadeks.
+	•	Alternatiivsete lahenduste esitamine ei ole lubatud.
+
+	•	Riigihanke alusdokumentide sisu kohta selgituste andmine
+	•	Kogu riigihankega seotud teabevahetus hankija ja ettevõtja vahel toimub elektrooniliselt riigihangete registri vahendusel.
+	•	Esitatud selgitustaotlustele vastatakse riigihangete seaduses sätestatud korras.
+	•	Hankija ei vastuta võimalike viivituste, tõrgete või katkestuste eest, mida põhjustavad e-keskkonnas hankija kontrolli alt väljas olevad asjaolud nagu force majeure, elektrikatkestused, häired pakkuja või hankija telefoni või interneti ühenduses või muude elektrooniliste seadmete ja vahendite, sealhulgas tarkvara, töös. Hankija ei vastuta e-keskkonna kasutamisest või mittekasutamisest pakkujale tekkinud kahjude või saamatajäänud tulu eest.
+
+	•	Pakkumuse esitamine
+	•	Kõik dokumendid tuleb esitada elektrooniliselt e-riigihangete keskkonna kaudu aadressil https://riigihanked.riik.ee.
+	•	Pakkumus esitatakse eesti keeles.
+	•	Pakkumuse rahaühikuks on euro.
+	•	Pakkumus peab koosnema kõikidest riigihanke alusdokumentides ja hanketeates nõutud dokumentidest ja kinnitustest.
+	•	Pakkumuse maksumus esitatakse maksumuse vormil täpsusega kaks kohta pärast koma. 
+
+	•	Pakkumuse vastavaks või mittevastavaks tunnistamine
+	•	Hankija kontrollib kvalifitseeritud pakkujate pakkumuste vastavust esitatud vastavustingimustele ning teeb põhjendatud kirjaliku otsuse pakkumuste vastavaks tunnistamise või tagasilükkamise kohta. Hankija võib kasutada RHS § 52 lg 3 sätestatud pöördmenetlust. Pakkuja, kelle pakkumus on tagasi lükatud, ei osale edasises hankemenetluses.
+	•	Hankija lükkab pakkumuse tagasi, kui see ei vasta riigihanke alusdokumentides esitatud tingimustele, kui pakkuja ei esita tähtajaks hankija nõutud selgitusi või pakkuja selgituste põhjal ei ole võimalik üheselt hinnata pakkumuse vastavust riigihanke alusdokumentides esitatud tingimustele. Hankija võib tunnistada pakkumuse vastavaks, kui selles ei esine sisulisi kõrvalekaldeid riigihanke alusdokumentides nimetatud tingimustest.
+
+
+	•	Pakkumuste hindamine ja pakkumuse edukaks tunnistamine
+	•	Eduka pakkumuse valiku aluseks on majanduslikult soodsaim pakkumus, kus pakkumuse edukaks tunnistamisel võetakse arvesse ainult pakkumuse madalaimat hinda.
+	•	Kui hindamiskriteeriumide alusel saavutavad kaks või enam pakkujat sama kogupunktisumma,   selgitatakse edukas pakkuja välja liisuheitmise teel. Liisuheitmise viib läbi hankija pärast pakkumuste hindamise tulemuste kinnitamist. Liisuheitmine toimub avalikult hankija määratud ajal ja kohas, millest teavitatakse võrdselt punkte saanud pakkujaid vähemalt 2 tööpäeva ette. Liisuheitmise viib läbi hanke meeskonna liige. Pakkuja võib liisuheitmisele saata oma volitatud esindaja. Liisuheitmise juures viibivad isikud registreerivad ennast hankija poolt koostatud registreerimislehel. Liisuheitmisel pannakse kõigi võrdse punktisumma saanud pakkujate nimed eraldi sedelitel kinnisesse anumasse. Hankija esindaja tõmbab suletud silmadega ühe sedeli. Sedelil oleva pakkuja pakkumus loetakse edukaks pakkumuseks. Liisuheitmisest koostatakse protokoll, mis lisatakse RHR-i hanke tulemdokumentide juurde ja saadetakse liisuheitmises osalenud pakkujatele elektrooniliselt läbi RHR-i. Eduka pakkuja valikust teavitatakse kõiki hankes osalenud pakkujaid
+
+	•	Kõigi pakkumuste tagasilükkamine
+	•	Hankija võib teha põhjendatud kirjaliku otsuse kõigi pakkumuste tagasilükkamise kohta, kui:
+	•	kõigi pakkumuste või vastavaks tunnistatud pakkumuste maksumused ületavad hankelepingu eeldatavat maksumust; või
+	•	hankemenetluse toimumise ajal on hankijale saanud teatavaks uued asjaolud, mis välistavad või muudavad ebaotstarbekaks hankemenetluse lõpuleviimise hanke alusdokumentides sätestatud tingimustel; või
+	•	on toimunud sündmus, mida saab lugeda vääramatuks jõuks (force majeure). Vääramatu jõud on asjaolu, mida hankija ei saa mõjutada, ja mõistlikkuse põhimõttest ei saa temalt oodata, et ta hankemenetluse ajal selle asjaoluga arvestaks või seda väldiks või takistava asjaolu või selle tagajärje ületaks. 
+
+
+	•	Muud tingimused
+	•	Kui riigihanke alusdokumendis ja hanketeates esitatud andmed on vasturääkivad, loetakse õigeks hanketeates esitatud andmeid.
+	•	Hanke alusdokumendid koosnevad pakkumuse esitamise ettepanekust ja selle lisadest, sh: 
+	•	Lisa 1 Tehniline kirjeldus
+	•	Lisa 2 Hankelepingu projekt
+	•	Hanke tingimused (sh kvalifitseerimis- ja vastavustingimused)
+
+
+
+
+=== 9830944_Yhispakkujate_volikiri.docx ===
+Ühispakkuja volikiri
+Hanke nimetus: 
+
+
+Ühispakkujad kinnitavad käesolevaga, et alljärgnev isik on määratud nende volitatud esindajaks:
+
+
+
+______________________________________________________________________
+/pakkuja nimi ja registrikood/
+Ühispakkujad volitavad eelnimetatud isikut teostama nende nimel mis tahes ja kõiki toiminguid, mis on seotud käesoleva hankemenetluse ning hankelepingu sõlmimise ja täitmisega, sealhulgas võtma hankijalt vastu teateid ja juhiseid ning allkirjastama ühispakkujate nimel ametlikke dokumente, pakkumust ja muid käesoleva hanke raames esitatavaid dokumente ning juhtima lepingu täitmist ja väljastama arveid.
+
+Pakkuja seaduslik või volitatud esindaja:
+
+
+Nimi:	 _______________________	
+
+Amet: 	_______________________	
+Allkiri:     /allkirjastatud digitaalselt/
+

@@ -1,0 +1,1513 @@
+=== 8938504_296364_hankepass_taiendavate_selgitustega.pdf ===
+1/21
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+Riigi ametlik teataja:
+296364
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+Riigi Tugiteenuste Keskus (70007340)
+Riik:
+Eesti
+Hankija aadress:
+Lõkke tn 4
+Hankija veebiaadress:
+http://www.rtk.ee
+E-posti aadress:
+hanked@rtk.ee
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+2/21
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Autonoomne mehitamata õhusõiduki süsteem linnaruumis (Riigikantselei)
+Lühikirjeldus:
+Hanke eesmärk on viia läbi erinevad analüüsid, mille tulemusel saaks hakata ette valmistama
+autonoomse mehitamata õhusõiduki süsteemi loomist; rakendusuuring, mille tulemusena on
+lennuprotseduurid kooskõlastatud Lennuliiklusteeninduse AS-i ja Transpordiametiga ning välja on
+töötatud käitamisprotseduurid; prototüübi soetamine ning testimine erinevates stsenaariumides,
+säästmaks inimressurssi ja kiirendada sündmuste lahendamist; lõppkasutaja koolitamine ning raporti
+koostamine.
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+296364
+Hanke liik:
+Teenused
+Hanke CPV-d:
+71241000-9 Teostatavusuuringud, nõuandeteenused, analüüs
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+3/21
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+4/21
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+5/21
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+6/21
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kuritegelikus ühenduses osalemise eest". Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud aususe kohustuse rikkumise või korruptiivse teo eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+7/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kelmuse eest kõige rohkem viimase viie aasta jooksul või kehtib
+süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kelmuse eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+8/21
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo
+või sellele kihutamise, kaasaaitamise või selle katse eest". Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud rahapesualase süüteo või terrorismi rahastamise eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+9/21
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 3 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud
+teo eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada
+tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise
+võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või
+hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg
+maksukorralduse seaduse tähenduses või maksuvõlg /…/ tema asukohariigi õigusaktide kohaselt“
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+10/21
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul, kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku /…/ makse /…/ maksuvõlg maksukorralduse seaduse
+tähenduses või sotsiaalkindlustusemaksete võlg tema asukohariigi õigusaktide kohaselt
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+11/21
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+keskkonnaõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+12/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+sotsiaalõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid tööõiguse
+valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+13/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PANKROT
+Kas ettevõtja on pankrotis?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud
+juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on likvideerimisel või kelle suhtes on algatatud pankrotimenetlus, välja
+arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+14/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt“,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+15/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, likvideerimisel või kelle suhtes on algatatud
+pankrotimenetlus või kes on muus sellesarnases olukorras tema asukohamaa õigusaktide
+kohaselt, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kelle äritegevus on peatatud, välja arvatud asjade ostmisel RHS § 49 lõikes 4
+sätestatud juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+16/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Viide seadusele:
+RHS § 95 lg 4 p 4 „kes on raskelt eksinud ametialaste käitumisreeglite vastu ja see muudab tema
+aususe küsitavaks“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Viide seadusele:
+RHS § 95 lg 4 p 5 „konkurentsi kahjustava kokkuleppe, ettevõtjate ühenduse otsuse või
+kooskõlastatud tegevuse tõttu“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+17/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Viide seadusele:
+RHS § 95 lg 4 p 6 „kui huvide konflikti ei ole muude vahenditega võimalik vältida“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Viide seadusele:
+RHS § 95 lg 4 p 7 „kelle pakkumuse või taotluse koostamisel on osalenud isik, kes on osalenud
+sama riigihanke ettevalmistamisel või on muul viisil hankijaga seotud, ja sellele isikule seetõttu
+teadaolev info annab talle eelise teiste riigihankes osalejate eest ning sellest tingitud konkurentsi
+moonutamist ei ole muude vahenditega võimalik vältida“. Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+18/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Viide seadusele:
+RHS § 95 lg 4 p 8 „kes on oluliselt või pidevalt rikkunud eelnevalt sõlmitud hankelepingu olulist
+tingimust või hankelepingute olulisi tingimusi nii, et rikkumise tulemusena on lepingust
+taganetud või leping üles öeldud, hinda alandatud, hüvitatud kahju või makstud leppetrahvi". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud. Alates 1.09.2017 alustatud hangete tulemusena sõlmitud
+riigihankelepingute kohta leiab infot riigihangete registrist.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Viide seadusele:
+RHS § 95 lg 4 p 9 „kes on esitanud valeandmeid käesolevas paragrahvis sätestatud või RHS §-
+des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele vastavuse kohta“;
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+19/21
+RHS § 95 lg 4 p 9 „kes on jätnud andmed käesolevas paragrahvis sätestatud või käesoleva
+seaduse §-des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele
+vastavuse kohta esitamata“;
+RHS § 95 lg 4 p 9 „kes on jätnud käesoleva seaduse § 104 lõigete 7 ja 8 alusel hankija nõutud
+täiendavad dokumendid esitamata“;
+RHS § 95 lg 4 p 10 „kes on tegutsenud eesmärgiga mõjutada hankijat või esitanud hooletusest
+eksitavat teavet, mis on võinud mõjutada hankija otsuseid riigihankes, või on tegutsenud
+eesmärgiga saada konfidentsiaalset teavet, mis on võinud anda talle põhjendamatu eelise teiste
+riigihankes osalejate ees“.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 2 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud riigis ilma seadusliku aluseta viibivale välismaalasele töötamise
+võimaldamise või välismaalase Eestis töötamise tingimuste rikkumise võimaldamise, sealhulgas
+seaduses sätestatud töötasu määrast väiksema töötasu maksmise eest“. Kohustuslik kõrvaldamise
+alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+20/21
+Viide seadusele:
+RHS § 95 lg 1 p 5. Kellega hankelepingu sõlmimine rikuks rahvusvahelist või Vabariigi
+Valitsuse sanktsiooni rahvusvahelise sanktsiooni seaduse tähenduses. Hankija kontrollib
+käesoleva seaduse § 95 lõike 1 punktis 5 sätestatud kõrvaldamise alust pakkuja või taotleja
+kinnituse alusel. Hankija võib põhjendatud kahtluse korral nõuda pakkujalt või taotlejalt
+täiendavate andmete või tõendite esitamist, mis võimaldavad kõrvaldamise alust kontrollida.
+(RHS § 96 lg 2.1).
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 11 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku esindajat on karistatud maksualaste süütegude eest“. Vabatahtlik kõrvaldamise alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: OSALEJA PIIRAMINE ETTEVÕTJA ELU- VÕI ASUKOHA PÕHISELT
+Kas ettevõtja rikub hankija kehtestatud piirangut pakkumust või taotlust esitada?
+Viide seadusele:
+RHS § 95 lg 4 p 12 „kellel puudub käesoleva seaduse alusel õigus pakkumust või taotlust
+esitada, välja arvatud § 111 lõikes 6 sätestatud juhul". RHS § 7 lg 3 sätestab, et hankija võib
+piirata pakkujate ja taotlejate ringi, lubades riigihankes osaleda ainult RHS § 3 punktis 2
+nimetatud riikidest pärit ettevõtjatel või andes nendest riikidest pärit ettevõtjate esitatud
+pakkumustele eeliseid teistest riikidest pärit ettevõtjate esitatud pakkumuste ees. Hankija sätestab
+piirangu ettevõtja elu- või asukohale hanke alusdokumentides.
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+21/21
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 04.06.2025 20:51:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+
+=== 8938504_296364_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 296364
+Hankija:Riigi Tugiteenuste Keskus (70007340)
+Hange:Autonoomne mehitamata õhusõiduki süsteem linnaruumis (Riigikantselei)
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Esimese etapi maksumus Maksumus - 20 jah
+vähim on parim
+2 Prototüübi testimise tunnihind teise etapi Kulu - vähim on 20 jah
+teostamiseks parim
+3 Projektiplaan Kvaliteet - hankija 60
+hinnatav
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Esimese etapi maksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+2. Prototüübi testimise tunnihind teise etapi teostamiseks
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+3. Projektiplaan
+Kirjeldus on toodud "Hindamismetoodikas".
+Koostatud 03.10.2025 15:04:29 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+8938504/general-info
+
+=== 8938504_296364_vastavustingimused.pdf ===
+1/3
+VASTAVUSTINGIMUSED
+Viitenumber: 296364
+Hankija: Riigi Tugiteenuste Keskus (70007340)
+Hange: Autonoomne mehitamata õhusõiduki süsteem linnaruumis (Riigikantselei)
+Keskkonnahoidlik hange või hanke osa!
+PROJEKTIPLAAN
+Pakkuja peab esitama projektiplaani tehnilises kirjelduses toodud struktuuri kohaselt:
+1. Pakkuja arusaam hankija vajadusest, töö eesmärgist, ülesannetest ja struktuurist;
+2. pakkuja nägemus vajalike analüüside, tegevuste ja tööde ajakavast;
+3. pakkuja nägemus koostööst hankija ja projekti partneritega ning teiste seotud osapooltega
+tööde teostamise käigus;
+4. projektiga kaasnevate võimalike riskide kirjeldus, iga riski kohta selle esinemise tõenäosus ja
+tagajärg ja nende vältimise ja/või maandamise võimaluste kirjeldus.
+Pakkumuses esitatav projektiplaan on aluseks pakkumuse hindamisel vastavalt
+hindamismetoodikas toodud hindamiskriteeriumile "projektiplaan". Palume tutvuda
+hindamismetoodikaga ning projektiplaani hindamiskriteeriumitega.
+Projektiplaani maksimaalne lubatud maht on 50 lk (A4). Mahtu ületavat projektiplaani osa
+hindamisel ei arvestata.
+Küsimused ettevõtjale:
+1. Pakkuja projektiplaan (Vabas vormis dokument)
+PROJEKTIMEESKONNA VARASEMA KOGEMUSE JA KOMPETENTSIDE KIRJELDUS
+NING TÖÖJAOTUS
+Pakkuja peab esitama projektimeeskonna varasema kogemuse ja kompetentside kirjeldus ning
+tööjaotuse.
+Pakkumuses esitatav projektimeeskonna varasema kogemus ja kompetentside kirjeldus ning
+tööjaotus on aluseks pakkumuse hindamisel vastavalt hindamismetoodikas toodud
+hindamiskriteeriumile "projektimeeskonna varasema kogemuse ja kompetentside kirjeldus ning
+tööjaotus". Palume tutvuda hindamismetoodikaga.
+Küsimused ettevõtjale:
+1. Projektimeeskonna varasema kogemuse ja kompetentside kirjeldus ning tööjaotus (Vabas
+vormis dokument)
+KINNITUS, ET TEENUSE OSUTAMISEL TÄIDETAKSE KESKKONNANÕUDEID
+Pakkuja peab kinnitama, et ta järgib teenuse osutamisel keskkonnaalaseid nõudeid ning väldib
+teenuse osutamisega kaasneva negatiivse kõrvalmõju tekkimist keskkonnale, sh:
+1) teenuse osutamise tulemusena valminud materjalid esitatakse tellijale eelkõige digitaalsel kujul
+(keskkonnahoidlikel põhjustel vältida materjali printimist), v.a juhul, kui see on vajalik töö
+eesmärgipäraseks läbiviimiseks);
+2) töövõtja poolt digitaalsel kujul edastatavad materjalid peavad olema ökoloogilise jalajälje ja
+digiprügi vähendamise eesmärgil salvestatud ja edastatud optimaalsel mahul (vältida otstarbetult
+suuri andmefaile). Mustandfailid, säilitamiseks mittevajalikud töödokumendid jms, kustutada
+esimesel võimalusel, kuna ITserverites failide otstarbetu hoidmine on keskkonda kurnava
+Koostatud 08.10.2025 15:16:43
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+2/3
+mõjuga;
+3) kui lepingu täitmise käigus on vajadus printida infomaterjale, siis eelistatakse printimisel
+töövõtja poolt tooteid, millel on olemas I tüüpi ökomärgis.
+Küsimused ettevõtjale:
+1. Kinnitus, et teenuse osutamisel täidetakse keskkonnanõudeid (Raadionupp valikutega "Jah/Ei")
+EL NÕUKOGU SANKTSIOON. ALLTÖÖVÕTJAD JA TARNIJAD.
+Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on:
+1. Vene Föderatsiooni kodanik, resident või Vene Föderatsioonis asutatud ettevõtja, sh füüsilisest
+isikust ettevõtja, juriidiline isik, asutus või muu üksus;
+2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või muu
+üksuse omandis;
+3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või tegutseb sellise isiku
+juhiste alusel.
+Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav hankeleping oleks RSanS § 7 lg 1 alusel
+tühine.
+Määrust kohaldatakse riigihangetele alates rahvusvahelisest piirmäärast. NÕUKOGU MÄÄRUS
+(EL) 2022/576, 8. aprill 2022, millega muudetakse määrust (EL) nr 833/2014, mis käsitleb
+piiravaid meetmeid seoses Venemaa tegevusega, mis destabiliseerib olukorda Ukrainas.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on: 1. Vene Föderatsiooni kodanik, resident või Vene
+Föderatsioonis asutatud ettevõtja, sh füüsilisest isikust ettevõtja, juriidiline isik, asutus või muu
+üksus; 2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või
+muu üksuse omandis; 3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või
+tegutseb sellise isiku juhiste alusel. (Raadionupp valikutega "Jah/Ei")
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+Koostatud 08.10.2025 15:16:43
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+3/3
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+ALLTÖÖVÕTJATE JA TARNIJATE PIIRAMINE LEPINGU TÄITMISEL
+Lepingu täitmisel kohustub pakkuja kaasama ainult selliseid alltöövõtjaid ja tarnijaid, kelle elu või
+asukoht on RHS § 3 p-s 2 nimetatud riigis (Eesti, mõni muu Euroopa Liidu liikmesriik, muu
+Euroopa Majanduspiirkonna lepinguriik või Maailma Kaubandusorganisatsiooni
+riigihankelepinguga ühinenud riik).
+Küsimused ettevõtjale:
+1. Kas kinnitate, et lepingu täitmisel kaasatavate alltöövõtjate ja tarnijate elu- või asukoht on
+Eestis, mõnes muus Euroopa Liidu liikmesriigis, muus Euroopa Majanduspiirkonna lepinguriigis
+või Maailma Kaubandusorganisatsiooni riigihankelepinguga ühinenud riigis? (Raadionupp
+valikutega "Jah/Ei")
+ETTEVÕTTE VOLITATUD ISIKUD, KES EI OLE HANKIJALE NÄHTAVAD ERHRIS VÕI
+ÄRIREGISTRIST
+Kõrvaldamise aluste kontrolli (RHS § 95 lg 1 p 1-3) teostamiseks peab pakkuja esitama ettevõtja
+muud isikud, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida ning kes ei ole hankijale nähtavad eRHRis või äriregistrist.
+Pakkuja peab kontrolli teostamiseks esitama volitatud isiku(te) nime(d) ja isikukoodi(d) või
+kinnituse, et selliseid isikuid pakkujal ei ole.
+Küsimused ettevõtjale:
+1. Pakkuja peab kontrolli teostamiseks esitama volitatud isiku(te) nime(d) ja isikukoodi(d) või
+kinnituse, et selliseid isikuid pakkujal ei ole (Suur sisestusala (max pikkus 4000 tähemärki))
+Koostatud 08.10.2025 15:16:43
+https://riigihanked.riik.ee/rhr-web/#/procurement/8938504/general-info
+
+=== 8938504_Hindamismetoodika.docx ===
+Hindamismetoodika 
+
+
+Hankija hindab kõiki vastavaks tunnistatud pakkumusi hindamiskriteeriumide alusel. Pakkumuste hindamiskriteeriumid 100 väärtuspunkti skaalal on järgnevad:
+Alakriteerium
+Maksimaalsed väärtuspunktid
+Esimese etapi maksumus
+20
+Prototüübi testimise tunnihind teise etapi teostamiseks
+20
+Projektiplaan
+60
+KOKKU
+100
+ 
+	•	Hindamiskriteeriumi „Projektiplaan“ hindamiseks moodustab tellija hindamiskomisjoni, kuhu kuulub vähemalt kolm liiget, kes on pakkujatest sõltumatud ja kes hindavad vastavaks tunnistatud pakkumusi kollektiivselt. Hankija võib vajadusel hindamisele kaasata eksperte. Eksperdid ei osale hindamisel, neil on nõuandev roll.
+	•	Hindamiskomisjoni liikmed lähtuvad hindamisel hindamismetoodikas kirjeldatud põhimõtetest ning esitavad hankijale hindamise põhjendatud tulemused kollektiivses protokollis, mis on kõigi hindamiskomisjoni liikmete poolt allkirjastatud.
+	•	Hankija tunnistab edukaks enim väärtuspunkte saanud pakkumuse. Maksimaalselt võib pakkumus saada 100 väärtuspunkti. 
+	•	Võrdsete väärtuspunktide pakkumuse korral tunnistatakse edukaks pakkumus, millele on omistatud „projektiplaan“ kriteeriumi eest suurim arv väärtuspunkte. Kui ka „projektiplaani“ kriteeriumi eest saadud punktid on võrdsed, eelistatakse pakkumust, mis on enam saanud punkte „esimese etapi maksumus“ kriteeriumi eest. Juhul, kui ka „esimese etapi maksumus“ väärtuspunktid on võrdsed, eelistatakse pakkumust, mis on enam saanud punkte „prototüübi testimise tunnihind teise etapi teostamiseks“ kriteeriumi eest. Juhul, kui ka „prototüübi testimise tunnihind teise etapi teostamiseks“ väärtuspunktid on võrdsed, korraldab hankija eduka pakkumuse väljaselgitamiseks liisuheitmise, võimaldades võrdselt väärtuspunkte saanud pakkumuse esitanud pakkujatel liisuheitmise juures viibida.
+	•	Pakkumuse maksumuste hindamine toimub järgmiselt:
+Madalaima maksumusega pakkumus saab maksimaalse arvu väärtuspunkte, järgmised pakkumused saavad väärtuspunkte proportsionaalselt vähem. Järgmiste pakkumuste punktisummad arvutatakse valemiga: "osakaal" - ("pakkumuse väärtus" – madalaim väärtus") / "suurim väärtus" * "osakaal". 
+	•	Kui riigihankes on esitatud või vastavaks tunnistatud ainult üks pakkumus, võib hankija omistada pakkumusele automaatselt maksimaalsed väärtuspunktid ning pakkumuse sisulist hindamist mitte läbi viia. 
+	•	Pakkumuse lahendust hinnatakse ja väärtuspunkte antakse hindamise alakriteeriumis “Projektiplaan” alljärgnevalt:
+
+
+
+
+Tase A
+(12 punkti)
+Tase B
+(9 punkti)
+Tase C
+(6 punkti)
+Tase D
+(3 punkti)
+Pakkuja arusaam hankija vajadusest, töö eesmärgist, ülesannetest ja struktuurist
+Töö eesmärk ja tegevused on pakkuja poolt selgelt lahti mõtestatud, esitatud lähenemine vastab täies mahus hankija vajadustele. Pakkuja on koos sisuliste põhjendustega välja pakkunud hankija poolt aktsepteerimist leidva olulise täienduse ja/või ettepaneku töö eesmärgi saavutamise osas.  
+Töö eesmärk ja tegevused on pakkuja poolt selgelt lahti mõtestatud, esitatud lähenemine vastab hankija vajadustele.
+Töö eesmärgi ja tegevuste mõtestatus vastab üldjoontes hankija vajadustele, kuid on kohati ebaselge ja/või vastuoluline ja/või tsiteerib liialt suurel määral riigihanke alusdokumentides esitatut.
+Pakkujapoolses arusaamas töö eesmärgist ja tegevustes esineb hulgaliselt sisulisi puudujääke (nt pakkuja tõlgendab töö eesmärki ja ülesandeid hankija vajadustele mittevastavalt, kirjeldus pole piisavalt põhjalik ja/või võimaldab esitatu mitmeti tõlgendamist ja/või põhineb eelkõige riigihanke alusdokumentide tsitaatidel).
+Pakkuja nägemus vajalike analüüside, tegevuste ja tööde ajakavast
+Tegevuskava on esitatud, tegevused on nädala täpsusega lahti kirjutatud, iga tegevuse juures on märgitud vastutajad. Pakutud tegevuskava on hankelepingu kvaliteetseks täitmiseks mõistlik ja põhjendatud. Lisatud on pakkuja arvates üks või mitu vajalikku täiendavat tegevust või olemasolevaid tegevusi  liigendatud detailsemaks eesmärgiga neid paremini avada, lisatud on täiendavaid vastutajaid.
+Tegevuskava on esitatud, tegevused on nädala täpsusega lahti kirjutatud, iga tegevuse juures on märgitud vastutajad. Pakutud tegevuskava on hankelepingu kvaliteetseks täitmiseks mõistlik ja põhjendatud.
+Esitatud tegevuskava vastab üldjoontes hankija soovidele, kuid olulistes küsimustes (nt tegevuste kestus, vastutaja) esineb puudujääke, kuid need ei ole põhimõttelised.
+Tegevuskava on esitatud puudulikult, esineb hulgaliselt sisulisi puudujääke ja/või tekib kahtlus analüüsi tähtajalise teostamise võimalikkuses.
+Pakkuja nägemus koostööst hankija ja projekti partneritega ning teiste seotud osapooltega tööde teostamise käigus
+Pakkujal on selge ettekujutus perspektiivsest koostööst hankija, projekti partnerite ja teiste seotud osapooltega ning selle võimalikest vormidest. Pakkuja nägemus koostööst vastab hankija vajadustele. Pakkuja on ette näinud omapoolse koostöövormi, mis lisab hankija ootustele lisandväärtust.
+Pakkujal on selge ettekujutus perspektiivsest koostööst hankija, projekti partnerite ja teiste seotud osapooltega, ning selle võimalikest vormidest. Pakkuja nägemus koostööst vastab hankija vajadustele.
+Pakkujal on ettekujutus koostööst hankija, projekti partnerite ning teiste seotud osapooltega. Kirjelduses esineb väiksemaid mittesisulisi puudujääke. 
+Pakkumuses esineb üks või mitu sisulist puudujääki  ja/või tekib kahtlus, kas pakkuja suudab  töö kvaliteetselt teostada või selle käigus teha koostööd hankija, projekti partnerite ning teiste seotud osapooltega.
+
+Pakkuja projektimeeskonna varasema kogemuse ja kompetentside kirjeldus ning tööjaotus
+Pakkuja on töösse kaasatava meeskonna koostamisel lähtunud hankija vajadusest, töö eesmärgist ja metoodikast. Meeskonna kirjelduses on detailselt välja toodud iga meeskonnaliikme varasem kompetents ja/või kogemus, ning milliseid ülesandeid iga meeskonnaliige täidab (sh meeskonnaliikmete asendusvõimalused), seejuures on meeskonnaliikmete kogemused integreeritud ühise eesmärgi saavutamisse. Meeskonnaliikmete varasem kompetentsid ja/või kogemus annavad hankijale veendumuse, et kõik planeeritud tegevused saavad lõpptähtajaks ja kvaliteetselt teostatud.
+Pakkuja on töösse kaasatava meeskonna koostamisel lähtunud hankija vajadusest, töö eesmärgist ja metoodikast. Meeskonna kirjelduses on välja toodud iga meeskonnaliikme varasem kompetents ja/või kogemus ning  milliseid ülesandeid iga meeskonnaliige täidab. Kirjeldatud tööjaotus on optimaalne ning võimaldab kõik planeeritud tegevused lõpptähtajaks ja kvaliteetselt valmis saada.
+
+Pakkumuses esitatud meeskonnaliikmete tööjaotus töö teostamiseks on üldiselt sobiv. Meeskonnaliikmete varasem kompetents ja/või kogemus on kirjeldatud üldsõnaliselt. Kirjelduses või tööjaotuses esinevad üksikud mittesisulised puudujäägid.
+Pakkumuses esitatud meeskonna koosseisu või selle tööjaotuse osas esinevad sisulised puudujäägid või on esitatud kirjeldus üldsõnaline või pole ammendav. Hankijal ei kujunenud esitatud pakkumuse alusel kindlat veendumust, et pakkuja suudab planeeritud tegevused kvaliteetselt ja õigeaegselt teostada.
+Projektiga kaasnevate võimalike riskide kirjeldus, iga riski kohta selle esinemise tõenäosus ja tagajärg ja nende vältimise ja/või maandamise võimaluste kirjeldus 
+Pakkuja poolt nimetatud võimalike riskide maandamismeetmed ja nende eest vastutavad isikud on välja toodud. Riskide kirjeldus on põhjalik ja läbimõeldud. Välja on toodud nii töö sisust kui ka tegevuste elluviimisest lähtuvad riskid. Hinnatud on erinevate riskide olulisust ja esinemistõenäosust, välja pakutud maandamismeetmed on realistlikud ning annavad tellijale tugeva kindlustunde, et projekti läbiviimine kulgeb takistusteta.
+Pakkuja poolt nimetatud võimalike riskide maandamismeetmed ja nende eest vastutavad isikud on välja toodud. Riskide kirjeldus on läbimõeldud, välja on toodud nii töö sisust kui ka tegevuste elluviimisest lähtuvad riskid. Hinnatud on erinevate riskide olulisust ja esinemistõenäosust, välja on pakutud maandamismeetmete loetelu.
+Enamus tööga kaasnevad olulised riskid, nende maandamismeetmed ja nende eest vastutavad isikud on välja toodud, kuid mõned olulised riskid ja/või nende maandamismeetmed ja/või vastutavad isikud on jäänud kajastamata või on neid ebapiisavalt käsitletud.
+Riskianalüüsis ei ole kajastatud suurt osa  tööga seotud olulistest riskidest ja/või nende maandamismeetmetest.
+
+
+
+=== 8938504_Infotund_-_kutse_512.pdf ===
+Tere
+Hankija korraldab infotunni 05. detsembril 2025 kell 15:00-16.00.
+Infotunni eesmärk on paremini avada linnaruumis autonoomse mehitamata õhusõiduki
+süsteemi piloteerimise tausta, hankija ootusi uuringutele ja analüüsidele ning testimisele ja
+koostööle pakkujaga.
+Hankega seotud tehnilised küsimused (nõuded pakkumusele, hindamiskriteeriumid, eelarve
+jmt) infotunnis arutlusele alla ei tule, soovi korral saate need küsimused kuni pakkumuste
+esitamise tähtpäevani esitada läbi eRHRi teabevahetuse.
+Infotund toimub veebi teel, vt palun all lisatud linki.
+Infotund salvestatakse ning salvestuse link lisatakse eRHRi alusdokumentide juurde. Juhul kui,
+salvestamisel on tehnilised probleemid, lisab hankija lühikokkuvõtte eRHRi hanke
+alusdokumentide juurde.
+Palume võimalusel enda osalemisest infotunnis anda hankija kontaktisikule (arko-
+gert.tuisk@politsei.ee) teada hiljemalt päev enne infotundi.
+___________________________________________________________________________
+_____
+Microsoft Teams Need help?
+Join the meeting now
+Meeting ID: 325 422 106 844 58
+Passcode: Ni6QK92t
+For organizers: Meeting options
+___________________________________________________________________________
+_____
+
+=== 8938504_Lisateave.docx ===
+LISATEAVE
+
+
+	•	Riigihanke osadeks jaotamine ja olelusringi kulude mittearvestamine
+	•	Hankija ei jaga riigihanget osadeks ja sõlmib teenuse ostmiseks lepingu ühe pakkujaga. Teenuse osutamine ühelt pakkujalt tagab hankija rahaliste vahendite otstarbeka ja säästliku kasutamise. Samuti võimaldab see rahaliste vahendite kokkuhoidu tugiteenuste arvelt.
+	•	Hankija ei arvesta majanduslikult soodsaima pakkumuse väljaselgitamisel olelusringi kulusid, sest hanke raames valmiva tehnilise lahenduse puhul on nõutud, et see on loodud viisil, mille kasutamine ei sunni hankima täiendavat tarkvara või selle kasutusõigust. Loodava lahenduse oleluskulud selguvad hinnanguliselt töö esimeses etapis.
+
+	•	Ühispakkumuse esitamine, välismaa äriühingu filiaali osalemine hankemenetluses ja teise ettevõtja vahenditele tuginemine
+	•	Ühispakkumuse esitamisel nimetavad ühispakkujad riigihankega ning lepingu sõlmimise ja täitmisega seotud toimingute tegemiseks endi seast volitatud esindaja.
+	•	Kui pakkumuse esitab välismaa äriühingu filiaal, siis tuleb hankepass esitada ka välismaa äriühingu kohta ja hankija kontrollib kõrvaldamise aluseid ka välismaa äriühingu suhtes.
+	•	Tuginemisel teise isiku vahenditele peab esitama hankepassi ka isiku osas, kelle vahenditele tuginetakse.
+
+	•	Pakkumus
+	•	Pakkumus on konfidentsiaalne kuni pakkumuse edukaks tunnistamise otsuse tegemiseni. Pakkumuses sisalduvat teavet võib avalikustada üksnes riigihangete seaduses sätestatud juhtudel ja ulatuses. Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus, ja põhjendab teabe ärisaladuseks määramist. Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida RHS § 461 lõikes 1 sätestatud teavet. Hankija ei avalikusta pakkumuste sisu ärisaladusega kaetud osas. Hankija ei vastuta ärisaladuse avaldamise eest osas, milles pakkuja ei ole seda ärisaladuseks märkinud.
+	•	Pakkumus peab vastama riigihanke alusdokumentides sätestatud tingimustele, sisaldama nõutud dokumente ning olema vormistatud nõuetekohaselt. Pakkumuses esitatud andmed peavad olema esitatud viisil, mis võimaldavad hankijal kontrollida nende vastavust riigihanke alusdokumentides toodud tingimustele. 
+	•	Pakkumus tuleb esitada eesti keeles. Dokumendi kohta, mis ei ole eesti keelne, tuleb koos originaaldokumendiga esitada tõlge eesti keelde. Tõlke korrektsuse eest vastutab pakkuja.
+
+	•	Kõikide pakkumuste tagasilükkamise alused ja hankemenetluse kehtetuks tunnistamine
+	•	Hankijal on õigus kõik esitatud või vastavaks tunnistatud pakkumused tagasi lükata igal ajal enne lepingu sõlmimist vastavalt RHS § 116 lõikes 1 või kui eduka pakkumuse maksumus või kulu ületab riigihanke eeldatavat maksumust või alusdokumentides kindlaks määratud lepingu hinda või kulu. Kõigi pakkumuste tagasilükkamisel teeb hankija sellekohase põhjendatud otsuse.
+	•	Hankija võib põhjendatud vajaduse korral omal algatusel hankemenetluse kehtetuks tunnistada. Põhjendatud vajaduseks võib olla eelkõige, kuid mitte ainult:
+	•	kui tekib vajadus lepingu eset olulisel määral muuta;
+	•	kui riigihanke läbiviimise aluseks olevad tingimused on oluliselt muutunud ja seetõttu osutub lepingu sõlmimine mittevajalikuks või võimatuks;
+	•	kui hankemenetluses ilmnenud ebakõlasid ei ole võimalik kõrvaldada ega hankemenetlust seetõttu ka õiguspäraselt lõpule viia;
+	•	kui vastavaks tunnistatakse ainult üks pakkumus, on hankijal õigus tunnistada hankemenetlus kehtetuks konkurentsi puudumise tõttu.
+
+	•	Pakkumuse edukaks tunnistamine
+	•	Vastavaks tunnistatud pakkumusi hindab hankija 100-väärtuspunkti süsteemis. Edukaks tunnistatakse majanduslikult soodsaim pakkumus riigihanke alusdokumentides toodud hindamiskriteeriumide alusel vastavalt hindamismetoodikas kirjeldatule.
+	•	Kui riigihankes on vastavaks tunnistatud ainult üks pakkumus, siis võib hankija omistada pakkumusele automaatselt maksimaalsed väärtuspunktid ning pakkumuse sisulist hindamist ei toimu.
+	•	Pakkumuse maksumus peab olema lõplik ja sisaldama kõiki kulusid vastavalt riigihanke alusdokumentidele ning seal nimetamata kulusid, mis on vajalikud lepingu nõuetekohaseks täitmiseks. Negatiivse väärtusega maksumusi ei ole lubatud kasutada ja sellised pakkumused on hankijal õigus lugeda mittevastavaks ning tagasi lükata.
+
+	•	Muud sätted
+	•	Riigihankes saavad pakkujate, taotlejate või isikutena, kelle näitajatele pakkuja või taotleja tugineb, osaleda ainult ettevõtjad, kelle elu- või asukoht on Eestis, mõnes muus Euroopa Liidu liikmesriigis, muus Euroopa Majanduspiirkonna lepinguriigis või Maailma Kaubandusorganisatsiooni riigihankelepinguga ühinenud riigis.
+	•	Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule või tootmisviisile, tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“.
+	•	Kui pakkuja pakub tehnilises kirjelduses nimetatule samaväärset lepingu eset, tuleb teha sellekohane märge pakkumuses ning esitada koos pakkumusega samaväärsust tõendavad andmed, dokumendid jms.
+	•	Riigihanke alusdokumendid on koostatud eesti keeles. 
+	•	Riigikantselei sõlmib eduka pakkujaga lepingu. Lepingu projekt on toodud riigihanke alusdokumentides. 
+	•	Pakkuja, kellel esineb vähemalt üks RHS § 95 lõike 1 punktides 1–3 ja RHS § 95 lõike 4 punktides 2–11 nimetatud kõrvaldamise alustest, võib riigihankes esitada tõendid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Sellisteks meetmeteks võivad olla näiteks süüteoga põhjustatud kahju hüvitamine või vastava kohustuse võtmine, uurimisasutustega aktiivse koostöö tegemine ja teo asjaolude põhjalik selgitamine või tehnilised ning organisatsiooni ja töötajatega seotud meetmed, mis võimaldavad edasisi süütegusid ära hoida. Hankija hindab esitatud tõendeid ja kui ta leiab, et nimetatud tõendid on piisavad pakkuja usaldusväärsuse tõendamiseks, ei kõrvalda hankija pakkujat sellekohase põhjendatud kirjaliku otsusega hankemenetlusest ja võib sõlmida lepingu pakkujaga, vaatamata kõrvaldamise aluse olemasolule. Hankija kohaldab heastamise korral RHS §-is 97 sätestatut.
+
+
+=== 8938504_MUUDETUD_Raamlepingu_projekt_1512.docx ===
+RAAMLEPINGU PROJEKT 
+
+
+Riigikantselei, registrikood 70004809, asukoht Rahukohtu 3, Tallinn (edaspidi tellija), mida esindab riigisekretäri 5. jaanuari 2010. a käskkirja nr 1 “Strateegiabüroo põhimäärus” alusel strateegiadirektor Mari-Liis Sööt
+ja 
+………….., registrikood ……, asukoht ……. (edaspidi töövõtja), mida esindab …….. alusel ……….,
+edaspidi koos pooled või eraldi pool, sõlmisid raamlepingu alljärgnevas:
+
+
+	•	Üldsätted
+	•	Raamleping on sõlmitud riigihanke „Autonoomne mehitamata õhusõiduki süsteem linnaruumis (Riigikantselei)“ (viitenumber 296364) (edaspidi riigihange) tulemusena. 
+	•	Kui ei ole märgitud teisiti, kasutatakse raamlepingus mõistet „leping“ raamlepingu tähenduses.
+1.3	Tööd kaasrahastatakse Euroopa Liidu ühtekuuluvuspoliitika 2021-2027 perioodi meetme „Avaliku sektori innovatsioonivõimekuse tõstmine“ vahenditest.
+	•	Lepingu lahutamatuteks osadeks, on järgmised:
+	•	lepingu muudatused;
+	•	käesolev lepingu põhitekst koos lisadega;
+	•	tellija poolt riigihanke menetluses antud selgitused ulatuses, milles need ei muuda, vaid üksnes täpsustavad või selgitavad riigihanke alusdokumente;
+	•	muud riigihanke alusdokumendid, sh tehniline kirjeldus koos selle lisadega;
+	•	töövõtja pakkumus riigihankes.
+	•	Kui lepingu dokumentide vahel esineb vastuolusid, lähtutakse prioriteetsuse määramisel eelmises punktis toodud lepingu dokumentide loetelu järjekorrast (loetelus eespool asetsev lepingu dokument on prioriteetsem järgneva suhtes). Riigihanke alusdokumentide vastuolude korral on nende prioriteetsuse järjekord järgmine: hanketeade, lepingu eseme tehniline kirjeldus, muud riigihanke alusdokumendid.
+
+	•	Raamlepingu eesmärk ja ese
+	•	Lepingu eesmärk on määrata kindlaks lepingu esemeks oleva töö osutamise peamised tingimused raamlepingu kehtivuse ajal ning tellija poolt töövõtjale esitatavate tellimuste kord. 
+	•	Lepingu esemeks on vastavalt tellija vajadustele rakendusuuring  koos analüüside ja autonoomse mehitamata õhusõiduki süsteemi prototüübi soetamise ja testimisega linnaruumis (edaspidi töö). Töö täpsem kirjeldus on toodud riigihanke alusdokumentides ja töövõtja pakkumuses.
+	•	Riigihanke alusdokumentides toodud tellitava töö tulemite kirjeldused on ligikaudsed. Tellijal on õigus neid lepingu täitmise käigus vastavalt vajadusele ja kooskõlas lepingu ning riigihangete seadusega muuta. 
+	•	Lepingule allakirjutamisega kinnitab töövõtja, et ta on võimeline tähtaegselt tegema riigihanke alusdokumentides määratud töö vastava tellimuse saamisel. 
+
+	•	Tellimuse esitamine raamlepingu alusel
+	•	Tellija esitab tellimusi vajaduspõhiselt lepingu kehtivuse perioodil. Tellimus esitatakse kirjalikku taasesitamist võimaldavas vormis töövõtja esindaja e-posti aadressile. 
+	•	Tellimusega esitatakse tellitava töö etapi nimetus, tähtaeg, maksumus ning vajalikud täpsustused etapi teostamiseks ning muu vajalik ja asjakohane info. 
+	•	Tellimuse kättesaamisest teavitab töövõtja tellijat e-posti teel hiljemalt tellimuse esitamisele järgneval tööpäeval. 
+	•	Töövõtja esitab tellimuse põhjal pakkumuse prototüübi testimiseks viie tööpäeva jooksul, mis sisaldab testimisplaani ning testimise tundide arvu, tellimuse maksumust ja/või maksumuse vahemikku. 
+	•	Tellimuse maksumus peab moodustuma vastavalt lepingu punktis 5 kokku lepitud hindadele ja peab olema selgelt aru saada, kuidas maksumus on moodustunud. 
+	•	Projektiplaan kajastab tellimuses ja hanke alusdokumentides kirjeldatud tegevusi. Projektiplaanis on arvestatud tegevuste loogilisi järgnevusi ja omavahelisi sõltuvusi. Tegevused on lahti kirjutatud lepingu kvaliteetseks täitmiseks vajaliku detailsusega (vähemalt kuu täpsusega), planeeritud on puhverajad (nt pühad, puhkused), iga tegevuse juures on märgitud töö maht ja vastutajad, välja on pakutud töö tulemite üleandmise tähtajad.
+	•	I etapp – teoreetiline analüüs ja rakendusuuring; 
+3.6.2	II etapp – prototüübi testimine.
+	•	Tellija hindab pakkumuse vastavust tellimusele ja hanke alusdokumentidele ning sobivuse korral kinnitab pakkumuse.
+	•	Tellimus, tellimuse kättesaamise kinnitus, pakkumus ja pakkumuse kinnitus esitatakse kirjalikku taasesitamist võimaldavas vormis.
+
+	•	Töö teostamine ja üleandmine
+	•	Töö teostamine toimub vastavalt tellimuse dokumentidele, sh tehnilisele kirjeldusele, lähteülesandele ja pakkumusele.
+	•	Töövõtjal on õigus nõuda töö lõpptähtpäeva või vahetähtaegade muutmist, kui see on tingitud tellija viivitusest omapoolsete kohustuste täitmisel või kui tellija muudab töö aluseks olevad lähteandmeid või kui tegemist on vääramatust jõust tingitud mõjuga. Töö vahetähtaja muutmisel ei muutu töö lõpptähtpäev, kui pooled ei ole kokku leppinud teisiti. Kõik töö tähtaegu puudutavad muudatused vormistatakse kirjalikult tellimuse lisana. 
+	•	Töövõtja esitab tellijale tellimuses kokku lepitud regulaarsusega vahearuande teostatud töö ja läbi viidud tegevuste kohta. Vahearuandes tuleb välja tuua ka kokkulepitud aja- ja tegevuskavast kinnipidamine või probleemid, mis seda takistavad. Tellijal on õigus esitatud vahearuande põhjal anda töövõtjale juhiseid, teha märkusi töö nõuetekohaseks teostamiseks või teha ettepanekuid tegevus- ja ajakava ning töö teostamise metoodika kohandamiseks. Vahearuanne tuleb esitada tellija kontaktisiku e-posti aadressile. 
+	•	Töö üleandmine tellijale toimub vastavalt poolte poolt tellimuses kokku lepitud ajakavale. 
+	•	Tellijal on õigus anda töövõtjale juhiseid, teha märkusi ja ettepanekuid töö nõuetekohaseks teostamiseks, tegevus- ja/või ajakava kohandamiseks, töö teostamise metoodika kohandamiseks, analüüsiküsimuste täpsustamiseks vms. Tellija juhised, märkused ja ettepanekud on töövõtjale täitmiseks kohustuslikud, kui töövõtja ei esita kolme tööpäeva jooksul neile vastuväiteid koos põhjendustega. Vastuväidete esitamine ei mõjuta töövõtja vastutust töö lepingutingimustele vastavuse eest.
+	•	Töövõtja kohustub teostama töö tähtaegselt, kvaliteetselt ning kooskõlas lepingus sätestatuga. Lepingus sätestamata omaduste osas peab töö olema vähemalt keskmise kvaliteediga ja vastama sarnastele töödele tavaliselt esitatavatele nõuetele. 
+	•	Töövõtja peab lepingu täitmise käigus teostama kõik tööd ja toimingud, mis ei ole lepingus otsesõnu sätestatud, kuid mis oma olemuselt kuuluvad lepingu täitmisega seotud töö hulka või on vajalikud töö nõuetekohaseks teostamiseks.
+	•	Töövõtja tagab, et temal, tema alltöövõtjatel ja töötajatel on lepingu täitmise perioodil olemas kõik vajalikud registreeringud, sertifikaadid, litsentsid, load või nõusolekud, kui need on õigusaktidest või lepingus sätestatust tulenevalt vajalikud või vastava töö puhul nende olemasolu eeldatakse välja arvatud need, milliste saamine on ette nähtud käesoleva projekti esimese etapi rakendusuuringu tulemusena. 
+	•	Töövõtja kutse- või majandustegevuses tegutseva isikuna peab teostama töö vastavalt oma erialastele teadmistele, oskustele ja võimetele, kasutades lepingus sätestatud töö teostamisel tööjõudu, kelle koolitus, oskused ja kogemused vastavad töö ulatusele, iseloomule ja keerukusele. 
+	•	Töövõtja kohustub töö teostamisel kasutama isikuid, kelle ta nimetas riigihankes esitatud pakkumuses. Meeskonnaliikmete vahetumise korral peab töövõtja tagama, et töid teostavad vähemalt pakkumuses esitatud meeskonnaliikme kogemusega võrreldavad isikud.   Töövõtja peab meeskonnaliikme vahetumisest või vahetamise vajadustest  tellijat teavitama esimesel võimalusel ning esitama tellijale uue meeskonnaliikme kogemust tõendava info. Meeskonnaliikmete vahetamiseks on vajalik tellija nõusolek.
+	•	Suhtlemine poolte vahel toimub eesti keeles. Kui meeskonnaliige ei valda eesti keelt sujuvaks suhtluseks piisaval tasemel, peab töövõtja tagama omal kulul tõlke olemasolu suuliseks ja kirjalikuks suhtlemiseks meeskonnaliikme ja muude isikute vahel või pooled võivad leppida kokku osalises ingliskeelses suhtluses. Juhul kui kasutatakse tõlki, peab tõlk olema kompetentne lepingu eseme tehnilise teksti tõlkimisel.  
+	•	Pooled on kohustatud teavitama teist poolt viivitamatult asjaoludest, mis takistavad või võivad takistada kohustuse nõuetekohast ja õigeaegset täitmist. Kui töö nõuetekohast teostamist takistab tellijast tulenev asjaolu, peab töövõtja sellest tellijat teavitama hiljemalt 5 tööpäeva jooksul. Kui töövõtja ei teavita tellijat sellest kokkulepitud aja jooksul, kaotab töövõtja õiguse nõuda tellija tegevusega seonduvalt töö tähtaegade muutmist.
+	•	Töövõtja tagab valmis töö vastavuse Vabariigi Valitsuse 12. mai 2022. a määruses nr 54 „Perioodi 2021–2027 ühtekuuluvus- ja siseturvalisuspoliitika fondide vahendite andmisest avalikkuse teavitamine“ esitatud nõuetele ning lisaks kasutama viidet "Projekti rahastab Riigikantselei avaliku sektori innovatsioonifond“. 
+	•	Töövõtja esitab valmis töö tellijale ülevaatamiseks ja vastuvõtmiseks. Töö üleandmine fikseeritakse töö üleandmise-vastuvõtmise aktiga. Tellija kontrollib teostatud töö vastavust lepingus sätestatule 14 kalendripäeva jooksul, mil ta võtab töö vastu või esitab motiveeritud pretensiooni, miks ta tööd vastu ei võta. Tellijal on õigus mõjuval põhjusel töö ülevaatamise tähtaega pikendada 7 kalendripäeva võrra, sh kui töös on olulisi puudusi, teavitades sellest töövõtja kontaktisikut.
+	•	Tellijal on õigus keelduda töö vastuvõtmisest, kui töö ei vasta lepingus sätestatule. 
+	•	Pretensioonis fikseeritakse tuvastatud puudused ja määratakse tähtaeg puuduste kõrvaldamiseks. Tellija võib nõuda puudustega töö parandamist või uue töö teostamist, kui sellega ei põhjustata töövõtjale ebamõistlikke kulusid või põhjendamatuid ebamugavusi. Kui töövõtja rikub lepingust tulenevat kohustust, mille heastamine ei ole võimalik või kui tellijal ei ole heastamise vastu huvi, tähtaega puuduste kõrvaldamiseks ei määrata. Sellisel juhul on tellijal õigus jätta töö vastu võtmata või võtta töö vastu puudustega ja kasutada õiguskaitsevahendeid. 
+	•	Kui töövõtja ei ole pretensiooniga nõus, on töövõtjal õigus tellida töö vastavuse hindamiseks ekspertiis mõlema poole poolt aktsepteeritud sõltumatult eksperdilt. Kui töö vastuvõtmisest keeldumine osutub ekspertiisi tulemusel põhjendamatuks, hüvitab tellija töövõtjale ekspertiisikulud. Kui ekspertiis kinnitab töö mittevastavust, jäävad ekspertiisikulud töövõtja kanda. Kui ekspertiisikulud tuleb osaliselt või tervikuna kanda etteulatuvalt, tasub need sel hetkel töövõtja kui ekspertiisi tellija ning hiljem, sõltuvalt ekspertiisi tulemusest, toimub vajadusel ekspertiisikulude hüvitamine või tasaarvestus vastavuses käesoleva punkti teises ja kolmandas lauses sätestatuga. 
+	•	Tellijal ei ole õigust esitada pretensiooni, kui puudused töö kvaliteedis on tingitud tellija poolt antud sisendi ebasobivusest või puudustest eeltöödes ning töövõtja oli tellijat sellest eelnevalt teavitanud vastavalt lepingus sätestatule.
+	•	Kui tellija ei esita pretensiooni lepingus sätestatud tähtaja jooksul, loetakse töö tellija poolt vastuvõetuks. 
+	•	Töö vastuvõtmisest läheb tellijale üle töö juhusliku hävimise või kahjustumise riisiko.
+
+	•	Lepingu hind ja tasumise tingimused
+	•	Lepingu maksimaalne kogumaksumus on 480 000 eurot (lepingu hind), millele lisandub käibemaks õigusaktides sätestatud korras. Tellijal ei ole kohustust tellida töid lepingu maksimaalse kogumaksumuse mahus, töid tellitakse vastavalt tellija tegelikule vajadusele. Tellija tasub töövõtjale teostatud töö eest vastavalt pakkumuses fikseeritud hindadele:
+	•	Esimese etapi maksumus … eurot, millele lisandub käibemaks;
+	•	Prototüübi testimise tunnihind teise etapi teostamiseks … eurot, millele lisandub käibemaks. 
+	•	Nimetatud hinnad on fikseeritud ning neid ei või tõsta lepingu täitmise jooksul.
+	•	Tellija tasub lepingu hinna mõlema etapi lõpus, pärast töö vastuvõtmist tellija poolt vahemaksetena järgmiselt:
+	•	esimese etapi tööde vastuvõtmise järel vastavalt pakkumuses kokku lepitud maksumusele;
+	•	teise etapi tööde vastuvõtmise järel vastavalt töötundidele tehtud töö alusel. 
+	•	Lepingu hind on lõplik ning sisaldab kõiki lepingu täitmise kulusid, sh tasu intellektuaalomandiõiguste eest. 
+	•	Töövõtja esitab tellijale arve e-arvena. Arvele tuleb märkida riigihanke viitenumber 296364, 15-kohaline lepinguosa viitenumber (leitav riigihangete registrist lepingu juurest) ja tellija ja töövõtja kontaktisikute andmed.
+	•	Tellija tasub töövõtjale 14 kalendripäeva jooksul nõuetekohase arve saamisest. 
+
+	•	Alltöövõtt
+	•	Töövõtja kohustub esitama pärast lepingu sõlmimist riigihangete registri töölehel „Alltöövõtjad“ iga oma alltöövõtja, kellega sõlmitud alltöövõtulepingu käibemaksuta maksumus ületab 50 000 eurot, nime ja registrikoodi ning alltöövõtulepingu nimetuse, kuupäeva, numbri ja summa.
+	•	Töövõtja võib lepingu täitmisel kasutada ainult RHS § 3 p-s 2 viidatud riikidest pärit alltöövõtjaid ja tarnijaid.  
+
+	•	Poolte vastutus ja vääramatu jõud 
+	•	Pooled vastutavad lepingust tulenevate kohustuste täitmata jätmise või mittekohase täitmisega teisele poolele tekitatud kahju eest täies ulatuses.
+	•	Kui töövõtja ei anna tööd tellijale üle või töö ei vasta lepingutingimustele, on tellijal lisaks muude õiguskaitsevahendite kasutamisele õigus nõuda töövõtjalt leppetrahvi 0,5% lepingu hinnast iga rikkumise kohta. 
+	•	Töö teostamise mis tahes tähtajast või lepingu alusel esitatud pretensioonis määratud tähtajast mittekinnipidamise korral on tellijal õigus nõuda töövõtjalt leppetrahvi 0,1% lepingu hinnast iga viivitatud päeva eest, kuid käesoleva punkti alusel kokku mitte rohkem kui 20% lepingu hinnast.
+	•	Kui tellija viivitab lepingus sätestatud rahaliste kohustuste täitmisega, on töövõtjal õigus nõuda tellijalt viivist 0,1% tähtajaks tasumata summalt päevas, kuid mitte rohkem kui 20% lepingu hinnast.
+	•	Lepingus sätestatud konfidentsiaalsuskohustuse rikkumisel töövõtja või tema esindajate, töötajate, lepingupartnerite ning muude isikute poolt, keda ta oma kohustuste täitmisel kasutab, on tellijal igakordselt õigus nõuda töövõtjalt leppetrahvi kuni 10 000 eurot ja/või leping üles öelda. 
+	•	Poolel tuleb teavitada teist poolt leppetrahvi nõudmisest 90 päeva jooksul alates lepingu rikkumise lõppemisest.
+	•	Leppetrahvi nõudmine ei mõjuta õigust kasutada teisi õiguskaitsevahendeid. Kõik leppetrahvid on kokku lepitud eesmärgiga tagada kohustuse täitmist, mitte eesmärgiga asendada kohustuse täitmist.
+	•	Leppetrahvid ja viivised tuleb tasuda 14 kalendripäeva jooksul vastava nõude saamisest. Tellijal on õigus töö eest tasumisel tasaarvestada leppetrahvisumma lepingu alusel tasumisele kuuluva summaga.
+	•	Lepingu oluliseks rikkumiseks, mis annab tellijale õiguse leping  üles öelda või lepingust taganeda, loetakse muu hulgas, kuid mitte ainult järgmisi rikkumisi:
+	•	töövõtja töös esinevad korduvad kvaliteediprobleemid, mille pinnalt on alust arvata, et töövõtja ei suuda teostada nõuetele vastavat tööd;
+	•	töövõtja ei pea lepingu täitmisel kinni tellija juhistest või õigusaktiga töö teostamisele kehtestatud nõuetest ja töövõtja ei lõpeta rikkumist tellija poolt määratava 14-päevase täiendava tähtaja jooksul;
+	•	töövõtjal on tekkinud töö teostamisel mahajäämus, mis ei ole tingitud vääramatust jõust,  enam kui 30 päeva ja töövõtja ei lõpeta rikkumist tellija poolt määratava mõistliku pikkusega täiendava tähtaja jooksul;
+	•	töövõtja rikub lepingus sätestatud andmekaitse- või intellektuaalomandiõiguse nõudeid ja töövõtja ei lõpeta rikkumist tellija poolt määratava 14-päevase täiendava tähtaja jooksul;
+	•	rahastaja tingimuste (sh teavitamine, vormistamine ja sümboolika) mittejärgimine ja töövõtja ei lõpeta rikkumist tellija poolt määratava 14-päevase täiendava tähtaja jooksul;
+	•	töövõtja on esitanud lepingu sõlmimisel või lepingu täitmise käigus valeandmeid;
+	•	töövõtjal puuduvad vajalikud registreeringud, sertifikaadid, litsentsid, load või nõusolekud (välja arvatud sellised, mille saamine on käesoleva projekti tegevuste üheks osaks), sh kui pädev asutus teeb töövõtja suhtes tegevusloa andmisest keeldumise, kehtetuks tunnistamise või kehtivuse peatamise otsuse või kui töövõtja tegevusloa kehtivus lõpeb lepingu kehtivuse ajal.
+	•	Lepingu oluliseks rikkumiseks, mis annab töövõtjale õiguse leping erakorraliselt lõpetada, loetakse olukorda, kus:
+	•	tellija viivitab töövõtja arve tasumisega enam kui 21 päeva ja tellija ei lõpeta rikkumist töövõtja poolt määratava mõistliku pikkusega täiendava tähtaja jooksul;
+	•	töö teostamine muutub võimatuks tellija poolse lepingu rikkumise tõttu ja tellija ei lõpeta rikkumist töövõtja poolt määratava mõistliku pikkusega täiendava tähtaja jooksul.
+	•	Kui tellija ütleb lepingu üles korraliselt VÕS § 655 alusel või kui töövõtja lõpetab lepingu erakorraliselt, on tellijal kohustus tasuda töövõtjale töö eest tasu proportsionaalselt lepingu lõppemise hetkeks teostatud ja tellijale üle antud tööga. 
+	•	Kui töövõtja ei täida lepingut nõuetekohaselt ja/või ei järgi töö teostamisel lepingu rahastaja tingimusi (sh teavitamine, vormistamine ja sümboolika) ja selle tõttu tehakse tellijale toetuse vähendamise või tagasinõude otsus, on tellijal õigus töövõtjalt tagasi nõuda mitteabikõlblikud kulud tagasimakse nõude ulatuses. 
+	•	Töövõtjal ei ole VÕS §-s 654 sätestatud pandiõigust.
+	•	Pooled ei vastuta lepingust või õigusaktidest tuleneva kohustuse rikkumise eest, kui kohustuse rikkumise põhjustas vääramatu jõud. Vääramatu jõu ja rikkumise vabandatavuse osas kohaldavad pooled VÕS §-s 103 sätestatut.
+	•	Vääramatu jõuna ei käsitleta pakkumuste esitamise tähtpäeva seisuga õigusaktidega kehtestatud piiranguid. Vääramatu jõu kohaldumise üheks eelduseks on asjaolu ettenägematus. Pakkumuste esitamise tähtpäeva seisuga kehtivad piirangud olid lepingu pooltele teada ning kõik tegevused planeeriti arvestades pakkumuste esitamise tähtpäeva seisuga kehtivat olukorda.
+	•	Kui kehtestatakse täiendavaid piiranguid, mis takistavad lepingu täitmist, on poolel õigus tugineda vääramatule jõule, kui kõik vääramatule jõule tuginemise eeldused on täidetud.
+	•	Seoses töö tegemist takistada võiva pandeemia või muu kriisiga on vääramatuks jõuks üksnes see, kui töö tegemist takistab riigiasutuse kohustusliku iseloomuga korraldus või muu regulatsioon. Riigiasutuste soovitused ei ole vääramatuks jõuks.
+	•	Kui lepingu täitmine on takistatud vääramatu jõu mõju tõttu, lükkuvad lepingus sätestatud tähtajad edasi aja võrra, mil vääramatu jõud kohustuse täitmist takistas.
+
+	•	Intellektuaalomandiõigused 
+	•	Kui lepingu täitmise käigus luuakse autoriõigusega kaitstavaid teoseid (edaspidi teos), siis loetakse arvates teose tellijale üleandmisest, et töövõtja annab teose suhtes kehtivate autori varaliste ja isiklike õiguste osas tellijale automaatselt ja ilma selle eest eraldi tasu saamata kogu asjaomaste õiguste tähtaja jooksul kehtiva, tagasivõtmatu ja all-litsentsi andmise õigusega lihtlitsentsi. Juhul kui Eesti õigus peaks osalt või täielikult keelama eelnimetatud tingimustel isiklike autoriõiguste litsentseerimise, siis loetakse, et litsents on antud kõige laiematel tingimustel, mida Eesti õigus võimaldab (see hõlmab iga üksiku isikliku õiguse kaupa nii litsentsitüüpi, litsentsi territooriumi, tähtaega, tagasivõetavust kui all-litsentseeritavust).  Tellijale antavad litsentsid ei piira mingil moel teose kasutamise viisi ega nõua tellija poolt töö kasutamiseks töövõtja täiendavat või eelnevat luba. Tellija poolt tehtud teose hilisemate muudatuste, lisanduste, paranduste jms puhul peab olema selgelt aru saada, et nende autoriks ei ole töövõtja ega viimase heaks tegutsenud füüsiline isik.
+	•	Töövõtja kinnitab ja tagab, et tal on lepingut sõlmides või ta omandab lepingu täitmise käigus kõik vajalikud õigused, et teha võimalikuks teose suhtes kehtivate autoriõiguste õiguspärane edasivõõrandamine või litsentseerimine tellijale käesolevas peatükis sätestatud moel. Tellijal on õigus töövõtja poolt käesoleva punkti esimeses lauses nimetatud kohustuse täitmist kontrollida, nõudes selleks töövõtjalt mõistliku aja jooksul selgitusi ja dokumente.
+	•	Kui töövõtja poolt tellijale üleantav töö sisaldab ka intellektuaalomandiõigusi, mis ei pärine algupäraselt töövõtjalt või tema heaks tegutsevatelt füüsilistelt isikutelt (nt autoriõigusega kaitstavad teosed, mille on loonud töövõtjaga mitteseotud kolmandad osapooled), siis kohustub töövõtja tagama, et ta on omandanud kõik vajalikud õigused, et anda tellijale edasi sellises mahus intellektuaalomandiõigused, mis võimaldavad tellijal tööd sihtotstarbeliselt, ilma tähtajaliste piiranguteta ja ilma ühelegi kolmandale osapoolele tasu maksmata kasutada.
+	•	Kui töövõtja rikub eelmises kahes punktis sätestatud kohustust tagada endal vajalike intellektuaalomandiõiguste olemasolu tellijale edasiandmiseks või kui töövõtja rikub lepingu täitmisel mistahes moel kolmandate isikute intellektuaalomandiõigusi ning sellega kaasneb tellijale kahju, on töövõtja kohustatud selle kahju täies mahus hüvitama.    
+	•	Kui lepingu täitmise käigus luuakse kaitstavat tööstusomandit (sealhulgas, kuid mitte ainult patent, kasulik mudel ja tööstusdisainilahendus), kuulub õigus selle registreerimisele ainuisikuliselt tellijale.
+	•	Töövõtja kinnitab lepingu allkirjastamisega, et ta ei riku lepingu täitmisel kolmandate isikute intellektuaalomandiõigusi. Kui selle kohustuse rikkumisel töövõtja poolt tekib tellijale kahju, on töövõtja kohustatud selle kahju hüvitama.
+	•	Töövõtja tasu kõigi käesolevas peatükis sätestatud intellektuaalomandiõiguste võõrandamise või litsentseerimise eest sisaldub lepingu hinnas ning töövõtjal ei teki käesoleva peatüki alusel täiendavat tasunõuet tellija vastu.
+
+	•	Teadete edastamine 
+	•	Mõjutamata eespool punktis 3 sätestatut, toimub lepingu raames teadete edastamine üldjuhul kirjalikku taasesitamist võimaldavas vormis. Juhul kui teate edastamisel on olulised õiguslikud tagajärjed, muu hulgas näiteks poolte lepingu lõpetamise avaldused, samuti poole nõue teisele poolele, mis esitatakse tulenevalt lepingu rikkumisest, peavad teisele poolele edastatavad teated olema edastatud kirjalikus vormis. Kirjaliku vormiga on võrdsustatud digitaalselt allkirjastatud vorm. 
+	•	Lepinguga seotud teated edastatakse teisele poolele lepingus sätestatud kontaktisiku kontaktandmetel. Kontaktandmete muutusest on pool kohustatud koheselt informeerima teist poolt. Kuni kontaktandmete muutusest teavitamiseni loetakse teade nõuetekohaselt edastatuks, kui see on saadetud poolele lepingus märgitud kontaktandmetel.
+	•	Kirjalik teade loetakse poole poolt kättesaaduks, kui see on üle antud allkirja vastu või kui teade on saadetud postiasutuse poolt tähitud kirjaga poole poolt teatatud aadressil ja postitamisest on möödunud 5 (viis) kalendripäeva. E-posti teel, sh digitaalselt allkirjastatud dokumentide saatmise korral loetakse teade kättesaaduks e-kirja saatmisele järgneval tööpäeval. 
+
+	•	Poolte kontaktisikud 
+	•	Tellija kontaktisik lepingu täitmisega seotud küsimustes on ___, tel ___, e-post ___. Tellija kontaktisikul on õigus esindada tellijat kõikides lepingu täitmisega seotud küsimustes. Lepingu muutmise, lepingu lõpetamise ning õiguskaitsevahendite kasutamise osas on tellija kontaktisikul õigus esindada tellijat ainult tellija esindusõigusliku isiku kirjaliku volituse olemasolul.
+	•	Töövõtja kontaktisik lepingu täitmisega seotud küsimustes on ___, tel ___, e-post ___. Töövõtja kontaktisikul on õigus esindada töövõtjat kõikides lepingu täitmisega seotud küsimustes. Lepingu muutmise, lepingu lõpetamise ning õiguskaitsevahendite kasutamise osas on töövõtja kontaktisikul õigus esindada töövõtjat ainult töövõtja esindusõigusliku isiku kirjaliku volituse olemasolul.
+
+	•	Konfidentsiaalsus ja andmekaitse
+	•	Töövõtja kohustub tagama, et tema esindajad, töötajad, lepingupartnerid ning muud isikud, keda ta oma kohustuste täitmisel kasutab, oleksid lepingus sätestatud konfidentsiaalsuse kohustusest teadlikud ning nõudma nimetatud isikutelt selle kohustuse tingimusteta ja tähtajatut täitmist. 
+	•	Lepingu täitmisel töövõtjale või töövõtjaga seotud isikutele teatavaks saanud isiku- ja turvaandmed ning muu vastavalt markeeritud teave ja asjaolud, mille avalikuks tulek võiks kahjustada tellija huve, on konfidentsiaalne. Vastavasisulise informatsiooni kolmandale isikule kättesaadavaks tegemist töövõtja või töövõtjaga seotud isiku poolt käsitletakse kui lepingu olulist rikkumist. Lepingu alusel konfidentsiaalseteks andmeteks loetakse ka vahetult töö teostamisega tellija kohta töövõtjale teatavaks saanud teavet. Töövõtjal ei ole õigust nimetatud teavet avaldada ega muul viisil töödelda. 
+	•	Töövõtja võib avaldada konfidentsiaalset informatsiooni, sealhulgas isikuandmeid üksnes nendele isikutele, kellele informatsiooni avaldamise kohustus tuleneb õigusaktidest, ning seda tingimusel, et avaldatakse vaid vältimatult vajalik hulk informatsiooni, tagades maksimaalses võimalikus ulatuses informatsiooni konfidentsiaalsus, või isikutele, kes seda teavet vajavad käesoleva lepingu täitmiseks ja keda on teavitatud, et selline informatsioon on konfidentsiaalne ja nad on seotud konfidentsiaalsuskohustusega. 
+	•	Konfidentsiaalne informatsioon ei hõlma endas informatsiooni, mis on avalik, st üldsusele teada. Töövõtja võib konfidentsiaalset informatsiooni kasutada üksnes kitsalt käesoleva lepingu täitmiseks ning töövõtjal ei ole õigust kasutada konfidentsiaalset informatsiooni muul eesmärgil, sh kasu saamise eesmärgil või kolmandate isikute huvides. 
+	•	Töövõtja kohustub tagama lepingu täitmise käigus isikuandmete töötlemise õiguspärasuse ning vastavuse isikuandmete kaitse üldmääruses (EL 2016/679) ja teistes andmekaitse õigusaktides sätestatud nõuetele, sh rakendama organisatsioonilisi, füüsilisi ja infotehnoloogilisi turvameetmeid konfidentsiaalsete andmete kaitseks juhusliku või tahtliku volitamata muutmise, juhusliku hävimise, tahtliku hävitamise, avalikustamise jms eest. Kui kolmandale isikule avaldatakse lepingus sätestatud või õigusaktist tulenevate kohustuste täitmiseks isikuandmeid, on töövõtja kohustatud tagama, et isik, kellele isikuandmeid avaldatakse, järgib lepingus ja õigusaktides sätestatud isikuandmete töötlemise nõudeid. Pooled sõlmivad lepingu lisana andmetöötluslepingu, kui see on konkreetse lepingu kontekstis vajalik.
+	•	Töövõtjal ega töövõtjaga seotud isikutel ei ole õigust anda lepingu raames teateid pressile, meediale, üldsusele või teistele auditooriumidele ilma tellija eelneva kirjalikku taasesitamist võimaldavas vormis antud nõusolekuta.  Meediapäringute korral tuleb töövõtja vastus kooskõlastada tellijaga. 
+
+	•	Raamlepingu kehtivus, muutmine ja lõpetamine
+	•	Leping jõustub allkirjastamisest ja kehtib 27  kuud lepingu jõustumisest või kuni lepingu maksimaalse kogumaksumuse täitumiseni, sõltuvalt sellest, kumb asjaolu saabub enne. Lepingu lõppemine ei mõjuta selliste kohustuste täitmist, mis oma olemuse tõttu kehtivad ka pärast lepingu lõppemist. 
+	•	Töövõtja ei tohi lepingust tulenevaid kohustusi üle anda ega muul viisil loovutada kolmandale isikule ilma teise poole eelneva kirjaliku nõusolekuta.
+	•	Pooled võivad lepingut muuta riigihangete seaduses sätestatud tingimustel. 
+	•	Tellijal on lisaks seaduses sätestatud juhtudele õigus leping ette teatamata ühepoolselt lõpetada ka olukorras, kus töövõtja on muutunud maksejõuetuks, töövõtja suhtes on algatatud pankrotimenetlus või välja kuulutatud pankrot, ning olukorras, kus töövõtja varad arestitakse või finantsseisund halveneb tellija põhjendatud hinnangul oluliselt ja see halvenemine muudab vähetõenäoliseks lepingu nõuetekohase täitmise.
+	•	Kui tellija otsustab lähtudes lepingu punktist 3.1 järgmist tellimust mitte esitada on tal õigus leping üles öelda, teatades töövõtjale sellest 30 kalendripäeva ette. 
+	•	Töövõtjal on õigus lõpetada leping või tellimus ennetähtaegselt, teatades sellest tellijale kirjalikult ette vähemalt 30 kalendripäeva, kui tellija keeldub nõuetekohaselt valmistatud tööde eest tasu maksmisest ning sellisel juhul on töövõtjal õigus nõuda tasu vaid lepingu või tellimuse ülesütlemise hetkeks faktiliselt tehtud tööde eest. Lepingu lõpetamine ei muuda kehtetuks lepingu alusel esitatud tellimusi.
+
+
+	•	Lõppsätted
+	•	Töövõtja esitab tellijale andmed 12 kuu jooksul lepingu alusel temaga sõlmitud hankelepingute sõlmimise aja ja maksumuse kohta 15 päeva jooksul pärast iga 12 kuu möödumist lepingu sõlmimisest arvates.
+	•	Pooled juhinduvad lepingu täitmisel Eesti Vabariigis kehtivatest õigusaktidest.
+	•	Töövõtja on teadlik, et leping on avaliku teabe seaduses sätestatud ulatuses avalik. 
+	•	Juhul, kui lepingu mõni säte osutub vastuolus olevaks Eestis kehtivate õigusaktidega, ei mõjuta see ülejäänud sätete kehtivust. 
+	•	Juhul, kui tellitavad tööd on seotud Euroopa Liidu vahenditest rahastatava projekti ja/või programmiga või kui neid rahastatakse struktuuritoetustest, peab töövõtja järgima tööde teostamisel EL struktuuritoetusele viitamise juhendit. Tähistamisega seonduva sümboolika paigutuse ja formaadi peab töövõtja eelnevalt kooskõlastama tellijaga. 
+	•	Lepinguga seotud vaidlused, mida pooled ei ole suutnud läbirääkimiste teel lahendada, antakse lahendamiseks Harju maakohtule.
+	•	Leping on allkirjastatud digitaalselt.
+
+
+
+=== 8938504_MUUDETUD_Tehniline_kirjeldus_1512.docx ===
+TEHNILINE KIRJELDUS
+ Autonoomse mehitamata õhusõiduki süsteemi loomine ja katsetamine linnaruumis
+Projekt viiakse läbi Riigikantselei avaliku sektori innovatsioonifondi tellimusel ja ühtekuuluvuspoliitika fondide rakenduskava aastateks 2021 - 2027 meetme „Avaliku sektori innovatsioonivõimekuse tõstmine“ vahenditest. Projekti algataja ja koostööpartner on Politsei- ja Piirivalveamet.
+	•	Projekti taust ja probleemikirjeldus
+
+Politsei- ja Piirivalveamet (PPA) soovib optimeerida senist sündmustele reageerimist tehnoloogia abil ajal, mil politsei tööjõupuudus aina süveneb. Politseinikke on praegu vähem kui kunagi varem, samas kui ülesandeid on aina enam. Üle Eesti käib iga päev tööl umbes 500 politseinikku, kel pensioniiga juba käes. Lähiaastatel jõuab pensioniikka veel suur hulk politseinikke. Prognooside kohaselt võib kümne aasta pärast olla täitmata enam kui 1000 politseinikukohta ning kõige suurem puudus on just eesliinitöötajatest.
+Hetkel on Harjumaa patrullidel aega käia üksnes kutselt kutsele, mitte patrullida ja tegeleda tõhusa liiklusjärelevalvega. Alamehitatus ja ressursipuudus tähendab tavainimestele, et kuriteod võivad jääda uurimata ning võimalikud korrarikkumised ära hoidmata. Politsei ressursse on oluliselt vajalikum suunata kuritegusid uurima ja avalikku ruumi korda tagama, kui kergemate liiklusavariide dokumenteerimisele, kus kannatada on saanud ainult autokere.
+Iga liiklusõnnetuse puhul, kus osapooled kokkuleppele ei jõua, peab sündmuskohale saabuma politsei. Sellised liiklusõnnetused põhjustavad omakorda liiklusseisakuid, mis tipptunnil päädivad kaosega ja viivad sageli uute liiklusõnnetuste tekkeni. Inimesed kaotavad igapäevaselt oma väärtuslikku aega ummikutes istudes. Harjumaal liigub sündmuskohale kriminalistikagrupp, kes saabub umbes 1-5 tunni jooksul, sõltuvalt sündmuse asukohast. Aastal 2023 reageeris kriminalistikagrupp 455 väljakutsele, millest 176 (38,7%) edastati kindlustusseltsile ja 279 (61,6%) juhul alustas politsei menetlust. Eelmisel (2024) aastal registreeriti 8549 liiklusõnnetusjuhtumit, millest varalise kahjuga oli 6142 õnnetust. Liiklusturvalisus mõjutab kaudselt igat Eestis elavat inimest. Liiklusõnnetustele reageerib hetkel Eestis vaid Politsei- ja Piirivalveamet, mistõttu kasutatakse süvenevas tööjõunappuses asutuse kriitilist inimressurssi ebaefektiivselt. 
+Piiratud ressursiga peavad politseinikud jätkuvalt reageerima kõikidele PPA reageerimist nõudvatele väljakutsetele. Sündmustele reageerimine on kõrgendatud risk ka teistele avalikus ruumis liiklejatele. Kiire kohalejõudmine tuleb ohutuse arvelt, vaatamata sellele, et patrulltoimkonnad on läbinud alarmsõidukite koolituse, ei maanda see riski täielikult. Alati pole võimalik ka ohutult läheneda ning sellistel juhtudel on kasutuses turvavarustus (kilp ja kiiver).  
+Uuenduslike lahenduste ja tehnoloogia kasutuselevõtmine siseturvalisuse tagamisel toetab strateegia „Eesti 2035“ sihti: „Eesti on uuendusmeelne, teadmiste loomist ning kasutamist väärtustav riik, kus ühiskonnaelu korraldatakse uute, inimesekesksete ja tõhusate tehnoloogiate abil“. Uuenduslik lahendus optimeeriks olemasolevat ressurssi, maandaks riske sündmustele reageerimisel ning tõstaks olukorra teadlikkust ja seeläbi suurendaks ohutust.
+
+	•	Projekti eesmärk, ülesanded ja soovitud tulemused 
+
+Riigikantselei (edaspidi tellija) koostöös Politsei- ja Piirivalveameti, Päästeameti ja Transpordiamet (edaspidi partnerid) on algatanud projekti „Autonoomne mehitamata õhusõiduki süsteem linnaruumis“.
+Projekti eesmärk on luua ja katsetada autonoomset mehitamata õhusõiduki süsteemi linnaruumis, mis suudaks asendada PPA patrulltoimkonda sündmustel, kus füüsiliselt politseiametniku kohale saatmine pole vajalik. Teine eesmärk on katsetada süsteemi väljakutsete ohutumaks ja kiiremaks lahendamiseks, pakkudes patrulltoimkonnale olukorrast eelnevat ülevaadet. Lisaväärtusena katsetatakse, kuidas mehitamata õhusõiduki süsteem toetab tõendite kogumist menetlustoimingute ajal.
+Käesoleva hanke eesmärk on viia läbi erinevad analüüsid (vt peatükk nr 3), mille tulemusel saab hakata ette valmistama autonoomse mehitamata õhusõiduki süsteemi soetamist. Hanke tulemiks on rakendusuuring, mille tulemusena on lennuprotseduurid kooskõlastatud Lennuliiklusteeninduse AS-i (EANS) ja Transpordiametiga (TRAM) ning välja on töötatud käitamisprotseduurid. Hanke väljundiks on autonoomse mehitamata õhusõiduki süsteemi prototüübi hanke tehnilise kirjelduse sisendi andmine ning prototüübi hankimise järel kogu süsteemi testimine erinevates stsenaariumides ja ilmastikuoludes. Lisaks tutvustatakse testkeskkonda ja süsteemi käitamist põhjalikult tellijale ja partneritele.
+	•	Esimene etapp. Koosneb teoreetilisest analüüsist ning rakendusuuringust.
+Teoreetilise analüüsi tulemusena peab valmima terviklik lähenemine, mis käsitleb riskide hindamist ning vajalike riskimaandusmeetmete kirjeldust. Analüüsi tulemusena selguvad erinevad asukohad, kus on mehitamata õhusõiduki süsteemist PPA-le kõige rohkem kasu, lisaks valmib ohutu lennumarsruudi valimise mudel, mida saab rakendada igas asukohas. Analüüsi tulemusena valmib ülevaade, kui suurel määral on võimalik kogu protsessi automatiseerida ning milline on kogu süsteemi ülesehitus.
+
+	•	Teoreetilise analüüsi käigus on oluline teada saada:
+	•	Millised nõuded peavad olema täidetud, et mehitamata õhusõiduki süsteemi käitada riikliku asutuse poolt?
+	•	Millised on sellisel viisil mehitamata õhusõiduki käitamisega kaasnevad riskid ja milliseid riskimaandamise meetmeid tuleb rakendada?
+	•	Milline mehitamata õhusõiduki süsteem on kõige sobilikum soovitud eesmärkide saavutamiseks ja sobib kasutamiseks Eesti kliimas ning on tehniliselt vastav kirjeldatud riskimaandamise meetmetele?
+	•	Kuidas vältida võimalikke kokkupõrkeid teiste õhusõidukitega ja mis viisil saab selle aktiivse lennu etapis automatiseerida?
+	•	Millised on sobivaimad rakendustarkvarad lennu planeerimiseks, mehitamata õhusõiduki opereerimiseks ja hilisemalt ka andmete töötlemiseks?
+	•	Kui suurel määral on võimalik olemasoleva tehnoloogia piires kogu lahendus automatiseerida ja mis on vajalik täisautonoomia saavutamiseks?
+	•	Millised on autonoomse ja automaatse süsteemi käitamise erinevused ja keerukused?
+
+	•	Rakendusuuring. Projekti põhitegevuste (autonoomse MÕS-süsteemi testimine) jaoks vajalike eelduste loomiseks viiakse esimese etapina läbi tegevused autonoomse mehitamata õhusõiduki süsteemi käitamiseks vajaliku füüsilise ja metoodilise (sh juriidilise) keskkonna loomiseks. Selleks tuleb läbi viia eelmainitud aspekte hõlmav rakendusuuring.
+
+Rakendusuuring peab olema terviklik ning selle eesmärgiks on välja selgitada: 
+	•	parimad (soodsaimad) maapealsed asukohad droonidoki paigaldamiseks (või mobiilsel platvormil – nt sõidukil - oleva paiknemiseks), arvesse peavad olema võetud ka PPA vahendite füüsilise turbe tagamise aspektid; 
+	•	kõige ohutumad, samas projekti eesmärkide saavutamist võimaldavad käitamiskohad maariske (ground risks) silmas pidades; 
+	•	kõige ohutumad, samas projekti eesmärkide saavutamist võimaldavad õhuruumiosad õhuriske (air risks) silmas pidades; 
+	•	droonidoki koos mehitamata õhusõidukiga käitamiseks vajalikud metoodilised, sh juriidilised protseduurid ja piirangud (doki ja mehitamata õhusõiduki tehnilised käitamisprotseduurid ja –piirangud tulenevad valmistajatehase käsiraamatutest). Protseduuride ja juhiste väljatöötamine peab hõlmama ka õigusaktidega ettenähtud juhtudel nende kooskõlastamist transpordiameti ja/või muude asjaomaste asutuste / struktuuridega (nt kohalik omavalitsus, Tarbijakaitse ja Tehnilise Järelevalve Amet, Andmekaitse Inspektsioon jt)
+
+Rakendusuuringu tulemusena selgitatakse välja projekti teise etapi tegevuste läbiviimiseks sobivad, lennunduslikult aktsepteeritava vähima õhu- ja maariskiga asukohad ning valmib autonoomse mehitamata õhusõiduki süsteemi linnaruumis käitamise metoodika ja käitamisprotseduurid. Rakendusuuringus valminud käitamisprotseduurid kooskõlastatakse TRAM-i ja EANS-iga. 
+Enne testperioodi algust on analüüsi- ja rakendusuuringu tulemustest koostatud sisend prototüübi süsteemi hankimiseks. Teise etapi alustamist otsustab tellija. Kui tulemused ei soosi järgmist etappi, loetakse projekt lõppenuks.
+
+	•	Teine etapp. Koosneb prototüübi testimisest. 
+Testimise etapp algab pärast eelneva hanke lõppemist ning eeldusel, et prototüüp on eraldiseisva hankega soetatud. Testperioodi ehk teise etapi lõppedes on prototüüpi katsetatud linnaruumis. Testperiood kestab minimaalselt 4 kuud ning katsetakse erinevates ilmastikutingimustes nii talvisel kui suvisel ajal. Ära tuleb märkida, et testperiood ei pea olema katkematu, vaid võib koosneda mitmest katseosast eri aastaaegadel. Testperioodi osaks on ka lõppkasutajale ning projektimeeskonnale testkeskkonna ja süsteemi käitamise põhjalik tutvustamine ja testperioodi lõppedes terve süsteemi üle andmine tellijale. 
+
+	•	Testperioodi käigus on oluline teada saada:
+	•	Kas tehnilistele võimetele vastav lahendus on piisavalt töökindel (ei ole esinenud selgelt tuvastatud ja tulevikus välditava põhjusega avariiolukordi, mille tagajärjel mehitamata õhusõiduk hävis või läks kaduma), et seda sündmuskohtadel efektiivselt kasutada (seade suudab ohutult, udu, sademete ja jäätumiseta ning tuuleparameetrite piiranguid mitteületava ilmaga lennata sündmuskohale, edastada sealt juhtimiskeskusele videopilti ning lennata dokki tagasi)?
+	•	Kui suur võib olla kogutud andmete maht teatud perioodil (nt. üks kuu)?
+	•	Kas autonoomne mehitamata õhusõiduki süsteem suudab tuvastada teisi mehitamata õhusõidukeid ja vältida nendega kokkupõrget (testperioodil pole aset leidnud kokkupõrkeid ega ka ohtlikke lähenemisi ja süsteem suudab hoida distantsi 50 meetrit horisontaalsuunast ja 15 meetrit vertikaalsuunas)?
+	•	Milline on ühe droonidoki (selles baseeruva drooni) optimaalne tööpiirkond?
+	•	Kumb kasutaja on operaatori rollis efektiivsem: keskuse ametnik või reageeriv üksus?
+	•	Milline peab olema õppematerjal, et koolitada tulevasi süsteemi kasutajaid?
+	•	Millistel ilmastikutingimustel ei ole võimalik süsteemi kasutada?
+
+Lepingu täitmisel on kogu projektijuhtimine töövõtja korraldada. Tellija ja partnerid on kõikide etappide töödesse kaasatud ja peab saama osaleda kohtumistel. 
+Analüüse läbi viies tuleb silmas pidada järgmiseid prototüübi erinevaid funktsionaalsusi, mida soovitakse läbi prototüübi testida. Prototüüp ise hangitakse eraldi hankega, kui analüüsid selle võimalikkust kinnitavad. 
+	•	Prototüübi funktsionaalsused
+Allolevas tabelis on välja toodud potentsiaalsed kasutajad/rollid ning nende võimalikud vajadused prototüübi kasutamisel. Analüüsis tuleb hinnata optimaalset lahendust, mis kataks ära põhilised Politsei- ja Piirivalveameti vajadused. Juhul kui parima võimaliku prototüübilahenduse korral ei ole võimalik kõiki kirjeldatud funktsionaalsusi teostada, tuleb analüüsis esitada alternatiivsed lahendused, mis kataksid osapoolte vajadused.
+Osapooled, kes tegutsevad prototüübil
+	•	juhtimiskeskuse ametnik* – annab mehitamata õhusõidukile väljasõidu- ja tagasitulekukorralduse, omab ülevaadet drooni asukohast ja seisukorrast ning kellel on võimalik kontrollida drooni pardal olevat optikat ning vajadusel ka juhtimine üle võtta.
+	•	Reageeriv üksus – näeb mehitamata õhusõiduki optikapilti mobiilsel kandjal (tahvelarvuti) ja saab paluda kontrolli optikale operatsioonikeskuse ametnikult sündmuskoha paremaks ülevaateks.
+	•	Vaatleja – näeb ainult optikapilti oma süsteemis.
+
+*Prototüüpi on võimalik käitada autonoomselt ja automaatselt.
+Autonoomsus
+	•	Tarkvara peab iseseisvalt koostama kõige ohutuma lennumarsruudi peale operatiivkeskuse väljalennukäsklust.
+	•	Mehitamata õhusõiduk lendab iseseisvalt juhtimiskeskuse ametniku valitud asukohale kasutades ohutumat lennumarsruuti.
+	•	Kohale jõudes jääb mehitamata õhusõiduk ala seirama kuniks lennuaeg on jõudmas kriitilise piirini* või antakse tagasilennukäsklus.
+	•	Vastavalt vajadusel vahetab droon juhtimiskeskuse ametniku sisendi peale asukohta; jälitab kahtlusalust või võimaldab kaamerapilti erinevate nurkade alt.
+	•	Tarkvara suudab hädaolukorras tuvastada ohutu maandumiskoha ja maanduda mujale kui droonidokk.
+
+*Kriitiline piir on hetk, mil mehitamata õhusõidukil on veel piisavalt energiavaru stardiplatvormile (droonidokile) naasmiseks. 
+Kasutajaliides
+Kasutajatel on privaatne profiil, millel on järgmised minimaalselt vajalikud funktsionaalsused:
+	•	operaatori roll: ülevaade drooni asukohast kaardile kantuna, drooni seisukord (akude kestvus, maksimaalne edasine lennuaeg), kaamera pildi vaade (öö ja tavakaamera funktsiooni vahetamisvõimalus), välja- ja tagasilennu korralduse andmine, mehitamata õhusõidukile uue asukoha määramine, operaatori rolli üleandmisvõimalus soovivale vaatajale.
+	•	vaatleja roll: ülevaade drooni asukohast kaardile kantuna, kaamera pildi vaade (öö- ja tavakaamera funktsiooni vahetamisvõimalus), operaatori rolli küsimine.
+Andmete salvestamine ja hilisem kasutamisvõimalus
+	•	Operatsiooni käigus saadud andmed kogutakse ja töödeldakse automaatselt vajalikku formaati;
+	•	Menetlused automatiseeritakse ja digitaliseeritakse.
+Korrapärased hooldused ja rikketeatised
+	•	Mehitamata õhusõiduki terviksüsteem annab eelnevalt operaatorile märku rikketeatistest, mistõttu pole võimalik sündmusele reageerida.
+	•	Mehitamata õhusõiduki süsteem hindab oma korrasolekut ja sisseehitatud veatuvastussüsteem annab märku varuosade väljavahetusvajadusest.
+
+Muu
+	•	Süsteem integreeritakse Politsei- ja Piirivalveameti infosüsteemidesse ja andmebaasi testimisjärgselt, mis võimaldab PPA-l lahendust ka reaalsetel sündmustel kasutada.
+
+
+
+	•	Projekti analüüsid
+
+Analüüside läbiviimiseks vajaliku lahenduse elluviimise metoodika ja tehnilised lahendused töötab välja töövõtja pärast hankelepingu sõlmimist. Kokkuleppel tellijaga võib töövõtja teha omapoolseid soovitusi analüüside ja nende tegevuste järjekorra muutmiseks, ühendamiseks ja täiendamiseks.
+ 
+Sobiliku prototüübi soetamiseks ja testimiseks on vajalik läbi viia vähemalt alljärgnevad analüüsid.
+
+Esimese sammuna ehk I etapi raames peab töövõtja hanke tulemusel sõlmitud lepingu täitmisel läbi viima punktis 3 kirjeldatud analüüsid kokkuleppel tellijaga. Kokkuleppel tellijaga võib töövõtja lisada teisi olulisi punkte, mida on oluline esimeses sammus analüüsida. Analüüside koostamiseks on töövõtjal aega 11 kuud.
+Teise sammuna annab töövõtja analüüside tulemusel sisendi prototüübi hanke tehnilise kirjelduse koostamiseks. Prototüübi hanke tehnilise kirjelduse sisendi koostamiseks on aega 1 kuu pärast analüüside lõppu.
+Kolmanda sammuna ehk II etapi raames peab töövõtja korraldama testimisperioodi, mis hõlmaks endast prototüübi ülesseadmisest testkeskkonda, terviksüsteemi testimist ning tellijale süsteemi tutvustamist ning käitamismaterjalide loomist. Testimisetapi kogupikkus on kuni 7 kuud, millest vähemalt 4 kuud on aktiivselt testimist erinevates ilmastikuolukordades. Tellija esitab II etapi tellimuse süsteemi üles seadmiseks ja prototüübi testimiseks pärast prototüübi hankimist.
+Pärast testimisperioodi lõppu peab töövõtja koostama lõppraporti.
+
+	•	Kontseptsiooni analüüsis tuleb muuhulgas:
+	•	teha ülevaade autonoomse ja automaatse mehitamata õhusõiduki käitamise riskidest;
+	•	tuvastada vajalikud riskimaandusmeetmed;
+	•	välja töötada ohutu lennumarsruudi valimise mudel;
+	•	 mudelit peab saama rakendada erinevatel asukohtadel;
+	•	välja pakkuda maksimaalselt viis erinevat testpiirkonda ning koostöös tellija ja partneritega määrata testpiirkonnad;
+	•	pakkuda välja erinevaid prototüübi lahendusi, kaaluda lahenduste plusse ja miinuseid koostöös tellija ja partneritega;
+	•	tutvustada turul saadavaid droonipesa lahendusi:
+	•	võrrelda tehnilisi parameetreid;
+	•	teostada avaliku arvamuse uuring (sh. lahenduse aktsepteeritavuse hindamine); 
+	•	analüüsida võimalikke tulevikuperspektiive süsteemi laiendamisel, sealhulgas:
+	•	mitut süsteemi üks operaator efektiivselt käsitada suudab;
+	•	kui lähestikku peaksid olema droonidokid efektiivse linnaruumi reageerimisvõimekuse jaoks;
+	•	kirjeldada lühidalt, millised minimaalsed funktsionaalsused peaksid lahenduses olema;
+	•	analüüsida skaleeritavust teistesse Eesti linnaruumidesse.
+
+	•	Õigusmetoodilise tervikliku lahenduse analüüs ja väljatöötamine.
+Terviklik lähenemine peab hõlmama põhjalikku ja ammendavat kaardistust juriidiliste võimaluste kohta koos konkreetsete ettepanekutega, sealhulgas:
+	•	missugune õiguslik mudel võimaldaks autonoomset ja/või automaatset mehitamata õhusõiduki prototüüpi arendada ja kasutada;
+	•	intellektuaalomandi õigustega seotud õiguslik mudel kõigi võimalike osapoolte vaatest;
+	•	isikuandmete kaitse õigustega seotud õiguslik mudel kõigi võimalike osapoolte vaatest;
+	•	käitamisprotseduuride väljatöötamine;
+	•	lennuprotseduuride kooskõlastamine EANS-i ja TRAM-iga;
+	•	missugused oleksid autonoomse ja/või automaatse mehitamata õhusõidukite õppeotstarbeliste materjalidega seotud mõisted ja nende selgitused;
+	•	missugusele minimaalsele kvaliteedistandardile või tingimustele peaks vastama autonoomne mehitamata õhusõiduki süsteem ja selle käitajad;
+	•	missugused on riikliku autonoomse mehitamata õhusõiduki süsteemi kasutamise võimalused Eesti kehtivas õigusruumis muudatusi tegemata;
+	•	kui prototüübi loomiseks, arendamiseks ja kasutamiseks on vaja sisse viia muudatusi Eesti kehtivas õigusruumis, siis millised muudatused need oleksid.
+
+	•	Võimalike kasutajate nõusoleku ning koostöövalmiduse väljaselgitamise ja tehniliste vajaduste analüüs prototüübi käitamiseks. 
+Projekti eesmärgiks on tulevikus kaasata erinevaid asutusi (Päästeamet, kiirabi, munitsipaalpolitsei), kelle tegevusvaldkond haakub terviklahenduse käitamisega. Analüüs peaks muuhulgas arvestama järgmiste aspektidega:
+	•	Millised nõuded on TRAM-il ja EANS-il süsteemi käitamiseks?
+	•	Kuidas on optimaalne hallata ligipääsuõigusi erinevate esmareageerijate vahel? Analüüsida nii ligipääsuõiguste keskset haldamist juhtimiskeskuse poolt kui ka ligipääsuõiguste haldamist reageerivate üksuste platvormidel.
+	•	Millised asutused peaksid olema võimelised prototüübi katsetamisel osalema vaatlejana ning tulevikus terviklahenduse kasutajad?
+
+	•	Olemasolevate sarnaste lahenduste analüüs. 
+
+Eelkõige teiste Euroopa Liidu liikmesriikide ja Norra lahenduste kaardistamine, sarnaste lahenduste ebaõnnestumise ja õnnestumise põhjuste analüüs. Analüüsida lisaks parimaid ülekantavaid lahendusi teistest sektoritest, näiteks autonoomsete pakirobotite käitamine.
+
+	•	Tehniline analüüs, mis aitaks selgitada, milline oleks mõistlik  prototüübi arhitektuur. Analüüs peab muuhulgas sisaldama järgmisi aspekte:
+	•	Funktsionaalsuse prioriteedid:
+	•	oluliste funktsioonide ja nende prioriteetsuse määratlemine.
+	•	Erinevate kasutajaprofiilide analüüs, et teha kindlaks, millist teavet iga kasutaja peab nägema.
+	•	Süsteemi turvameetmete ja potentsiaalsete turvaohtude analüüs.
+	•	Terviklahenduse teostatavuse analüüs.
+	•	Kasutajate autentimise ja autoriseerimise meetodite määramine.
+	•	Süsteemi võimekuse analüüs kasvava kasutajate arvu ja andmemahu korral.
+	•	Süsteemi integreerimisvõimekus kolmandate osapoolte teenustega (kiirabi, pääste).
+	•	Olemasolevate standardite vajalikkus süsteemile andmevahetuse kasutamiseks: milliseid kasutusstatistika raporteerimise standardeid tuleks järgida?
+
+Kui pakkuja leiab, et vaja oleks koostada veel mõni analüüs, mida tellija ei ole ette näinud, võib hanke pakkumisel ka selle analüüsi koos detailse põhjenduse ja maksumusega välja tuua. Tellijale jääb õigus otsustada lisa analüüside teostamise või mitteteostamise. 
+
+	•	Projekti ajakava ja juhtimine 
+
+Maksimaalne analüüside läbiviimise, rakendusuuringu läbiviimine, prototüübi ja testimine ning lõpparuande koostamise ja esitamise aeg on kuni 20 kuud alates hankelepingu allkirjastamisest. Täpne ajakava lepitakse kokku töövõtjaga ühe kuu jooksul lepingu sõlmimisest.
+Töövõtja esitab vahearuanded pärast iga analüüsi teostamist. Samuti korraldab töövõtja töökoosolekuid tellijaga eeldatavalt kord nädalas, täpsem kohtumiste sagedus lepitakse kokku jooksvalt. Projektijuhtimine (sh aruannete koostamine, koosolekute kokkukutsumine ja protokollimine) toimub töövõtja poolt.
+
+	•	Esitatavad tööd ja projekti aruandlus
+
+Projekti käigus ja lõpus antakse üle prototüübi süsteem, korrektselt vormistatud ja keeleliselt toimetatud eestikeelsed analüüside/tegevuste vahearuanded ning lõpparuanne (soovitused edasiseks tegevuseks), mis esitatakse elektrooniliselt muudetavas (soovitavalt .docx või .odf, vajadusel .xlsx) ja mittemuudetavas (soovitavalt .pdf) formaadis. Kui töö teostamise käigus selgub, et analüüside osasid tuleb täiendada pärast aruande üleandmist ja vastuvõtmist, siis tuleb parandused sisse viia lõpparuandes. Töökoosolekute ja esitluste tarbeks vajalikud materjalid valmistab ette töövõtja ning esitab need tellijale vähemalt üks tööpäev enne töökoosoleku päeva.
+
+Lõpparuanne sisaldab vähemalt järgmiseid dokumente:
+
+	•	protokollitud kohtumiste kokkuvõtted;
+	•	lõppraport (eesti keeles);
+	•	lõppraporti lühikokkuvõte (eesti ja inglise keeles); 
+	•	tööde käigus koostatud muud materjalid;
+	•	tööde käigus kogutud alusandmed;
+	•	koostada põhjalik ja argumenteeritud stsenaarium, toetudes kõikidele tehtud analüüsidele, kuidas ja millise lahenduse(te)ga peaks tellija edasi minema ja tuua välja plussid ja miinused (sh ohukohad) ning põhjendused, miks kasutada väljapakutud lahendust.
+
+Lõpparuanne esitatakse tellija kontaktisikule koos kõigi taustmaterjalide, andmete ja infoga, mida analüüside teostamiseks koguti või loodi, sealhulgas analüüside, küsitluste ja intervjuude tulemused.
+Lõpparuande esitamine Eesti Rahvusraamatukogule arhiveerimiseks ning digitaalarhiivis DIGAR tasuta kättesaadavaks tegemiseks. Selleks tuleb registreeruda Eesti Rahvusraamatukogu Kirjastajaportaali https://kirjastaja.digar.ee/ kasutajaks, taotleda väljaandele standardnumber ning edastada lõpparuanne Rahvusraamatukogule. Lõpparuande esitamisel kohustub töövõtja lisama Kirjastajaportaalis märkuse: "Riigikantselei uuring."
+
+
+
+
+
+=== 8938504_Turukonsultatsiooni_kokkuvõte.docx ===
+Autonoomne mehitamata õhusõiduki süsteem linnaruumis 
+Turukonsultatsioon 04.04.2025 13:00-15:00 Riigikantseleis (Rahukohtu 1, Tallinn)
+Kokkuvõte:
+Konsultatsioonil osalejatele saadeti varasemalt küsimused (Lisa 1), millele vastuseid ootasime. Kõik osalejad oli arvamusel, et turul on lahendusena mitmeid tootjaid, kelle tootel on baasvõimekus olemas, erinevused tulevad pigem disainist. Kõigi poolt on tagatud kriitilised vajadused (ilmastiku kindlus, sensorsüsteemid, lennuraadius, lennuaeg, paigaldavus, side turvalisus, varuakud, garantii ja kindlustus). 
+Olulise kohana tõid turuosalised välja, et tehniline kirjeldus võiks sisaldada ka gimbali võimekuse nõudeid, pildi suurendamisvõimalusi, koolituste jagamine, kas ka öisete lendude tegemine on vajalik. Veel rõhutati, et garantii dokile ja droonile on erinevad. 
+Lisaks oli arutelus testimisperiood, mille pikkus võiks jääda 8-9 kuud, ning piksekaitse vajaduse kaardistamine. Testimine võiks teoorias toimuda mitmes Eesti linnas (Tallinn, Tartu, Pärnu) ja sellega seoses on droonidoki liigutamisvõimekus ka oluline.
+PPA poolne sisend oli kaamerapildi PPA-sse edastamise võimekus ning kiire toodete tarne remonti / hooldusesse, mis ideaalis võiks toimuda Eestis.
+Räägiti ka käitamistingimustest. Kuigi PPA droonilennutamised ei lähe tsiviillendude määrustiku alla ja riiklike mehitamata õhusõidukite määrus on välja töötamisel, siis peab olema kindel, et ka seaduslikult on droonil luba linnaruumis lennata. 
+Turukonsultatsioon 04.04.2025
+Automaatne mehitamata õhusõiduki süsteem linnaruumis
+04. aprillil 2025 kell 13:00-15:00 Riigikantseleis, (Rahukohtu 1, Tallinn)
+Johanna Rodima tutvustas Riigikantselei poolt turukonsultatsiooni ülesehitust, eesmärki tingimusi. 
+Arko Gert Tuisk ja Kert Kotkas PPA-st tutvustasid projekti tausta – probleemi, eesmärki, lahendussuuni ja ajakava.
+Turukonsultatsioonil arutatud teemad: 
+Tehnilise kirjelduse sisu – potentsiaalsed pakkujad soovitasid tehnilisse kirjeldusse ära märkida gimbali võimekusnõuded, pildi suurendamisvõimalused, koolituste jagamise ning garantii nõuded.
+Hindamiskriteerium – potentsiaalsed pakkujad soovitasid lisada hindamiskriteeriume lisaklausleid, mis lisaks hinnale määravad eduka pakkuja otsustamist. Hanke ettevalmistusel võetakse seda arvesse.
+Testimisperiood – potentsiaalsed pakkujad soovitasid testimisperioodi pikendada kuni 8-9 kuu peale, et testimine toimuks erinevates ilmastikuoludes ning mitmes Eesti linnas.
+Remondi ja hooldustingimused – potentsiaalsed pakkujad küsisid, kas üle andmine peab olema Eestis ja kas määrav ei võiks olla ajaraam üle andmisel.
+
+
+Lisa 1. Turu-uuringu küsimused
+Küsimused turuosalistele: 
+	•	Kuidas on pakutav droonidokk paigaldatav? 
+	•	Milline on droonidoki kaal koos selles kasutatava drooniga ja ka ilma? 
+	•	Kui pikk on drooni ja droonidoki eluiga? 
+	•	Milline on droonidoki ilmastikukindlus erinevate mõjude suhtes selle paigaldamiskohas (vihm, lumi, jäätumine jm) (temperatuuride kohta on küsitud eraldi)?  
+	•	Millised on droonidoki ja selles kasutatava drooni käitamiseks lubatud temperatuurivahemikud? 
+	•	Milline on droonidoki varustatud (nt drooni laadimisseadmed ja meteoseadmed, RTK)? 
+	•	Milline on droonidoki ja selles kasutatava drooni niiskuskindlus? 
+	•	Milline on dokis kasutatava drooni muu ilmastikusuutlikkus (lisaks niiskusele ja temperatuurile) ? 
+	•	Milline on dokis kasutatava drooni konstruktsioonitüüp (multirootor / jäigatiivaline VTOL vms)? 
+	•	Millised on dokis kasutatava drooni sensorsüsteem (komponendid ja nende võimekus)? 
+	•	Milline on dokis kasutatava drooni ohutu lennuraadius? 
+	•	Milline on dokis kasutatava drooni akude laadimisaeg -dokis kahe lennu vahel aku(de) maksimaalse ohutusraamidesse jääva tühjenemise korral. 
+	•	Kas dokis kasutatava drooni akusid on võimalik soojendada (nt drooni dokis paiknemise ajal)? 
+	•	Milline / millised on dokis kasutatava drooni töösagedus(ed)? 
+	•	Milline on kasutatava sidelingi liik/liigid, toimekindlus ja turvalisus? 
+	•	Kas ja milliste lennu katkestamis- ning ohutussüsteemidega (nt langevari, RTH jne) on varustatud dokis kasutatav droon ja kas need süsteemid vastavad Euroopas mehitamata õhusõidukite suhtes kehtivatele ohutusstandarditele? 
+	•	Kas droonidoki ja selles kasutatava drooni hooldusesse / remonti andmine ja tagasisaamine saab toimuda Eestis? 
+	•	Kas ja milline on droonidoki ja selles kasutava drooni garantii? 
+	•	Kas on võimalik lisaks garantiile ka kindlustust (nt DJI Care)? 
+

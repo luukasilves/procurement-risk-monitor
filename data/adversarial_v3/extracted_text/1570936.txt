@@ -1,0 +1,1224 @@
+=== 1570936_208609_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 208609
+Hankija:aktsiaselts Eesti Raudtee (11575838)
+Hange:AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Pakkumuse maksumus Kanda pakkumuse maksumuse esildise Maksumus - 100 jah
+roheliselt foonilt vähim on parim
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Pakkumuse maksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte proportsionaalselt vähem ja arvutatakse valemiga: "madalaim väärtus" / "pakkumuse
+väärtus" * "osakaal".
+Koostatud 29.04.2019 12:30:25 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+1570936/general-info
+
+=== 1570936_208609_korvaldamise_alused_ja_kvalifitseerimistingimused.pdf ===
+1/3
+KÕRVALDAMISE ALUSED JA
+KVALIFITSEERIMISTINGIMUSED
+Viitenumber: 208609
+Hankija: aktsiaselts Eesti Raudtee (11575838)
+Hange: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+KÕRVALDAMISE ALUSED
+ÄRIREGISTRIS REGISTREERITUSE NÕUE
+Pakkuja peab olema registreeritud oma asukohamaa äriregistris, kui see tuleneb pakkuja
+asukohamaa seadustest.
+Pakkuja, kes peab oma asukohamaa seaduste kohaselt olema registreeritud äriregistris, esitab
+sellekohase kehtiva registritunnistuse või kehtiva koopia vastavast registritunnistusest. Pakkuja,
+kelle asukohamaaks on Eesti, ei pea äriregistris registreerituse kohta registritunnistust ega selle
+koopiat esitama.
+Kehtib:Kogu hanke kohta
+Küsimused ettevõtjale:
+1. Kas olete registreeritud äriregistris? (Raadionupp valikutega "Jah/Ei")
+KINNITUSKIRJA ESITAMINE
+1) Pakkuja ega tema haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või
+asjaomase riigihankega seotud lepingulist esindajat ei tohi olla kriminaal- või väärteomenetluses
+karistatud kuritegelikus ühenduses osalemise, aususe kohustuse rikkumise või korruptiivse teo,
+kelmuse, terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo või sellele
+kihutamise, kaasaaitamise või selle katse, rahapesualase süüteo või terrorismi rahastamise eest;
+2) Pakkujat ega tema haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või
+asjaomase riigihankega seotud lepingulist esindajat ei tohi olla karistatud riigis ilma seadusliku
+aluseta viibivale välismaalasele töötamise võimaldamise eest;
+3) Pakkujat ega tema haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või
+asjaomase riigihankega seotud lepingulist esindajat ei tohi olla karistatud laste tööjõu
+ebaseadusliku kasutamise või inimkaubandusega seotud teo eest;
+4) Pakkuja ei tohi olla maksuvõlglane, see tähendab, et pakkujal on nõuetekohaselt täidetud
+õigusaktidest tuleneva elu- või asukoha riikliku maksu, makse või keskkonnatasu ning
+sotsiaalkindlustuse maksete tasumise kohustus asukohariigi õigusaktide kohaselt
+5) Pakkuja ega tema haldus-, juhtimis- või järelevalveorgani liige ei tohi olla rahvusvahelise
+sanktsiooni subjekt rahvusvahelise sanktsiooni seaduse tähenduses
+6) Pakkuja ei tohi olla eksinud raskelt ametialaste käitumisreeglite vastu mis oleks muutnud
+pakkuja aususe küsitavaks
+7) Pakkuja peab omama hankelepingu täitmiseks vajalikke intellektuaalse omandi õiguseid
+8) Pakkuja ei tohi olla oluliselt või pidevalt rikkunud eelnevalt sõlmitud hankelepingut või
+hankelepinguid nii, et rikkumise tulemusena on lepingust taganenud või lepingut üles öeldud,
+hinda alandatud, hüvitatud kahju või makstud leppetrahvi
+9) Pakkuja ei tohi olla esitanud valeandmeid RHS § 95 sätestatud või RHS §-des 98-101
+sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele vastavuse kohta või jätnud
+need andmed või RHS § 104 lõigete 7 ja 8 alusel hankija nõutud täiendavad dokumendid
+esitamata
+2.1. Pakkuja esitab punktides 1) – 9) loetletud tingimuste täitmise kohta HD Lisa 4 kohase
+vastavasisulise kinnituse.
+Kehtib:Kogu hanke kohta
+Koostatud 29.04.2019 12:27:23
+https://riigihanked.riik.ee/rhr-web/#/procurement/1570936/general-info
+2/3
+Küsimused ettevõtjale:
+1. Esitada kinnituskiri (Dokumendi vorm / HD Lisa 4 - Kinnituskirja vorm.docx)
+KVALIFITSEERIMISTINGIMUSED
+A: Sobivus
+MTR REGISTREERING
+Pakkuja peab omama hankelepingu täitmiseks vajalikku tegevusõigust oma asukohamaa
+õigusaktide kohaselt. Pakkuja, peab omama hankelepingu täitmiseks vajalikud load ja
+registreeringud s.h peab olema esitanud majandustegevusregistrisse majandustegevusteate
+(Tegevusala: sideteenuse osutamine, mis peab sisaldama vähemalt andmesideteenuse,
+mobiiltelefoniteenuse ja telefoniteenuse alaliike).
+Pakkuja, kelle asukohamaaks ei ole Eesti Vabariik, esitab tõendid selle kohta, et pakkuja omab
+hankelepingu täitmiseks vajalikku tegevusõigust oma asukohamaa õigusaktide kohaselt.
+Tõendiks loetakse väljavõtet pakkuja asukohamaa õigusaktist, pakkuja asukohamaa õigus pädeva
+institutsiooni tõendit ja vastava tegevusloa või registreeringu koopiat. Eesti Vabariigi pakkuja
+registreeritust ja kehtivaid andmeid kontrollib hankija Majandus- ja Kommunikatsiooni-
+ministeeriumi poolt peetava avaliku majandustegevuse registri kaudu.
+Kehtib:Kogu hanke kohta
+Küsimused ettevõtjale:
+1. Kas omate nõutud MTR registreeringuid? (Raadionupp valikutega "Jah/Ei")
+B: Majanduslik ja finantsseisund
+NETOKÄIBE NÕUE
+Pakkuja netokäive mobiil- ja telefoniside teenuse pakkumise valdkonnas kuni viimase kolme
+riigihanke algatamise ajaks lõppenud majandusaasta jooksul (2016-2018) peab olema olnud
+vähemalt 140 000 EUR (käibemaksuta) aastas.
+Nõutav dokument Pakkuja esitab väljavõtte pakkuja viimase kolme majandusaasta (2016-2018)
+netokäibe kohta HD Lisa 8 vormil
+Kehtib:Kogu hanke kohta
+Küsimused ettevõtjale:
+1. Esitada info netokäibe kohta (Dokumendi vorm / HD Lisa 8 - Andmed netokäibe kohta.docx)
+C: Tehniline ja kutsealane suutlikkus
+INFO VARASEMATE LEPINGUTE KOHTA
+Pakkuja peab hanke algamisele eelneva 36 kuu jooksul olema täitnud vähemalt kolm
+teenuselepingut mobiil- ja/või telefoniside teenuse pakkumise valdkonnas maksumusega
+vähemalt 70 000 (seitsekümmend tuhat) eurot lepingu kohta.
+Nõutav dokument: Pakkuja poolt viimase 36 kuu jooksul täidetud mobiil- ja/või telefoniside
+osutamise teenuse lepingute loetelu koos lepingu maksumuse ja infoga Tellija(te) kohta koos
+kinnitusega, et lepingud on täidetud nõuetekohaselt HD Lisa 7 vormil.
+NB! Juhul kui pakkuja kasutab RHS § 101 lõike 1 punktis 6 sätestatud hariduse ja
+kutsekvalifikatsiooni ning vastava kogemuse puhul ettevõtja vahenditele tuginemist, on see
+lubatud üksnes juhul kui ettevõtjad, kelle vahenditele tuginetakse, täidavad vastavat
+hankelepingut või selle osa isiklikult.
+Koostatud 29.04.2019 12:27:23
+https://riigihanked.riik.ee/rhr-web/#/procurement/1570936/general-info
+3/3
+Kehtib:Kogu hanke kohta
+Küsimused ettevõtjale:
+1. Esitada info varasemate lepingute täitmise kohta (Dokumendi vorm / HD Lisa 7 -Teostatud tööde
+nimekiri.docx)
+D: Kvaliteeditagamissüsteemid ja keskkonnajuhtimisstandardid
+ISO 9001 KVALITEEDIJUHTIMISSÜSTEEMI OLEMASOLU NÕUE
+Pakkuja peab olema juurutanud EVS-EN ISO 9001 standardile vastava
+kvaliteedijuhtimissüsteemi või omama Pakkuja juhtorgani poolt kehtestatud ettevõtte sisemist
+kvaliteedijuhtimise süsteemi.
+Nõutav dokument: Pakkuja esitab kvaliteedijuhtimise süsteemi ISO 9001 olemasolu tõendava
+sertifikaadi, Pakkuja juhtorgani poolt kehtestatud ettevõte sisemise kvaliteedijuhtimise süsteemi
+protsesside kirjelduse või muu Euroopa Liidu liikmesriikide asutuse tõendi samaväärse
+kvaliteedi tagamise meetme kohta. Pakkuja tõendab oma pakkumuses hankijale vastuvõetaval
+viisil mis tahes asjakohaste tõendite abil, et tema pakutud lahendused on tehnilises kirjelduses
+esitatud nõuetega (vastava ISO standardiga) samaväärsed. Hankijale vastuvõetavaks viisiks
+loetakse põhjalikku kirjalikku analüütilist selgitust süsteemi samaväärsuse kohta.
+Kehtib:Kogu hanke kohta
+Küsimused ettevõtjale:
+1. Lisada ISO sertifikaat või samaväärsuse kirjeldus (Vabas vormis dokument)
+Koostatud 29.04.2019 12:27:23
+https://riigihanked.riik.ee/rhr-web/#/procurement/1570936/general-info
+
+=== 1570936_208609_vastavustingimused.pdf ===
+1/1
+VASTAVUSTINGIMUSED
+Viitenumber: 208609
+Hankija: aktsiaselts Eesti Raudtee (11575838)
+Hange: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+KÕIGI HANKE TINGIMUSTEGA NÕUSTUMINE
+Pakkuja esitab hankemenetluse osalemise avalduse
+Küsimused ettevõtjale:
+1. Esitada hankemenetlusel osalemise avaldus (Dokumendi vorm / HD Lisa 3 - Hankemenetlusel
+osalemise avaldus.docx)
+PAKKUMUSE MAKSUMUSE VÄLJENDAMISE VORM
+Esitada pakkumuse maksumuse väljendamise vorm
+Küsimused ettevõtjale:
+1. Esitada pakkumuse maksumuse väljendamise vorm (Dokumendi vorm / HD Lisa 2 -
+Pakkumuse maksumuse väljendamise vorm.xlsx)
+TEHNILISE SPETSIIFIKA ESITAMISE NÕUE
+Pakkuja esitab oma pakutava lahenduse tehnilise kirjelduse ja pakutavate lõppseadmete
+nimetused ning spetsifikatsioonid.
+Küsimused ettevõtjale:
+1. Esitada pakutava lahenduse tehnilise kirjelduse ja pakutavate lõppseadmete nimetused ning
+spetsifikatsioonid. (Vabas vormis dokument)
+Koostatud 29.04.2019 14:06:16
+https://riigihanked.riik.ee/rhr-web/#/procurement/1570936/general-info
+
+=== 1570936_HD_Lisa_10_-_teise_isiku_nõusolek.docx ===
+
+                HD Lisa 10
+
+Hankija nimi: AS Eesti Raudtee
+
+Riigihanke nimetus: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+Kinnitame, et oleme nõus, et …….. (pakkuja nimi ja registrikood) tõendab oma tehnilise ja kutsealase pädevuse vastavust kvalifitseerimise tingimustele meie alljärgnevate näitajate alusel:
+
+Jrk.nr.
+Teise isiku pädevuse kirjeldus, millele pakkuja tugineb:
+1.
+
+2.
+
+..
+
+
+	•	Kinnitame et oleme nõus osalema hankelepingu vahetul täitmisel vähemalt osas, milles pakkuja tugines meie näitajatele oma tehnilise ja kutsealase pädevuse vastavuse tõendamisel kvalifitseerimise tingimustele.
+	•	Kinnitame, et meid ega meie haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või asjaomase riigihankega seotud lepingulist esindajat ei ole kriminaal- või väärteomenetluses karistatud kuritegelikus ühenduses osalemise, aususe kohustuse rikkumise või korruptiivse teo, kelmuse, terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo või sellele kihutamise, kaasaaitamise või selle katse, rahapesualase süüteo või terrorismi rahastamise eest;
+	•	Kinnitame, et meid ega meie haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või asjaomase riigihankega seotud lepingulist esindajat ei ole karistatud riigis ilma seadusliku aluseta viibivale välismaalasele töötamise võimaldamise eest;
+	•	Kinnitame, et meid ja meie haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või asjaomase riigihankega seotud lepingulist esindajat ei ole karistatud laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud teo eest;
+	•	Kinnitame, et me ei ole maksuvõlglane see tähendab, et meil on nõuetekohaselt täidetud õigusaktidest tuleneva meie elu- või asukoha riikliku maksu, makse või keskkonnatasu ning sotsiaalkindlustuse maksete tasumise kohustus asukohariigi õigusaktide kohaselt
+	•	Kinnitame, et meid ega meie haldus-, juhtimis- või järelevalveorgani liige ei ole rahvusvahelise sanktsiooni subjekt rahvusvahelise sanktsiooni seaduse tähenduses
+
+ Märkused: ___________________________________________________
+
+Kuupäev: ______________________
+
+Teise isiku nimi, registrikood  ja aadress: ______________________
+
+Teise isiku esindaja nimi, kontaktandmed ja allkiri: _____________
+
+
+
+
+=== 1570936_HD_Lisa_1_-_Tehniline_kirjeldus.docx ===
+HD Lisa 1 
+TEHNILINE KIRJELDUS TEENUSTE TELLIMISEL
+
+	•	TEENUSE SISU
+	•	Üldist
+	•	Käesoleva hankega tellitakse Eesti Raudteele  VoIP telefoniteenust koos võrgu- ja lõppseadmete (IP-telefonid ja IP/analoog-adapterid) rendiga ning  mobiilset kõne- ja andmesideteenust ajavahemikus 2019-2023 (48 kuud). 
+	•	Hetkel on Eesti Raudteel kasutusel 23’st Nortel Meridian telefonijaamast koosnev võrk 1372 abonendiga ning 11xISDN E1 välisühendusega Telia võrku, 1xISDN E1-otsekanal Moskva ja 1xISDN E1-otsekanal Riia suunal (võimalus mõlemapidiseks tasuta otsesideks Balti riikide, Venemaa ja endiste SRÜ-riikide raudteede vahel) ning 1xISDN E1-otsekanal Edelaraudtee (Tallinn-Väike) võrku (võimalus E1 asendada SIP-traktiga). Kasutusel on 50 abonendi kõnede salvestus (sisse/välja/sisekõned) ja kõneside analüüsiks kõnerivide registreerimine (kõnearvestus). 
+	•	Eesmärgiks on Eesti Raudtee kõnesidelahenduse viimine välisele teenusepakkujale, kaasajastamine (VoIP), ning konsolideerimine, mis teostatakse etapiviisiliselt (olemasolevate vahendusjaamade kaupa). Kõik teenused moodustavad ühtse terviku ning ettevõttesisesed kõned (lauatelefonilt lauatelefonile, lauatelefonilt mobiilile, mobiililt mobiilile ja mobiililt lauatelefonile) peavad olema võimalikud teostada ka lühinumbritega.
+	•	Hankija kasutuses olevate mobiilside (telefonid, mobiilseadmed) liitumiste arv on 450 tk, millest ca 70% kasutab aktiivselt interneti andmeside pakette. Hankijal on vajadus kasutada mobiilset kõne- ja andmesidet üle kogu Eesti, nii tihe- kui ka hajaasustusega piirkondades.
+
+Nõuded mobiilsideteenusele
+	•	Pakkuja peab tagama kvaliteetse mobiilside levi (kõne ja 4G andmeside) nii tiheasustusega kontorites kui ka kõigi raudteetrasside ulatuses hajaasustusega  aladel (Teenuse tehnilise kirjelduse punktis 5 loetletud asukohtades). 
+	•	Pakkuja on kohustatud tagama kvaliteetse mobiilside, kus on piisavalt vabu kõne- ning andmesidekanaleid ja kus ei toimuks kõnede katkemisi, kõnede „hakkimist“, kõnede algatamise nurjumist, andmeside ebastabiilsust (paketikadu, aeglus) sellisel määral, et need olulisel määral häiriks kasutajate mobiilside kasutamist. Kasutaja ei pea kvaliteetse mobiilside tagamiseks lahkuma kontori ruumidest ja/või otsima piisava Pakkuja mobiilsideleviga kohta, et pidada mobiilikõnesid. Korduvate kaebuste korral on Pakkuja kohustatud kaebuseid menetlema ja leidma lahenduse 2 kuu jooksul alates kaebuse esitamisest. Täiendavad tehnilised lahendused ei või Hankijale kaasa tuua rahalisi lisakohustusi.
+	•	Teenusepakkuja vahetuse korral peavad säilima Hankija kasutuses olevad mobiiltelefonide numbrid. Pakkuja peab esitama nägemuse, millisel kujul toimub aegkriitiliste lahenduste (videovalved, turva, infotablood) numbrite üleviimine/asendamine.
+	•	Hankija jätab endale õiguse numbriliikuvusele juhul kui ilmnevad asjaolud, mis ei võimalda Hankija töötajal täita tema tööpiirkonnas tööülesandeid (nt. piisavalt kvaliteetse levi puudumine Hankija tööülesannete täitmise asukohtades). Seejuures ei pea Hankija Pakkujale tõendama numbri liikumise põhjust tehniliste mõõtmiste protseduuride läbiviimisega vms. vaid võib juhinduda oma töö käigus saadud tavapärasest töötajate kogemusest Teenuste kasutamisel.
+	•	Pakkuja peab tagama helistamise võimaluse Eesti siseselt, Eestist välismaale, välismaalt Eestisse ja välismaalt välismaale nii tavatelefoni- kui mobiilsidevõrkudesse ning mobiilse andmesideteenuse toimimise vähemalt Euroopa Liidu piires (roamingpartner igas EL-riigis).
+	•	Pakkumuse hinnad peavad kehtima Hankija kõigile olemasolevatele ja uutele liitumistele ning kogu lepinguperioodi jooksul sõltumatult nädalapäevast 24 tundi ööpäevas ning ei sõltu teenuse tarbimise mahust. 
+	•	Teenuse tehnilise kirjelduse punktis 4 on toodud teenuste hinnangulised mahud kuus senise kasutuse baasilt. Nimetatud teenuste mahud on informatiivsed ja ei seo Hankijat teenuste tegelikul kasutamisel.
+	•	Hankija kasutuses olevate mobiiltelefoni numbrite omavahelised kõned ja kõned Hankija mobiilinumbrilt Hankija lauatelefoni numbrile ning vastupidi peavad olema tasuta sõltumata helistamisel kasutatava numbri pikkusest (pikk number või lühinumber).
+	•	Pakutav mobiilside teenus peab hõlmama järgmisi lisateenuseid:
+	•	SMS lühisõnumite saatmine/vastuvõtmine;
+	•	MMS sõnumite saatmine/vastuvõtmine;
+	•	3G/3,5G/4G andmesideteenus fikseeritud kuutasuga;
+	•	Kõnepost; 
+	•	koputusteenus;
+	•	sissehelistamisteenus juhitavale numbrile (nt telefoni teel juhitavate väravate avamine) fikseeritud kuutasuga, mis ei sõltu teenuse kasutuskordadest;
+	•	maksed mobiiliga, võimalus eristada era- ja äriteenusteks;
+	•	kaksiknumbri/topeltnumbri kasutamine fikseeritud kuutasuga;
+	•	põhinumbriga seotud lisa SIM-kaardi kasutamine (TwinSIM või vastav);
+	•	Mobiil-ID - teenus fikseeritud kuutasuga ning see ei sõltu teenuse kasutuskordadest;
+	•	roaming vähemalt ühe mobiilsidevõrguga igas Euroopa Liidu liikmesriigis;
+	•	tellimistasuta suunamine, tasuta kõnepostiteenus ja numbrinäidu juhtimine;
+	•	privaatne lühivalik Hankija tava- ja mobiilinumbritele;
+	•	e-post mobiiltelefonile fikseeritud kuutasuga ning kuutasu ei tohi sõltuda edastatava e-posti mahust ega arvust;
+	•	mobiilne parkimine;
+	•	ID-pileti ostmine;
+	•	võimalus tellida varusse tühje SIM-kaarte (sh Mobiil-ID võimekusega), mida Hankija saab vajadusel kasutada olemasolevate väljavahetamiseks või uute numbrite avamiseks.
+	•	Pakkuja poolt pakutavad lisateenused ja suunad, mida tehnilises kirjelduses ja kirjelduste lisades ei nimetata, peavad olema tellitavad vähemalt üldise ärikliendi hinnakirja või sellest soodsama hinna alusel. 
+	•	Pakkuja kohustub teavitama Hankijat täiendavatest hinnasoodustustest, kui Hankija  vastab hinnasoodustuste saamiseks kehtestatud tingimustele (hiljemalt ühe nädala jooksul päevast, kui pakkuja on avalikult vastava soodustuse oma kodulehel välja kuulutanud).
+	•	Pakkuja peab oma pakkumuse mahtu arvestama ka need tööd, tarvidused ja abinõud, mis ei ole tehnilises kirjelduses kirjeldatud, kuid mis on, tuginedes heale äritavale ja pakkuja ametialasele professionaalsusele, vajalikud  hanke nõuetekohaseks teostamiseks. 
+	•	Teenusepakkuja vahetuse korral kannab kõik sideoperaatori vahetusega kaasnevad kulud see Pakkuja, kelle võrku mobiiltelefoninumber teisaldatakse. Pakkuja teostab lepingu kehtima hakkamise kuupäeval sideoperaatori vahetuse korral Hankija asukohtades ja/või Pakkuja esindustes üle Eesti mobiilside teenuse rakendamiseks vajalikud toimingud (kohal on Hankija esindaja), seejuures ilma mingeid täiendavaid teenus- ja lepingutasusid nõudmata:
+	•	mobiiltelefoni kasutajate SIM kaartide vahetamine;
+	•	SIM kaartidel olevate andmete kopeerimine uuele SIM kaardile;
+	•	mobiil-ID lepingute sõlmimine; 
+	•	hankija töötajate nõustamine kõigis pakkuja teenuste kasutamist puudutavates küsimustes (näit kaksiknumber, era-arve teenus jne).
+	•	Tarne perioodil operaatori vahetamisega tekkida võivad ühekordsed kulud k.a. riigilõivud tasub pakkuja.
+	•	Kõne pikkust arvestatakse mitte pikema ajavahemiku kaupa kui 1 sekund v.a pakkujate poolt vahendatavad rahvusvahelised kõneteenused, mille kõnearvestus toimub vastatavalt konkreetse riigi sideoperaatori kehtestatud tingimuste kohaselt.
+	•	Hankija ei maksa eraldi tasu uute abonentide lisamise või eemaldamise eest ega SIM-kaartide (SIM, mikroSIM ja nanoSIM) ning nende väljastamise, asendamise, kohaletoimetamise, paigaldamise või töökorda seadistamise eest. SIM-kaardi riknemisel vahetab pakkuja selle välja tasuta. Samuti ei maksa Hankija kõnealustustasu. 
+Nõuded telefonisideteenusele
+	•	Säilima peavad Eesti Raudtee kasutuses olevad lauatelefonide numbrid järgmiste vahemikega:
+	•	32 26200 – 32 26899; 32 28000 – 32 28099; 32 28200 – 32 28299; 
+	•	33 54500 – 33 54599; 33 54800 – 33 54999; 61 56000 – 61 56999;
+	•	61 57000 – 61 57399; 61 57800 – 61 57999; 61 58000 – 61 58999; 
+	•	76 64100 – 76 64699; 78 66600 – 78 66799; 35 67600 – 35 67999; 
+	•	3100 – 73 73699; 73 73900 – 73 73999.
+	•	Pakkuja tagab operaatori vahetuse korral kõikide (ka kasutuses mitte olevate) numbrite liikumise, ning katab kõik numeratsioonivälja liikumise ja hoidmisega seotud tasud hankeperioodi jooksul.
+	•	Hankijal peab olema võimalik võtta kasutusele punktis 1.3.1 kirjeldatud numeratsioonivahemiku vabasid numbreid vastavalt hankija vajadusele.
+	•	Pakkuja ei tohi ilma Hankijapoolse nõusolekuta eraldada Hankija numeratsiooniväljast numbreid teistele klientidele. 
+	•	Konsolideerimise tulemusena võib Hankija loobuda suurest osast hetkel reserveeritud numbritest.
+	•	Etapiviisilisel üleminekul VoIP-lahendusele loobub Hankija vastavalt vabanenud vahendusjaamade välisühendustest (ISDN E1-traktid). 
+	•	Hankija VoIP ja mobiilinumbrid moodustavad ühtse grupi, milles helistamine on võimalik nii lühi- (Hankija lauatelefonilt Hankija mobiilile 34 xxxxx, Hankija mobiililt Hankija mobiilile 4 xxxxx ja Hankija mobiililt Hankija lauatelefonile 6 xxxxx, kus xxxxx on Hankija tavatelefoni lühinumber) kui täispikkade numbritega  ning grupisisesed kõned peavad olema tasuta.
+	•	Pakutav VoIP-lahendus peab olema kõrgkäideldav ja süsteemi kõik osad peavad olema dubleeritud. Pakkuja esitab pakutava lahenduse struktuurskeemi ja tööpõhimõtte selgituse. 
+	•	VoIP-lahendus peab võimaldama laienemist minimaalselt 1200 abonendini.
+	•	Telefonide opereerimiseks vajalik andmesideühendus operaatori ja Hankija vahel peab olema välja ehitatud 3’s punktis (Tallinn, Tartu ja Tapa/Jõhvi). Ühe ühenduse katkemine ei tohi põhjustada katkestust telefonide töös. Pakkuja esitab pakutava lahenduse struktuurskeemi ja tööpõhimõtte selgituse.
+	•	Antud andmesideühendused peavad olema ainult kõnesideks (internetiliiklust ei lubata) ja turvalise ühenduse operaatori ja tellija vahel kindlustab Pakkuja.
+	•	Pakkujal on lahendus/võimekus tagada üleminekuperioodil VoIP-abonentide ja Tellija olemasoleva võrgu abonentide vaheline helistamine lühinumbritega.
+	•	Pakkujal on lahendus/võimekus tagada VoIP-abonentidel helistamine Eesti Raudtee partnervõrkudesse ja vastupidi (Moskva ja Riia otsekanalid, Euro-ISDN E1). Hetkel toimub helistamine partnervõrkudesse läbi kindlate prefiksite/suunakoodide (01 ja 03), misjärel valitakse partnervõrgu sihtnumber. Partnervõrkudest Eesti Raudteele helistades edastatakse sealtpoolt sihtnumbrina Eesti Raudtee abonentnumber (5-kohaline sisenumber).
+	•	Pakkujal on lahendus/võimekus teostada IP-telefoni ja arvuti integratsioon – CTI. Baastaseme (võimalus arvutist algatada olemasolevate kontaktide põhjal helistamine, näha arvutis kõnede logi) teenus peab sisalduma abonendi hinnas.
+	•	Pakkujal on võimekus tagada lõppseadmetele On-site garantii 1 aasta seadmete väljaostu korral, seadmerendi korral kogu rendiperioodi jooksul SLA’ga NBD.
+	•	Kõik pakutavad lõppseadmed peavad olema uued ning varasemalt kasutamata.
+	•	Pakutav lahendus peab:
+	•	Olema üles ehitatud samasuguse funktsionaalsusega üle kogu haldusala;
+	•	Olema paindlikult laiendatav või vähendatav ilma täiendavate kulutusteta Hankijale;
+	•	Võimaldama valimist asutusesiseste lühinumbritega ja pikka telefoninumbrit kõikidele Hankija numbritele k.a. mobiiltelefonid;
+	•	Võimaldama määrata helistamise piiranguid (mobiilid, väliskõned, teenusnumbrid, välismaa jne.);
+	•	Võimaldama firmasiseste telefoniraamatute kasutamist, Telefoniraamatu importi ja sünkroniseerimist Hankija infosüsteemidega (AD, LDAP jms.);
+	•	Võimaldama „koputusfunktsiooni“ (märguanne käimasoleva kõne ajal teise siseneva kõne kohta);
+	•	Võimaldama kõnede ootelelülitamist;
+	•	Võimaldama vahekõne sooritamist ja kõne edasisuunamist nii sise- kui väliskõne ajal;
+	•	Võimaldama helistaja numbri ja nimenäitu;
+	•	Võimaldama numbrinäidu keelamist (CLIR);
+	•	Võimaldama abonentide noppimisrühmade määramist;
+	•	Noppimisrühmas siseneva kõne puhul edastatakse noppimisrühma liikmetele info: kelle telefon heliseb ja kes helistab (A-number);
+	•	Võimaldama kõnede eelsuunamiste juhtimist telefoniaparaadilt;
+	•	Võimaldama nii kõnede eelsuunamisel kui kõne ajal suunamisel õige A-numbri (hellistaja numbri) edastamise lõplikule sihtnumbrile (nii VoIP kui mobiil);
+	•	Sisaldama Pakkuja poolset lõppseadme konfigureerimist, kaughaldust ja tarkvarauuendustega varustamist.
+Nõuded Kõnesalvestuslahendusele
+	•	Pakkuja peab võimaldama Hankija määratud IP abonentidele ja mobiilside numbritele aktiveerida kõnesalvestuse teenust Pakkumuse hinnatabelis esitatud kuutasu alusel, mis peab vastama järgmistele nõuetele:
+	•	Pakkuja peab kõnesalvestisi säilitama enda keskkonnas vähemalt 30 päeva;
+	•	Hankijal peab olema võimalus edastada kõnesalvestisi enda serverisse pikemaajaliseks säilitamiseks. Salvestise faili nimi peab sisaldama salvestise infot (minimaalselt kasutaja number, helistaja number, vastaja number, kuupäev, kellaaeg, kõne pikkus);
+	•	kõnesalvestuste seadistamiseks ja juhtimiseks peab Pakkuja tagama Hankijale kasutamiseks ühtse veebipõhise keskkonna, mille kaudu saab hallata kõnesalvestisi;
+	•	keskkond peab omama vähemalt kahetasandilist õiguste süsteemi: salvestuskeskkonna peakasutaja õigused ja salvestatava numbri kasutaja õigused. Ligipääs keskkonnale peab olema piiratud vähemalt kasutajatunnuse ja salasõnaga;
+	•	salvestuse kasutajatele ei tohi olla nähtavad teiste kasutajate salvestised.
+	•	peakasutaja õigustega peab olema võimalik:
+	•	näha keskkonnas kõiki kasutajaid, kellele on salvestusteenus tellitud;
+	•	määrata salvestatava numbri omanikule juurdepääsuõiguseid salvestuse veebipõhisele keskkonnale;
+	•	hallata kasutajaid (muuta kasutaja nime, mobiilinumbrit, e-posti aadressi ja portaali salasõna);
+	•	aktiveerida ja deaktiveerida kasutajal kõnesalvestust;
+	•	anda kasutajatele enda kõnesalvestiste kuulamise õigust;
+	•	seadistada Hankija serveri aadressi, kuhu salvestised edastatakse pikemaajaliseks säilitamiseks. Keskkond peab võimaldama turvalist salvestiste edastamist (sFTP protokolli tugi).
+	•	Kasutaja õigustega peab olema igal kasutajal võimalik portaali vahendusel:
+	•	näha ja kuulata enda kõnesalvestis, kui peakasutaja on sellise õiguse andnud;
+	•	kõnesalvestiste osas peab olema keskkonnast näha teise osapoole number, kas oli sisenev kõne või väljuv kõne, kõne alguse kuupäev ja aeg sekundi täpsusega, kõne kestus;
+	•	enda kõnesalvestisi alla laadida;
+	•	otsida enda kõnesalvestisi kuupäevade vahemiku, numbri, siseneva või väljuva kõne parameetrite alusel;
+	•	seadistada enda kasutaja profiili andmeid (nimi, telefoninumber, e-post).
+Nõuded VoIP seadmetele
+	•	Tüüp 1 telefon
+	•	Telefonil peab olema vähemalt 2-realine, taustavalgustusega graafiline LCD-ekraan, mis näitab helistaja nime/numbrit;
+	•	Vähemalt 3 eelseadistatavat funktsiooni- ja/või kiirvalikusõrmist;
+	•	Telefonil peab olema võimalus määrata erinevaid helisemistoone (sise- ja väliskõned);
+	•	Seade peab olema PoE toega;
+	•	Seadmega peab kaasas olema toiteadapter, juhuks kui asukoht ei võimalda kasutada PoE toidet;
+	•	Koodekite G.711a / G.729AB / G.722 tugi;
+	•	Aparaadi menüü on seadistatav vähemalt eesti- ja vene- või ingliskeelseks;
+	•	Kõne ootele võimalus;
+	•	Vahekõne võimalus;
+	•	Kõne edasisuunamise võimalus;
+	•	„Koputava“ kõne korral on ekraanil näha helistaja number / nimi;
+	•	Noppimisgrupis olles kõne noppimine, võimalik teha eelprogram-meeritav sõrmis;
+	•	„Käed-vabad“ kõne funktsionaalsus;
+	•	„Ära sega“ teenuse võimalus (teenuse aktiveerimisel antakse helistajale kutsuvat või kinnist tooni kuid aparaat ei helise);
+	•	Võimaldus vaadata väljuvate, sisenevate ja vastamata kõnede logi koos toimumise kuupäeva ja kellaajaga;
+	•	VLAN-tugi;
+	•	2-pordiga mini-switch arvutivõrguga ühendamiseks (vähemalt 100Mbps);
+	•	Terminali võimsustarve ei tohi olla suurem kui PoE klass 1; 
+	•	Telefoniga peab olema kaasas eestikeelne kasutusjuhend;
+	•	Telefon peab olema Pakkuja poolt eelseadistatud (nn. Plug and Play, peale telefoni Hankija võrku ühendamist on telefonis automaatselt Hankija poolt tellitud numbri ja seadetega);
+	•	IP-aparaat peab võimaldama tsentraalset Pakkuja poolset kaughaldust (kasutajatunnuste, paroolide jms. määramine, tarkvaraversioonide uuendamine);
+	•	Seadmerikke korral peab Pakkuja asendama rikkis seadme Hankijale täiendavate kuludeta rikketeate edastamisest järgneval tööpäeval.
+	•	
+	•	
+	•	Tüüp 2 telefon
+	•	Telefonil peab olema vähemalt 4-realine, taustavalgustusega graafiline LCD-ekraan, mis näitab helistaja nime/numbrit;
+	•	Vähemalt 8 eelseadistatavat funktsiooni- ja/või kiirvalikusõrmist;
+	•	Telefonil peab olema võimalus määrata erinevaid helisemistoone (sise- ja väliskõned);
+	•	Seade peab olema PoE toega;
+	•	Seadmega peab kaasas olema toiteadapter, juhuks kui asukoht ei võimalda kasutada PoE toidet;
+	•	Koodekite G.711a / G.729AB / G.722 tugi;
+	•	Aparaadi menüü on seadistatav vähemalt eesti- ja vene- või ingliskeelseks;
+	•	Kõne ootele võimalus;
+	•	Vahekõne võimalus;
+	•	Kõne edasisuunamise võimalus;
+	•	„Koputava“ kõne korral on ekraanil näha helistaja number / nimi;
+	•	Noppimisgrupis olles kõne noppimine, võimalik teha eelprogrammeeritav sõrmis;
+	•	„Käed-vabad“ kõne funktsionaalsus;
+	•	„Ära sega“ teenuse võimalus (teenuse aktiveerimisel antakse helistajale kutsuvat või kinnist tooni kuid aparaat ei helise);
+	•	Võimaldus vaadata väljuvate, sisenevate ja vastamata kõnede logi koos toimumise kuupäeva ja kellaajaga;
+	•	VLAN-tugi;
+	•	2-pordiga mini-switch arvutivõrguga ühendamiseks (vähemalt 100Mbps);
+	•	Terminali võimsustarve ei tohi olla suurem kui PoE klass 2;
+	•	Telefoniga peab olema kaasas eestikeelne kasutusjuhend;
+	•	Telefon peab olema Pakkuja poolt eelseadistatud (nn. Plug and Play, peale telefoni Hankija võrku ühendamist on telefonis automaatselt Hankija poolt tellitud numbri ja seadetega);
+	•	IP-aparaat peab võimaldama tsentraalset Pakkuja poolset kaughaldust (kasutajatunnuste, paroolide jms. määramine, tarkvaraversioonide uuendamine);
+	•	Seadmerikke korral peab Pakkuja asendama rikkis seadme Hankijale täiendavate kuludeta rikketeate edastamisest järgneval tööpäeval. 
+	•	
+	•	Tüüp 3 telefon
+	•	Lisaks punktis 1.5.2. toodule:
+	•	Vähemalt 12 eelseadistatavat funktsiooni- ja/või kiirvalikusõrmist
+	•	Peakomplekti ühendusliides (DHSG/EHS tugi);
+	•	Lisasõrmistiku (min. 12 sõrmist) liitmise võimalus;
+	•	Terminali võimsustarve ei tohi olla suurem kui PoE klass 3;
+	•	IP-analoogadapter (ATA)
+	•	Koodekite G.711a / G.729AB / G.722 ning T.38 faksiprotokolli tugi;
+	•	Analoogmodemi ühenduse tugi;
+	•	Adapter peab võimaldama vähemalt ühe analoogtelefoni, faksi, modemi ühendamist kasutades RJ11 pesa;
+	•	Iga analoogport peab olema eraldi registreeritav;
+	•	Adapter peab võimaldama CLIP-toega analoogtelefonidel helistaja numbrinäiduteenust kasutades DTMF-standardit;
+	•	Adapter peab võimaldama ühendust arvutivõrguga kasutades Ethernet 10/100 Mbps RJ45 liidest;
+	•	Analoogseadmel peab säilima põhifunktsionaalsus: sisse-, väljahelistamine, vahekõne, suunamise, noppimise jne. võimalus;
+	•	VLAN tugi;
+	•	Seadmerikke korral peab Pakkuja asendama rikkis seadme Hankijale täiendavate kuludeta rikketeate edastamisest järgneval tööpäeval.
+
+Nõuded võrguseadmetele
+	•	PoE võimekus üheaegselt kõigis võrguseadme portides (min.7W / port);
+	•	Min. 10/100 Base-T pordid, full-duplex;
+	•	QoS-tugi;
+	•	VLAN’ide seadistamise võimalus;
+	•	peab võimaldama tsentraalset Pakkuja poolset kaughaldust;
+	•	Seadmerikke korral peab Pakkuja asendama rikkis seadme Hankijale täiendavate kuludeta rikketeate edastamisest järgneval tööpäeval.
+Nõuded SIM-kaartidele
+	•	Pakkuja poolt tarnitavad mobiiltelefoni SIM kaardid peavad võimaldama 3G/3,5G/4G andmesidet.
+	•	Teenuse kasutamiseks vajalik SIM kaart ei tohi olla seotud Pakkuja poolt määratud seadmega, s.o seda peab olema võimalik kasutada suvalises SIM kaarti toetavas asjakohases ja nõuetekohases seadmes sõltumatult sellise seadme tarnijast.
+	•	Pakkuja peab tagama helistamise võimaluse Eesti siseselt, Eestist välismaale ja välismaalt Eestisse nii püsitelefoni- kui mobiiltelefonivõrkudesse, samuti internetiühenduse kasutatavuse mobiiltelefonides.
+	•	Numbri liikumisel või vahetamisel peavad säilima abonendile seni avatud teenused.
+	•	Pakkuja peab võimaldama kasutada ühe SIM-kaardiga kaksiknumbri-teenust.
+	•	Pakkuja peab tagama kvaliteetse 3G/3,5G/4G andmeside võimekuse Hankija mobiiltelefonidele kõigis Eesti Raudtee teeninduspiirkondades.
+	•	
+	•	TEENUSTE TELLIMINE / HALDAMINE
+Teenusepakkuja poolt määratakse Hankija jaoks kliendihaldur, kelle kaudu on Hankijal võimalik tellida kõiki teenuseid;
+Hankijal peab olema võimalus kasutada tasuta Interneti iseteenindusbürood (veebipõhine rakendus; autoriseerimine võimalik läbi ID-kaardi, Mobiil-ID või püsiparooli);.
+Hankijal peab olema võimalus luua Interneti iseteenindusbürood kasutades õiguste süsteemi, mis võimaldab Hankijal anda ja piirata oma töötajatele, kes kasutavad Hankija nimel olevaid sidevahendeid, erinevaid õigusi e-teeninduse kasutamiseks.
+Võimaldama Hankija kokkuvõtete, mobiilsideteenuste liitumislepingu lisade ja kõneeristuste väljastamist (allalaadimist) elektrooniliselt PDF ja CSV formaadis ning arvete väljastamist (allalaadimist) elektrooniliselt PDF ja CSV-formaadis.
+	•	kõneeristused peavad sisaldama A-numbri keskseid teenuste kokkuvõtteid, sh kõnede arv, kestus, maksumus, vastavate teenuste detailset infot, sh toimumise kuupäev ja kellaaeg, kestus, maksumus ning B-number;
+	•	koostada ja väljastada kõneeristusi tagasiulatuvalt kuni ühe aasta ulatuses arvates eristuse tegemisest.
+Hankijal peab olema võimalik kõne-ja andmesidepakette ning teenuseid muuta iseteenindusbüroo kaudu 24h ööpäevas ning paketi muudatus peab rakenduma 15 minuti jooksul selle tellimise teostamisest.
+Iseteeninduskeskkonnas peab olema esitatud hankija abonente ja teenuseid kajastav info, samuti hankijale väljastatud SIM kaardi (kaartide) info koos viimati kasutatud seadme infoga. 
+Administraator peab saama teha iseteeninduskeskkonnas tasuta mahupäringuid, nägema hankija abonentide teenuste kasutamise statistikat kuus.
+Hankija esindajale  peab tasuta olema võimaldatud läbi iseteeninduskeskkonna:
+	•	ligipääs kõnede eristustusele;
+	•	abonendi kasutaja andmete/numbri vahetus;
+	•	uute vabade numbrite valik ja algatamine;
+	•	olemasolevate numbrite kasutamise peatamine/lõpetamine;
+	•	olemasolevatest numbritest gruppide tekitamine; 
+	•	grupi reeglite määramine/kehtestamine: lisada ja eemaldada liikmeid ning muuta gruppide kõnejaotusparameetreid. Gruppi kuuluvate mobiilabonentide aktiveerimine/deaktiveerimine peab olema juhitav ka vastavate abonentide mobiiltelefonidelt;
+	•	piirangute seadmine olemasolevate numbrite teenustele, sealhulgas kõnepiirangute seadmine eritasuliste kõnedele ja teenustele;
+	•	andmeside pakettide seadmine ja pakettide vahetamine abonentidele;
+	•	SMS-teavituse (ennetav) tellimine hankija poolt määratud rahalise/mahulise limiidi täitumisel kalendrikuus.
+Kui pakkuja iseteeninduskeskkonnas on seatud piiranguid Hankija administraatori teenuste haldamisele, peab Pakkuja tagama tellimuste täitmise personaalse kliendihalduri vahendusel esimesel võimalusel (hiljemalt järgmisel tööpäeval).
+Kõne-ja andmeside pakettide edaspidine muutmine ning vahetamine peab olema Hankijale tasuta. 
+
+	•	NÕUDED TEENUSE OSUTAMISELE
+Pakkuja tagab hankijale määratud personaalse eestikeelse kliendihalduri teenuse vähemalt tööpäevadel (E-R) kell 8:00 - 17:00.
+Pakkuja kohustub andma Hankija kontaktisikutele selgitusi ja informatsiooni lepingu täitmise ja teenuse osutamisega seotud küsimustes kahe tööpäeva jooksul Hankija vastavasisulise kirjaliku pöördumise (sh pöördumine e-maili teel) kättesaamisest arvates.
+Pakkuja tagab tasuta elektroonsed kõnearuanded, mobiilandmeside kasutuse aruanded ning mobiilse parkimise aruanded vähemalt CSV ja PDF formaadis (numbripõhised ja koond). Pakkuja on kohustatud aruande koosseisu ja vormi muutma Hankija nõudmisel.
+Hankija peab saama seada lepinguga hõlmatud numbritele piiranguid numbri kasutamisel tehtavatele kuludele või kasutatavale mobiilse andmeside teenuse mahule Hankija määratud perioodil. Piirangute seadmine peab olema võimalik ühe numbri põhiselt. Hankija ei maksa eraldi tasu piirangute seadmise, muutmise või nendest loobumise eest. 
+Kui Hankija on seadnud piirangu mobiiltelefoninumbrile, siis peab teenuse osutaja saatma enne vastava piirangu rakendumist tasuta ennetava teate piirangu rakendumisest SMS-lühisõnumina (nn saldo teavitus) Hankija poolt eelnevalt määratud numbrile. Kui Hankija ei ole sellist numbrit eelnevalt määranud, saadetakse vastav teade numbrile, millele vastav piirang on seatud. 
+Teenuse kasutamine ei tohi nõuda Hankija poolt riistvara uuendamist ega väljavahetamist. 
+Kõneside kvaliteet ei tohi Hankijal hanke tulemusel halveneda võrreldes hanke-eelse kvaliteediga.
+Pakkuja peab tagama süsteemi rikke korral selle kõrvaldamise tööajal (E-R kell 8:00 – 17:00) 2 tunni jooksul ning kõikidel muudel päevadel ja aegadel 6 tunni jooksul alates rikketeate edastamisest Hankijalt. 
+Hankijapoolset administraatorit teavitatakse pakkuja poolt 5 tööpäeva jooksul kui Pakkuja muudab Hankija poolt ärikliendi, suurkliendi vms üldhinnakirja alusel kasutatavate toodete hinnakirju, toob turule Hankija poolt kasutatavatele toodetele analoogsed uued tooted või vanade kasutatavate toodete pakkumine avalikkusele lõpetatakse.
+Pakkuja väljastab Hankijale eestikeelsed arved hiljemalt iga kuu seitsmendal kuupäeval elektroonselt Hankija soovitud keskkonda. Vastavalt Hankija soovile koostatakse arved kas üldistatud (Üldarve) ja/või detailiseeritud (Detailarve) teenuste loeteluna iga abonendi kohta. Arve esitamisega viivitamise korral pikeneb arve tasumise tähtaeg viivitatud aja võrra automaatselt.
+Arve peab olema andmetöötluseks sobivas formaadis ning kujul, mis tagab arve käsitluse e- arvekeskuses. 
+Pakkuja võimaldab arveid jagada osadeks vastavalt Hankija määratud gruppidele (nt osakonnad, käibemaksukohuslus, erinevat tüüpi teenused jne).
+Hankijal on õigus esitada pretensiooni arve suhtes kahe kuu jooksul arve saamisest arvates. Pretensiooni põhjendatuse korral jääb Hankija poolt enamtasutud summa ettemaksuks järgmise kalendrikuu Teenuse eest või juhul, kui leping lõpeb, tagastatakse enamtasutud summa Hankijale.
+Hankija tasub kasutatud Teenuse eest arve 30 päeva alates arve esitamise kuupäevast. Arve esitamisega viivitamise korral pikeneb arve tasumise tähtaeg viivitatud aja võrra automaatselt.
+	•	
+	•	
+	•	HANKE MAHT, TÄHTAJAD
+Pakkumise tegemisel tuleb aluseks võtta pakett AS  Eesti Raudtee peamistest kõnesuundadest, mobiilandmeside kasutusvajadustest ja kasutatavatest teenustest:
+Teenus
+maht kuus (min., tk)
+1.
+Mobiilsideteenus
+
+1.1
+ABON
+Mobiilabonente
+450 tk
+ 
+1.2
+EST
+Kõned Eesti operaatorite tavatelefoni- ja mobiilivõrkudesse
+49 000 min.
+ 
+1.3
+SMS
+Eestisisene SMS
+2800 tk
+ 
+1.4
+BLR
+Kõned Valgevene tavatelefonidele
+120 min.
+ 
+1.5
+FIN
+Kõned Soome mobiilvõrkudesse
+220 min.
+ 
+1.6
+GER
+Kõned Saksamaa mobiilvõrkudesse
+30 min.
+ 
+1.7
+UKR
+Kõned Ukraina mobiilvõrkudesse
+120 min.
+ 
+1.8
+LV1
+Kõned Läti mobiilvõrkudesse
+270 min.
+ 
+1.9
+RUS1
+Kõned Venemaale mobiilvõrkudesse
+580 min.
+
+1.10
+RUS2
+Kõned Venemaa tavatelefonidele
+220 min.
+
+1.11
+LT
+Kõned Leedu mobiilvõrkudesse
+40 min.
+ 
+1.12
+DATA1
+Mobiilse andmeside pakett kasutamiseks Eesti Vabariigis ja lisaks p. 4.1.1. kirjeldatud lähiriikides, mis peab sisaldama 5GB andmemahtu kuus, ilma kiirusepiiranguta.
+240 tk
+
+1.13
+DATA2
+Mobiilse andmeside pakett kasutamiseks Eesti Vabariigis ja lisaks p. 4.1.1. kirjeldatud lähiriikides, mis peab sisaldama 10GB andmemahtu kuus ilma kiirusepiiranguta.
+60 tk
+
+1.14
+DATA3
+Mobiilse andmeside pakett kasutamiseks Eesti Vabariigis ja lisaks p. 4.1.1. kirjeldatud lähiriikides, mis peab sisaldama 20GB andmemahtu kuus ilma kiirusepiiranguta.
+20 tk
+
+1.15
+DATA4
+Mobiilse andmeside pakett kasutamiseks Eesti Vabariigis ja lisaks p. 4.1.1. kirjeldatud lähiriikides, mis peab sisaldama 40GB andmemahtu kuus ilma kiirusepiiranguta.
+20 tk
+
+1.16
+DATA5
+Mobiilse andmeside pakett (videovalve) kasutamiseks Eesti Vabariigis, mis peab sisaldama piiramatut andmemahtu kuus ilma kiirusepiiranguta
+15 tk
+2.
+Teenus / Seadmerent
+ 
+2.1
+ABON
+VoIP-abonenttasu (per number)
+800 tk
+
+2.2
+ABON_S
+Abonendi salvestus (per number)
+50 tk
+
+2.3
+TEL1
+Telefoni rent (tüüp 1)
+600 tk
+
+2.4
+TEL2
+Telefoni rent (tüüp 2)
+70 tk
+
+2.5
+TEL3
+Telefoni rent (tüüp 3)
+30 tk
+
+2.6
+LISA
+Lisasõrmistik (telefonile tüüp 3) 
+30 tk
+
+2.7
+AP2
+IP-Analoogadapter (2 porti)
+50 tk
+
+2.8
+AP4
+IP-Analoogadapter (4 porti)
+1
+
+2.9
+AP8
+IP-Analoogadapter (8 porti)
+1
+
+2.10
+AP16
+IP-Analoogadapter (16 porti)
+1
+
+2.11
+AP24
+IP-Analoogadapter (24 porti)
+1
+
+2.12
+SW24
+Võrguseade 24-porti (IP-telefonide ühendamiseks, PoE-tugi)
+15
+
+2.13
+SW48
+Võrguseade 48-porti (IP-telefonide ühendamiseks, PoE-tugi)
+5
+
+2.14
+VÜ
+Telefoniside välisühendused (L3VPN, 10/10M, SLA 2/6h, võimaldab ca. 100 samaaegset kõnet) (asukohad: Tallinn, Tartu)
+2 tk
+
+2.15
+VK
+Spetsialisti/tehniku väljakutse 
+3 tundi
+
+2.16
+KA
+Kõnearvestus, arvete väljastamine hankija soovitud kujul (grupid, kulukohad jne.)
+1 tk
+
+2.17
+PV
+Sidumine partnervõrkudega (E1, 30 kõne-kanalit), võimaldab läbi kindlate prefiksite tasuta helistamist nii EVR’i abonentidel partnervõrkude suunas kui vastupidi.
+3 tk
+
+
+
+
+
+3.
+Telefonisideteenus
+
+3.1
+ISDN
+kodukeskjaamast operaatorvõrku ISDN ühendusliinide kuutasu (E1, 30 kõnekanalit)
+11 tk
+
+3.2
+TAVATEL
+Eesti Raudtee telefonivõrguga seotud telefoninumbrid
+5700 tk
+ 
+3.3
+FIX
+Kõned Eestis tavatelefonivõrkudesse
+16000 min.
+ 
+3.4
+Telia
+Kõned Telia mobiilvõrku
+10300 min.
+ 
+3.5
+ELISA
+Kõned Elisa mobiilvõrku
+1950 min.
+ 
+3.6
+T2
+Kõned Tele2 mobiilvõrku
+2750 min.
+
+3.7
+LT
+Kõned Leedu tavatelefonivõrkudesse
+170 min.
+
+3.8
+BLR1
+Kõned Valgevene tavatelefonivõrkudesse
+90 min.
+
+3.9
+BLR2
+Kõned Valgevene mobiilvõrkudesse
+30 min.
+
+3.10
+UKR
+Kõned Ukraina mobiilvõrkudesse
+100 min.
+
+3.11
+LV1
+Kõned Läti mobiilvõrkudesse
+45 min.
+ 
+3.12
+LV2
+Kõned Läti tavatelefonivõrkudesse
+50 min.
+ 
+3.13
+RUS1
+Kõned Venemaa mobiilvõrkudesse
+350 min.
+
+3.14
+RUS2
+Kõned Venemaa tavatelefonivõrkudesse
+109 min.
+Grupisisesed kõned laua ja mobiiltelefonid vahel, helistades pika või lühikese numbriga.
+Teenus
+Maht kuus
+Hankija mobiiltelefonilt Hankija mobiiltelefonidele
+14470 min.
+Hankija mobiiltelefonilt Hankija lauatelefonidele
+4770 min.
+Hankija lauatelefonilt Hankija laua ja  mobiiltelefonidele
+4900 min.
+
+	•	Tabelis esitatud DATA1-DATA4 andmesidepaketi mahtu peab olema võimlik kasutada Eesti lähiriikides (Läti, Leedu, Soome, Rootsi, Norra, Taani) lisatasuta kuni vastava andmesidepaketi mahu täitumiseni. 
+	•	Kui pakettides DATA1 – DATA4 sisalduv andmemaht täitub, siis võib Pakkuja andmeside kasutust piirata. Pakkuja peab kasutajat SMS-i (sõnumi) teel teavitama, kui tellitud andmemahust on kasutatud 80-90%.
+	•	Hankijal peab olema võimalik mahu täitumisel tabelis näidatud pakettidele mahtu 1 GB kaupa juurde osta SMS-i või veebilehe kaudu vastavalt kehtivale ärikliendi andmesidemahu hinnakirjale. Pakkuja peab saatma kasutajale SMS-teate kuutasus sisalduva interneti mahu täitumisest ning juhised ja tingimused lisamahu juurde ostmiseks. Juurde ostetud mahu kiirust ei piirata.
+	•	Kasutaja poolt ostetud lisamaht peab aktiveeruma koheselt. 
+	•	Pakettides peab saama Hankija soovil kasutada eraldi andmeside SIM kaarti, millel ei ole aktiveeritud kõneside paketti. 
+	•	Vaikimisi peab olema tagatud miinimumpakett ilma kuu- ja mahutasuta igal mobiiltelefoni numbril kuu andmemahuga kuni 500 MB.
+	•	Kui vastava paketi kuutasus sisalduv andmemaht täitub, siis võib Pakkuja andmeside kiirust piirata, tagades andmeside kiiruse mitte vähem kui 0,256 Mbps. Piiratud kiirusel on mahtu ületav andmeside kasutus lisatasuta.
+	•	Juhul kui pakkuja ei ole mingil põhjusel piiranud andmemahu ületamisel andmeside kiirust, ei ole tal õigust paketis sisalduvat mahtu ületava andmeside eest täiendavat tasu nõuda. 
+Hanke läbiviimise tulemusena sõlmitakse ühe pakkujaga leping telefoni- ja mobiilsideteenuse tellimiseks tähtajaga lepingu allkirjastamisest 48 kuud.
+Hankija ei ole lepingu täitmisel seotud lepingu eeldatava mahuga, teenust tellitakse vastavalt reaalsele vajadusele ja olemasolevatele võimalustele. 
+Hankijal on õigus vastavalt enda vajadustele tellida juurde rendiseadmeid või vajaduse lõppedes tagastada rendiseadmeid Pakkujale ilma täiendava lisakuluta. Hankija tasub rendiseadme kasutamise perioodil ainult Pakkuja pakkumises toodud igakuist seadme renditasu. 
+Hankija näeb ette võimaluse uute teenuste tellimiseks, mis seisnevad samalt pakkujalt käesoleva hankemenetluse tulemusel sõlmitava Hankelepingu alusel tellitavate teenuste kordamises 2 aasta jooksul kooskõlas riigihangete seaduse RHS § 28 lõike 5 p 2 sätestatuga.
+	•	
+	•	ASUKOHAD
+Telliskivi 60/2, kõik AS Eesti Raudtee kasutuses olevad korrused. 
+Tegevuskohad, mis on avaldatud Eesti Raudtee veebilehel aadressiga: http://www.evr.ee/files/EVR-PPD-Template-KAART-eesti.jpg
+	•	Täpsema asukohainfo leiab Maaameti kaardirakendusest.
+	•	Tehniline kirjeldus
+Pakkuja esitab VoIP-lahenduse kohta täieliku tehnilise kirjelduse koos põhimõtteskeemi ja pakutavate võrgu- ning lõppseadmete nimetuste ja spetsifikatsioonidega. Vajadusel/hankija soovi korral võimaldab pakkuja ligipääsu demokeskkonnale teenuste (nii mobiil- kui VoIP) ja kõnesalvestuse lahenduse haldamise kontrollimiseks.
+
+
+
+=== 1570936_HD_Lisa_2_-_Pakkumuse_maksumuse_väljendamise_vorm.xlsx ===
+[Sheet: Sheet1]
+HD Lisa 2
+Hankija nimi: AS Eesti Raudtee
+Hanke nimetus: „AS Eesti Raudtee telefoni- ja mobiilsideteenuste tellimine II”
+Pakkumuse maksumuse väljendamise vorm
+Tutvunud hankedokumentidega käesolevas hankes, kinnitame, et oleme kätte saanud kogu vajamineva informatsiooni ning sellega tutvunud.
+…………………………………………………………… teeb järgmise pakkumuse,  (pakkuja nimi ja reg.number)
+Teenus | maht kuus | ühik | ühiku hind | teenuse maksumus
+1. | Mobiilsideteenus
+1.1 | ABON | mobiiltelefoni abonendi kuutasu | 450 | tk | 0 | 0
+1.2 | EST | minuti hind Eesti operaatorite tavatelefoni- ja mobiilvõrkudesse | 49000 | min | 0 | 0
+1.3 | SMS | SMS sõnumi hind (Eesti) | 2800 | tk | 0 | 0
+1.4 | BLR | minuti hind Valgevene tavatelefonivõrkudesse | 120 | min | 0 | 0
+1.5 | FIN | minuti hind Soome mobiilvõrkudesse | 220 | min | 0 | 0
+1.6 | GER | minuti hind Saksamaa mobiilvõrkudesse | 30 | min | 0 | 0
+1.7 | UKR | minuti hind Ukraina mobiilvõrkudesse | 120 | min | 0 | 0
+1.8 | LV | minuti hind Läti mobiilvõrkudesse | 270 | min | 0 | 0
+1.9 | RUS1 | minuti hind Venemaale mobiilvõrkudesse | 580 | min | 0 | 0
+1.10 | RUS2 | minuti hind Venemaa tavatelefonivõrkudesse | 220 | min | 0 | 0
+1.11 | LT | Minuti hind Leedu mobiilvõrkudesse | 40 | min | 0 | 0
+1.12 | DATA1 | Mobiilse andmeside pakett kasutamiseks Eesti Vabariigis ja lisaks p. 4.1.1. kirjeldatud lähiriikides, mis peab sisaldama 5GB andmemahtu kuus ilma kiirusepiiranguta. | 240 | tk | 0 | 0
+1.13 | DATA2 | Mobiilse andmeside pakett kasutamiseks Eesti Vabariigis ja lisaks p. 4.1.1. kirjeldatud lähiriikides, mis peab sisaldama 10GB andmemahtu kuus ilma kiirusepiiranguta | 60 | tk | 0 | 0
+1.14 | DATA3 | Mobiilse andmeside pakett kasutamiseks Eesti Vabariigis ja lisaks p. 4.1.1. kirjeldatud lähiriikides, mis peab sisaldama 20GB andmemahtu kuus ilma kiirusepiiranguta | 20 | tk | 0 | 0
+1.15 | DATA4 | Mobiilse andmeside pakett kasutamiseks Eesti Vabariigis ja lisaks p. 4.1.1. kirjeldatud lähiriikides, mis peab sisaldama 40GB andmemahtu kuus ilma kiirusepiiranguta | 20 | tk | 0 | 0
+1.16 | DATA5 | Mobiilse andmeside pakett (videovalve) kasutamiseks Eesti Vabariigis, mis peab sisaldama piiramatut andmemahtu kuus ilma kiirusepiiranguta | 10 | tk | 0 | 0
+Mobiilsideteenuse kuumaksumus kokku :  | 0
+2. | TEENUS / SEADMERENT
+2.1 | ABON | Abonenttasu (per number) | 800 | tk | 0 | 0
+2.2 | ABON_SALV | Abonendi salvestus (per number) | 50 | tk | 0 | 0
+2.3 | TEL1 | Telefoni rent (tüüp 1) | 600 | tk | 0 | 0
+2.4 | TEL2 | Telefoni rent (tüüp 2) | 70 | tk | 0 | 0
+2.5 | TEL3 | Telefoni rent (tüüp 3) | 30 | tk | 0 | 0
+2.6 | LISA | Lisasõrmistik (telefonile tüüp 3)  | 30 | tk | 0 | 0
+2.7 | AP2 | IP-Analoogadapter (2 porti) | 50 | tk | 0 | 0
+2.8 | AP4 | IP-Analoogadapter (4 porti) | 1 | tk | 0 | 0
+2.9 | AP8 | IP-Analoogadapter (8 porti) | 1 | tk | 0 | 0
+2.10 | AP16 | IP-Analoogadapter (16 porti) | 1 | tk | 0 | 0
+2.11 | AP24 | IP-Analoogadapter (24 porti) | 1 | tk | 0 | 0
+2.12 | SW24 | Võrguseade 24-porti (IP-telefonide ühendamiseks, PoE-tugi, teenusepakkuja poolt kaughallatav) | 15 | tk | 0 | 0
+2.13 | SW48 | Võrguseade 48-porti (IP-telefonide ühendamiseks, PoE-tugi, teenusepakkuja poolt kaughallatav) | 5 | tk | 0 | 0
+2.14 | VÜ | Telefoniside välisühenduse (L3VPN, 20/20M, SLA 2/6h, võimaldab ca. 150 samaaegset kõnet) kuurent (asukohad: Tallinn, Tartu) | 2 | tk | 0 | 0
+2.15 | VK | Spetsialisti/tehniku väljakutse  | 3 | tund | 0 | 0
+2.16 | KA | Kõnearvestus, arvete väljastamine hankija soovitud kujul (grupid, kulukohad jne.) | 1 | tk | 0 | 0
+2.17 | PV | Sidumine partnervõrkudega (E1, 30 kanalit), võimaldab läbi kindlate prefiksite tasuta helistamist nii EVR’i abonentidel partnervõrkude suunas kui vastupidi. | 3 | tk | 0 | 0
+Teenuse / seadmerendi kuumaksumus kokku | 0
+3. | Telefonisideteenus
+3.1 | ISDN | kodukeskjaama üldkasutatavasse telefonivõrku ISDN ühendusliinide kuutasu (30 kõnekanalit) | 11 | tk | 0 | 0
+3.2 | TAVATEL | Eesti Raudtee telefonivõrguga seotud telefoninumbrite kuutasu | 5700 | tk | 0 | 0
+3.3 | FIX | minuti hind Eestis tavatelefonivõrkudesse | 16000 | min | 0 | 0
+3.4 | Telia | minuti hind Telia mobiilvõrku | 10300 | min | 0 | 0
+3.5 | ELISA | minuti hind Elisa mobiilvõrku | 1950 | min | 0 | 0
+3.6 | T2 | minuti hind Tele2 mobiilvõrku | 2750 | min | 0 | 0
+3.7 | LT | minuti hind Leedu tavatelefonivõrkudesse | 170 | min | 0 | 0
+3.8 | BLR1 | Minuti hind Valgevene tavatelefonivõrkudesse | 90 | min | 0 | 0
+3.9 | BLR2 | minuti hind Valgevene mobiilvõrku | 30 | min | 0 | 0
+3.10 | UKR | minuti hind Ukraina mobiilvõrku | 100 | min | 0 | 0
+3.11 | LV1 | minuti hind Läti mobiilvõrku | 45 | min | 0 | 0
+3.12 | LV2 | minuti hind Läti tavatelefonivõrkudesse | 50 | min | 0 | 0
+3.13 | RUS1 | minuti hind Venemaa mobiilvõrku | 350 | min | 0 | 0
+3.14 | RUS2 | minuti hind Venemaa tavatelefonivõrkudesse | 109 | min | 0 | 0
+Telefonisideteenuse kuumaksumus kokku :  | 0
+Pakkumuse 1 kuu maksumus kokku (p1. p2. p.3) :  | 0
+Pakkumuse lepinguperioodi (48 kuud) maksumus kokku :  | 0
+* Rohelise fooniga number kanda riigihangete registri pakkumuse maksumuse vormile. 
+**Kõik esitatud mahud on indikatiivsed ning pole hankijale siduvad. Arveldamine toimub tegeliku tarbimise järgi. 
+…………………….. | ………………………. | ……………………………….
+(allkiri) | (nimi) | (ametikoht)
+
+=== 1570936_HD_Lisa_3_-_Hankemenetlusel_osalemise_avaldus.docx ===
+HD Lisa 3
+
+Hankemenetlusel osalemise avaldus
+Hankija nimi: AS Eesti Raudtee.
+Hanke nimetus: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+Pakkuja ______________________________ taotlus hankes osalemiseks.
+ Andmed Pakkuja kohta (ühise pakkumuse korral täidab volitatud esindaja)
+Hankedokumentides nõutud andmed
+Juriidilise isiku nimi, kes esitab pakkumuse
+Pakkuja nimi / Ühispakkujate volitatud esindaja nimi:
+
+Ühise pakkumuse partner 1*
+
+Ühise pakkumuse partner 2*
+
+Registrikood:
+
+Aadress:
+
+Kontaktisik ja tema andmed:
+
+Telefon:
+
+Elektronposti aadress:
+
+Kodulehekülje aadress (kui on olemas):
+
+*kustutada või lisada vajalikud read ühispakkumise korral kõikide partnerite näitamiseks. 
+
+	•	Kinnitame, et oleme tutvunud hanke “AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II” alusdokumentidega ja nende juurde kuuluvate lisadega, nõustume esitatud tingimustega ja soovime osaleda käesolevas hankes. 
+	•	Kinnitame kõigi hanke alusdokumentides esitatud tingimuste ülevõtmist.
+	•	Kinnitame, et meile oli antud võimalus saada selgitusi ja täiendavat teavet hanke alusdokumentide kohta ning tutvuda tööde tegemise koha ja selle ümbrusega. Kinnitame, et oleme teadlikud Hankija eesmärgist ning oleme arvestanud kõikide tingimustega, mis võivad mõjutada teenuse maksumust.
+	•	Kinnitame, et vastame täielikult esitatud kvalifitseerimistingimustele ning meil on kõik võimalused ja vahendid hankelepingu nõuetekohaseks täitmiseks.
+	•	Kinnitame, et pakkumus on jõus 3 kuud pakkumuse esitamise tähtpäevast alates. Pakkumus on Pakkujale siduv alates pakkumuse esitamise tähtpäevast vähemalt kuni HD-s määratud pakkumuse jõusoleku minimaalse tähtaja lõppemiseni. Hankija kirjalikul ettepanekul võib Pakkuja pakkumuse jõusoleku tähtaega pikendada (RHS §112).
+	•	Kinnitame, et pakkumuse koostamisel on arvesse võetud kõik käesoleva hanke kvaliteetseks ja nõuetekohaseks teostamiseks ning hankelepingu eesmärgi saavutamiseks vajalikud tööd, tegevused ja toimingud, kaasa arvatud need, mis ei ole otseselt kirjeldatud hanke alusdokumendis ja selle lisades, kuid mis on tavapäraselt vajalikud nõuetekohase tulemuse saavutamiseks arvestades ka hankelepingu eesmärki.
+	•	Kinnitame, et kõik koos käesoleva avaldusega esitatud dokumendid moodustavad meie pakkumuse osa.
+	•	Kinnitame, et pakkumuse koosseisus esitatud Pakkumuse maksumuse tabel on nõuetekohaselt täidetud. Saame aru, et Pakkumuse maksumuse tabeli mittenõuetekohase täitmise puhul lükatakse meie pakkumus tagasi kui hanke tingimustele mittevastav.
+	•	Kinnitame, et me ei ole esitanud valeandmeid riigihangete seaduses sätestatud tingimuste või nimetatud sätete alusel Hankija kehtestatud nõuetele vastavuse kohta.
+	•	Kinnitame, et oleme pakkumuse koostamisel arvesse võtnud kõik hanke tulemusel hankelepingu täitmiseks vajalikud otsesed ja kaudsed kulud, mis tagavad teenuste kvaliteetse teostamise nõutavas mahus.
+
+Juhul, kui meie pakkumus osutub edukaks, siis meie andmed hankelepingu projekti jaoks on järgmised:
+Juriidiline aadress:
+Telefon:
+E-post:	
+Esindaja lepingu sõlmimisel:
+Esindusõiguse alus: (põhikirja alusel/volikirja alusel/muul alusel [täpsustada])
+Kontaktisik:
+Ametikoht:
+Kontaktisiku telefon:
+Kontaktisiku e-post:
+
+Pakkuja seaduslik või volitatud esindaja:
+
+nimi 		______________________________
+
+kuupäev 	______________________________
+
+allkiri 	
+
+
+=== 1570936_HD_Lisa_4_-_Kinnituskirja_vorm.docx ===
+	HD Lisa 4
+	  Pakkuja kinnitused hankemenetlusest kõrvaldamise asjaolude kohta
+Hankija nimi: AS Eesti Raudtee.
+Hanke nimetus: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+Pakkuja ______________________________
+	•	Kinnitame, et meid ega meie haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või asjaomase riigihankega seotud lepingulist esindajat ei ole kriminaal- või väärteomenetluses karistatud kuritegelikus ühenduses osalemise, aususe kohustuse rikkumise või korruptiivse teo, kelmuse, terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo või sellele kihutamise, kaasaaitamise või selle katse, rahapesualase süüteo või terrorismi rahastamise eest;
+	•	Kinnitame, et meid ega meie haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või asjaomase riigihankega seotud lepingulist esindajat ei ole karistatud riigis ilma seadusliku aluseta viibivale välismaalasele töötamise võimaldamise eest;
+	•	Kinnitame, et meid ja meie haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku või asjaomase riigihankega seotud lepingulist esindajat ei ole karistatud laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud teo eest;
+	•	Kinnitame, et me ei ole maksuvõlglane see tähendab, et meil on nõuetekohaselt täidetud õigusaktidest tuleneva meie elu- või asukoha riikliku maksu, makse või keskkonnatasu ning sotsiaalkindlustuse maksete tasumise kohustus asukohariigi õigusaktide kohaselt;
+	•	 Kinnitame, et meid ega meie haldus-, juhtimis- või järelevalveorgani liige ei ole rahvusvahelise sanktsiooni subjekt rahvusvahelise sanktsiooni seaduse tähenduses 
+	•	Kinnitame, et me ei ole eksinud raskelt ametialaste käitumisreeglite vastu mis oleks muutnud meie aususe küsitavaks;
+	•	Kinnitame, et meie ei ole oluliselt või pidevalt rikkunud eelnevalt sõlmitud hankelepingut või hankelepinguid nii, et rikkumise tulemusena on lepingust taganenud või lepingut üles öeldud, hinda alandatud, hüvitatud kahju või makstud leppetrahvi;
+	•	Kinnitame, et omame hankelepingu täitmiseks vajalikke intellektuaalse omandi õiguseid;
+	•	Kinnitame, et me ei ole esitanud valeandmeid RHS § 95 sätestatud või RHS §-des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele vastavuse kohta või jätnud need andmed või RHS § 104 lõigete 7 ja 8 alusel hankija nõutud täiendavad dokumendid esitamata.
+	•	Kui meie pakkumus tunnistatakse edukaks, kohustume pakkumuse jõusoleku aja jooksul sõlmima lepingu pakkumuse esitamise ettepanekus toodud tingimustel ja kuni lepingu allakirjutamiseni on esitatud pakkumus koos hankijapoolse kirjaliku kinnitusega pakkumuse edukaks tunnistamise kohta meievaheliseks siduvaks kokkuleppeks.
+Pakkuja seaduslik või volitatud esindaja:
+nimi 		______________________________
+kuupäev 	______________________________
+allkiri 	 
+
+
+=== 1570936_HD_Lisa_5_-Pakkujat_esindava_isiku_volikiri.docx ===
+HD Lisa 5
+Pakkujat esindava isiku volikiri
+Hankija nimi: AS Eesti Raudtee
+Hanke nimetus: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+
+Pakkuja  _______________________ 
+Käesolevaga volitab ______________________ (pakkuja nimi) 
+______________________________ (volitaja nimi ja ametikoht) isikus 
+_______________________________ (volitatava nimi, isikukood, ametikoht) 
+olema pakkuja ametlik esindaja ja allkirjastama hanke pakkumust ning kvalifitseerimise  tingimustele vastavuse tõendamiseks esitatavaid dokumente, esindama pakkujat läbirääkimistel ning esitama läbirääkimiste tulemusel kohandatud pakkumust ning allkirjastama hankelepingut. 
+
+Volikiri on antud edasivolitamise õiguseta.
+
+Volikiri kehtib kuni: ________________
+
+Kuupäev: _________________
+
+
+………………………………..
+(volitaja allkiri)
+
+
+
+=== 1570936_HD_Lisa_6_-_Ühispakkujate_volikiri.docx ===
+HD Lisa 6
+Ühispakkujate volikiri
+Hankija nimi: AS Eesti Raudtee
+Hanke nimetus: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+Pakkuja ______________________________
+Käesolevaga kinnitame, et järgnevalt nimetatud Pakkujad on esitanud käesoleva pakkumuse ühiselt, volitades ____________________________________________
+(nimetada Pakkujate volitatud esindaja nimi)
+tegema Ühispakkujate nimel hankemenetlusega ning hankelepingu sõlmimise ja täitmisega seotud toiminguid.
+Pakkuja nr
+Pakkuja nimi
+Pakkuja registrikood
+Pakkuja seadusliku esindaja nimi
+Pakkuja 1 Pakkujate volitatud esindaja
+
+
+
+Pakkuja 2
+
+
+
+
+Pakkuja 3
+
+
+
+
+Pakkuja 4
+
+
+
+
+Kinnitame, et käesoleva riigihanke tulemusena sõlmitava hankelepingu täitmise eest vastutavad ühise pakkumuse esitanud isikud solidaarselt. 
+Volikiri on antud edasivolitamise õiguseta.
+Pakkuja seaduslik või volitatud esindaja:
+
+nimi 		______________________________
+
+kuupäev 	______________________________
+
+allkiri 	
+
+
+=== 1570936_HD_Lisa_7_-Teostatud_tööde_nimekiri.docx ===
+HD Lisa 7
+Teostatud tööde nimekiri
+
+Hankija nimi: AS Eesti Raudtee
+
+Hanke nimetus: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+Pakkuja ______________________________
+Kinnitame, et oleme hanke algamisele eelneva 36 kuu jooksul teostanud järgmised tööd:
+Sõlmitud lepingute loetelu koos nende maksumuste ja infoga teiste lepingupoolte kohta
+Jrk nr
+Lepingu nr, tellija nimi, kontakttelefon, e post
+Teostatud tööd 
+(objekti aadress ja tööde sisu)
+Tööde teostamise periood
+Tööde maksumus ilma km ta eurodes (Kui leping hõlmab endas mitut aastat, siis tuua välja lepingu maht iga aasta kohta eraldi)*/**
+1.
+
+
+
+
+
+2.
+
+
+
+
+
+3.
+
+
+
+
+
+…
+
+
+
+
+*Maksumus tuua nende aastate kohta mis on kvalifitseerumiseks vajalikud.
+** Maksumuste avaldamata jätmine tingib pakkuja kvalifitseerimata jätmise (avaldatava info võib märkida ärisaladuseks). 
+Kinnitame, et käesolevas nimekirjas märgitud tööd on tehtud sõlmitud lepingute ja hea tava kohaselt.
+Märkused: ___________________________________________________
+
+…………………………..
+(Pakkuja nimi)
+…………………………….
+(Pakkuja volitatud esindaja nimi ja allkiri)
+……………………………
+ (kuupäev)
+
+
+
+=== 1570936_HD_Lisa_8_-_Andmed_netokäibe_kohta.docx ===
+HD Lisa 8
+Andmed netokäibe kohta
+Hankija nimi: AS Eesti Raudtee
+Hanke nimetus: AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+
+Pakkuja ______________________________
+
+Kinnitame, et meie netokäive hanke algatamise ajaks lõppenud viimasel kolmel majandusaastal oli järgmine:
+
+Aasta
+Netokäive
+2016
+
+2017
+
+2018
+
+
+
+Pakkuja seaduslik või volitatud esindaja:
+
+nimi 		______________________________
+
+kuupäev 	______________________________
+
+allkiri 	 
+
+
+
+=== 1570936_HD_Lisa_9_-_lepingu_olulised_tingimused.docx ===
+HD Lisa 9
+As Eesti Raudtee TELEFONI- JA mobiilsideTEENUSTE TELLIMINE II LEPINGU OLULISED TINGIMUSED
+	•	Lepingu esemeks on AS-ile Eesti Raudtee VoIP telefoniteenuse, koos IP-telefonide ja IP/analoogadapterite rendiga ning mobiilse kõne- ja andmesideteenuse tellimine ajavahemikus 2019-2023 (48 kuud).
+	•	Teenuse Osutaja peab tagama Hankija mobiiltelefonide teenuse kasutamise võimaluse Eesti siseselt, helistamisvõimaluse Eestist välismaale, välismaalt Eestisse ja välismaalt välismaale.
+	•	Pakkumuse hinnad peavad kehtima Hankija kõigile olemasolevatele ja uutele abonentidele ning kogu lepinguperioodi jooksul sõltumatult nädalapäevast 24 tundi ööpäevas ning ei sõltu kõnede arvust ega kõnede kestvusest ajaühikus (nt kuus).
+	•	Hankija ei võta kohustust tagada lepinguperioodi mahtude kasutamist ühelegi teenusele/paketile, vaid lähtub teenuste tellimisel ja kasutamisel Hankija tegelikest vajadustest. 
+	•	Teenuse Osutaja peab tagama võimaluse kasutada tehnilises kirjelduses (HD Lisa 1) mitteloetletud sideteenuseid Teenuse Osutaja poolsetele teenustele ja suundadele, millele rakendub Sideteenuse osutaja ettevõttes kehtiv ärikliendi või suurkliendi baashinnakiri. Sideteenuse osutaja  baashinnakiri peab Hankijale olema kättesaadav.
+	•	Teenuse Osutaja vahetuse korral kannab kõik sideoperaatori vahetusega kaasnevad kulud see Teenuse Osutaja, kelle võrku numbrid teisaldatakse. 
+	•	Teenuse Osutaja vahetuse korral peavad säilima hankija kasutuses olevad numbrid, kui numbrite teisaldamine Teenuse Osutaja pakkuja võrku ei ole seadusega piiratud. Kui teenuse osutamiseks on vaja muuta olemasolevaid hankija kasutuses olevaid numbreid, siis on Teenuse Osutajal kohustus tagada omal kulul endiste numbrite paralleelne toimimine kuue kuu jooksul ja seejärel endistele numbritele helistamise korral automaatvastuste esitamine täiendava kolme kuu jooksul.
+	•	Teenuse Osutaja väljastab hankijale eestikeelsed arved hiljemalt iga kuu kolmandal kuupäeval. Arve esitamisega viivitamise korral pikeneb arve tasumise tähtaeg viivitatud aja võrra automaatselt.
+	•	Arved peavad olema esitatud e-arve kujul (masintöödeldavad). Arvele tuleb lisada lepingu number ja hankijapoolne kontaktisiku nimi ning edastada aadressile arved@evr.ee.
+	•	Teenuse Osutaja võimaldab arveid jagada osadeks vastavalt hankija määratud gruppidele (nt osakonnad, käibemaksukohuslus, erinevat tüüpi teenused jne).
+	•	Hankijal on õigus esitada pretensiooni arve suhtes kahe kuu jooksul arve saamisest arvates. Pretensiooni põhjendatuse korral jääb Hankija poolt enamtasutud summa ettemaksuks järgmise kalendrikuu Teenuse eest või juhul, kui leping lõpeb, tagastatakse enamtasutud summa Hankijale.
+	•	Hankija tasub Teenuse osutaja poolt esitatud arve 30 (kolmekümne) kalendripäeva jooksul alates arve esitamisest.
+	•	Hankijal on õigus erakorraliselt ette teatamata ennetähtaegselt leping üles öelda  kui Teenuse osutaja rikub oluliselt Lepingust tulenevaid kohustusi ning Hankijal ei ole kõiki asjaolusid arvestades mõistlik Lepingu täitmist jätkata.
+	•	Tehniline kirjeldus on lepingu lahutamatu osa. 
+
+
+
+=== 1570936_Pakkumuse_kutse_dokument.docx ===
+
+AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+Riigihangete registri viitenumber: 208609
+Hankemenetluse liik: Lihthange
+
+
+Hankija
+AS Eesti Raudtee (registrikood 11575838),	http://www.evr.ee
+Telliskivi 60/2, 15073 Tallinn, Eesti Vabariik
+Tel: 6 158 766	Faks: 6 158 588, E-post: hankeosakond@evr.ee
+teeb ettepaneku esitada pakkumusi vastavalt hanketeates (edaspidi HT) ja teistes riigihanke alusdokumentides (edaspidi HD)  esitatud tingimustele.
+
+Üldinformatsioon
+Hanke ese: AS Eesti Raudtee telefoni- ja mobiilsideteenuste tellimine 48-kuuliseks perioodiks. 
+Riigihangete klassifikaator(id) (CPV) kood: 64210000-1 Telefoni- ja andmeedastusteenused. 
+Hanke tehniline spetsifikatsioon on toodud HD Lisas 1 (tehniline kirjeldus).
+Teenuse osutamise tähtaeg on 48 kuud lepingu sõlmimisest arvates.
+Alternatiivsed pakkumused ei ole lubatud. 
+ Eduka pakkumuse esitanud pakkujaga sõlmitakse hankeleping. Hankeleping sõlmitakse teenusepakkuja vormil, millesse peavad olema integreeritud hankijapoolsed HD Lisas 9 toodud tingimused. 
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe ärisaladuseks määramist. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1) nimetatule muid pakkumuste hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks käesolevas punktis 1) nimetatule muid pakkumuste hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid.
+
+
+Pakkumuste esitamine ja avamine 
+Pakkumuste esitamise koht: Riigihangete registri vahendusel
+Pakkumuste avamise koht ja aeg: kuna tegemist on e-menetlusega, toimub pakkumuste avamine riigihangete registri vahendusel ning avaistungit hankija kontoris ei korraldata. 
+
+Nõuded pakkumusele
+Pakkumus tuleb koostada eesti keeles. Kui pakkumus sisaldab dokumente, mille keel erineb pakkumuse esitamise keelest, peab pakkumus olema varustatud eestikeelse tõlkega. 
+Pakkumus peab olema jõus vähemalt 3 kuud alates pakkumuse esitamise tähtpäevast.
+Pakkumuse esitamist riigihangete registris ei tohi jätta viimasele hetkele, kuna pakkumuse muul viisil esitamise (nt tehniliste probleemide ilmnemise) korral ei ole võimalik väljaspool registrit esitatud pakkumust arvesse võtta. 
+Pakkumuse maksumus tuleb väljendada riigihangete registri vormil ilma käibemaksuta. 
+Riigihangete registri vahendusel pakkumuse esitamisel tuleb silmas pidada, et failid peavad olema üldtuntud formaatides (.txt, .doc, .rtf., pdf, .xls). 
+Pakkumuse hind tuleb esitada eurodes.
+Pakkumus peab olema allkirjastatud pakkuja seadusliku esindaja või tema volitatud isiku poolt. 
+Pakkuja kannab kõik pakkumuse ettevalmistamise ja esitamisega seotud kulud.
+Allakirjutatud pakkumus peab olema lõplik ega tohi sisaldada parandusi ega täiendusi.
+Pakkumus ei tohi sisaldada hankesse mittepuutuvaid dokumente ega erinevaid reklaamtrükiseid.
+Pakkumuse maksumuse erinevuse korral ühikhinna ja kogusumma vahel, mis on saadud ühikhinna korrutamisel hulgaga, loetakse õigeks ühikhind.
+Pakkujal on õigus saada selgitusi ja täiendavat informatsiooni, mis on vajalik pakkumuse ettevalmistamiseks, pöördudes selgituse saamiseks hankija poole hankekeskkonna vahendusel. Hankija vastab hankekeskkonna vahendusel ja küsimused/vastused on nähtavad kõigile hanke juurde registreerunud isikutele.
+Pakkumusele pakkuja esindajana alla kirjutanud isik peab omama pakkuja esindamise õigust. Pakkuja, kelle pakkumusele pakkuja esindajana alla kirjutanud isik või isikud ei oma pakkuja esindamise õigust seadusest tulenevalt (nt juriidilise isiku poolt esitatud pakkumusele kirjutab alla keegi teine kui äriregistri registreerimistunnistusele kantud juhatuse liige, kes omab juriidilise isiku esindamise õigust), esitab volikirja dokumentide allkirjastamiseks (HD Lisa 5 vormil), millega pakkuja volitab pakkumusele pakkuja esindajana alla kirjutanud isikut või isikuid olema pakkuja ametlik esindaja ja allkirjastama riigihanke pakkumust ning riigihankes osalemise tingimustele vastavuse tõendamiseks esitatavaid dokumente.
+Ühispakkujad peavad nimetama endi seast esindaja pakkumuse esitamiseks ja hankemenetluse ning hankelepingu sõlmimise ja täitmisega seotud toimingute tegemiseks. Ühispakkujad esitavad koos nende kvalifikatsiooni tõendamiseks esitatavate dokumentidega volikirja(d) ühispakkuja esindamiseks (HD Lisa 6 vormil), millega nimetatakse esindaja pakkumuse esitamiseks ja hankemenetluse ning hankelepingu sõlmimise ja täitmisega seotud toimingute tegemiseks.
+
+Pakkumuse struktuur
+Kehtiv äriregistri registritunnistus või kehtiv koopia vastavast registritunnistusest      (vajadusel).
+Volikiri dokumentide allkirjastamiseks HD Lisa 5 vormil (vajadusel).
+Volikiri ühispakkuja esindamiseks HD Lisa 6 vormil (vajadusel).
+Kinnituskiri HD Lisa 4 vormil.
+Pakkuja netokäivete info HD Lisa 8 vormil.
+Teisele isikule tuginemine HD Lisa 10 vormil (vajadusel)
+Teostatud tööde loetelu HD Lisa 7 vormil.
+Hankemenetlusel osalemise avaldus HD Lisa 3 vormil.
+Pakkumuse maksumuse väljendamise vorm HD lisa 2 vormil.
+Pakutava lahenduse tehniline kirjeldus ning seadmete nimetused ja spetsifikatsioonid. 
+
+Pakkumuste vastavaks tunnistamine või tagasilükkamine
+ Hankija võib tunnistada pakkumuse vastavaks, kui selles ei esine sisulisi kõrvalekaldeid HTs või HDs ning selle lisades esitatud tingimustest.
+Hankija lükkab pakkumuse tagasi, kui pakkumus ei vasta HTs või HDs ning selle lisades esitatud tingimustele.
+Hankija võib lükata kõik pakkumused tagasi järgmistel juhtudel: 
+eduka pakkumuse teinud pakkuja keeldub hankelepingu sõlmimisest ja ülejäänud pakkumuste maksumused ületavad Hankija poolt selleks planeeritud rahalisi vahendeid.
+hankemenetluse toimumise ajal on Hankijale saanud teatavaks andmed, mis välistavad või muudavad hankija jaoks ebaotstarbekaks hankemenetluse lõpuleviimise HD-s esitatud tingimustel või Lepingu sõlmimine etteantud ja hankemenetluse käigus väljaselgitatud tingimustel ei vastaks muutunud asjaolude tõttu enam Hankija varasematele vajadustele või ootustele;
+langeb ära vajadus hanke teostamiseks põhjusel, mis ei sõltu Hankijast või põhjusel, mis sõltub või tuleneb õigusaktide muutumisest, kõrgemalseisvate asutuste haldusaktidest või toimingutest või AS Eesti Raudtee nõukogu poolt arengukava või majandustegevuse suundade muutmisest;
+kui esitatakse ainult üks pakkumus;
+kui pärast kvalifitseerimist ja/või vastavaks tunnistamist jääb hinnatavaks vaid üks pakkumus;
+Teade kõikide pakkumuste tagasilükkamise kohta väljastatakse kõikidele pakkujatele viivitamata, kuid mitte hiljem kui 3 tööpäeva jooksul otsuse tegemisest arvates.
+Osadeks jagatud hanke puhul käsitletakse iga osa eraldi hankena ning pakkumuse võib eeldatava maksumuse ületamise korral lükata tagasi iga osa kohta eraldi. 
+
+Läbirääkimised ja eduka pakkumuse väljaselgitamine
+Vajaduse korral alustab hankija pakkujatega läbirääkimisi, teatades pakkujatele läbirääkimiste aja ja läbiviimise korra. Läbirääkimisi võib pidada pärast pakkumuste esitamist. Läbirääkimiste vajaduse määrab hankija. 
+Hankija jätab endale õiguse läbi rääkida hankelepingu projekti, tehnilise kirjelduse, maksumuse ja tähtaegade osas.
+Läbirääkimised protokollitakse ja läbirääkimistel kokkulepitu on hankelepingu täitmisel kohustuslik.
+Eduka pakkumuse valiku aluseks on madalaim hind eurodes käibemaksuta. Kui võrdse madalaima hinnaga pakkumusi on rohkem kui üks, selgitatakse edukas pakkumus liisuheitmise teel. Selleks:
+Kutsutakse vastavad võrdsed pakkumused teinud isikud samaaegselt hankija kontorisse (korraldatakse liisuheitmise koosolek).
+Pakkujate nimed kirjutatakse väikestele paberitele, volditakse kokku ning pannakse ühesuguse väljanägemisega läbipaistmatusesse kapslitesse. 
+Kapslid segatakse, et poleks võimalik tuvastada, kelle nimi on missuguses kapslis.
+Hankeosakonna töötaja loosib kapslite seast välja eduka pakkuja. 
+Liisuheitmises kohta koostatakse protokoll, mille allkirjastavad kõik osalejad. 
+Kui Pakkuja, kes on kutsutud loosimisele, kokkulepitud/määratud ajal kohale ei ilmu, tõlgendatakse tema tegevust kui loobumine teise pakkuja kasuks. 
+Osalejad aktsepteerivad liisuheitmise tulemusi ning need ei kuulu vaidlustamisele. 
+
+Hankedokumentide lisad
+Lisa 1 – Tehniline kirjeldus 
+Lisa 2 – Pakkumuse maksumuse väljendamise vorm 
+Lisa 3 – Hankemenetlusel osalemise avaldus
+Lisa 4 – Kinnituskiri
+Lisa 5 – Pakkujat esindava isiku volikiri
+Lisa 6 – Ühispakkujate volikiri
+Lisa 7 – Teostatud tööde nimekiri
+Lisa 8 – Netokäivete info 
+Lisa 9 – Lepingu tingimused
+Lisa 10 – Teisele isikule tuginemise vorm
+
+
+=== 1570936_Pakkumuse_kutse_dokument_.docx ===
+
+AS Eesti Raudtee telefoni- ja mobiilsideteenuse tellimine II
+Riigihangete registri viitenumber: 208609
+Hankemenetluse liik: Lihthange
+
+
+Hankija
+AS Eesti Raudtee (registrikood 11575838),	http://www.evr.ee
+Telliskivi 60/2, 15073 Tallinn, Eesti Vabariik
+Tel: 6 158 766	Faks: 6 158 588, E-post: hankeosakond@evr.ee
+teeb ettepaneku esitada pakkumusi vastavalt hanketeates (edaspidi HT) ja teistes riigihanke alusdokumentides (edaspidi HD)  esitatud tingimustele.
+
+Üldinformatsioon
+Hanke ese: AS Eesti Raudtee telefoni- ja mobiilsideteenuste tellimine 48-kuuliseks perioodiks. 
+Riigihangete klassifikaator(id) (CPV) kood: 64210000-1 Telefoni- ja andmeedastusteenused. 
+Hanke tehniline spetsifikatsioon on toodud HD Lisas 1 (tehniline kirjeldus).
+Teenuse osutamise tähtaeg on 48 kuud lepingu sõlmimisest arvates.
+Alternatiivsed pakkumused ei ole lubatud. 
+ Eduka pakkumuse esitanud pakkujaga sõlmitakse hankeleping. Hankeleping sõlmitakse teenusepakkuja vormil, millesse peavad olema integreeritud hankijapoolsed HD Lisas 9 toodud tingimused. 
+Hange ei ole osadeks jaotatud alljärgnevatel põhjustel: 
+	•	Hanke nõue on, et kõik teenused moodustavad ühtse terviku. Mh peavad ettevõttesisesed kõned (ka lauatelefoni- ja mobiiltelefonivahelised) olema tasuta ning teostatavad lühinumbritega. See ei ole võimalik, kui lauatelefoni- ja mobiilsideteenust pakuksid erinevad ettevõtjad. 
+	•	Ühise hankena tekkivad suuremad mahud võimaldavad pakkujatel teha soodsamaid pakkumusi, kuna nad saavad kogu süsteemi pakkuda tervikuna (st hankija soovib RHS § 3 p 5 järgi kasutada rahalisi vahendeid säästlikult ja otstarbekalt, kasutades ära mastaabiefekti). 
+	•	Hanke tulemusel minnakse täielikult üle välisele teenusepakkujale, samal ajal kui hankija teenusekasutajad asuvad üle Eesti, mistõttu on hädavajalik ühtse teenindusvõrgu olemasolu. 
+	•	Üks teenusepakkuja tähendab ka ühte haldusliidest (IP-telefonide ja mobiilide teenuste ning kõnesalvestuste haldust), mis omakorda tagab teenuse sujuvama opereerimise ning osutamise. 
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe ärisaladuseks määramist. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1) nimetatule muid pakkumuste hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks käesolevas punktis 1) nimetatule muid pakkumuste hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid.
+
+
+Pakkumuste esitamine ja avamine 
+Pakkumuste esitamise koht: Riigihangete registri vahendusel
+Pakkumuste avamise koht ja aeg: kuna tegemist on e-menetlusega, toimub pakkumuste avamine riigihangete registri vahendusel ning avaistungit hankija kontoris ei korraldata. 
+
+Nõuded pakkumusele
+Pakkumus tuleb koostada eesti keeles. Kui pakkumus sisaldab dokumente, mille keel erineb pakkumuse esitamise keelest, peab pakkumus olema varustatud eestikeelse tõlkega. 
+Pakkumus peab olema jõus vähemalt 3 kuud alates pakkumuse esitamise tähtpäevast.
+Pakkumuse esitamist riigihangete registris ei tohi jätta viimasele hetkele, kuna pakkumuse muul viisil esitamise (nt tehniliste probleemide ilmnemise) korral ei ole võimalik väljaspool registrit esitatud pakkumust arvesse võtta. 
+Pakkumuse maksumus tuleb väljendada riigihangete registri vormil ilma käibemaksuta. 
+Riigihangete registri vahendusel pakkumuse esitamisel tuleb silmas pidada, et failid peavad olema üldtuntud formaatides (.txt, .doc, .rtf., pdf, .xls). 
+Pakkumuse hind tuleb esitada eurodes.
+Pakkumus peab olema allkirjastatud pakkuja seadusliku esindaja või tema volitatud isiku poolt. 
+Pakkuja kannab kõik pakkumuse ettevalmistamise ja esitamisega seotud kulud.
+Allakirjutatud pakkumus peab olema lõplik ega tohi sisaldada parandusi ega täiendusi.
+Pakkumus ei tohi sisaldada hankesse mittepuutuvaid dokumente ega erinevaid reklaamtrükiseid.
+Pakkumuse maksumuse erinevuse korral ühikhinna ja kogusumma vahel, mis on saadud ühikhinna korrutamisel hulgaga, loetakse õigeks ühikhind.
+Pakkujal on õigus saada selgitusi ja täiendavat informatsiooni, mis on vajalik pakkumuse ettevalmistamiseks, pöördudes selgituse saamiseks hankija poole hankekeskkonna vahendusel. Hankija vastab hankekeskkonna vahendusel ja küsimused/vastused on nähtavad kõigile hanke juurde registreerunud isikutele.
+Pakkumusele pakkuja esindajana alla kirjutanud isik peab omama pakkuja esindamise õigust. Pakkuja, kelle pakkumusele pakkuja esindajana alla kirjutanud isik või isikud ei oma pakkuja esindamise õigust seadusest tulenevalt (nt juriidilise isiku poolt esitatud pakkumusele kirjutab alla keegi teine kui äriregistri registreerimistunnistusele kantud juhatuse liige, kes omab juriidilise isiku esindamise õigust), esitab volikirja dokumentide allkirjastamiseks (HD Lisa 5 vormil), millega pakkuja volitab pakkumusele pakkuja esindajana alla kirjutanud isikut või isikuid olema pakkuja ametlik esindaja ja allkirjastama riigihanke pakkumust ning riigihankes osalemise tingimustele vastavuse tõendamiseks esitatavaid dokumente.
+Ühispakkujad peavad nimetama endi seast esindaja pakkumuse esitamiseks ja hankemenetluse ning hankelepingu sõlmimise ja täitmisega seotud toimingute tegemiseks. Ühispakkujad esitavad koos nende kvalifikatsiooni tõendamiseks esitatavate dokumentidega volikirja(d) ühispakkuja esindamiseks (HD Lisa 6 vormil), millega nimetatakse esindaja pakkumuse esitamiseks ja hankemenetluse ning hankelepingu sõlmimise ja täitmisega seotud toimingute tegemiseks.
+
+Pakkumuse struktuur
+Kehtiv äriregistri registritunnistus või kehtiv koopia vastavast registritunnistusest      (vajadusel).
+Volikiri dokumentide allkirjastamiseks HD Lisa 5 vormil (vajadusel).
+Volikiri ühispakkuja esindamiseks HD Lisa 6 vormil (vajadusel).
+Kinnituskiri HD Lisa 4 vormil.
+Pakkuja netokäivete info HD Lisa 8 vormil.
+Teisele isikule tuginemine HD Lisa 10 vormil (vajadusel)
+Teostatud tööde loetelu HD Lisa 7 vormil.
+Hankemenetlusel osalemise avaldus HD Lisa 3 vormil.
+Pakkumuse maksumuse väljendamise vorm HD lisa 2 vormil.
+Pakutava lahenduse tehniline kirjeldus ning seadmete nimetused ja spetsifikatsioonid. 
+
+Pakkumuste vastavaks tunnistamine või tagasilükkamine
+ Hankija võib tunnistada pakkumuse vastavaks, kui selles ei esine sisulisi kõrvalekaldeid HTs või HDs ning selle lisades esitatud tingimustest.
+Hankija lükkab pakkumuse tagasi, kui pakkumus ei vasta HTs või HDs ning selle lisades esitatud tingimustele.
+Hankija võib lükata kõik pakkumused tagasi järgmistel juhtudel: 
+eduka pakkumuse teinud pakkuja keeldub hankelepingu sõlmimisest ja ülejäänud pakkumuste maksumused ületavad Hankija poolt selleks planeeritud rahalisi vahendeid.
+hankemenetluse toimumise ajal on Hankijale saanud teatavaks andmed, mis välistavad või muudavad hankija jaoks ebaotstarbekaks hankemenetluse lõpuleviimise HD-s esitatud tingimustel või Lepingu sõlmimine etteantud ja hankemenetluse käigus väljaselgitatud tingimustel ei vastaks muutunud asjaolude tõttu enam Hankija varasematele vajadustele või ootustele;
+langeb ära vajadus hanke teostamiseks põhjusel, mis ei sõltu Hankijast või põhjusel, mis sõltub või tuleneb õigusaktide muutumisest, kõrgemalseisvate asutuste haldusaktidest või toimingutest või AS Eesti Raudtee nõukogu poolt arengukava või majandustegevuse suundade muutmisest;
+kui esitatakse ainult üks pakkumus;
+kui pärast kvalifitseerimist ja/või vastavaks tunnistamist jääb hinnatavaks vaid üks pakkumus;
+Teade kõikide pakkumuste tagasilükkamise kohta väljastatakse kõikidele pakkujatele viivitamata, kuid mitte hiljem kui 3 tööpäeva jooksul otsuse tegemisest arvates.
+Osadeks jagatud hanke puhul käsitletakse iga osa eraldi hankena ning pakkumuse võib eeldatava maksumuse ületamise korral lükata tagasi iga osa kohta eraldi. 
+
+Läbirääkimised ja eduka pakkumuse väljaselgitamine
+Vajaduse korral alustab hankija pakkujatega läbirääkimisi, teatades pakkujatele läbirääkimiste aja ja läbiviimise korra. Läbirääkimisi võib pidada pärast pakkumuste esitamist. Läbirääkimiste vajaduse määrab hankija. 
+Hankija jätab endale õiguse läbi rääkida hankelepingu projekti, tehnilise kirjelduse, maksumuse ja tähtaegade osas.
+Läbirääkimised protokollitakse ja läbirääkimistel kokkulepitu on hankelepingu täitmisel kohustuslik.
+Eduka pakkumuse valiku aluseks on madalaim hind eurodes käibemaksuta. Kui võrdse madalaima hinnaga pakkumusi on rohkem kui üks, selgitatakse edukas pakkumus liisuheitmise teel. Selleks:
+Kutsutakse vastavad võrdsed pakkumused teinud isikud samaaegselt hankija kontorisse (korraldatakse liisuheitmise koosolek).
+Pakkujate nimed kirjutatakse väikestele paberitele, volditakse kokku ning pannakse ühesuguse väljanägemisega läbipaistmatusesse kapslitesse. 
+Kapslid segatakse, et poleks võimalik tuvastada, kelle nimi on missuguses kapslis.
+Hankeosakonna töötaja loosib kapslite seast välja eduka pakkuja. 
+Liisuheitmises kohta koostatakse protokoll, mille allkirjastavad kõik osalejad. 
+Kui Pakkuja, kes on kutsutud loosimisele, kokkulepitud/määratud ajal kohale ei ilmu, tõlgendatakse tema tegevust kui loobumine teise pakkuja kasuks. 
+Osalejad aktsepteerivad liisuheitmise tulemusi ning need ei kuulu vaidlustamisele. 
+
+Hankedokumentide lisad
+Lisa 1 – Tehniline kirjeldus 
+Lisa 2 – Pakkumuse maksumuse väljendamise vorm 
+Lisa 3 – Hankemenetlusel osalemise avaldus
+Lisa 4 – Kinnituskiri
+Lisa 5 – Pakkujat esindava isiku volikiri
+Lisa 6 – Ühispakkujate volikiri
+Lisa 7 – Teostatud tööde nimekiri
+Lisa 8 – Netokäivete info 
+Lisa 9 – Lepingu tingimused
+Lisa 10 – Teisele isikule tuginemise vorm

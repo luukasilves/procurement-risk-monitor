@@ -1,0 +1,1611 @@
+=== 2165992_225540_hankepass_taiendavate_selgitustega.pdf ===
+1/27
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+Riigi ametlik teataja:
+225540
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+Rakvere Linnavalitsus (75025064)
+Riik:
+Eesti
+Hankija aadress:
+Lai tn 20
+Hankija veebiaadress:
+http://www.rakvere.ee
+E-posti aadress:
+linnavalitsus@rakvere.ee
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+2/27
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Vallimäe vabaõhukeskuse hooldusteenus
+Lühikirjeldus:
+Vallimäe vabaõhukeskuse, asukohaga Rakvere linn, territooriumi ning taristu aastaringne hooldus ning
+korrahoid
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+225540
+Hanke liik:
+Teenused
+Hanke CPV-d:
+77314000-4 Maa-alade hooldusteenused
+Hanke osad
+Hanke osade kohta kehtivad järgnevad nõuded:
+Tingimuse kirjeldus:
+Pakkumusi võib esitada: Kõigile osadele
+Maksimaalne osade arv, mille kohta võib pakkumusi esitada:
+Maksimaalne osade arv, mille kohta võidakse sõlmida leping ühe pakkujaga:
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+3/27
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+4/27
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+5/27
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+6/27
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku või asjaomase riigihankega seotud lepingulist esindajat on karistatud kuritegelikus
+ühenduses osalemise eest“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Viide seadusele:
+RHS § 95 lg 1 p 1 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku või asjaomase riigihankega seotud lepingulist esindajat on karistatud aususe
+kohustuse rikkumise või korruptiivse teo eest“
+Kehtib: Kogu hanke kohta
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+7/27
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kelmuse eest kõige rohkem viimase viie aasta jooksul või kehtib
+süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku või asjaomase riigihankega seotud lepingulist esindajat on karistatud kelmuse eest“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku või asjaomase riigihankega seotud lepingulist esindajat on karistatud terroriakti
+toimepaneku või muu terroristliku tegevusega seotud kuriteo või sellele kihutamise,
+kaasaaitamise või selle katse eest“
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+8/27
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku või asjaomase riigihankega seotud lepingulist esindajat on karistatud rahapesualase
+süüteo või terrorismi rahastamise eest“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 3 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku või asjaomase riigihankega seotud lepingulist esindajat on karistatud laste tööjõu
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+9/27
+ebaseadusliku kasutamise või inimkaubandusega seotud teo eest“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg
+maksukorralduse seaduse tähenduses või maksuvõlg /…/ tema asukohariigi õigusaktide kohaselt“
+Kehtib: Kogu hanke kohta
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+10/27
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku /…/ makse /…/ maksuvõlg maksukorralduse seaduse
+tähenduses või sotsiaalkindlustusemaksete võlg tema asukohariigi õigusaktide kohaselt
+Kehtib: Kogu hanke kohta
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+11/27
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+keskkonnaõiguse valdkonnas kohaldatavaid kohustusi“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+12/27
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+sotsiaalõiguse valdkonnas kohaldatavaid kohustusi“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid tööõiguse
+valdkonnas kohaldatavaid kohustusi“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PANKROT
+Kas ettevõtja on pankrotis?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud
+juhul ja tingimustel“
+Kehtib: Kogu hanke kohta
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+13/27
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on likvideerimisel või kelle suhtes on algatatud pankrotimenetlus, välja
+arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+14/27
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt“,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel.
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, likvideerimisel või kelle suhtes on algatatud
+pankrotimenetlus või kes on muus sellesarnases olukorras tema asukohamaa õigusaktide
+kohaselt, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kelle äritegevus on peatatud, välja arvatud asjade ostmisel RHS § 49 lõikes 4
+sätestatud juhul ja tingimustel“
+Kehtib: Kogu hanke kohta
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+15/27
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Viide seadusele:
+RHS § 95 lg 4 p 4 „kes on raskelt eksinud ametialaste käitumisreeglite vastuja see muudab tema
+aususe küsitavaks“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Viide seadusele:
+RHS § 95 lg 4 p 5 „konkurentsi kahjustava kokkuleppe, ettevõtjate ühenduse otsuse või
+kooskõlastatud tegevuse tõttu“
+Kehtib: Kogu hanke kohta
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+16/27
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Viide seadusele:
+RHS § 95 lg 4 p 6 „kui huvide konflikti ei ole muude vahenditega võimalik vältida“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Viide seadusele:
+RHS § 95 lg 4 p 7 „kelle pakkumuse või taotluse koostamisel on osalenud isik, kes on osalenud
+sama riigihanke ettevalmistamisel või on muul viisil hankijaga seotud, ja sellele isikule seetõttu
+teadaolev info annab talle eelise teiste riigihankes osalejate eest ning sellest tingitud konkurentsi
+moonutamist ei ole muude vahendistega võimalik vältida“
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+17/27
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Viide seadusele:
+RHS § 95 lg 4 p 8 „kes on oluliselt või pidevalt rikkunud eelnevalt sõlmitud hankelepingut või
+hankelepinguid nii, et rikkumise tulemusena on lepingust taganetud või leping üles öeldud, hinda
+alandatud, hüvitatud kahju või makstud leppetrahvi". Alates 1.09.2017 alustatud hangete
+tulemusena sõlmitud riigihankelepingute kohta leiab infot riigihangete registrist.
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Viide seadusele:
+RHS § 95 lg 4 p 9 „kes on esitanud valeandmeid käesolevas paragrahvis sätestatud või RHS §-
+des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele vastavuse kohta“;
+RHS § 95 lg 4 p 9 „kes on jätnud andmed käesolevas paragrahvis sätestatud või käesoleva
+seaduse §-des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele
+vastavuse kohta esitamata“;
+RHS § 95 lg 4 p 9 „kes on jätnud käesoleva seaduse § 104 lõigete 7 ja 8 alusel hankija nõutud
+täiendavad dokumendid esitamata“;
+RHS § 95 lg 4 p 10 „kes mõjutab tahtlikult hankijat või esitab hooletusest eksitavat teavet, mis
+võib ebakohaselt mõjutada hankija otsuseid riigihankes, või tegutseb eesmärgiga saada
+konfidentsiaalset teavet, mis võib anda talle eelise teiste riigihankes osalejate ees“.
+Kehtib: Kogu hanke kohta
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+18/27
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 2 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku või asjaomase riigihankega seotud lepingulist esindajat on karistatud riigis ilma
+seadusliku aluseta viibivale välismaalasele töötamise võimaldamise või välismaalase Eestis
+töötamise tingimuste rikkumise võimaldamise, sealhulgas seaduses sätestatud töötasu määrast
+väiksema töötasu maksmise eest“ . Kohustuslik kõrvaldamise alus.
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 5 „kes on rahvusvahelise sanktsiooni subjekt rahvusvahelise sanktsiooni seaduse
+tähenduses“. Päring veebilehelt https://www.politsei.ee/et/rahapesu
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: HANKIJA ASUKOHAJÄRGSE KOHALIKU MAKSU MAKSUVÕLG
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 1 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+19/27
+Viide seadusele:
+RHS § 95 lg 4 p 1 „kellel on hankija asukohajärgse kohaliku maksu maksuvõlg maksukorralduse
+seaduse tähenduses“. Vabatahtlik kõrvaldamise alus. RHR-i kaudu saab päringuid teha vaid
+Tallinnas registreeritud hankija (MTA maksuvõlapäring + tänavate sulgemise maks).
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 11 „keda on karistatud maksualaste süütegude eest“. Vabatahtlik kõrvaldamise
+alus.
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+20/27
+IV OSA: KVALIFITSEERIMISTINGIMUSED
+A: Sobivus
+KUULUMINE ÄRIREGISTRISSE
+Ettevõtja on kantud mõnda tema asukohaliikmesriigi äriregistrisse kooskõlas direktiivi 2014/24/
+EL lisaga XI; teatavate liikmesriikide ettevõtjatelt võidakse nõuda muude kõnealuses lisas
+sätestatud nõuete täitmist.
+Viide seadusele:
+RHS § 99 lg 1 „pakkuja või taotleja asukohariigi õigusaktide kohaselt tuleb ettevõtja kanda
+äriregistrisse“
+RHS § 99 lg 2 „hankija võib nõuda registreeringut tõendada asjakohase tõendi esitamist“
+Tingimuse selgitus:
+Pakkuja peab olema registreeritud Äriregistris. Pakkuja, kes ei ole registreeritud Eestis, peab
+oma asukohamaa seaduste kohaselt olema registreeritud äriregistris ning esitab sellekohase
+kehtiva registritunnistuse.
+Kehtib: Ainult järgmiste osade kohta:
+Osa1 - Vallimäe vabaõhukeskuse hooldusteenus
+Osa2 - Vallimäe vabaõhukeskuse talihooldus
+Tingimuse kirjeldus:
+Registri nimi: Äriregister
+Veebiaadress (URL): https://ariregister.rik.ee/
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Registreerimise number (Sisestusväli (max pikkus 250 tähemärki))
+3. Põhjused, miks ei kuulu nõutud registrisse (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Majanduslik ja finantsseisund
+KESKMINE AASTAKÄIVE
+Ettevõtja keskmine aastakäive on asjaomases teates, hankedokumentides või hankepassis nõutud
+aastate jooksul järgmine:
+Viide seadusele:
+RHS § 100 lg 1 p 4 „andmed pakkuja või taotleja kogu majandustegevuse netokäibe kohta kuni
+viimase kolme riigihanke algamise ajaks lõppenud majandusaasta jooksul, sõltuvalt pakkuja või
+taotleja asutamise või äritegevuse alguse kuupäevast“
+Tingimuse selgitus:
+Taotleja viimase kolme majandusaasta (2017, 2018, 2019) keskmine majandustegevuse
+netokäive peab olema vähemalt 30 000 (kolmkümmend tuhat) eurot ühe majandusaasta kohta
+Kehtib: Ainult järgmiste osade kohta:
+Osa1 - Vallimäe vabaõhukeskuse hooldusteenus
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+21/27
+Tingimuse kirjeldus:
+Ajavahemik: 01.01.2017 – 31.12.2019
+Miinimumnõue: 30000
+Valuuta: EUR
+Ettevõtjalt oodatavad vastused:
+1. Keskmine käive (Summa)
+2. Valuuta (Vääring)
+3. Lisainfo (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AMETIALANE VASTUTUSKINDLUSTUS
+Ettevõtja ametialase vastutuskindlustuse kindlustussumma
+Viide seadusele:
+RHS § 100 lg 1 p 2 „kutsealase vastutuskindlustuse tõend või muu asjakohane ja hankija poolt
+vastuvõetavaks tunnistatud dokument, mis näitab, et pakkujal või taotlejal on hankelepingu
+võimaliku rikkumisega tekkida võiva kahju hüvitamiseks vajalikud vahendid olemas või tal on
+võimalus neid saada“
+Tingimuse selgitus:
+Pakkuja peab omama antud hanke Osas, milles ta pakkumuse esitab hanke objektiks oleva
+teenuse osutamise perioodil katkematult ametialast koguvastutuskindlustust,
+kindlustusväärtusega vähemalt 20 000 eurot kalendriaasta kohta, omavastutuse määraga mitte
+enam kui 200 eurot kindlustusjuhtumi kohta (omavastutuse tasumäära tasub kindlustusjuhtumi
+esinemise korral teenuse osutaja). Juhul kui pakkuja on esitanud pakkumuse mõlemale hanke
+Osale ning tema pakkumus osutub edukaks mõlemas Osas, tuleb pakkujal mõlema Osa osas
+eraldi esitada käesolevast punktist tulenevatele nõuetele vastavad kindlustuslepingud.
+Kehtib: Ainult järgmiste osade kohta:
+Osa1 - Vallimäe vabaõhukeskuse hooldusteenus
+Tingimuse kirjeldus:
+Kindlustuse liik: Koguvastutuskindlustus
+Minimaalne summa: 20000
+Valuuta: EUR
+Ettevõtjalt oodatavad vastused:
+1. Summa (Summa)
+2. Valuuta (Vääring)
+3. Kinnitan, et vajalikud vahendid on olemas või mul on võimalik neid saada (Raadionupp valikutega
+"Jah/Ei")
+4. Olen vastavast nõudest vabastatud (Raadionupp valikutega "Jah/Ei")
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KESKMINE AASTAKÄIVE
+Ettevõtja keskmine aastakäive on asjaomases teates, hankedokumentides või hankepassis nõutud
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+22/27
+aastate jooksul järgmine:
+Viide seadusele:
+RHS § 100 lg 1 p 4 „andmed pakkuja või taotleja kogu majandustegevuse netokäibe kohta kuni
+viimase kolme riigihanke algamise ajaks lõppenud majandusaasta jooksul, sõltuvalt pakkuja või
+taotleja asutamise või äritegevuse alguse kuupäevast“
+Tingimuse selgitus:
+Taotleja viimase kolme majandusaasta (2017, 2018, 2019) keskmine majandustegevuse
+netokäive peab olema vähemalt 15 000 (viisteist tuhat) eurot ühe majandusaasta kohta
+Kehtib: Ainult järgmiste osade kohta:
+Osa2 - Vallimäe vabaõhukeskuse talihooldus
+Tingimuse kirjeldus:
+Ajavahemik: 01.01.2017 – 31.12.2019
+Miinimumnõue: 15000
+Valuuta: EUR
+Ettevõtjalt oodatavad vastused:
+1. Keskmine käive (Summa)
+2. Valuuta (Vääring)
+3. Lisainfo (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AMETIALANE VASTUTUSKINDLUSTUS
+Ettevõtja ametialase vastutuskindlustuse kindlustussumma
+Viide seadusele:
+RHS § 100 lg 1 p 2 „kutsealase vastutuskindlustuse tõend või muu asjakohane ja hankija poolt
+vastuvõetavaks tunnistatud dokument, mis näitab, et pakkujal või taotlejal on hankelepingu
+võimaliku rikkumisega tekkida võiva kahju hüvitamiseks vajalikud vahendid olemas või tal on
+võimalus neid saada“
+Tingimuse selgitus:
+Pakkuja peab omama antud hanke Osas, milles ta pakkumuse esitab hanke objektiks oleva
+teenuse osutamise perioodil katkematult ametialast koguvastutuskindlustust,
+kindlustusväärtusega vähemalt 20 000 eurot kalendriaasta kohta, omavastutuse määraga mitte
+enam kui 200 eurot kindlustusjuhtumi kohta (omavastutuse tasumäära tasub kindlustusjuhtumi
+esinemise korral teenuse osutaja). Juhul kui pakkuja on esitanud pakkumuse mõlemale hanke
+Osale ning tema pakkumus osutub edukaks mõlemas Osas, tuleb pakkujal mõlema Osa osas
+eraldi esitada käesolevast punktist tulenevatele nõuetele vastavad kindlustuslepingud.
+Kehtib: Ainult järgmiste osade kohta:
+Osa2 - Vallimäe vabaõhukeskuse talihooldus
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+23/27
+Tingimuse kirjeldus:
+Kindlustuse liik: Koguvastutuskindlustus
+Minimaalne summa: 20000
+Valuuta: EUR
+Ettevõtjalt oodatavad vastused:
+1. Summa (Summa)
+2. Valuuta (Vääring)
+3. Kinnitan, et vajalikud vahendid on olemas või mul on võimalik neid saada (Raadionupp valikutega
+"Jah/Ei")
+4. Olen vastavast nõudest vabastatud (Raadionupp valikutega "Jah/Ei")
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Tehniline ja kutsealane suutlikkus
+TEENUSLEPINGUTE PUHUL: TÄPSUSTATUD LIIKI TEENUSTE OSUTAMINE
+Ainult teenuste riigihankelepingute puhul: Ettevõtja on arvestusperioodi jooksul osutanud
+täpsustatud liiki teenuste puhul alljärgnevaid peamisi teenuseid. Avaliku sektori hankijad võivad
+nõuda kuni kolme aasta kogemuse tõendamist ja võtta arvesse rohkem kui kolme aasta vanuseid
+kogemusi.
+Viide seadusele:
+RHS § 101 lg 1 p 2 „nimekiri hankija kindlaks määratud tunnustele vastavate teenuste osutamise
+lepingutest, mis on täidetud riigihanke algamisele eelneva 36 kuu jooksul, koos teabega nende
+maksumuse, kuupäevade ja teiste lepingupoolte kohta“
+RHS § 101 lg 2 „hankija võib piisava konkurentsi tagamiseks arvesse võtta andmeid rohkem kui
+36 kuu eest täidetud teenuste osutamise lepingute kohta“
+Tingimuse selgitus:
+Teave pakkuja suutlikkuse kohta hankelepingut nõuetekohaselt täita: pakkuja peab omama
+viimase kolme (3), hanke väljakuulutamisele eelneva aasta jooksul vähemalt üheaastast
+(nõuetekohaselt teostatud leping või nõuetekohaselt täitmisel olev leping) hanke esemega
+sarnase, avalikus kasutuses oleva haljasala (pindala vähemalt 50 000 m2, sisaldab vähemalt
+kõnniteede, muru, inventari, püsilillepeenarde, kõrghaljastuse, põõsastiku hoolduse- ja
+heakorrateenust) hoolduse- ja heakorrateenuse osutamise kogemust. Hankija võib varasema
+lepingu või täitmisel oleva lepingu sisu ning nõuetekohase täitmise kohta teha päringu teenuse
+tellijale (või lepingu teisele poolele, kui tegemist ei ole eRHR-is kättesaadava lepinguga).
+Kehtib: Ainult järgmiste osade kohta:
+Osa1 - Vallimäe vabaõhukeskuse hooldusteenus
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+24/27
+Tingimuse kirjeldus:
+Minimaalne teostatud tööde arv: 1
+Kirjeldus: Tingimuse selgituses märgitud avalikus kasutuses oleva haljasala hooldus- ja
+heakorrateenuse lepingu nõuetekohane täitmine
+Ettevõtjalt oodatavad vastused:
+1. Kirjeldus (Suur sisestusala (max pikkus 4000 tähemärki))
+2. Kogusumma (Summa)
+3. Valuuta (Vääring)
+4. Ettevõtja vastutusala (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Summa (Summa)
+6. Valuuta (Vääring)
+7. Ajavahemik (Periood)
+8. Kas info on konfidentsiaalne? (Raadionupp valikutega "Jah/Ei")
+9. Tellija nimi (Sisestusväli (max pikkus 250 tähemärki))
+10. Kontaktisiku nimi (Sisestusväli (max pikkus 250 tähemärki))
+11. E-mail (Sisestusväli (max pikkus 250 tähemärki))
+12. Telefon (Sisestusväli (max pikkus 250 tähemärki))
+13. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+14. URL (Url)
+15. Kood (Sisestusväli (max pikkus 250 tähemärki))
+16. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HARIDUS- JA KUTSEKVALIFIKATSIOONID
+Järgmine haridus ja kutsekvalifikatsioon on olemas teenuseosutajal või töövõtjal endal ja/või
+(sõltuvalt asjaomases teates või teates viidatud hankedokumentides esitatud nõuetest) ettevõtja
+juhtkonnal.
+Viide seadusele:
+RHS § 101 lg 1 p 6 „andmed pakkuja või taotleja, tema juhtide või teenuste osutamise või
+ehitustööde juhtimise eest vastutavate isikute hariduse ja kutsekvalifikatsiooni kohta, kui need on
+vastavate teenuste osutamiseks või ehitustööde juhtimiseks vajalikud ja neid andmeid ei kasutata
+pakkumuste hindamisel“
+Tingimuse selgitus:
+Pakkuja tagab, et tema pakkumuse edukaks tunnistamise korral on pakkujal hankelepingu
+täitmise juures igapäevaselt tööl vastavat eriharidust (vähemalt üks aednik või maastikuehitaja ja
+üks arborist, näidates ära nende andmed)) omavad vastutavad töötajad, kes hakkavad pakkuja
+pakkumuse edukaks osutumisel ja temaga hankelepingu sõlmimisel hankeobjektiks olevat
+teenust kohapeal osutama. Käesoleva punkti alusel pakkumuses esitatud isikud peavad pakkuja
+pakkumuse edukaks osutumisel ka reaalselt hankeobjektiks olevaid töid kohapeal teostama
+hakkama. Kui eelnimetatud spetsialistid ei ole pakkujaga töösuhetes või muudes lepingulistes
+suhetes, esitab pakkuja isikute digiallkirjastatud kinnituse pakkuja juures tööle asumise või
+pakkujaga muu lepingu sõlmimise kohta. Pakkuja peab järgima ka RHS § 103 esitatud nõudeid.
+Edukas pakkuja esitab vajadusel Hankijale enne hankelepingu sõlmimist nimetatud vastutavate
+töötajate eriharidust tõendava kutsetunnistuse või diplomi koopia
+Kehtib: Ainult järgmiste osade kohta:
+Osa1 - Vallimäe vabaõhukeskuse hooldusteenus
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+25/27
+Tingimuse kirjeldus:
+Nõue: Pakkuja kinnitab, et hankelepingu täitmisel kasutab konkreetsete hooldusteenuste osutamisel
+eriharidusega aednikku või maastikuehitajat ning lisab vajadusel nende vabas vormis,
+digiallkirjastatud kinnitused
+Ettevõtjalt oodatavad vastused:
+1. Tehniline töötaja / Tehniline üksus (Töötaja / Tehniline üksus)
+2. Eesnimi (Sisestusväli (max pikkus 250 tähemärki))
+3. Perekonnanimi (Sisestusväli (max pikkus 250 tähemärki))
+4. Kutseala, amet (Sisestusväli (max pikkus 250 tähemärki))
+5. Kvalifikatsioon, kogemus (Suur sisestusala (max pikkus 4000 tähemärki))
+6. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kaua ettevõtja juures (Number)
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+12. Nimi (Sisestusväli (max pikkus 250 tähemärki))
+13. Kogemuse valdkond (Suur sisestusala (max pikkus 4000 tähemärki))
+14. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+15. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+16. URL (Url)
+17. Kood (Sisestusväli (max pikkus 250 tähemärki))
+18. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Tingimuse kirjeldus:
+Nõue: Pakkuja kinnitab, et hankelepingu täitmisel kasutab konkreetsete hooldusteenuste osutamisel
+eriharidusega arboristi ning lisab vajadusel tema vabas vormis, digiallkirjastatud kinnituse
+Ettevõtjalt oodatavad vastused:
+1. Tehniline töötaja / Tehniline üksus (Töötaja / Tehniline üksus)
+2. Eesnimi (Sisestusväli (max pikkus 250 tähemärki))
+3. Perekonnanimi (Sisestusväli (max pikkus 250 tähemärki))
+4. Kutseala, amet (Sisestusväli (max pikkus 250 tähemärki))
+5. Kvalifikatsioon, kogemus (Suur sisestusala (max pikkus 4000 tähemärki))
+6. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kaua ettevõtja juures (Number)
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+12. Nimi (Sisestusväli (max pikkus 250 tähemärki))
+13. Kogemuse valdkond (Suur sisestusala (max pikkus 4000 tähemärki))
+14. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+15. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+16. URL (Url)
+17. Kood (Sisestusväli (max pikkus 250 tähemärki))
+18. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖVAHENDID, SEADMED JA TEHNILINE VARUSTUS
+Ettevõtja saab lepingu täitmisel kasutada järgmisi töövahendeid, seadmeid ja tehnilist varustust:
+Viide seadusele:
+RHS § 101 lg 1 p 9 „andmed töövahendite, seadmete ja tehnilise varustuse olemasolu kohta või
+vastav kirjalik kokkulepe hankelepingu täitmiseks vajaliku tehnika omandamiseks või kasutusse
+võtmiseks“
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+26/27
+Tingimuse selgitus:
+Pakkuja omab teenuse osutamiseks vajalikke tööriistu, seadmeid ja masinaid või kokkuleppeid
+nimetatud vahendite kasutamise võimaluseks temaga hankelepingu sõlmimise puhul.
+Kehtib: Ainult järgmiste osade kohta:
+Osa1 - Vallimäe vabaõhukeskuse hooldusteenus
+Tingimuse kirjeldus:
+Nõue: Pakkuja kinnitab kõigi vajalike töövahendite kasutamise võimalust hankelepingu täitmisel
+Ettevõtjalt oodatavad vastused:
+1. Tehniline töötaja / Tehniline üksus (Töötaja / Tehniline üksus)
+2. Eesnimi (Sisestusväli (max pikkus 250 tähemärki))
+3. Perekonnanimi (Sisestusväli (max pikkus 250 tähemärki))
+4. Kutseala, amet (Sisestusväli (max pikkus 250 tähemärki))
+5. Kvalifikatsioon, kogemus (Suur sisestusala (max pikkus 4000 tähemärki))
+6. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kaua ettevõtja juures (Number)
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+12. Nimi (Sisestusväli (max pikkus 250 tähemärki))
+13. Kogemuse valdkond (Suur sisestusala (max pikkus 4000 tähemärki))
+14. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+15. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+16. URL (Url)
+17. Kood (Sisestusväli (max pikkus 250 tähemärki))
+18. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖVAHENDID, SEADMED JA TEHNILINE VARUSTUS
+Ettevõtja saab lepingu täitmisel kasutada järgmisi töövahendeid, seadmeid ja tehnilist varustust:
+Viide seadusele:
+RHS § 101 lg 1 p 9 „andmed töövahendite, seadmete ja tehnilise varustuse olemasolu kohta või
+vastav kirjalik kokkulepe hankelepingu täitmiseks vajaliku tehnika omandamiseks või kasutusse
+võtmiseks“
+Tingimuse selgitus:
+Pakkuja omab teenuse osutamiseks vajalikke tööriistu, seadmeid ja masinaid või kokkuleppeid
+nimetatud vahendite kasutamise võimaluseks temaga hankelepingu sõlmimise puhul.
+Kehtib: Ainult järgmiste osade kohta:
+Osa2 - Vallimäe vabaõhukeskuse talihooldus
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+27/27
+Tingimuse kirjeldus:
+Nõue: Pakkuja kinnitab kõigi vajalike töövahendite kasutamise võimalust hankelepingu täitmisel
+Ettevõtjalt oodatavad vastused:
+1. Tehniline töötaja / Tehniline üksus (Töötaja / Tehniline üksus)
+2. Eesnimi (Sisestusväli (max pikkus 250 tähemärki))
+3. Perekonnanimi (Sisestusväli (max pikkus 250 tähemärki))
+4. Kutseala, amet (Sisestusväli (max pikkus 250 tähemärki))
+5. Kvalifikatsioon, kogemus (Suur sisestusala (max pikkus 4000 tähemärki))
+6. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kaua ettevõtja juures (Number)
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+12. Nimi (Sisestusväli (max pikkus 250 tähemärki))
+13. Kogemuse valdkond (Suur sisestusala (max pikkus 4000 tähemärki))
+14. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+15. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+16. URL (Url)
+17. Kood (Sisestusväli (max pikkus 250 tähemärki))
+18. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 22.09.2020 13:10:55
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+
+=== 2165992_225540_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 225540
+Hankija:Rakvere Linnavalitsus (75025064)
+Hange:Vallimäe vabaõhukeskuse hooldusteenus
+OSA1 – VALLIMÄE VABAÕHUKESKUSE HOOLDUSTEENUS
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Hooldusteenuse hind ühe kalendrikuu Pakkuja arvestab pakkumuse tegemisel Maksumus - 100 1 EUR jah
+kohta kõigi hanke alusdokumendis HD Lisa 1 vähim on parim
+Tehniline kirjeldus ja selle lisades 1.1 ja
+1.2 toodud tingimuste ja asjaoludega
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Hooldusteenuse hind ühe kalendrikuu kohta
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte proportsionaalselt vähem ja arvutatakse valemiga: "madalaim väärtus" / "pakkumuse
+väärtus" * "osakaal".
+OSA2 – VALLIMÄE VABAÕHUKESKUSE TALIHOOLDUS
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Talihooldusteenuse hind ühe töötunni Hind sisaldab lumekoristust ja Maksumus - 100 1 EUR jah
+kohta libedusetõrjet talihooldusalal, samuti vähim on parim
+lume, kasutatud libedusetõrje materjali
+Koostatud 07.08.2020 11:09:53 1/2 https://riigihanked.riik.ee/rhr-web/#/procurement/
+2165992/general-info
+äravedu määratud asukohta Rakvere
+linna territoorirumil ning libedusetõrje
+materjali hinda. Pakkuja arvestab
+pakkumuse tegemisel kõigi hanke
+alusdokumendis HD Lisa 1 Tehniline
+kirjeldus ja selle lisades 1.1 ja 1.2
+toodud tingimuste ja asjaoludega
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Talihooldusteenuse hind ühe töötunni kohta
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte proportsionaalselt vähem ja arvutatakse valemiga: "madalaim väärtus" / "pakkumuse
+väärtus" * "osakaal".
+Koostatud 07.08.2020 11:09:53 2/2 https://riigihanked.riik.ee/rhr-web/#/procurement/
+2165992/general-info
+
+=== 2165992_225540_vastavustingimused.pdf ===
+1/2
+VASTAVUSTINGIMUSED
+Viitenumber: 225540
+Hankija: Rakvere Linnavalitsus (75025064)
+Hange: Vallimäe vabaõhukeskuse hooldusteenus
+OSA1: VALLIMÄE VABAÕHUKESKUSE HOOLDUSTEENUS
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud. Pakkuja tutvub pakkumuse esitamiseks kõigi
+hanke alusdokumentidega sh riigihanke alusdokument (AD); HD Lisa 1 Tehniline kirjeldus, HD
+Lisa 1 Tehniline kirjeldus Lisa 1.1 Väliala hooldusjuhendid, Lisa 1.2 Haljastusplaan, Lisa 1.3
+Veevõtukohad; HD Lisa 2 Hankelepingu projekt_I_II_osa
+Küsimused ettevõtjale:
+1. Kas pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides sätestatud tingimustele
+ning ta on tutvunud kõigi hanke alusdokumentidega? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Küsimused ettevõtjale:
+1. Kas pakkuja on täitnud pakkumuse maksumuse RHRi töölehel "Hindamiskriteeriumid ja
+hinnatavad näitajad"? (Raadionupp valikutega "Jah/Ei")
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kas olete ühispakkujate volikirja pakkumuse dokumentide hulka lisanud? (Raadionupp
+valikutega "Jah/Ei")
+KÕRVALDAMISE ALUSEGA ALLTÖÖVÕTJA MITTEKAASAMINE
+Pakkuja kinnitab, et ei kaasa hankelepingu täitmisel alltöövõtjat, kes kuuluks RHS § 122 lõike 7
+alusel asendamisele.
+Ehitustööde hankelepingu ja ehitustööde kontsessioonilepingu korral nõuab hankija riigihanke
+alusdokumentides pakkujalt pakkumuses kinnituse esitamist, et pakkuja ei kaasa hankelepingu
+täitmisel alltöövõtjat, kes kuuluks RHS § 122 lõike 7 alusel asendamisele (RHS § 122 lg 3).
+Küsimused ettevõtjale:
+1. Kas pakkuja kinnitab, et ei kaasa hankelepingu täitmisel alltöövõtjat, kes kuuluks RHS § 122
+lõike 7 alusel asendamisele (Raadionupp valikutega "Jah/Ei")
+OSA2: VALLIMÄE VABAÕHUKESKUSE TALIHOOLDUS
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud. Pakkuja tutvub pakkumuse esitamiseks kõigi
+hanke alusdokumentidega sh riigihanke alusdokument (AD); HD Lisa 1 Tehniline kirjeldus, HD
+Koostatud 22.09.2020 13:11:06
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+2/2
+Lisa 1 Tehniline kirjeldus Lisa 1.1 Väliala hooldusjuhendid, Lisa 1.2 Haljastusplaan, Lisa 1.3
+Veevõtukohad; HD Lisa 2 Hankelepingu projekt_I_II_osa
+Küsimused ettevõtjale:
+1. Kas pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides sätestatud tingimustele
+ning ta on tutvunud kõigi hanke alusdokumentidega? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Küsimused ettevõtjale:
+1. Kas pakkuja on täitnud pakkumuse maksumuse RHRi töölehel "Hindamiskriteeriumid ja
+hinnatavad näitajad"? (Raadionupp valikutega "Jah/Ei")
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kas olete ühispakkujate volikirja pakkumuse dokumentide hulka lisanud? (Raadionupp
+valikutega "Jah/Ei")
+KÕRVALDAMISE ALUSEGA ALLTÖÖVÕTJA MITTEKAASAMINE
+Pakkuja kinnitab, et ei kaasa hankelepingu täitmisel alltöövõtjat, kes kuuluks RHS § 122 lõike 7
+alusel asendamisele.
+Ehitustööde hankelepingu ja ehitustööde kontsessioonilepingu korral nõuab hankija riigihanke
+alusdokumentides pakkujalt pakkumuses kinnituse esitamist, et pakkuja ei kaasa hankelepingu
+täitmisel alltöövõtjat, kes kuuluks RHS § 122 lõike 7 alusel asendamisele (RHS § 122 lg 3).
+Küsimused ettevõtjale:
+1. Kas pakkuja kinnitab, et ei kaasa hankelepingu täitmisel alltöövõtjat, kes kuuluks RHS § 122
+lõike 7 alusel asendamisele (Raadionupp valikutega "Jah/Ei")
+Koostatud 22.09.2020 13:11:06
+https://riigihanked.riik.ee/rhr-web/#/procurement/2165992/general-info
+
+=== 2165992_HD_Lisa_1_Tehniline_kirjeldus.docx ===
+                                                                                                                           
+Avatud hankemenetlus
+Vallimäe vabaõhukeskuse hooldusteenus
+Riigihanke viitenumber
+225540
+Hankija
+Rakvere Linnavalitsus
+
+TEHNILINE KIRJELDUS
+1. OBJEKTI ISELOOMUSTUS
+Vallimäe vabaõhukeskus asub Rakvere linna, Lääne-Viru maakond, haldusterritoorimil. Vallimäe vabaõhukeskus on mõeldud avalike ürituste läbiviimiseks ja on kasutatav Rakvere linna puhkealana.
+Vallimäe vabaõhukeskuse hooldusteenuse ala (edaspidi Hooldusala vt p 5) hõlmab Rakvere linnas asuvaid ning Rakvere linnale kuuluvaid kinnistuid Tõusu tn 6, Vallimäe tee 1, Vallimäe tee 3 ja Vallimäe tee 5 (osaliselt). Hooldusala üldpindala on ca 84 000 ruutmeetrit. Hooldusala on märgitud käesoleva Tehnilise kirjelduse punktis 5 oleval skeemil.
+
+2. HOOLDUSTEENUSE ÜLDTINGIMUSED
+2.1. Hooldusteenuse osutamisel tuleb tagada täielik ohutus kõikidele territooriumil viibivatele isikutele ja kolmandatele isikutele.
+2.2. Vandaalitsemistest, lõhkumistest ja teistest seaduserikkumistest, millede tulemustena on hooldusteenuse osutamine häiritud või võimatu, tuleb informeerida koheselt politseid (tel 112) ja Tellijat.
+2.3. Hooldusaladel olevate liikluskorraldusvahendite suhtes toime pandud lõhkumistest ja valgustite mittetöötamisest tuleb teenuse osutajal teavitada esimesel võimalusel Tellijat.
+2.4. Juhul kui eelpool nimetatud seaduserikkumist on võimalik jäädvustada kaamera või muu kujutise salvestamist võimaldava vahendiga, tuleb seda viivitamatult teha ja materjalid üle anda Tellijale.
+2.5. Hooldusala taristu ning inventari kapitaalsed remonttööd ei kuulu käesoleva dokumendi mõistes hooldusteenuse hulka.
+2.6. Kõik hooldusteenusega hõlmatud puhastus- ja koristustööd peavad olema tehtud vastavalt ettenähtud sagedusele hiljemalt kell 10.00-ks hommikul. 
+Teetaristu talihoolduse osas, kellaajal 7.00 – 19.00, 3 tunni jooksul alates lumesaju lõppemisest või libeduse tekkimisest.
+2.7. Hooldusteenuse osutamises esinevad puudused tuleb likvideerida hiljemalt ühe ööpäeva jooksul arvates vastavasisulise teavitava telefonikõne või e-kirja saamisest Tellijalt. Töövõtja peab tagama telefonikõnedele ja e-kirjadele vastamise tööpäevadel kella 8.00 – 17.00, nädalavahetustel ja riiklikel pühadel telefonikõnedele vastamise 10.00 – 16.00.
+2.8. Objekti töömahtude muutumisel kuni 10% (kümne protsendi) ulatuses võrreldes esialgsete objekti töömahtudega (s.o hooldatavate alade pindalaga), hankelepingujärgset teenuse osutamise hooldustasu ei muudeta.
+2.9. Hooldusteenuse osutamisel lähtub hooldusteenuse osutaja lisaks käesolevas Tehnilises kirjelduses kirjeldatule Tehnilise kirjelduse lisaks olevatest hoolduspassidest ning kasutusjuhenditest ja haljastusplaanist ning veevõtukohtade plaanist (Lisa 1.1 Väliala hooldusjuhendid, Lisa 1.2 Haljastusplaan, Lisa 1.3 Veevõtukohad), samuti kehtivatest ning asjakohastest kohaliku omavalitsuse ja riiklikest õigusaktidest.
+2.10. Hooldusteenuse osutaja peab pidama kõikide tegevuste kohta hoolduspäevikut, mis tuleb nõudmisel Tellijale esitada ja mis on Hankelepingu (projekt) punktides 3.2 ning 6.4 nimetatud hooldustööde akti aluseks.
+2.11. Vajadus kasutada Hooldusteenuse osutamisel Hooldusala vett ja/või elektrit tuleb kooskõlastada Tellijaga ja fikseerida vastava ressurssi kasutamise näidud. Ressursi kasutamine on hooldusteenuse osutaja kulu. Veevõtukohad on ära näidatud Lisas 1.3 Veevõtukohad.
+
+3.  HANKE I OSA HOOLDUSTEENUSE TINGIMUSED
+3.1 Haljasalade hooldus:
+3.1.1 Murud, teeservad (muruvaip, külvatud muru ~ 10 250 m2). Murude hooldus tuleb teostada vastavalt hooldusjuhisele ja järgnevatele punktidele:
+3.1.1.1 Nõlvade niitmine tuleb teostada soovitavalt robotmuruniidukiga;
+3.1.1.2 Muruvaipa (siirdmuru) tuleb kasvuperioodil kasta nii, et on tagatud murutaime elujõulisus. Pigem tuleb kasta harvemini ja rohkem korraga kui liiga tihti ja ainult niisutades murupinda;
+3.1.1.3 Muru niitmiskõrgus on rajamise aastal ja sellele järgneval aastal minimaalselt 5 cm. Alles seejärel võib niitmiskõrgust vähendada 1 cm võrra. Niitmiskõrgust tohib vähendada ainult juhul kui muru on heas kasvujõus. Muru niitmiskõrgus otsustatakse igal kevadel, peale maapinna sulamist ja murutaimede kasvama hakkamist;
+3.1.1.4 Murutaime max kõrgus kuni 10 cm. Niita tuleb nii sageli, et märgatavat niitmisjääki ei teki, kuid mitte vähem kui üks kord kahe nädala tagant. Niiteid vähemalt 12 – 14 korda vegetatsiooni perioodil, niitmise jäätmed koheselt eemaldada. Murusid tuleb õhustada vastavalt vajadusele, kuid mitte vähem kui üks kord aasta jooksul;
+3.1.1.5 Teostada haljaspindade remont, mistahes paiksete kahjustuste korral taastada muru (v.a. kooskõlastatud ehitus- ja kaevetööd);
+3.1.1.6 Takistuste ümbrus tuleb puhastada nii sageli, et need ei erine piirkonna esteetilisest üldilmest. Takistuste ümbruse puhastamisel ei tohi kahjustada objekte (puude tüvesid, põõsaid jm elemente haljasaladel);
+3.1.1.7 Aastaringselt hoida murupinnad puhtana prahist (lehed, oksad, prügi);
+
+3.1.2 Põõsastikud, istutusalad (põõsaid ~ 5950 tk). Põõsastike ja istutusalade hooldus tuleb teostada vastavalt hooldusjuhisele ja järgnevatele punktidele:
+3.1.2.1 Vanadele põõsastikele teostada vajadusel vastavalt liigi nõuetele sanitaar- ja noorenduslõikused (kooskõlastada Tellijaga). Töid võib teostada vaid aednik või maastikuehitaja;
+3.1.2.2 Noortele põõsastikele teostada kujunduslõikused vastavalt liigi nõuetele. Töid võib teostada vaid aednik või maastikuehitaja;
+3.1.2.3 Põõsastike alused ning istutusalad hoida umbrohuvabad;
+3.1.2.4 Põõsastikest eemaldada loodusliku uuenduse teel sissekasvavad noored puud. Töid võib teostada vaid aedniku või maastikuehitaja juhendamisel;
+3.1.2.5 Põõsaste kastmine – hoida ühtlast niiskust (et põõsad oleksid pideva elujõulise väljanägemisega);
+3.1.2.6 Põõsaste aluste multši uuendamine multšitud peenardes korra aastas, kevadel;
+3.1.2.7 Puhmikute vähendamine kavandatud kompositsiooniga kooskõlas hoidmiseks;
+3.1.2.8 Taimehaiguste ja -kahjurite tõrje.
+
+3.1.3 Kõrghaljastus (noored puud 64 tk, puistualad ~ 41 943 m2). Puude hooldus tuleb teostada vastavalt hooldusjuhisele ja järgnevatele punktidele:
+3.1.3.1 Puistualal iga-aastast hooldamist puud ei vaja, küll vajab ala kontrollimist pärast suuremaid torme ja kevadel peale lehtimist (kuivade suurte okste kindlakstegemiseks);
+3.1.3.2 Eemaldada hooldatavatelt haljasaladelt kuivanud puud, murdunud puuoksad ja murdunud puud;
+3.1.3.3 Hooldamise alla kuuluvad istutatud noored puud. Teiste kasvavate puude hooldamine toimub lähtuvalt täheldatud hooldusvajadusest (tormi tõttu ohtlikuks muutumine, kuivamine);
+3.1.3.4 Puude sanitaarlõikus ja võrade kujundamine. Töid võib teostada vaid eriharidusega (diplom) või kutsetunnistusega arborist;
+3.1.3.5 Puude aluste multši uuendamine multšitud peenardes korra aastas, kevadel;
+3.1.3.6 Puude toestuse kontrollimine, vajadusel uuesti sidumine, iganenud toestuse eemaldamine;
+3.1.3.7 Kasvavatelt puudelt eemaldada murdumisohtlikud harud ja oksad (D > 5cm), eemaldada teede äärtest ja kohalt liiklemist takistavad puuoksad;
+3.1.3.8 Puhastada puud igal aastal kännu- ja juurevõsudest esimeste pärisoksteni;
+3.1.3.9 Puude lõikustööde aja suhtes lepitakse kokku hooldustööde käigus;
+3.1.3.10 Noortele puudele tuleb lepingu sõlmimise järgselt töövõtjal paigaldada tüvekaitsed (maksumus peab sisalduma lepingumahus). Tüvekaitsed tuleb kooskõlastada Tellijaga. Tüvekaitsed ei tohi soonida puu tüve.
+
+
+3.1.4 Püsikud (püsililli ~ 11 300 tk). Püsikute hooldus tuleb teostada vastavalt hooldusjuhisele ja järgnevatele punktidele:
+3.1.4.1 Kobestamine ja/või umbrohutõrje tuleb teostada vajaduse korral, kuid mitte vähem kui üks kord kahe nädala jooksul;
+3.1.4.2 Piiritlemine/servamine tuleb teostada nii sageli, et on tagatud peenarde selged piirid;
+3.1.4.3 Toestamise vajadust kontrollida pidevalt;
+3.1.4.4 Kastmine vajaduse korral (tagada taimede elujõulisus);
+3.1.4.5 Väetamine tuleb teostada vastavalt liikide vajadusele;
+3.1.4.6 Taimehaiguste ja kahjurite tõrje tuleb teostada vastavalt vajadusele, kontrollida vähemalt kaks korda kuu jooksul;
+3.1.4.7 Multšimine – igal aastal multši uuendamine peenardel, kevadel;
+3.1.4.8 Õitsenud õisikute äralõikamine;
+3.1.4.9 Peenarde talvekorda seadmine – pärast esimesi taimi kahjustavaid öökülmi tuleb kahjustunud taimed tagasi lõigata (lähtuvalt liigilistest nõuetest);
+3.1.4.10 Katmised talvekülmade ja ereda päikesekiirguse eest;
+3.1.4.11 Töid võib teostada vaid aednik või maastikuehitaja.
+
+3.1.5 Niiduala hooldus (rajatud niidualad ~ 3300 m2, olemasolevad niidualad ~ 55800 m2). Niidualade hooldus tuleb teostada vastavalt hooldusjuhisele.
+3.2 Hooldusala teetaristu hooldus ( kõnni- ja sõiduteid ca 1500 jm, teede, parklate, platside pindala ca 9100 m²):
+3.2.1 hooldusala kõnni- ja sõiduteed, parklad, platsid igapäevaselt puhastada prügist, lehtedest, puuokstest, kattega aladel ka sinna kandunud liivast jms puistematerjalist;
+3.2.2 hooldusala sademeveerennides tuleb vähemalt kaks korda aastas (aprillis ja novembris) puhastada liivapüüdurid ( 9 tk.);
+3.2.3. kivisillutisega hooldusaladel ei tohi kivide vaheline taimkate olla kõrgem sillutise ülemisest pinnast. Kivisillutiste murutõrje peab toimuma keskkonnasõbralike vahenditega, vahendid kooskõlastatakse Tellijaga;
+3.2.4 Hooldusala teetaristuga piirnevate postide, liiklusmärkide ja teiste pinnasesse kinnituvate jalandite ümbrused tuleb hoida taimestikust puhtad;
+3.2.5 Teostada kõnniteedel umbrohutõrje ja teeäärte korrigeerimine. Kõnniteede servamine hooldusaladel tuleb teostada nii tihedalt, et pidevalt on tagatud kõnnitee selged piirjooned.
+
+3.3 Prügikoristus hooldusalal
+Perioodil aprillist-oktoobrini tuleb kogu hooldusala territooriumilt prügi koristada, sh paigaldatud prügikastide tühjendamine (32 tk) igapäevaselt, perioodil novembrist-märtsini 2 korda nädalas reedeti ja esmaspäeviti;
+
+3.4 Hooldusala inventari  hooldus (eraldiolevad istepingid 33 tk, tribüünide ja vabaõhufoorumi pingiread, prügikastid 32 tk, valguspollarid 52 tk)
+3.4.1 Perioodil aprillist-oktoobrini tuleb igapäevaselt kontrollida hooldusala inventari heakorda ning terviklikkust, perioodil novembrist-märtsini 2 korda nädalas reedeti ja esmaspäeviti;
+3.4.2 Inventar tuleb puhastada grafitist, kleebistest, porist jms;
+3.4.3 Tuleb teostada inventari pisiremonti, so töö, mille maksumus ei ületa 50 eurot (käibemaksuta) ühe inventarieseme kohta ning mis ei eelda inventari välja vahetamist uue vastu;
+3.4.4. Teostada inventarieseme asendamisel inventarieseme paigaldustööd, asendatava inventarieseme soetab Tellija;
+3.4.5. Hooldusteenuse osutamise käigus avastatud valgustuse jt inventari probleemidest tuleb informeerida Tellijat.
+
+3.5 Hooldusala lipumastide hooldus (lipumastid 5 tk)
+3.5.1 Kontrollida jooksvalt lipumastide ning heisatud lippude ja/või viirlippude seisukorda. Lippude ja/või viirlippude väljavahetamise vajadusest tuleb informeerida Tellija esindajat;
+3.5.2 Lipumast tuleb puhastada grafitist, kleebistest , porist jms;
+3.5.3 Teostada lipumasti pisiremonti, so töö, mille maksumus ei ületa 50 eurot (käibemaksuta) ühe inventarieseme kohta ning mis ei eelda inventari välja vahetamist;
+3.5.4 Tagama, et hooldusala lipumastides lehvivad pidevalt Rakvere linna viirlipud. Perioodil maist-septembrini tuleb asendada viirlipud linnalippudega. Tähtpäevadel ja riiklikel lipupäevadel tuleb viirud asendada vastavalt riigilippudega, linnalippudega või Euroopa Liidu lippudega. Nimetatud lipud soetab Tellija ning annab üle hooldusteenuse ostujatale.
+
+4.  HANKE II OSA HOOLDUSTEENUSE TINGIMUSED
+Hanke II osa hõlmab lumekoristus- ja libedusetõrjeteenust. Lumekoristus- ja libedustõrjeteenuse hooldusala (edaspidi Talihooldusala, vt p 6) hõlmab vabaõhukeskuse kõnniteid (sh sild) ca 520 m ulatuses, Tõusu tn vaateplatvormi pindalaga 133 m², 3 parklat kogupindalaga ca 7450 m² ning kergliiklusteed pindalaga 1275 m2. Talihooldusala on märgitud käesoleva Tehnilise kirjelduse punktis 6 oleval skeemil. 
+
+4.1. Teedel, jalgteedel ja treppidel lumi kuhjata tee äärtele nii, et selle käigus ei saaks kahjustatud haljastus. Parklates kuhjata lumi parkla äärtele nii, et oleks võimalikult vähe parkla ala hõivatud, kuid seejuures ei tohi kahjustada haljastust ja parklas või selle vahetus läheduses paiknevat inventari. Haljastuse ja inventari lõhkumisel taastab või asendab Töövõtja selle oma kulul, kokkuleppel teenuse Tellijaga, samaväärsega.
+4.2 Talihooldusalas asuvad valgustuspollarid tuleb hoida pidevalt lumevabad, vältimaks nende kahjustumist ning kindlustada vajalik valgustatus pimedal ajal.
+4.3 Talihooldusalas asuvad istepingid tuleb hoida pidevalt lumevabad.
+4.4. Suure lume korral tuleb kasutada frontaallaadurit või muud sarnast tehnikat, et teisaldada hooldusalale sadanud ülemäärane lumi Tellija poolt näidatud kohta ja viisil. Hooldusalalt üleliigse äraveetava lume ladustamise koht kooskõlastatakse eelnevalt Tellijaga.
+4.5 Parklate sisse- ja väljasõidukohtade hooldamine kuulub Talihooldusala sisse.
+4.6. Saha laius peab olema selline, et sahkamisel ei vigastataks kõnnitee kõrval olevaid liiklusmärke, hekke, kõrghaljastust, prügikaste, pinke jm. Selle saavutamiseks tuleb kasutada pöördsahka. Juhul kui mõni kõnnitee on kitsam kui pöördsahk võimaldab ilma tee kõrval asuvat haljastust või inventari vigastamata või lõhkumata lumest puhastada, tuleb see kõnnitee puhastada käsitsi.
+4.7. Silla talihooldus ei tohi vigastada silla puitkatendit.
+4.8. Libeduse tõrjet teha talihooldusala alla kuuluvatel teedel (sh sillal), treppidel ja parklates vastavalt vajadusele nii, et ei tekiks liiklejaid ohustavat libedust.
+4.9. Libeduse tõrjeks tuleb kasutada igale katendile vastavat ja sobivat vahendit. Libeduse tõrje meetodid ei tohi katendit kahjustada.
+4.10. Libeduse tõrjeks kasutatud materjali jäätmete äravedu hooldusaladelt peab toimuma kohe esimesel võimalusel peale lume sulamist. Teenuse osutaja peab käesolevast punktist tuleneva kohustuse täitmisel arvestama, vaatamata eelnevalt sätestatule, iga konkreetse talve iseärasustega.
+4.11. Tellija soovil tuleb osutada lumekoristus- ja libedusetõrjeteenust ka vajadusel muus vabaõhukeskuse osas väljaspool talihooldusala rakendades pakkumusega tehtud tunnihinda. Teenuse osutamise aeg ning tähtaeg on kokkuleppel Tellijaga.
+4.12. Pakkuja arvestab, et pakkumusega esitatav lumekoristus- ja libedusetõrjeteenuse tunnihind sisaldab muuhulgas lume ja libedusetõrjeks kasutatud materjali äravedu asukohta Rakvere linna territooriumil (katastriüksusele  Linnuse tn 12, Rakvere linn, mille katastritunnus on 66301:031:0018), kui ka libedusetõrjeks kasutatud materjali hinda.
+4.13 Pakkuja kohustub tutvuma ja Teenuse osutamisel arvestama Tehnilise kirjelduse Lisas 1.2 Väliala hooldusjuhendid toodud juhendites kehtestatud hooldusnõudeid.
+
+5.  HANKE I OSA HOOLDUSALA SKEEM (Lisa 1.2 Haljastusplaan)
+
+6. HANKE II OSA HOOLDUSALA SKEEM 
+
+
+
+
+=== 2165992_HD_Lisa_2_Hankelepingu_projekt_I_II_osa.docx ===
+ Avatud hankemenetlus
+Vallimäe vabaõhukeskuse hooldusteenus
+Riigihanke viitenumber
+225540
+Hankija
+Rakvere Linnavalitsus
+
+Töövõtuleping ( projekt) 
+
+
+Rakveres								/kuupäev vastavalt digitaal-
+allkirjastamise kuupäevale/
+
+Rakvere Linnavalitsus, registrikood 75025064 (edaspidi Tellija), asukohaga Lai tn 20, Rakvere, mida esindab linnapea Triin Varek
+ja
+…………………, registrikood ……………… (edaspidi Töövõtja), asukohaga………………., mida esindab juhatuse liige ……………… sõlmisid riigihanke (viitenumber 225540) tulemusena alljärgneva töövõtulepingu (edaspidi ka Leping):
+
+	•	Töövõtulepingu objekt
+	•	Lepingu objektiks on Rakvere linnas asuva Rakvere linnale kuuluva  Vallimäe vabaõhukeskuse territooriumi ning taristu aastaringne hooldus ning korrahoid: vabaõhukeskuse haljasalade, kõnni-, sõidu- ja parklate ning inventari hooldus (hanke Osa 1) ja/või* Vallimäe vabaõhukeskuse territooriumi ning inventari talihooldusteenus sh lumekoristus ning libedusetõrje vabaõhukeskuse territooriumil, sh vajadusel lume äravedu selleks ettenähtud ladustamiskohta Rakvere linna territooriumil  (hanke Osa 2) (edaspidi Töö). 
+	•	Töid teostatakse vastavalt Tellija poolt korraldatud riigihanke „Vallimäe vabaõhukeskuse hooldusteenus“, viitenumbriga 225540 (edaspidi riigihange) hankedokumentidest ja nende lisadest tulenevatele tingimustele, kooskõlas Lepinguga, valdkondliku hea tavaga ja Eesti Vabariigis kehtivate õigusnormidega.
+	•	Vastuolude korral Lepingu, selle lisade, riigihanke hanketingimuste ja Lepingu sõlmimise aluseks olnud edukaks tunnistatud pakkumuse vahel kuuluvad esimeses järjekorras kohaldamisele riigihanke hanketingimused, seejärel pakkumus ning viimases järjekorras Leping ja selle lisad (millised ei sisaldunud riigihanke hankedokumentides).
+
+	•	Töövõtja kohustub:
+	•	teostama Töid vastavalt vabaõhukeskuse hooldustingimustele, mis on toodud HD Lisas 1 Tehniline kirjeldus (koos Lisadega);
+	•	tagama Tööde järjepidevuse ja tõrgeteta teostamise;
+	•	informeerima Tellijat koheselt inventari ja hooldatavate alade lõhkumistest, rikkumistest või muudest nende suhtes toime pandud vandalismi aktidest;
+	•	likvideerima puudused Töös hiljemalt ühe ööpäeva jooksul arvates vastavasisulise telefonikõne või e-kirja saamisest Tellijalt;
+	•	tagama Lepingu p 2.4. sätestatud telefonikõnedele ja e-kirjadele vastamise tööpäevadel ajavahemikul kella 8.00 – 17.00, nädalavahetustel telefonikõnedele vastamise 10.00 – 16.00;
+	•	sõlmima hiljemalt tööde teostamise alguskuupäevaks kogu Lepingu kehtivuse perioodiks Tööde teostamise tulemusena kolmandatele isikutele, Tellijale ja/või nende varale tekkinud kahjude hüvitamiseks koguvastutuskindlustuslepingu hanke Osa 1 osas minimaalse kindlustusväärtusega 20 000,00 eurot kalendriaasta kohta, omavastutuse määraga kuni 200,00 eurot ja/või* hanke Osa 2 osas minimaalse kindlustusväärtusega 20 000,00 eurot kalendriaasta kohta, omavastutuse määraga kuni 200,00 eurot. Juhul kui kindlustuslepingut ei ole võimalik sõlmida korraga kogu Lepingu täitmise perioodiks, kohustub Töövõtja tagama, et iga uus kindlustusleping hakkab kehtima eelmise kindlustuslepingu lõppemise kuupäevale järgnevast päevast;
+	•	saatma iga uue Lepingu punktist 2.6. tulenevatele tingimustele vastava kindlustuslepingu (poliisi) elektronposti teel käesolevas Lepingus märgitud Tellija esindajale hiljemalt kolme tööpäeva jooksul selle sõlmimisest/poliisi väljastamisest. Kindlustuslepingu puudumisest või Lepingu punktist 2.6. tulenevatele tingimustele kindlustussumma mittevastavusest tingitud kahjude eest vastutab Töövõtja varaliselt;
+	•	kindlustusjuhtumi esinemise korral kohustub Töövõtja tasuma oma vahenditest omavastutuse alusel kindlustusandjale tasumisele kuuluva summa;
+	•	tagama, et Tellija nõudmisel teostavad konkreetseid Lepingu objektiks olevaid töid vastavalt tööde valdkonnale üksnes vastavat haridust omavad aednikud või maastikuehitajad ja arboristid (käesolevat punkti ei rakendata Lepingu sõlmimisel üksnes  hanke Osale 2); 
+	•	 vahetama Lepingu täitmise perioodil tööde teostamise eest vastutava aedniku ja/või maastikuehitaja ja arboristi välja üksnes mõjuval põhjusel, Tellija eelneval nõusolekul ning seejuures vähemalt riigihanke hanketingimustest tulenevatele miinimumnõuetele vastava(te) isiku(te) vastu (käesolevat punkti ei rakendata Lepingu sõlmimisel üksnes  hanke Osale 2); 
+	•	 juhul kui Tellijal esineb Lepingu täitmise perioodil töid teostava aedniku ja/või maastikuehitaja ja arboristi kutsealase tegevuse osas põhjendatud kaebuseid ja/või vastavad isikud on töid teostanud vastuolus Lepingust (sh selle lisadest) tulenevate tingimustega või vastuolus kutse-eetikaga, kohustub Töövõtja Tellija nõudmisel nimetatud isiku(d) hiljemalt Tellija poolt määratud kuupäevaks välja vahetama riigihanke hanketingimustest tulenevatele miinimumnõuetele vastava(te) isiku(te) vastu. Käesolevas punktis nimetatud uued tööde teostajad peavad olema Tellija poolt enne Lepingu objektiks olevate tööde teostamisele asumist heaks kiidetud (käesolevat punkti ei rakendata Lepingu sõlmimisel üksnes  hanke Osale 2).
+	•	Tellijaga kooskõlastama kirjalikus vormis kõik alltöövõtjad, keda Töövõtja soovib Töö teostamisel kasutada, vähemalt 1 (üks) nädal enne vastavate Töödega alustamist. Juhul, kui Töövõtja soovib asendada mõne Tellijaga kooskõlastatud alltöövõtja, siis kohustub Töövõtja selle eelnevalt Tellijaga kooskõlastama. Tellijal on õigus keelduda alltöövõtja kooskõlastamisest.
+
+	•	Maksetingimused
+	•	Lepingu alusel Töövõtjale tasutav summa hanke Osas 1  on lepinguperioodil ………………. eurot (summa sõnadega ) kuus ja/või*  hanke Osas 2 on lepinguperioodil  …………… eurot (summa sõnadega) tunnis (edaspidi ka Tasu). Hinnale lisandub käibemaks.
+	•	Tasu makstakse eelneva kuu eest Töövõtja poolt esitatud arvete alusel. Arve aluseks on Töövõtja poolt koostatud ja Tellija poolt kinnitatud hooldustööde akt. Arve esitatakse e-arvena. Tellija tasub arve hiljemalt 14 kalendripäeva jooksul arve saamisest.
+	•	Juhul, kui Tellija viivitab Töövõtjale tasu maksmisega üle Lepingu punktis 3.2 sätestatud tähtaja ja viivitus ei ole seejuures tingitud Töövõtja poolt arve esitamisega hilinemisest, on Töövõtjal õigus nõuda Tellijalt viivist 0,07 % päevas tasumisele kuuluvast summast iga tasumisega viivitatud päeva eest, kuid mitte rohkem kui 20% tasumisele kuuluvast summast. Arve Tellijale kätte toimetamise riisiko lasub Töövõtjal. Tellija ei vastuta arve mitte kättesaamisest või selle endast mittesõltuvatest põhjustest tingitud viibimisest tuleneva tasu tasumisega viivitusse sattumise eest.
+	•	Tellija ei tee ettemakseid.
+	•	Objekti töömahtude muutumisel kuni 10% (kümne protsendi) ulatuses võrreldes esialgsete töömahtudega objekti hooldustasu ei muudeta.
+
+	•	Lepingu kehtivus ja lõpetamine
+	•	Leping kehtib alates 14.09.2020 kuni 13.09.2023.   
+	•	Leping lõpeb tähtaja möödumisel, Poolte kokkuleppel või muul käesolevast Lepingust tuleneval alusel.
+	•	Pooltel on õigus käesolev Leping mõjuval põhjusel erakorraliselt üles öelda teatades sellest teisele Poolele kirjalikult ette vähemalt 3 (kolm) kuud.
+	•	Tellija võib Lepingu üles öelda, teatades selles Töövõtjale ette vähemalt 1 (üks) kuu, kui Töövõtja rikub korduvalt või oluliselt lepingut, sh kui:
+	•	Töövõtja ei täida talle Lepinguga ning HD Lisas 1 Tehniline kirjeldus (koos  Lisadega) pandud kohustusi esitatud tingimustele vastavalt; 
+	•	Töövõtja rikub Lepingu punktist 2 tulenevaid Töövõtja kohustusi. 
+	•	Töövõtja võib Lepingu üles öelda, teatades selles Tellijale ette vähemalt 1 (üks) kuu, kui Tellija rikub korduvalt või oluliselt Lepingut, sh kui Tellija ei tasu vähemalt kahel (2) järjestikusel kuul Töövõtjale mõjuva põhjuseta Tasu nõuetekohaselt teostatud Töö eest.
+	•	Pooled võivad lepingu erakorraliselt Lepingu punktidest 4.4. ja 4.5. tulenevaid tähtaegu järgimata üles öelda juhul kui teise Poole suhtes on välja kuulutatud pankrot (sh kui pankrotimenetlus on lõpetatud raugemise tõttu), vastu võetud likvideerimisotsus või teisel Poolel on maksuvõlg Maksu- ja Tolliametile ja/või muudele asutustele.
+
+	•	Täiendavad tingimused
+	•	Vastutus Töö ja sellega kaasnevate negatiivsete kõrvalmõjude eest keskkonnale või kolmandatele isikutele kuulub Töövõtjale.
+	•	Töövõtja vastutab tööohutusnõuete ja -eeskirjade täitmise eest Töö teostamise objektidel.
+
+	•	Vastutus töövõtulepingu rikkumisel
+	•	Töövõtja kohustub viima mittenõuetekohaselt teostatud Töö omal kulul Tellija poolt määratud tähtajaks kehtivate nõuetega vastavusse. Nimetatud kohustuse tähtaegse täitmata jätmise korral on Tellijal õigus tellida vastavate tööde teostamine Töövõtja kulul kolmandalt isikult.
+	•	Töövõtja hüvitab Tellijale või kolmandale isikule Töövõtjal lasuvate kohustuste täitmata jätmise või mittenõuetekohase täitmise tõttu tekkinud kahju täies ulatuses. Juhul kui Töövõtja Tellijale Tellija poolt määratud tähtajaks käesoleva punkti alusel tasumisele kuuluvat kahjuhüvitist ei tasu, kuulub Tellijale õigus pidada vastav tasumisele kuuluv summa kinni Töövõtjale Lepingu punkt 3.1. kohaselt makstavast tasust. Kahju hüvitise väljamaksmisega viivitamisel on Tellijal õigus nõuda Töövõtjalt viivist 0,07% päevas hüvitamisele kuuluvast summast iga tasumisega viivitatud päeva eest.
+	•	Juhul kui Töövõtja tegevuse või tegevusetuse tulemusena saavad kahjustada või hävivad puud, põõsad vm ilutaimed või Rakvere linnale kuuluv taristu või  inventar, kohustub Töövõtja vastava objekti samaväärse objektiga asendama ning taastama seejuures viivitamatult rikkumisele eelnenud olukorra. Juhul kui Töövõtja ei taasta rikkumisele eelnenud olukorda mõistliku aja jooksul, kohustub ta hiljemalt seitsme (7) päeva jooksul Tellijalt vastavasisulise avalduse saamisest hüvitama Tellijale kahjustatud/ hävitatud objekti samaväärse objektiga asendamise ja rikkumisele eelnenud olukorra taastamisega kaasnenud kulutused. Juhul kui Töövõtja käesolevast punktist tulenevaid kulutusi tähtaegselt ei hüvita, kuulub Tellijale õigus pidada vastav summa kinni Töövõtjale Lepingu punkt 3.1. alusel makstavast tasust.
+	•	Tellija esindaja hindab pidevalt hooldustööde kvaliteeti iga kuu koostatud tööde vastuvõtuaktis. Hindamine toimub kahepunktilises hindamisskaalas, rahuldav (3) või mitterahuldav (2). Iga puudus Töös fikseeritakse vastuvõtuaktis. Iga fikseeritud puuduse eest on Tellijal õigus nõuda leppetrahvi 100 eurot. Tellijal on õigus igakuiselt Töövõtjale makstavat tasu vähendada leppetrahvi summa võrra.
+	•	Kui Töövõtja on rikkunud oluliselt Lepingu tingimusi, on Tellijal õigus Leping üles öelda. Töövõtja on kohustatud maksma sellisel juhul leppetrahviks 7% Lepingu kogusummast (osutamata jääva teenuse tasu kuude lõikes kokku kuni lepingu kehtivuse lõpuni).
+	•	Lepingu oluliseks rikkumiseks loetakse kui esineb kasvõi üks alljärgnevalt loetletud asjaolu:
+	•	Töövõtja jätab HD Lisas 1 Tehniline kirjeldus (koos Lisadega) toodud Tööd täielikult või osaliselt teostamata ja keeldub Töid parandamast Tellija poolt antud tähtajaks;
+	•	ei taga kogu Lepingu kehtivuse perioodiks riigihanke hanketingimustele vastava aedniku ja/või maastikuehitaja ja arboristi olemasolu tööde vahetuks kohapeal teostamiseks ja/või ei vaheta Tellija poolt Lepingu punkti 2.10. alusel esitatud nõudmise peale vastavaid isikuid välja;
+	•	Töövõtja ei oma kehtivat Lepingu punktist 2.6. tulenevatele tingimustele vastavat vastutuskindlustuslepingut.
+	•	Lepingu ennetähtaegsel lõpetamisel Töövõtja poolt teatab ta Tellijale sellest kolm (3) kuud ette ning tasub Tellijale leppetrahvi 7% lõpetatava Lepingu kogusummast (vt Lepingu p 6.5).
+	•	Kui Töövõtja ei nõustu Tellija pretensioonidega Tööde kvaliteedi suhtes, võib Töövõtja nõuda Töödele ekspertiisi määramist selleks pädevate spetsialistide poolt, kusjuures ekspertiisi teostaja peab olema mõlema Lepingu osapoole poolt aktsepteeritud enne ekspertiisi teostamist. Alusetute pretensioonide korral kannab ekspertiisikulud Tellija. Juhul kui ekspertiisi tulemusena leiab tuvastamist Tööde kvaliteedinõuetele mittevastav teostamine, kannab kõik ekspertiisi teostamisega seonduvad kulud Töövõtja.
+
+	•	Vääramatust jõust tulenev lepingu mittetäitmine
+	•	Lepingust tulenevate kohustuste mittetäitmist või mittenõuetekohast täitmist ei loeta Lepingu rikkumiseks, kui selle põhjuseks olid asjaolud, mille saabumist osapooled Lepingu sõlmimisel ei näinud ette ega võinud ette näha. Põhjuseid käsitleda kui vääramatut jõudu.
+	•	Lepingus käsitletakse vääramatu jõuna alltoodud põhjuseid:
+	•	loodusõnnetusi, massilisi rahutusi osapoolte asukoha haldusüksuses;
+	•	sõda, riigikogu või valitsuse üldakti, mis oluliselt takistab käesoleva Lepingu täitmist;
+	•	kõikvõimalikud kehtiva rahaühiku väärtusega seotud suured muutused, mis on negatiivse toimega kogu riigi majanduselule.
+	•	Osapool, kelle tegevus Lepingujärgsete kohustuste täitmisel on takistatud vääramatu jõu asjaolude tõttu, on kohustatud sellest koheselt teisele osapoolele kirjalikult teatama.
+	•	Kõik vääramatu jõu esinemisest tingitud vaidlused lahendatakse läbirääkimiste teel, kokkuleppe mittesaavutamisel võib Lepingu lõpetada ühe osapoole nõudmisel, ühekuulise etteteatamistähtajaga, kusjuures leppetrahve ei nõuta.
+
+	•	Kohustuste üleandmine teistele isikutele
+	•	Kumbki Lepingu osapool ei tohi käesolevast Lepingust tulenevaid õigusi ja kohustusi tervikuna või osaliselt üle anda kolmandale isikule ilma teise Lepingu osapoole eelneva kirjaliku nõusolekuta.
+
+	•	Poolte esindajad
+	•	Tellija esindaja Lepingu täitmisel on  Rakvere Kultuurikeskuse /ametikoht ja isiku nimi/ , kontakttelefon: +372…….., e-post: ……. Haljastuse hooldusteenuse osas on Tellija esindaja Rakvere Linnavalitsuse linnaaednik  / isiku nimi/ , kontakttelefon: +372…….., e-post: …….
+	•	Töövõtja määrab oma esindajaks tööde teostamisel ja Tellijale vajaliku informatsiooni andmiseks /tööalane positsioon ja isiku nimi/,  kontakttelefon: +372 …………, e-post:…… 
+	•	Informatiivset liiki teadete edastamine toimub koheselt telefoni teel Tellija ja Töövõtja esindajate vahel.
+	•	Kõik Lepingu täitmist ja tingimusi puudutavad teated, mis ei oma üksnes teavitavat funktsiooni ja ei ole hõlmatud Lepingu punktist 9.3. tuleneva regulatsiooniga, esitavad pooled teineteisele kirjalikus vormis. Kirjalikuks vormiks Lepingu mõistes loetakse nii Lepingu osapoole seadusliku esindaja poolt originaalallkirjastatud paberkandjal dokumente, mis on toimetatud vahetult teisele poolele kätte või saadetud teise poole postiaadressil tähitud kirjaga kui ka digitaalallkirjastatud elektrondokumente, mis on saadetud teise poole ametlikule elektronposti aadressile. Elektronkirjad loetakse teise poole poolt kättesaaduks vastava kinnituse saamisel. 
+
+	•	Lepingu lisadeks on:
+	•	vajadusel Lepingu täitmise käigus täiendavalt sõlmitud lisad ja poolte kirjalikud kokkulepped.
+
+	•	Lõppsätted
+	•	Käesolev Leping jõustub selle allakirjutamisel poolte poolt. Lepingu digitaalsel allkirjastamisel jõustub see viimase Lepingu osapooleks oleva isiku allkirjaõigusliku esindaja poolsest allkirjastamisest v.a Lepingus sisalduvatel erikokkulepetel.
+	•	Pooled kohustuvad rakendama kõiki kohaseid meetmeid, et lahendada kõik Lepingust tulenevad vaidlusküsimused läbirääkimiste teel, mitte kahjustades seejuures teise Poole Lepingust tulenevaid ja seaduslikke õigusi ja huve. Kokkuleppele mittejõudmisel lahendatakse kõik Lepingust tulenevad vaidlusküsimused Eesti Vabariigi õigusaktides sätestatud korras. Esimeses astmes lahendatakse vaidlused Tellija asukohajärgses kohtus.
+
+
+
+Rakvere Linnavalitsus					/eduka pakkuja nimi/
+Lai tn 20							/aadress, kontaktid/  
+44308 Rakvere						
+tel +372 322 5870						
+e-post linnavalitsus@rakvere.ee 				
+
+
+	
+/allkirjastatud digitaalselt/					/allkirjastatud digitaalselt/
+
+* kui riigihanke tulemusena tunnistatakse edukaks hanke mõlemas osas üks Pakkuja, siis sõlmitakse üks hankeleping, kui kaks eraldi Pakkujat kummagi hanke osa kohta, siis eraldi hankelepingud vastava hanke osa kohta.  
+
+
+=== 2165992_Riigihanke_alusdokument__AD_.docx ===
+
+
+
+
+RAKVERE LINNAVALITSUS
+
+
+
+RIIGIHANGE
+VALLIMÄE VABAÕHUKESKUSE HOOLDUSTEENUS
+(Riigihanke viitenumber  225540)
+
+ALUSDOKUMENT
+
+
+
+Riigihanke ese: Teenused
+
+
+
+
+
+
+Rakvere 2020
+
+
+Käesolevaga teeb Rakvere Linnavalitsus (edaspidi nimetatud ka kui hankija) ettepaneku esitada pakkumus vastavalt hanke “Vallimäe vabaõhukeskuse hooldusteenus“ hanketeates ning hankedokumentides sisalduvatele tingimustele. 
+ Elektrooniline ligipääs hanketeatele, hankedokumentidele ja hanget puudutavale teabele on kättesaadav URL aadressil http://riigihanked.riik.ee (edaspidi ka hankekeskkond ja e-riigihangete keskkond, lühendatult e-RHR). 
+I Hanke sisu 
+
+1. Hankelepingu objekt 
+1.1. Riigihanke nimetus: Vallimäe vabakeskuse hooldusteenus 
+1.2. Riigihanke lühikirjeldus: vabaõhukeskuse territooriumi ning taristu aastaringne hooldus ning korrahoid.
+1.3. Riigihange on jagatud kaheks osaks:
+1.3.1 esimene osa hõlmab aastaringselt vabaõhukeskuse territooriumi ning taristu hoolduse- ning heakorrateenuseid: vabaõhukeskuse haljasalade, kõnni-, sõidu- ja parklate ning inventari hooldus vastavalt hanke alusdokumentidele, välja arvatud lumekoristust ning äravedu;
+1.3.2 teine osa hõlmab lumekoristust ning libedusetõrjet vabaõhukeskuse territooriumil, sh vajadusel  lume äravedu selleks ettenähtud ladustamiskohta Rakvere linna territooriumil; 
+
+1.4. Pakkujad võivad esitada pakkumuse ühele või mõlemale osale.
+
+2. Hankedokumendid (HD) 
+
+2.1 Riigihanke dokumendid (edaspidi HD) on käesolev dokument (AD) koos kõikide lisadega: 
+2.2 Hankedokumendid koosnevad käesolevast põhitekstist ja selle lisadest: 
+2.2.1 Hankepass (e-RHR formaat) 
+2.2.2 Vastavustingimused (e-RHR formaat) 
+2.2.3 Hindamiskriteeriumid ja hinnatavad näitajad (e-RHR formaat); 
+2.2.4 Lisa 1 Tehniline kirjeldus (lisadega 1.1 ja 1.2)
+2.2.5 Lisa 2 Hankelepingu projekt 
+
+2.3 Hankedokumentide koosseisu kuuluvad ka kõik enne pakkumuste esitamise tähtpäeva riigihangete registris kas eraldi või ühiselt antud selgitused, millega on selgitatud HD nõudeid. HD osad täiendavad üksteist ja moodustavad tervikliku aluse pakkumuse koostamiseks. Ükskõik, millises dokumendis märgitud nõue on Pakkujale siduv. 
+
+2.4 Kõik HD-s sätestatud tingimused rakenduvad ka pakkuja poolt allhanke korras kasutatavatele isikutele. 
+
+2.5 Hankija võib muuta HD-d enne pakkumuste esitamise tähtpäeva RHS § 81 alusel.
+2.6 Hankija ei avalikusta Pakkujalt saadud informatsiooni, kui õigusaktides ei ole sätestatud teisiti. 
+2.7 Alternatiivsete lahenduste ning tingimuslike pakkumuste esitamine ei ole lubatud. 
+
+3. Tehniline kirjeldus ja objektiga tutvumine 
+
+3.1 Hanke esemeks oleva vabaõhukeskuse hooldusteenuse tehniline kirjeldus on esitatud hankedokumentide Lisas 1 Tehniline kirjeldus (koos Lisadega 1.1, 1.2, 1.3). 
+3.2 Pakkuja on kohustatud enne pakkumuse esitamist tutvuma hankelepingu objektiga (käesoleva dokumendi p 1) kohapeal.  
+
+
+4. Hankelepingu sõlmimine 
+
+4.1. Hankeleping sõlmitakse : 
+4.1.1 hanke esimese osa (edaspidi hanke Osa 1)  kohta 3-aastaseks (36 kalendrikuuks)  perioodiks. Edukaks tunnistatud pakkuja, kellega sõlmitakse hankeleping, kohustub alustama teenuste pakkumist mitte hiljem kui 26. oktoober 2020; 
+4.1.2 hanke teise osa (edaspidi hanke Osa 2) kohta  3-aastaseks (36 kalendrikuuks)  perioodiks. Edukaks tunnistatud pakkuja, kellega sõlmitakse hankeleping, kohustub olema valmis teenuse pakkumiseks  mitte hiljem kui 26. oktoober 2020.
+4.2 Kui üks pakkuja on edukaks tunnistatud hanke mõlemas osas, siis sõlmitakse üks hankeleping p 4.1. nimetatud perioodiks ning teenuste  alustamise hiliseima tähtajaga. 
+4.3. Edukaks tunnistatud pakkuja kohustub sõlmima hankijaga hankelepingu hiljemalt 5 tööpäeva jooksul hankijalt vastavasisulise ettepaneku saamisest (ehk edukaks tunnistamise otsuse saamist). Juhul kui edukaks tunnistatud pakkuja hankelepingut käesolevas punktis nimetatud tähtaja jooksul hankijast mittesõltuvatel asjaoludel ei sõlmi, võib hankija käsitleda seda kui pakkuja poolset pakkumusest taganemist, millises olukorras kuulub hankijale õigus kohaldada riigihangete seaduse § 119 tulenevaid põhimõtteid. 
+
+II Hanke menetlemine 
+
+5. Selgituste küsimise ja saamise kord 
+
+5.1. Igal hankemenetluses osaleval isikul ja huvitatud isikul, kellel on vastaval hetkel võimalik selles hankemenetluses osaleda, on õigus saada selgitusi ja lisateavet hanketeate ja HD kohta. Pakkuja võib küsida selgitusi HD sisu kohta e-RHR kaudu. Telefoni  ja e-kirja teel küsimusi vastu ei võeta. 
+5.2. Hankija vastab küsimustele e-RHR-i vahendusel. 
+5.3. Pakkuja veendub, et ta saab kätte kogu hankemenetluse käigus riigihangete registris avaldatud informatsiooni kas registreerudes hanke juurde (teavitused tulevad automaatselt e-posti aadressile) või jälgides pidevalt kuni pakkumuste esitamise tähtajani infot hanke juures registris. 
+
+5.4. Kui Pakkuja avastab pakkumuse ettevalmistamise käigus HD-s vigu, vasturääkivusi või ebatäpsusi, on ta kohustatud sellest koheselt Hankija kontaktisikut kirjalikult läbi eRHR-i informeerima. 
+
+6. Pakkumuste esitamine 
+
+6.1. Pakkumus tuleb esitada pdf-, excel- või word-formaadis põhikirjajärgse või volitatud isiku poolt digitaalselt allkirjastatult E-riigihangete keskkonnas https://riigihanked.riik.ee/register. Pakkumus peab sisaldama kõiki hankedokumentides ette nähtud dokumente ja vorme.
+6.2. Pakkuja vastutab pakkumuse õigeaegse laekumise eest Hankijale. 
+6.3. Kõik pakkumused ja pakkumuste muudatused, mis on Hankijale laekunud pärast pakkumuste esitamise tähtpäeva, jäetakse kõrvale. 
+6.4. Pakkuja vastutab pakkumuse, pakkumuse muudatuse või pakkumuse tagasivõtmise teate tähtaegse üleandmise eest Hankijale. 
+6.5. Pakkumus peab olema jõus 90 päeva. 
+
+7. Pakkumuste vastavaks tunnistamine või tagasilükkamine 
+
+7.1. Hankija kontrollib pakkumuste vastavust HD-s esitatud tingimustele (rakendades RHS § 52 lg 3). 
+7.2. Pakkumus tunnistatakse vastavaks, kui see on kooskõlas kõikide HD-s esitatud tingimustega ja selles ei esine Hankija hinnangul sisulisi kõrvalekaldumisi esitatud tingimustest. 
+7.3. Hankijal on õigus pakkumus tagasi lükata: 
+7.3.1. kui pakkumus ei vasta HD-s esitatud tingimustele; 
+7.3.2. kui pakkumus ei vasta nõutud struktuurile või vormidele; 
+7.3.3. kui Pakkuja ei ole tähtajaks esitanud nõutud selgitusi. 
+
+7.4. Pakkuja, kelle pakkumus on tagasi lükatud, ei osale edasises hankemenetluses.
+
+7.5 Hankija võib teha otsuse kõigi pakkumuste tagasilükkamise kohta kui kõigi pakkumuste või vastavaks tunnistatud pakkumuste maksumused ületavad hankelepingu (arvestades osade) eeldatavat maksumust. 
+
+8. Pakkujate kvalifitseerimine või kvalifitseerimata jätmine 
+
+8.1. Hankija kontrollib Pakkuja kvalifikatsiooni vastavust hanketeates esitatud kvalifitseerimise tingimustele (rakendades RHS § 52 lg 3). 
+8.2. Hankijal on õigus kontrollida Pakkuja kvalifikatsiooni kogu hankemenetluse vältel. Juhul, kui Hankijale saab teatavaks asjaolu, et Pakkuja kvalifikatsioon ei vasta HDs esitatud kvalifitseerimise tingimustele, on Hankijal õigus teha uus otsus Pakkuja kvalifitseerimise kohta ning jätta kvalifitseerimise tingimustele mittevastav Pakkuja kvalifitseerimata. 
+8.3. Hankija kvalifitseerib Pakkuja, kellel ei esine hankemenetlusest kõrvaldamise aluseid ning kelle kvalifikatsioon vastab HD-s esitatud Pakkuja kvalifitseerimistingimustele (AD p 2.2.1 Hankepass). 
+
+8.4. Hankija võib nõuda Pakkujalt kvalifikatsiooni tõendamiseks esitatud dokumentide sisu selgitamist või selgitamist võimaldavate dokumentide esitamist või teha järelpäringuid Pakkuja poolt esitatud kontaktidele andmete õigsuse kontrollimiseks. 
+8.5. Hankija jätab Pakkuja kvalifitseerimata, kui: 
+8.5.1. Pakkujal esinevad RHS § 95 lg 1 või lg 4 sätestatud hankemenetlusest kõrvaldamise alused; 
+8.5.2. Pakkuja kvalifikatsioon ei vasta hanketeates sätestatud kvalifitseerimistingimustele; 
+8.5.3. Pakkuja ei ole esitanud hanketeates nõutud kvalifikatsiooni tõendavat dokumenti või dokumente; 
+8.5.4. Pakkuja ei ole esitanud Hankija nõudmisel kvalifikatsiooni tõendamiseks esitatud dokumendi või dokumentide sisu kohta selgitust või selgitusi või selgitamist võimaldavaid andmeid Hankija poolt ette antud tähtaja jooksul; 
+8.5.5. Hankija on eRHR-i kaudu tehtud järelpäringute tulemusel saanud informatsiooni, mille kohaselt ei vasta Pakkuja kvalifikatsioon hanketeates toodud kvalifitseerimistingimustele. 
+
+9. Pakkumuste hindamine ja edukaks tunnistamine 
+
+9.1. Hankija hindab pakkumusi vastavalt riigihangete seaduse § 117 lg 1 . 
+9.2. Hankija tunnistab edukaks e-RHR-is Hindamiskriteeriumid ja hinnatavad näitajad vormis :
+9.2.1 hanke esimese osa  (I osa) kohta madalaima (lepinguperioodi ühe kalendrikuu hooldusteenuse hind)  pakkumuse  esitanud pakkuja. 
+9.2.2 hanke teise osa (II osa) kohta madalaima (lepinguperioodil talihoolduse ühe tunni tööhind)  pakkumuse  esitanud pakkuja.
+9.3. Kui kaks või enamat pakkumust on täpselt sama maksumusega, siis tehakse võrdse pakkumuse teinud Pakkujatele ettepanek esitada uus pakkumine.  Kui ka pärast uute pakkumuste esitamist on kaks või enamat pakkumist võrdsed, siis on edukas pakkuja see, kes esitas esmase pakkumise  ajaliselt varem eRHR-is.  
+9.4. Edukale pakkujale saadetakse peale riigihangete seaduses sätestatud lepingu sõlmimise kohustusliku ooteaja möödumist leping allkirjastamiseks. Kui pakkuja ei tagasta allkirjastatud lepingut ühe tööpäeva jooksul, loetakse pakkumus Pakkuja poolt tagasivõetuks. Hankija teeb sel juhul lepingu sõlmimise ettepaneku paremuselt järgmisele Pakkujale. 
+
+10. Pakkujate teavitamine 
+
+10.1. Hankija teavitab pakkujaid läbi riigihangete registri (e-RHR). Kvalifitseerimise, vastavaks tunnistamise ja edukaks tunnistamise tulemustest teavitab hankija peale edukaks tunnistamise otsuse tegemist. 
+
+11. Hankemenetluse lõppemine 
+
+11.1. Hankemenetlus lõppeb: 
+11.1.1. hankelepingu sõlmimisega; 
+11.1.2. kõikide pakkumuste tagasilükkamisega põhjusel, et ühtegi pakkumust ei tunnistatud vastavaks; 
+11.1.3. kõikide pakkumuste tagasilükkamisega AD punktis 7.3 ning 7.5  nimetatud alustel; 
+11.1.4. kõikide pakkujate hankemenetlusest kõrvaldamise või kvalifitseerimata jätmisega; 
+11.1.5. pakkumuste esitamata jätmisega selleks käesolevas seaduses sätestatud korras ettenähtud tähtaja jooksul; 
+11.1.6. hankemenetluse kehtetuks tunnistamisega Hankija põhjendatud vajaduse korral omal algatusel; 
+11.1.7. kõigi pakkumuste jõusoleku tähtaja lõppemisega, kui ükski pakkuja ei ole nõus pakkumuse jõusoleku tähtaega pikendama. 
+
+12. Vaidlustused ja kaebused 
+Vaidlustuste ja kaebuste esitamine ning menetlemine toimub vastavalt riigihangete seaduse 8. peatükile.
+
+

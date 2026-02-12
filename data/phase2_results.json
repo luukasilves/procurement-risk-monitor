@@ -1,0 +1,4691 @@
+{
+  "tests": [
+    {
+      "test": "company_age",
+      "matched": 25561,
+      "unmatched": 1771,
+      "young_under_2yr": 602,
+      "very_young_under_1yr": 263,
+      "base_dispute_rate": 1.606,
+      "young_dispute_rate": 1.993,
+      "high_value_young": [
+        {
+          "rhr_id": "2699972",
+          "winner_name": "KESKKONNAHOOLDUS EESTI OÜ",
+          "winner_reg_code": "14889626",
+          "buyer_name": "Tartu Linnavalitsus",
+          "sector": "utilities",
+          "estimated_value": 27050000.0,
+          "registration_date": "16.01.2020",
+          "procurement_date": "2020-12-15",
+          "age_days": 334,
+          "age_years": 0.9,
+          "has_dispute": true,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4143328",
+          "winner_name": "DEFREM OÜ",
+          "winner_reg_code": "16141725",
+          "buyer_name": "Riigi Kaitseinvesteeringute Keskus",
+          "sector": "chemicals_materials",
+          "estimated_value": 21000000.0,
+          "registration_date": "18.01.2021",
+          "procurement_date": "2022-04-05",
+          "age_days": 442,
+          "age_years": 1.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1602749",
+          "winner_name": "NyxAir OÜ",
+          "winner_reg_code": "14361523",
+          "buyer_name": "Maanteeamet",
+          "sector": "transport",
+          "estimated_value": 16770000.0,
+          "registration_date": "30.10.2017",
+          "procurement_date": "2019-09-13",
+          "age_days": 683,
+          "age_years": 1.9,
+          "has_dispute": true,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3630276",
+          "winner_name": "Biotööd OÜ",
+          "winner_reg_code": "14836624",
+          "buyer_name": "Riigimetsa Majandamise Keskus",
+          "sector": "agriculture",
+          "estimated_value": 13343335.2,
+          "registration_date": "29.10.2019",
+          "procurement_date": "2021-09-10",
+          "age_days": 682,
+          "age_years": 1.9,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "6447829",
+          "winner_name": "Crayon Estonia OÜ",
+          "winner_reg_code": "16780431",
+          "buyer_name": "Eesti Energia AS",
+          "sector": "IT",
+          "estimated_value": 7500000.0,
+          "registration_date": "19.07.2023",
+          "procurement_date": "2023-10-03",
+          "age_days": 76,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3089812",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Tallinna Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 3750000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-04-01",
+          "age_days": 1,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "5157440",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 3472607.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2022-11-03",
+          "age_days": 582,
+          "age_years": 1.6,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1588094",
+          "winner_name": "SRINI OÜ",
+          "winner_reg_code": "14449790",
+          "buyer_name": "Siseministeeriumi infotehnoloogia- ja arenduskeskus",
+          "sector": "IT",
+          "estimated_value": 3000000.0,
+          "registration_date": "16.03.2018",
+          "procurement_date": "2019-07-05",
+          "age_days": 476,
+          "age_years": 1.3,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4726920",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 2861000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2022-08-09",
+          "age_days": 540,
+          "age_years": 1.5,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "7217164",
+          "winner_name": "OÜ Vilton Hiiu",
+          "winner_reg_code": "16712553",
+          "buyer_name": "Hiiumaa Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 2400000.0,
+          "registration_date": "06.04.2023",
+          "procurement_date": "2024-04-16",
+          "age_days": 376,
+          "age_years": 1.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4092008",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 2364000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2022-01-21",
+          "age_days": 296,
+          "age_years": 0.8,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2980233",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 1973392.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-03-22",
+          "age_days": 35,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1625642",
+          "winner_name": "Taristu Grupp OÜ",
+          "winner_reg_code": "14655638",
+          "buyer_name": "Rõuge Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 1775392.92,
+          "registration_date": "05.02.2019",
+          "procurement_date": "2020-02-04",
+          "age_days": 364,
+          "age_years": 1.0,
+          "has_dispute": true,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "5385340",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 1518150.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2023-01-03",
+          "age_days": 643,
+          "age_years": 1.8,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3179292",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Tallinna Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 1500000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-04-26",
+          "age_days": 26,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3974468",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 1400000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-12-13",
+          "age_days": 257,
+          "age_years": 0.7,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4053388",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 1226000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2022-01-10",
+          "age_days": 285,
+          "age_years": 0.8,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "5188920",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 950000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2022-11-15",
+          "age_days": 594,
+          "age_years": 1.6,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3909748",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 874500.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-11-26",
+          "age_days": 240,
+          "age_years": 0.7,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3274016",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 835000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-05-24",
+          "age_days": 54,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3980568",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 820000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-12-20",
+          "age_days": 264,
+          "age_years": 0.7,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3186592",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 814167.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-04-27",
+          "age_days": 71,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4594760",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 775080.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2022-05-30",
+          "age_days": 425,
+          "age_years": 1.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2936992",
+          "winner_name": "Isiro Technologies OÜ",
+          "winner_reg_code": "14759384",
+          "buyer_name": "Tallinna Tehnikaülikool",
+          "sector": "other",
+          "estimated_value": 750000.0,
+          "registration_date": "10.07.2019",
+          "procurement_date": "2021-03-29",
+          "age_days": 628,
+          "age_years": 1.7,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3055873",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 744000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-03-24",
+          "age_days": 37,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4316428",
+          "winner_name": "RN Liinid OÜ",
+          "winner_reg_code": "16201930",
+          "buyer_name": "Saaremaa Vallavalitsus",
+          "sector": "transport",
+          "estimated_value": 744000.0,
+          "registration_date": "08.04.2021",
+          "procurement_date": "2022-04-07",
+          "age_days": 364,
+          "age_years": 1.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3980308",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 739000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-12-14",
+          "age_days": 258,
+          "age_years": 0.7,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4063068",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 724474.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2022-01-11",
+          "age_days": 330,
+          "age_years": 0.9,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4692980",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 720000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2022-06-22",
+          "age_days": 448,
+          "age_years": 1.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3231292",
+          "winner_name": "OÜ YIT Teed",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 708000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-05-11",
+          "age_days": 41,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3075652",
+          "winner_name": "Obermeyer Planen+Beraten GmbH Eesti filiaal",
+          "winner_reg_code": "14936797",
+          "buyer_name": "osaühing Rail Baltic Estonia",
+          "sector": "professional_services",
+          "estimated_value": 700000.0,
+          "registration_date": "13.03.2020",
+          "procurement_date": "2021-04-15",
+          "age_days": 398,
+          "age_years": 1.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3988348",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 700000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-12-16",
+          "age_days": 260,
+          "age_years": 0.7,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3855828",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 618000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-11-12",
+          "age_days": 226,
+          "age_years": 0.6,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2922392",
+          "winner_name": "PREV OÜ",
+          "winner_reg_code": "14853309",
+          "buyer_name": "Põhja-Pärnumaa Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 600000.0,
+          "registration_date": "21.11.2019",
+          "procurement_date": "2021-03-09",
+          "age_days": 474,
+          "age_years": 1.3,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1592430",
+          "winner_name": "Mekon Ehitus OÜ",
+          "winner_reg_code": "14629888",
+          "buyer_name": "Elva Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 560000.0,
+          "registration_date": "20.12.2018",
+          "procurement_date": "2019-07-18",
+          "age_days": 210,
+          "age_years": 0.6,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2827232",
+          "winner_name": "Taristu Grupp OÜ",
+          "winner_reg_code": "14655638",
+          "buyer_name": "AS VALGA VESI",
+          "sector": "construction",
+          "estimated_value": 558100.0,
+          "registration_date": "05.02.2019",
+          "procurement_date": "2021-02-03",
+          "age_days": 729,
+          "age_years": 2.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2176052",
+          "winner_name": "OÜ Pluvo Eesti",
+          "winner_reg_code": "14926238",
+          "buyer_name": "Elektrilevi OÜ",
+          "sector": "construction",
+          "estimated_value": 528000.0,
+          "registration_date": "02.03.2020",
+          "procurement_date": "2020-07-20",
+          "age_days": 140,
+          "age_years": 0.4,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4562288",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Saku Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 515000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2022-05-27",
+          "age_days": 466,
+          "age_years": 1.3,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3904948",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 505000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-11-25",
+          "age_days": 283,
+          "age_years": 0.8,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1611396",
+          "winner_name": "Mekon Ehitus OÜ",
+          "winner_reg_code": "14629888",
+          "buyer_name": "Rõuge Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 500000.0,
+          "registration_date": "20.12.2018",
+          "procurement_date": "2020-03-24",
+          "age_days": 460,
+          "age_years": 1.3,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2970312",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Tapa Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 500000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-03-10",
+          "age_days": 23,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3038776",
+          "winner_name": "DEFREM OÜ",
+          "winner_reg_code": "16141725",
+          "buyer_name": "Politsei- ja Piirivalveamet",
+          "sector": "other",
+          "estimated_value": 500000.0,
+          "registration_date": "18.01.2021",
+          "procurement_date": "2021-04-13",
+          "age_days": 85,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3719796",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Saku Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 500000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-10-13",
+          "age_days": 240,
+          "age_years": 0.7,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "5579200",
+          "winner_name": "Electric Terminal OÜ",
+          "winner_reg_code": "16347533",
+          "buyer_name": "Tartu Üliõpilasküla",
+          "sector": "energy",
+          "estimated_value": 448000.0,
+          "registration_date": "21.10.2021",
+          "procurement_date": "2023-02-17",
+          "age_days": 484,
+          "age_years": 1.3,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3770618",
+          "winner_name": "Eltonet OÜ",
+          "winner_reg_code": "16342501",
+          "buyer_name": "Tartu Linnavalitsus",
+          "sector": "construction",
+          "estimated_value": 430000.0,
+          "registration_date": "15.10.2021",
+          "procurement_date": "2021-11-10",
+          "age_days": 26,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "727950",
+          "winner_name": "Avalanche Laboratory OÜ",
+          "winner_reg_code": "14175080",
+          "buyer_name": "Siseministeeriumi infotehnoloogia- ja arenduskeskus",
+          "sector": "IT",
+          "estimated_value": 424165.0,
+          "registration_date": "27.12.2016",
+          "procurement_date": "2018-11-21",
+          "age_days": 694,
+          "age_years": 1.9,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4301969",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 422000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2022-03-16",
+          "age_days": 350,
+          "age_years": 1.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2341332",
+          "winner_name": "Taristu Grupp OÜ",
+          "winner_reg_code": "14655638",
+          "buyer_name": "Võru Linnavalitsus",
+          "sector": "construction",
+          "estimated_value": 375000.0,
+          "registration_date": "05.02.2019",
+          "procurement_date": "2020-09-29",
+          "age_days": 602,
+          "age_years": 1.6,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3380676",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 375000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-06-18",
+          "age_days": 79,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3222215",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 354167.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-05-05",
+          "age_days": 79,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        }
+      ],
+      "very_young_examples": [
+        {
+          "rhr_id": "3089812",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Tallinna Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 3750000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-04-01",
+          "age_days": 1,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4772480",
+          "winner_name": "Balti Rent OÜ",
+          "winner_reg_code": "16534689",
+          "buyer_name": "AS HOOLEKANDETEENUSED",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "13.07.2022",
+          "procurement_date": "2022-07-14",
+          "age_days": 1,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "5922880",
+          "winner_name": "EV1 Ehitus OÜ",
+          "winner_reg_code": "16738481",
+          "buyer_name": "Kõrgem Kunstikool Pallas",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "15.05.2023",
+          "procurement_date": "2023-05-17",
+          "age_days": 2,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "6344865",
+          "winner_name": "MTK Project OÜ",
+          "winner_reg_code": "16805585",
+          "buyer_name": "Kastre Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 28000.0,
+          "registration_date": "28.08.2023",
+          "procurement_date": "2023-08-30",
+          "age_days": 2,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1549939",
+          "winner_name": "Taristu Grupp OÜ",
+          "winner_reg_code": "14655638",
+          "buyer_name": "Riigimetsa Majandamise Keskus",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "05.02.2019",
+          "procurement_date": "2019-02-08",
+          "age_days": 3,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3835028",
+          "winner_name": "Teenuse Ekspert OÜ",
+          "winner_reg_code": "16375593",
+          "buyer_name": "Riigi Kaitseinvesteeringute Keskus",
+          "sector": "consulting",
+          "estimated_value": 59000.0,
+          "registration_date": "26.11.2021",
+          "procurement_date": "2021-12-03",
+          "age_days": 7,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3109632",
+          "winner_name": "OÜ YIT Teed",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 282700.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-04-09",
+          "age_days": 9,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3127132",
+          "winner_name": "OÜ YIT Teed",
+          "winner_reg_code": "16196755",
+          "buyer_name": "aktsiaselts PÄRNU VESI",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-04-13",
+          "age_days": 13,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4007028",
+          "winner_name": "Lansec Energia OÜ",
+          "winner_reg_code": "16382966",
+          "buyer_name": "Enefit Connect OÜ",
+          "sector": "construction",
+          "estimated_value": 56695.0,
+          "registration_date": "06.12.2021",
+          "procurement_date": "2021-12-21",
+          "age_days": 15,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4797020",
+          "winner_name": "Varavaldur OÜ",
+          "winner_reg_code": "16528677",
+          "buyer_name": "Võru Linnavalitsus",
+          "sector": "other",
+          "estimated_value": 40000.0,
+          "registration_date": "04.07.2022",
+          "procurement_date": "2022-07-21",
+          "age_days": 17,
+          "age_years": 0.0,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "5835600",
+          "winner_name": "Infragreen OÜ",
+          "winner_reg_code": "16740489",
+          "buyer_name": "Riigi Tugiteenuste Keskus",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "17.05.2023",
+          "procurement_date": "2023-06-06",
+          "age_days": 20,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1595216",
+          "winner_name": "Nova natura OÜ",
+          "winner_reg_code": "14758203",
+          "buyer_name": "Tallinna Tehnikaülikool",
+          "sector": "other",
+          "estimated_value": null,
+          "registration_date": "08.07.2019",
+          "procurement_date": "2019-07-31",
+          "age_days": 23,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2970312",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Tapa Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 500000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-03-10",
+          "age_days": 23,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3204232",
+          "winner_name": "Fortikus Eesti OÜ",
+          "winner_reg_code": "16200304",
+          "buyer_name": "Põltsamaa Vallavalitsus",
+          "sector": "maintenance",
+          "estimated_value": null,
+          "registration_date": "06.04.2021",
+          "procurement_date": "2021-04-30",
+          "age_days": 24,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "N"
+        },
+        {
+          "rhr_id": "3179292",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Tallinna Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 1500000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-04-26",
+          "age_days": 26,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3770618",
+          "winner_name": "Eltonet OÜ",
+          "winner_reg_code": "16342501",
+          "buyer_name": "Tartu Linnavalitsus",
+          "sector": "construction",
+          "estimated_value": 430000.0,
+          "registration_date": "15.10.2021",
+          "procurement_date": "2021-11-10",
+          "age_days": 26,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1589372",
+          "winner_name": "OÜ Sorav Orav",
+          "winner_reg_code": "14746654",
+          "buyer_name": "Vastseliina Piiskopilinnuse Sihtasutus",
+          "sector": "agriculture",
+          "estimated_value": 11000.0,
+          "registration_date": "19.06.2019",
+          "procurement_date": "2019-07-16",
+          "age_days": 27,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3066312",
+          "winner_name": "YFS OÜ",
+          "winner_reg_code": "16181245",
+          "buyer_name": "Politsei- ja Piirivalveamet",
+          "sector": "energy",
+          "estimated_value": 45000.0,
+          "registration_date": "11.03.2021",
+          "procurement_date": "2021-04-07",
+          "age_days": 27,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2976572",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Kehtna Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 286350.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-03-18",
+          "age_days": 31,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1913532",
+          "winner_name": "Eesti Audioraamatute Keskus OÜ",
+          "winner_reg_code": "14945997",
+          "buyer_name": "Eesti Rahvusraamatukogu",
+          "sector": "other",
+          "estimated_value": 40000.0,
+          "registration_date": "31.03.2020",
+          "procurement_date": "2020-05-05",
+          "age_days": 35,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2980233",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 1973392.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-03-22",
+          "age_days": 35,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2128052",
+          "winner_name": "CoHe Services OÜ",
+          "winner_reg_code": "14979855",
+          "buyer_name": "Riigi Kinnisvara Aktsiaselts",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "28.05.2020",
+          "procurement_date": "2020-07-03",
+          "age_days": 36,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "8109064",
+          "winner_name": "RailProject OÜ",
+          "winner_reg_code": "17093388",
+          "buyer_name": "Enefit Power AS",
+          "sector": "transport",
+          "estimated_value": null,
+          "registration_date": "17.10.2024",
+          "procurement_date": "2024-11-22",
+          "age_days": 36,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3055873",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 744000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-03-24",
+          "age_days": 37,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4202628",
+          "winner_name": "TPK Projekt OÜ",
+          "winner_reg_code": "16418999",
+          "buyer_name": "Tartu Linnavalitsus",
+          "sector": "professional_services",
+          "estimated_value": null,
+          "registration_date": "10.01.2022",
+          "procurement_date": "2022-02-16",
+          "age_days": 37,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1680072",
+          "winner_name": "3D Punkt OÜ",
+          "winner_reg_code": "14892195",
+          "buyer_name": "Riigi Kinnisvara Aktsiaselts",
+          "sector": "professional_services",
+          "estimated_value": null,
+          "registration_date": "21.01.2020",
+          "procurement_date": "2020-03-02",
+          "age_days": 41,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3231292",
+          "winner_name": "OÜ YIT Teed",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 708000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-05-11",
+          "age_days": 41,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4094228",
+          "winner_name": "Lansec Energia OÜ",
+          "winner_reg_code": "16382966",
+          "buyer_name": "Enefit Connect OÜ",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "06.12.2021",
+          "procurement_date": "2022-01-18",
+          "age_days": 43,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "6503370",
+          "winner_name": "MTK Project OÜ",
+          "winner_reg_code": "16805585",
+          "buyer_name": "Kastre Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "28.08.2023",
+          "procurement_date": "2023-10-11",
+          "age_days": 44,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4573701",
+          "winner_name": "MacoMed OÜ",
+          "winner_reg_code": "16517455",
+          "buyer_name": "Sihtasutus Tallinna Hambakliinik",
+          "sector": "healthcare",
+          "estimated_value": null,
+          "registration_date": "10.06.2022",
+          "procurement_date": "2022-07-25",
+          "age_days": 45,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1913512",
+          "winner_name": "InfraWay OÜ",
+          "winner_reg_code": "14943946",
+          "buyer_name": "Alutaguse Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 160000.0,
+          "registration_date": "27.03.2020",
+          "procurement_date": "2020-05-12",
+          "age_days": 46,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "5170140",
+          "winner_name": "Duuabl Works OÜ",
+          "winner_reg_code": "16579953",
+          "buyer_name": "Tallinna Linnavaraamet",
+          "sector": "maintenance",
+          "estimated_value": 200000.0,
+          "registration_date": "23.09.2022",
+          "procurement_date": "2022-11-08",
+          "age_days": 46,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "2064653",
+          "winner_name": "CoHe Services OÜ",
+          "winner_reg_code": "14979855",
+          "buyer_name": "Tartu linn, Oa tn 11a korteriühistu",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "28.05.2020",
+          "procurement_date": "2020-07-16",
+          "age_days": 49,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3106194",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Jõgeva Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-04-06",
+          "age_days": 50,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4667480",
+          "winner_name": "VoltInfra OÜ",
+          "winner_reg_code": "16487375",
+          "buyer_name": "Viimsi Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "25.04.2022",
+          "procurement_date": "2022-06-14",
+          "age_days": 50,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3274016",
+          "winner_name": "KMG OÜ",
+          "winner_reg_code": "16196755",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 835000.0,
+          "registration_date": "31.03.2021",
+          "procurement_date": "2021-05-24",
+          "age_days": 54,
+          "age_years": 0.1,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1581462",
+          "winner_name": "DahlWeng OÜ",
+          "winner_reg_code": "14756078",
+          "buyer_name": "Riigi Tugiteenuste Keskus",
+          "sector": "consulting",
+          "estimated_value": 50000.0,
+          "registration_date": "04.07.2019",
+          "procurement_date": "2019-08-29",
+          "age_days": 56,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "6518568",
+          "winner_name": "Hoogla Ehitus OÜ",
+          "winner_reg_code": "16797791",
+          "buyer_name": "Riigi Kinnisvara Aktsiaselts",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "15.08.2023",
+          "procurement_date": "2023-10-13",
+          "age_days": 59,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1530765",
+          "winner_name": "Talumäe OÜ",
+          "winner_reg_code": "14567727",
+          "buyer_name": "Järva Vallavalitsus",
+          "sector": "utilities",
+          "estimated_value": null,
+          "registration_date": "17.09.2018",
+          "procurement_date": "2018-11-16",
+          "age_days": 60,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1578752",
+          "winner_name": "Rain Elken",
+          "winner_reg_code": "14713318",
+          "buyer_name": "Keskkonnaministeeriumi Infotehnoloogiakeskus",
+          "sector": "IT",
+          "estimated_value": 45000.0,
+          "registration_date": "29.04.2019",
+          "procurement_date": "2019-06-28",
+          "age_days": 60,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3336336",
+          "winner_name": "Luctor Ehitus OÜ",
+          "winner_reg_code": "16197984",
+          "buyer_name": "Türi Ühisgümnaasium",
+          "sector": "construction",
+          "estimated_value": 120000.0,
+          "registration_date": "05.04.2021",
+          "procurement_date": "2021-06-04",
+          "age_days": 60,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1553814",
+          "winner_name": "Data Fusion OÜ",
+          "winner_reg_code": "14656247",
+          "buyer_name": "Hariduse Infotehnoloogia Sihtasutus",
+          "sector": "IT",
+          "estimated_value": 350000.0,
+          "registration_date": "06.02.2019",
+          "procurement_date": "2019-04-08",
+          "age_days": 61,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "1549057",
+          "winner_name": "Maaportaal OÜ",
+          "winner_reg_code": "14619329",
+          "buyer_name": "Riigimetsa Majandamise Keskus",
+          "sector": "consulting",
+          "estimated_value": null,
+          "registration_date": "04.12.2018",
+          "procurement_date": "2019-02-04",
+          "age_days": 62,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3118012",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Saku Vallavalitsus",
+          "sector": "construction",
+          "estimated_value": 320000.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-04-19",
+          "age_days": 63,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3337717",
+          "winner_name": "Luctor Ehitus OÜ",
+          "winner_reg_code": "16197984",
+          "buyer_name": "Tallinna Tervishoiu Kõrgkool",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "05.04.2021",
+          "procurement_date": "2021-06-07",
+          "age_days": 63,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "6044260",
+          "winner_name": "Infragreen OÜ",
+          "winner_reg_code": "16740489",
+          "buyer_name": "Sihtasutus Aidu Veespordikeskus",
+          "sector": "construction",
+          "estimated_value": null,
+          "registration_date": "17.05.2023",
+          "procurement_date": "2023-07-20",
+          "age_days": 64,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "4159809",
+          "winner_name": "Teenuse Ekspert OÜ",
+          "winner_reg_code": "16375593",
+          "buyer_name": "Kohtla-Järve Linnavalitsus",
+          "sector": "agriculture",
+          "estimated_value": 58000.0,
+          "registration_date": "26.11.2021",
+          "procurement_date": "2022-02-03",
+          "age_days": 69,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3179092",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 333333.33,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-04-26",
+          "age_days": 70,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "5288160",
+          "winner_name": "Arboristid OÜ",
+          "winner_reg_code": "16588633",
+          "buyer_name": "Riigimetsa Majandamise Keskus",
+          "sector": "agriculture",
+          "estimated_value": null,
+          "registration_date": "07.10.2022",
+          "procurement_date": "2022-12-16",
+          "age_days": 70,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        },
+        {
+          "rhr_id": "3186592",
+          "winner_name": "ATEMO OÜ",
+          "winner_reg_code": "16161314",
+          "buyer_name": "Transpordiamet",
+          "sector": "construction",
+          "estimated_value": 814167.0,
+          "registration_date": "15.02.2021",
+          "procurement_date": "2021-04-27",
+          "age_days": 71,
+          "age_years": 0.2,
+          "has_dispute": false,
+          "company_status": "R"
+        }
+      ]
+    },
+    {
+      "test": "ownership_networks",
+      "winner_codes_total": 4542,
+      "winners_with_ownership": 3673,
+      "multi_winner_persons": 406,
+      "top_connected": [
+        {
+          "person_hash": "9aa671d3-84a6-5513-8432-63b86be0f663",
+          "person_name": "Margus Linnamäe",
+          "winner_company_count": 10,
+          "total_company_count": 81,
+          "winner_companies": [
+            {
+              "code": "10078457",
+              "name": "aktsiaselts SEMETRON"
+            },
+            {
+              "code": "10184643",
+              "name": "AS Postimees Grupp"
+            },
+            {
+              "code": "10332235",
+              "name": "Balti Meediamonitooringu Grupp OÜ"
+            },
+            {
+              "code": "14392452",
+              "name": "Digital Signage OÜ"
+            },
+            {
+              "code": "14619329",
+              "name": "Maaportaal OÜ"
+            },
+            {
+              "code": "10351798",
+              "name": "Magnum Dental OÜ"
+            },
+            {
+              "code": "11331792",
+              "name": "MAGNUM LOGISTICS OÜ"
+            },
+            {
+              "code": "11332521",
+              "name": "MAGNUM MEDICAL OÜ"
+            },
+            {
+              "code": "12280921",
+              "name": "Target Master OÜ"
+            },
+            {
+              "code": "16572262",
+              "name": "Tervisekindlustusagent OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "63991475-105c-5a17-8444-8db92ff3b2a7",
+          "person_name": "Fjodor Berman",
+          "winner_company_count": 8,
+          "total_company_count": 45,
+          "winner_companies": [
+            {
+              "code": "10488333",
+              "name": "Aktsiaselts Elme Messer Gaas"
+            },
+            {
+              "code": "10419131",
+              "name": "BLRT Era OÜ"
+            },
+            {
+              "code": "12497282",
+              "name": "BLRT Refonda Baltic OÜ"
+            },
+            {
+              "code": "10065762",
+              "name": "Mereabi OÜ"
+            },
+            {
+              "code": "10775386",
+              "name": "Osaühing Elme TKS"
+            },
+            {
+              "code": "11092376",
+              "name": "OÜ BLRT Masinaehitus"
+            },
+            {
+              "code": "11122893",
+              "name": "OÜ Wärtsilä BLRT Estonia"
+            },
+            {
+              "code": "10329451",
+              "name": "Tallinn Shipyard OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "600f07e0-b0f5-5a63-b237-9cb62cb0cdfd",
+          "person_name": "Igor Berman",
+          "winner_company_count": 8,
+          "total_company_count": 49,
+          "winner_companies": [
+            {
+              "code": "10488333",
+              "name": "Aktsiaselts Elme Messer Gaas"
+            },
+            {
+              "code": "10419131",
+              "name": "BLRT Era OÜ"
+            },
+            {
+              "code": "12497282",
+              "name": "BLRT Refonda Baltic OÜ"
+            },
+            {
+              "code": "10065762",
+              "name": "Mereabi OÜ"
+            },
+            {
+              "code": "10775386",
+              "name": "Osaühing Elme TKS"
+            },
+            {
+              "code": "11092376",
+              "name": "OÜ BLRT Masinaehitus"
+            },
+            {
+              "code": "11122893",
+              "name": "OÜ Wärtsilä BLRT Estonia"
+            },
+            {
+              "code": "10329451",
+              "name": "Tallinn Shipyard OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "55b8e270-273d-56b3-8730-96d5fe4f3e13",
+          "person_name": "Mark Berman",
+          "winner_company_count": 8,
+          "total_company_count": 50,
+          "winner_companies": [
+            {
+              "code": "10488333",
+              "name": "Aktsiaselts Elme Messer Gaas"
+            },
+            {
+              "code": "10419131",
+              "name": "BLRT Era OÜ"
+            },
+            {
+              "code": "12497282",
+              "name": "BLRT Refonda Baltic OÜ"
+            },
+            {
+              "code": "10065762",
+              "name": "Mereabi OÜ"
+            },
+            {
+              "code": "10775386",
+              "name": "Osaühing Elme TKS"
+            },
+            {
+              "code": "11092376",
+              "name": "OÜ BLRT Masinaehitus"
+            },
+            {
+              "code": "11122893",
+              "name": "OÜ Wärtsilä BLRT Estonia"
+            },
+            {
+              "code": "10329451",
+              "name": "Tallinn Shipyard OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "0868ba6c-2399-53b8-b52b-96ddbc2ceb1a",
+          "person_name": "Marcel Vichmann",
+          "winner_company_count": 8,
+          "total_company_count": 45,
+          "winner_companies": [
+            {
+              "code": "10085032",
+              "name": "AS GoBus"
+            },
+            {
+              "code": "11108522",
+              "name": "AS Go Oil"
+            },
+            {
+              "code": "10786964",
+              "name": "AS GoProperty"
+            },
+            {
+              "code": "10541949",
+              "name": "AS GoRail"
+            },
+            {
+              "code": "10113159",
+              "name": "AS GoTravel"
+            },
+            {
+              "code": "11109214",
+              "name": "Osaühing GoTrack"
+            },
+            {
+              "code": "11320860",
+              "name": "OÜ GoTaksopark"
+            },
+            {
+              "code": "12267949",
+              "name": "OÜ GoWire"
+            }
+          ]
+        },
+        {
+          "person_hash": "73348f30-5391-5ab5-96dd-b75df12de62c",
+          "person_name": "Tiit Pruuli",
+          "winner_company_count": 8,
+          "total_company_count": 34,
+          "winner_companies": [
+            {
+              "code": "10085032",
+              "name": "AS GoBus"
+            },
+            {
+              "code": "11108522",
+              "name": "AS Go Oil"
+            },
+            {
+              "code": "10786964",
+              "name": "AS GoProperty"
+            },
+            {
+              "code": "10541949",
+              "name": "AS GoRail"
+            },
+            {
+              "code": "10113159",
+              "name": "AS GoTravel"
+            },
+            {
+              "code": "11109214",
+              "name": "Osaühing GoTrack"
+            },
+            {
+              "code": "11320860",
+              "name": "OÜ GoTaksopark"
+            },
+            {
+              "code": "12267949",
+              "name": "OÜ GoWire"
+            }
+          ]
+        },
+        {
+          "person_hash": "a6e323f6-8e5b-588a-a1fc-329e2321d29a",
+          "person_name": "Enn Kunila",
+          "winner_company_count": 7,
+          "total_company_count": 28,
+          "winner_companies": [
+            {
+              "code": "10009159",
+              "name": "Aktsiaselts Balbiino"
+            },
+            {
+              "code": "10117341",
+              "name": "Aktsiaselts LIVIKO"
+            },
+            {
+              "code": "10042784",
+              "name": "Aktsiaselts VIKING MOTORS"
+            },
+            {
+              "code": "10101736",
+              "name": "aktsiaselts Walde"
+            },
+            {
+              "code": "12715827",
+              "name": "Kitman Thulema AS"
+            },
+            {
+              "code": "10379733",
+              "name": "Selver AS"
+            },
+            {
+              "code": "10026845",
+              "name": "Viking Security AS"
+            }
+          ]
+        },
+        {
+          "person_hash": "0a105044-788e-50e7-8959-366b203d59a6",
+          "person_name": "Jüri Käo",
+          "winner_company_count": 7,
+          "total_company_count": 25,
+          "winner_companies": [
+            {
+              "code": "10009159",
+              "name": "Aktsiaselts Balbiino"
+            },
+            {
+              "code": "10117341",
+              "name": "Aktsiaselts LIVIKO"
+            },
+            {
+              "code": "10042784",
+              "name": "Aktsiaselts VIKING MOTORS"
+            },
+            {
+              "code": "10101736",
+              "name": "aktsiaselts Walde"
+            },
+            {
+              "code": "12715827",
+              "name": "Kitman Thulema AS"
+            },
+            {
+              "code": "10379733",
+              "name": "Selver AS"
+            },
+            {
+              "code": "10026845",
+              "name": "Viking Security AS"
+            }
+          ]
+        },
+        {
+          "person_hash": "b3271bb9-d0b3-57b1-b139-546bb70d8de6",
+          "person_name": "Enn Pant",
+          "winner_company_count": 7,
+          "total_company_count": 66,
+          "winner_companies": [
+            {
+              "code": "10359877",
+              "name": "AKTSIASELTS VABA MAA"
+            },
+            {
+              "code": "10178905",
+              "name": "AS Elenger Grupp"
+            },
+            {
+              "code": "11097051",
+              "name": "AS INF Ehitus"
+            },
+            {
+              "code": "11425524",
+              "name": "AS INF T"
+            },
+            {
+              "code": "12981210",
+              "name": "CardPlus VM OÜ"
+            },
+            {
+              "code": "16421809",
+              "name": "INF INFRA OÜ"
+            },
+            {
+              "code": "10224203",
+              "name": "Tallinna Raamatutrükikoja Osaühing"
+            }
+          ]
+        },
+        {
+          "person_hash": "2921f2a4-6ee9-5a51-8a6d-4777f38e5884",
+          "person_name": "Märt Järvik",
+          "winner_company_count": 7,
+          "total_company_count": 16,
+          "winner_companies": [
+            {
+              "code": "12967894",
+              "name": "Altos Teed OÜ"
+            },
+            {
+              "code": "14229976",
+              "name": "Diotech Electric OÜ"
+            },
+            {
+              "code": "14673501",
+              "name": "Diotech Nord OÜ"
+            },
+            {
+              "code": "12672325",
+              "name": "Diotech OÜ"
+            },
+            {
+              "code": "10879306",
+              "name": "Lääne Teed OÜ"
+            },
+            {
+              "code": "14686917",
+              "name": "Solar Wheel OÜ"
+            },
+            {
+              "code": "10405442",
+              "name": "ÜLE OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "414c03db-0b45-5347-85a0-796f060b94c7",
+          "person_name": "Priit Post",
+          "winner_company_count": 7,
+          "total_company_count": 13,
+          "winner_companies": [
+            {
+              "code": "12967894",
+              "name": "Altos Teed OÜ"
+            },
+            {
+              "code": "14229976",
+              "name": "Diotech Electric OÜ"
+            },
+            {
+              "code": "14673501",
+              "name": "Diotech Nord OÜ"
+            },
+            {
+              "code": "12672325",
+              "name": "Diotech OÜ"
+            },
+            {
+              "code": "10879306",
+              "name": "Lääne Teed OÜ"
+            },
+            {
+              "code": "14686917",
+              "name": "Solar Wheel OÜ"
+            },
+            {
+              "code": "10405442",
+              "name": "ÜLE OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "221738cc-683e-579f-ad25-683a4738b51c",
+          "person_name": "Kersti Sarapuu",
+          "winner_company_count": 6,
+          "total_company_count": 19,
+          "winner_companies": [
+            {
+              "code": "10926425",
+              "name": "Aktsiaselts Atko Bussiliinid"
+            },
+            {
+              "code": "16038306",
+              "name": "ATG Bussiliinid OÜ"
+            },
+            {
+              "code": "16043603",
+              "name": "ATG Bussipark OÜ"
+            },
+            {
+              "code": "12739911",
+              "name": "ATKO Transport OÜ"
+            },
+            {
+              "code": "12689308",
+              "name": "Järve Bussipark OÜ"
+            },
+            {
+              "code": "10878583",
+              "name": "OÜ ATKO Liinid"
+            }
+          ]
+        },
+        {
+          "person_hash": "95eabab9-12ea-50dc-a88e-abae4ebf69bd",
+          "person_name": "Tiit Ploom",
+          "winner_company_count": 6,
+          "total_company_count": 16,
+          "winner_companies": [
+            {
+              "code": "10111516",
+              "name": "aktsiaselts KIIRKANDUR"
+            },
+            {
+              "code": "11169541",
+              "name": "OÜ KIIRWARREN.KL"
+            },
+            {
+              "code": "14757712",
+              "name": "OÜ WARREN CONCRETE"
+            },
+            {
+              "code": "10465545",
+              "name": "OÜ Warren Safety"
+            },
+            {
+              "code": "10076375",
+              "name": "WARREN BALTI OÜ"
+            },
+            {
+              "code": "14242534",
+              "name": "Warren Teed OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "9fd6743f-d445-5dd1-a586-51d114d1f797",
+          "person_name": "Urmas Sõõrumaa",
+          "winner_company_count": 5,
+          "total_company_count": 60,
+          "winner_companies": [
+            {
+              "code": "12394501",
+              "name": "AS Signaal TM"
+            },
+            {
+              "code": "12858159",
+              "name": "Forus Haldus OÜ"
+            },
+            {
+              "code": "10622346",
+              "name": "Forus Security AS"
+            },
+            {
+              "code": "10539390",
+              "name": "Forus Takso Eesti AS"
+            },
+            {
+              "code": "12956778",
+              "name": "Taxigo Tallinn OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "8820dd1f-3401-5e4d-82ea-826ac56dbd85",
+          "person_name": "Rando Saarepere",
+          "winner_company_count": 5,
+          "total_company_count": 378,
+          "winner_companies": [
+            {
+              "code": "16289534",
+              "name": "BunSeinicos OÜ"
+            },
+            {
+              "code": "14971173",
+              "name": "Daviltrazero Viverdoza OÜ"
+            },
+            {
+              "code": "14240771",
+              "name": "Dormat OÜ"
+            },
+            {
+              "code": "12207864",
+              "name": "MerksWood OÜ"
+            },
+            {
+              "code": "14449749",
+              "name": "OÜ sahapojat"
+            }
+          ]
+        },
+        {
+          "person_hash": "7594b91d-df6a-51a5-878e-3eb52f3dce12",
+          "person_name": "Raul Pint",
+          "winner_company_count": 5,
+          "total_company_count": 175,
+          "winner_companies": [
+            {
+              "code": "14445645",
+              "name": "Amiaho Dumrakanda OÜ"
+            },
+            {
+              "code": "14421188",
+              "name": "Brunahli Bamsebo OÜ"
+            },
+            {
+              "code": "11538085",
+              "name": "Dzhavgat Buensuceso OÜ"
+            },
+            {
+              "code": "11482835",
+              "name": "Perpindahang Pasang OÜ"
+            },
+            {
+              "code": "12399993",
+              "name": "Stupa Pechardwip OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "80ffdd6e-3683-5086-8652-57810b667399",
+          "person_name": "Peedo Pihlak",
+          "winner_company_count": 5,
+          "total_company_count": 21,
+          "winner_companies": [
+            {
+              "code": "12519842",
+              "name": "Ardor OÜ"
+            },
+            {
+              "code": "10869986",
+              "name": "Lumbar OÜ"
+            },
+            {
+              "code": "10297952",
+              "name": "osaühing Raja KT"
+            },
+            {
+              "code": "10817268",
+              "name": "TIMBERSTOCK OÜ"
+            },
+            {
+              "code": "10945474",
+              "name": "Warmeston OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "bca1f219-3b10-57cf-8a5d-9f4ec73a2594",
+          "person_name": "Jaan Pillesaar",
+          "winner_company_count": 4,
+          "total_company_count": 22,
+          "winner_companies": [
+            {
+              "code": "10364097",
+              "name": "AKTSIASELTS HELMES"
+            },
+            {
+              "code": "10951541",
+              "name": "MarkIT Holding Aktsiaselts"
+            },
+            {
+              "code": "14046945",
+              "name": "Tactical Solution OÜ"
+            },
+            {
+              "code": "11244225",
+              "name": "Trinidad Wiseman OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "5f0fd528-2be6-5c1b-ac71-dc3b5c4c05ee",
+          "person_name": "Ivar Valdmaa",
+          "winner_company_count": 4,
+          "total_company_count": 42,
+          "winner_companies": [
+            {
+              "code": "10431055",
+              "name": "Osaühing EESTI KRAANAVABRIK"
+            },
+            {
+              "code": "10282927",
+              "name": "osaühing Harmet"
+            },
+            {
+              "code": "11281775",
+              "name": "osaühing Jazz Pesulad"
+            },
+            {
+              "code": "14245082",
+              "name": "OÜ Harmet Metall"
+            }
+          ]
+        },
+        {
+          "person_hash": "36ad1df7-61c3-5782-8bf4-d40042a52979",
+          "person_name": "Toomas Linamäe",
+          "winner_company_count": 4,
+          "total_company_count": 41,
+          "winner_companies": [
+            {
+              "code": "10431055",
+              "name": "Osaühing EESTI KRAANAVABRIK"
+            },
+            {
+              "code": "10282927",
+              "name": "osaühing Harmet"
+            },
+            {
+              "code": "11281775",
+              "name": "osaühing Jazz Pesulad"
+            },
+            {
+              "code": "14245082",
+              "name": "OÜ Harmet Metall"
+            }
+          ]
+        },
+        {
+          "person_hash": "5964bf9c-3c29-5bd1-9f2a-b7daabaf5075",
+          "person_name": "Siim Soplepmann",
+          "winner_company_count": 4,
+          "total_company_count": 9,
+          "winner_companies": [
+            {
+              "code": "14229976",
+              "name": "Diotech Electric OÜ"
+            },
+            {
+              "code": "14673501",
+              "name": "Diotech Nord OÜ"
+            },
+            {
+              "code": "12672325",
+              "name": "Diotech OÜ"
+            },
+            {
+              "code": "14686917",
+              "name": "Solar Wheel OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "469a559e-b21a-5026-a2e5-139aa52e042f",
+          "person_name": "Andres Kivivare",
+          "winner_company_count": 4,
+          "total_company_count": 8,
+          "winner_companies": [
+            {
+              "code": "11543198",
+              "name": "Sungate Automaatika OÜ"
+            },
+            {
+              "code": "10872913",
+              "name": "SUNGATE FENCE OÜ"
+            },
+            {
+              "code": "10261049",
+              "name": "Sungate Metal OÜ"
+            },
+            {
+              "code": "11549189",
+              "name": "SUNGATE SECURITY OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "b3ac9384-c2fe-5a38-bd63-caff8eba5329",
+          "person_name": "Anti Mölter",
+          "winner_company_count": 4,
+          "total_company_count": 17,
+          "winner_companies": [
+            {
+              "code": "11104843",
+              "name": "Aspen Grupp OÜ"
+            },
+            {
+              "code": "11006388",
+              "name": "KESKKOND & PARTNERID OÜ"
+            },
+            {
+              "code": "11499439",
+              "name": "Wesico Infra OÜ"
+            },
+            {
+              "code": "10882277",
+              "name": "WESICO PROJECT OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "fdb4d6c6-a0d6-5884-bdd8-fdef17fefd6c",
+          "person_name": "Hans Luik",
+          "winner_company_count": 4,
+          "total_company_count": 52,
+          "winner_companies": [
+            {
+              "code": "10092701",
+              "name": "aktsiaselts PRINTALL"
+            },
+            {
+              "code": "10678223",
+              "name": "AS Õhtuleht Kirjastus"
+            },
+            {
+              "code": "10586863",
+              "name": "Delfi Meedia AS"
+            },
+            {
+              "code": "14945997",
+              "name": "Digiread OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "f981530e-108c-5db6-9555-06f8d11a3be0",
+          "person_name": "Neeme Tammis",
+          "winner_company_count": 4,
+          "total_company_count": 18,
+          "winner_companies": [
+            {
+              "code": "10048383",
+              "name": "Aktsiaselts Iv Pluss"
+            },
+            {
+              "code": "10230847",
+              "name": "AS HANSABUSS"
+            },
+            {
+              "code": "10398914",
+              "name": "BBT OÜ"
+            },
+            {
+              "code": "11695889",
+              "name": "Hansarent OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "3229fe49-aaa1-54e9-b8da-e2819b988e18",
+          "person_name": "Oleg Ossinovski",
+          "winner_company_count": 4,
+          "total_company_count": 19,
+          "winner_companies": [
+            {
+              "code": "10293440",
+              "name": "Aktsiaselts Skinest Rail"
+            },
+            {
+              "code": "10803289",
+              "name": "AS Valga Depoo"
+            },
+            {
+              "code": "12841383",
+              "name": "Skinest Connect OÜ"
+            },
+            {
+              "code": "10048284",
+              "name": "Skinest Technology OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "477fecd4-efcf-59f1-8f49-755d1704bef7",
+          "person_name": "Raul Puusepp",
+          "winner_company_count": 4,
+          "total_company_count": 17,
+          "winner_companies": [
+            {
+              "code": "10042784",
+              "name": "Aktsiaselts VIKING MOTORS"
+            },
+            {
+              "code": "10101736",
+              "name": "aktsiaselts Walde"
+            },
+            {
+              "code": "10379733",
+              "name": "Selver AS"
+            },
+            {
+              "code": "10026845",
+              "name": "Viking Security AS"
+            }
+          ]
+        },
+        {
+          "person_hash": "f058b2a3-1dca-563c-9d20-edb3c055d44d",
+          "person_name": "Kristo Anton",
+          "winner_company_count": 4,
+          "total_company_count": 14,
+          "winner_companies": [
+            {
+              "code": "10042784",
+              "name": "Aktsiaselts VIKING MOTORS"
+            },
+            {
+              "code": "10101736",
+              "name": "aktsiaselts Walde"
+            },
+            {
+              "code": "10379733",
+              "name": "Selver AS"
+            },
+            {
+              "code": "10026845",
+              "name": "Viking Security AS"
+            }
+          ]
+        },
+        {
+          "person_hash": "602caa46-5734-5345-9293-b05f7e2c8e92",
+          "person_name": "Rait Allik",
+          "winner_company_count": 4,
+          "total_company_count": 25,
+          "winner_companies": [
+            {
+              "code": "14187166",
+              "name": "Asfaldiproff OÜ"
+            },
+            {
+              "code": "14169961",
+              "name": "Frendit Infra OÜ"
+            },
+            {
+              "code": "12615586",
+              "name": "Metsmark OÜ"
+            },
+            {
+              "code": "16676952",
+              "name": "Nordic Road OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "36e3a912-4219-5377-9935-c32c68980e9c",
+          "person_name": "Margus Vanaselja",
+          "winner_company_count": 4,
+          "total_company_count": 19,
+          "winner_companies": [
+            {
+              "code": "10729877",
+              "name": "AS Baltic Marine Group"
+            },
+            {
+              "code": "10657801",
+              "name": "Baltic Workboats AS"
+            },
+            {
+              "code": "16388644",
+              "name": "BMG Energy OÜ"
+            },
+            {
+              "code": "11725966",
+              "name": "BMG Power Systems OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "8a3893ec-5ab5-5915-97ef-c4a347fd10be",
+          "person_name": "MÄRTEN VAIKMAA",
+          "winner_company_count": 4,
+          "total_company_count": 22,
+          "winner_companies": [
+            {
+              "code": "10729877",
+              "name": "AS Baltic Marine Group"
+            },
+            {
+              "code": "10657801",
+              "name": "Baltic Workboats AS"
+            },
+            {
+              "code": "16388644",
+              "name": "BMG Energy OÜ"
+            },
+            {
+              "code": "11725966",
+              "name": "BMG Power Systems OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "ecb2e7b7-49de-599e-abdc-0b83ead4873c",
+          "person_name": "Marek Koit",
+          "winner_company_count": 4,
+          "total_company_count": 11,
+          "winner_companies": [
+            {
+              "code": "14229976",
+              "name": "Diotech Electric OÜ"
+            },
+            {
+              "code": "14673501",
+              "name": "Diotech Nord OÜ"
+            },
+            {
+              "code": "12672325",
+              "name": "Diotech OÜ"
+            },
+            {
+              "code": "14686917",
+              "name": "Solar Wheel OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "6a109884-5fa1-5d55-9a25-2495ea2d2907",
+          "person_name": "Mart Moora",
+          "winner_company_count": 4,
+          "total_company_count": 8,
+          "winner_companies": [
+            {
+              "code": "14229976",
+              "name": "Diotech Electric OÜ"
+            },
+            {
+              "code": "14673501",
+              "name": "Diotech Nord OÜ"
+            },
+            {
+              "code": "12672325",
+              "name": "Diotech OÜ"
+            },
+            {
+              "code": "14686917",
+              "name": "Solar Wheel OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "5fc3b7b4-220a-5f7c-b572-c48ed21241c3",
+          "person_name": "Karl Ždanovitš",
+          "winner_company_count": 4,
+          "total_company_count": 12,
+          "winner_companies": [
+            {
+              "code": "11543198",
+              "name": "Sungate Automaatika OÜ"
+            },
+            {
+              "code": "10872913",
+              "name": "SUNGATE FENCE OÜ"
+            },
+            {
+              "code": "10261049",
+              "name": "Sungate Metal OÜ"
+            },
+            {
+              "code": "11549189",
+              "name": "SUNGATE SECURITY OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "c0b4a56e-975b-5878-830f-72ed1b8c596b",
+          "person_name": "Kalev Svilberg",
+          "winner_company_count": 4,
+          "total_company_count": 4,
+          "winner_companies": [
+            {
+              "code": "12864838",
+              "name": "Lansec Elekter OÜ"
+            },
+            {
+              "code": "16382966",
+              "name": "Lansec Energia OÜ"
+            },
+            {
+              "code": "11453974",
+              "name": "Lansec OÜ"
+            },
+            {
+              "code": "12617763",
+              "name": "Lansec Tele OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "5d127d31-b462-5a41-b384-2c6c56153332",
+          "person_name": "Alo Tamm",
+          "winner_company_count": 3,
+          "total_company_count": 12,
+          "winner_companies": [
+            {
+              "code": "80004733",
+              "name": "Eesti Kaubandus-Tööstuskoda"
+            },
+            {
+              "code": "10282927",
+              "name": "osaühing Harmet"
+            },
+            {
+              "code": "14245082",
+              "name": "OÜ Harmet Metall"
+            }
+          ]
+        },
+        {
+          "person_hash": "6d230342-05b8-54dc-94d1-488b04297512",
+          "person_name": "Antti Moppel",
+          "winner_company_count": 3,
+          "total_company_count": 14,
+          "winner_companies": [
+            {
+              "code": "10694251",
+              "name": "5DEhitus OÜ"
+            },
+            {
+              "code": "10136870",
+              "name": "aktsiaselts Olerex"
+            },
+            {
+              "code": "10060753",
+              "name": "osaühing HEPA"
+            }
+          ]
+        },
+        {
+          "person_hash": "69503975-33bf-5b9d-9b6d-d3159773e132",
+          "person_name": "Heiti Hääl",
+          "winner_company_count": 3,
+          "total_company_count": 44,
+          "winner_companies": [
+            {
+              "code": "10261109",
+              "name": "Aktsiaselts Bestnet"
+            },
+            {
+              "code": "10015238",
+              "name": "AS Alexela"
+            },
+            {
+              "code": "10678223",
+              "name": "AS Õhtuleht Kirjastus"
+            }
+          ]
+        },
+        {
+          "person_hash": "f6bec73f-bf8c-5a8f-9741-c9c1c4bb94df",
+          "person_name": "andris blaka",
+          "winner_company_count": 3,
+          "total_company_count": 8,
+          "winner_companies": [
+            {
+              "code": "12227909",
+              "name": "Adell Taevas PR OÜ"
+            },
+            {
+              "code": "10261747",
+              "name": "Osaühing VIA Media"
+            },
+            {
+              "code": "10303291",
+              "name": "OÜ Media House"
+            }
+          ]
+        },
+        {
+          "person_hash": "ff351840-6a91-5d8b-a87b-39e074d4822b",
+          "person_name": "Raul Viktorovs",
+          "winner_company_count": 3,
+          "total_company_count": 8,
+          "winner_companies": [
+            {
+              "code": "12227909",
+              "name": "Adell Taevas PR OÜ"
+            },
+            {
+              "code": "10261747",
+              "name": "Osaühing VIA Media"
+            },
+            {
+              "code": "10303291",
+              "name": "OÜ Media House"
+            }
+          ]
+        },
+        {
+          "person_hash": "a176620a-e51b-5c3d-9546-58cf05f6a772",
+          "person_name": "Kaia Salumets",
+          "winner_company_count": 3,
+          "total_company_count": 10,
+          "winner_companies": [
+            {
+              "code": "10009159",
+              "name": "Aktsiaselts Balbiino"
+            },
+            {
+              "code": "10117341",
+              "name": "Aktsiaselts LIVIKO"
+            },
+            {
+              "code": "12715827",
+              "name": "Kitman Thulema AS"
+            }
+          ]
+        },
+        {
+          "person_hash": "62242ad7-7db5-52a2-836f-f9b9182f030a",
+          "person_name": "Marko Viirand",
+          "winner_company_count": 3,
+          "total_company_count": 10,
+          "winner_companies": [
+            {
+              "code": "10074749",
+              "name": "Ascar Auto AS"
+            },
+            {
+              "code": "14605824",
+              "name": "Ascar Tartu OÜ"
+            },
+            {
+              "code": "11634050",
+              "name": "Autospirit Tartu OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "7d08a2bb-492e-5c6c-97db-ab7a02062dd3",
+          "person_name": "Toomas Luman",
+          "winner_company_count": 3,
+          "total_company_count": 26,
+          "winner_companies": [
+            {
+              "code": "10887843",
+              "name": "AS Tariston"
+            },
+            {
+              "code": "80004733",
+              "name": "Eesti Kaubandus-Tööstuskoda"
+            },
+            {
+              "code": "12802319",
+              "name": "Embach Ehitus OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "cb408958-08f4-5612-a3db-9cb887e995c7",
+          "person_name": "Oliver Väärtnõu",
+          "winner_company_count": 3,
+          "total_company_count": 7,
+          "winner_companies": [
+            {
+              "code": "10237269",
+              "name": "aktsiaselts Eesti Konjunktuuriinstituut"
+            },
+            {
+              "code": "10140133",
+              "name": "Cybernetica AS"
+            },
+            {
+              "code": "80004733",
+              "name": "Eesti Kaubandus-Tööstuskoda"
+            }
+          ]
+        },
+        {
+          "person_hash": "ba333b10-2416-5e38-a879-6ef0025ed2cd",
+          "person_name": "Jürgen Ligi",
+          "winner_company_count": 3,
+          "total_company_count": 5,
+          "winner_companies": [
+            {
+              "code": "10203566",
+              "name": "AS Levira"
+            },
+            {
+              "code": "10421629",
+              "name": "Eesti Energia AS"
+            },
+            {
+              "code": "10788733",
+              "name": "Riigi Kinnisvara Aktsiaselts"
+            }
+          ]
+        },
+        {
+          "person_hash": "b88ddcdc-f770-58f7-a446-c0b6b755ae9c",
+          "person_name": "HENDRIK JOHANNES TERRAS",
+          "winner_company_count": 3,
+          "total_company_count": 7,
+          "winner_companies": [
+            {
+              "code": "10328799",
+              "name": "Aktsiaselts Eesti Post"
+            },
+            {
+              "code": "10787656",
+              "name": "AS VIREEN"
+            },
+            {
+              "code": "16077631",
+              "name": "FINBITE OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "1f4895c7-4737-5ee1-9bf9-629efee4597e",
+          "person_name": "Rainer Rohtla",
+          "winner_company_count": 3,
+          "total_company_count": 8,
+          "winner_companies": [
+            {
+              "code": "10328799",
+              "name": "Aktsiaselts Eesti Post"
+            },
+            {
+              "code": "10093971",
+              "name": "Coop Eesti Keskühistu"
+            },
+            {
+              "code": "16077631",
+              "name": "FINBITE OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "68e63830-8db9-59ad-a49e-c81637ac63ed",
+          "person_name": "Deimantė Korsakaitė",
+          "winner_company_count": 3,
+          "total_company_count": 8,
+          "winner_companies": [
+            {
+              "code": "10136864",
+              "name": "aktsiaselts Epler & Lorenz"
+            },
+            {
+              "code": "10277820",
+              "name": "Eesti Keskkonnateenused AS"
+            },
+            {
+              "code": "12709519",
+              "name": "EKT Teed OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "a4255b69-a41f-511f-94ba-b339fb12a0e0",
+          "person_name": "Kristjan Rahu",
+          "winner_company_count": 3,
+          "total_company_count": 30,
+          "winner_companies": [
+            {
+              "code": "10215434",
+              "name": "aktsiaselts Est-Agar"
+            },
+            {
+              "code": "11052490",
+              "name": "AS ÜHISTEENUSED"
+            },
+            {
+              "code": "11708452",
+              "name": "Reval Auto Esindused OÜ"
+            }
+          ]
+        },
+        {
+          "person_hash": "f2203305-4514-57f4-884e-1df61bbb760f",
+          "person_name": "Priit Koit",
+          "winner_company_count": 3,
+          "total_company_count": 16,
+          "winner_companies": [
+            {
+              "code": "10215434",
+              "name": "aktsiaselts Est-Agar"
+            },
+            {
+              "code": "11052490",
+              "name": "AS ÜHISTEENUSED"
+            },
+            {
+              "code": "11944939",
+              "name": "Watercom OÜ"
+            }
+          ]
+        }
+      ],
+      "buyer_overlap_cases": 262,
+      "top_overlaps": [
+        {
+          "owner": "Andres Gailit",
+          "buyer": "70001490",
+          "companies_winning": [
+            "aktsiaselts TREF",
+            "Sakala Teed OÜ",
+            "Aktsiaselts TREF Nord"
+          ],
+          "contract_count": 83,
+          "total_value": 90270520.8
+        },
+        {
+          "owner": "Toomas Annus",
+          "buyer": "12734109",
+          "companies_winning": [
+            "Aktsiaselts Merko Ehitus Eesti",
+            "AS Connecto Eesti"
+          ],
+          "contract_count": 2,
+          "total_value": 66500000.0
+        },
+        {
+          "owner": "Märt Järvik",
+          "buyer": "70001490",
+          "companies_winning": [
+            "osaühing Üle",
+            "Lääne Teed OÜ",
+            "Altos Teed OÜ"
+          ],
+          "contract_count": 46,
+          "total_value": 64425462.33
+        },
+        {
+          "owner": "Priit Post",
+          "buyer": "70001490",
+          "companies_winning": [
+            "osaühing Üle",
+            "Lääne Teed OÜ",
+            "Altos Teed OÜ"
+          ],
+          "contract_count": 46,
+          "total_value": 64425462.33
+        },
+        {
+          "owner": "Stanislaw Michniewicz",
+          "buyer": "70009764",
+          "companies_winning": [
+            "Sanitex OÜ",
+            "Officeday Estonia OÜ"
+          ],
+          "contract_count": 3,
+          "total_value": 50180000.0
+        },
+        {
+          "owner": "Tiit Ploom",
+          "buyer": "70004459",
+          "companies_winning": [
+            "OÜ Warren Safety",
+            "Warren Teed OÜ"
+          ],
+          "contract_count": 3,
+          "total_value": 45185000.0
+        },
+        {
+          "owner": "Jürgen Ligi",
+          "buyer": "74000323",
+          "companies_winning": [
+            "Eesti Energia AS",
+            "Eesti Energia Aktsiaselts"
+          ],
+          "contract_count": 3,
+          "total_value": 40600000.0
+        },
+        {
+          "owner": "Margus Linnamäe",
+          "buyer": "90006590",
+          "companies_winning": [
+            "aktsiaselts SEMETRON",
+            "MAGNUM MEDICAL OÜ"
+          ],
+          "contract_count": 21,
+          "total_value": 39832306.0
+        },
+        {
+          "owner": "Margus Linnamäe",
+          "buyer": "90006399",
+          "companies_winning": [
+            "aktsiaselts SEMETRON",
+            "MAGNUM MEDICAL OÜ",
+            "MAGNUM LOGISTICS OÜ"
+          ],
+          "contract_count": 57,
+          "total_value": 37519460.0
+        },
+        {
+          "owner": "Polina Stasjuk",
+          "buyer": "70007340",
+          "companies_winning": [
+            "1-koolitus MTÜ",
+            "Globalex Pharma OÜ"
+          ],
+          "contract_count": 2,
+          "total_value": 30680000.0
+        },
+        {
+          "owner": "Heiti Hääl",
+          "buyer": "70009764",
+          "companies_winning": [
+            "Aktsiaselts Bestnet",
+            "AS Alexela"
+          ],
+          "contract_count": 3,
+          "total_value": 29857000.0
+        },
+        {
+          "owner": "Tiit Ploom",
+          "buyer": "70001490",
+          "companies_winning": [
+            "OÜ KIIRWARREN.KL",
+            "OÜ Warren Safety",
+            "Warren Teed OÜ",
+            "OÜ WARREN CONCRETE"
+          ],
+          "contract_count": 18,
+          "total_value": 24964535.0
+        },
+        {
+          "owner": "Jaan Pillesaar",
+          "buyer": "70009244",
+          "companies_winning": [
+            "AKTSIASELTS HELMES",
+            "Trinidad Wiseman OÜ"
+          ],
+          "contract_count": 10,
+          "total_value": 21821666.0
+        },
+        {
+          "owner": "Toomas Annus",
+          "buyer": "70001490",
+          "companies_winning": [
+            "Aktsiaselts Merko Ehitus Eesti",
+            "Tallinna Teede Aktsiaselts"
+          ],
+          "contract_count": 12,
+          "total_value": 21729926.16
+        },
+        {
+          "owner": "Jürgen Ligi",
+          "buyer": "90006399",
+          "companies_winning": [
+            "Eesti Energia AS",
+            "Eesti Energia Aktsiaselts"
+          ],
+          "contract_count": 3,
+          "total_value": 11245000.0
+        },
+        {
+          "owner": "Jürgen Ligi",
+          "buyer": "74001073",
+          "companies_winning": [
+            "Eesti Energia AS",
+            "Eesti Energia Aktsiaselts"
+          ],
+          "contract_count": 2,
+          "total_value": 11000000.0
+        },
+        {
+          "owner": "Stanislaw Michniewicz",
+          "buyer": "70007340",
+          "companies_winning": [
+            "Sanitex OÜ",
+            "Officeday Estonia OÜ"
+          ],
+          "contract_count": 6,
+          "total_value": 9587000.0
+        },
+        {
+          "owner": "Margus Vanaselja",
+          "buyer": "70008747",
+          "companies_winning": [
+            "BMG Power Systems OÜ",
+            "Baltic Workboats AS",
+            "AS Baltic Marine Group"
+          ],
+          "contract_count": 9,
+          "total_value": 9257700.0
+        },
+        {
+          "owner": "MÄRTEN VAIKMAA",
+          "buyer": "70008747",
+          "companies_winning": [
+            "BMG Power Systems OÜ",
+            "Baltic Workboats AS",
+            "AS Baltic Marine Group"
+          ],
+          "contract_count": 9,
+          "total_value": 9257700.0
+        },
+        {
+          "owner": "Margus Linnamäe",
+          "buyer": "10822068",
+          "companies_winning": [
+            "aktsiaselts SEMETRON",
+            "MAGNUM MEDICAL OÜ"
+          ],
+          "contract_count": 49,
+          "total_value": 8584100.0
+        },
+        {
+          "owner": "Rando Saarepere",
+          "buyer": "70004459",
+          "companies_winning": [
+            "MerksWood OÜ",
+            "OÜ sahapojat",
+            "Dormat OÜ"
+          ],
+          "contract_count": 5,
+          "total_value": 8008131.0
+        },
+        {
+          "owner": "Antti Moppel",
+          "buyer": "70001490",
+          "companies_winning": [
+            "OÜ TEEARU GRUPP",
+            "aktsiaselts Olerex"
+          ],
+          "contract_count": 4,
+          "total_value": 7130000.0
+        },
+        {
+          "owner": "Andres Linnas",
+          "buyer": "70001490",
+          "companies_winning": [
+            "OÜ TEEARU GRUPP",
+            "aktsiaselts Olerex"
+          ],
+          "contract_count": 4,
+          "total_value": 7130000.0
+        },
+        {
+          "owner": "Kimmo Liivak",
+          "buyer": "70001490",
+          "companies_winning": [
+            "OÜ KIIRWARREN.KL",
+            "Warren Teed OÜ",
+            "OÜ WARREN CONCRETE"
+          ],
+          "contract_count": 15,
+          "total_value": 6559681.0
+        },
+        {
+          "owner": "Margus Linnamäe",
+          "buyer": "10822269",
+          "companies_winning": [
+            "aktsiaselts SEMETRON",
+            "MAGNUM MEDICAL OÜ"
+          ],
+          "contract_count": 49,
+          "total_value": 6377000.0
+        },
+        {
+          "owner": "Enn Kunila",
+          "buyer": "10788733",
+          "companies_winning": [
+            "Viking Security AS",
+            "Kitman Thulema AS"
+          ],
+          "contract_count": 25,
+          "total_value": 5725000.0
+        },
+        {
+          "owner": "Jüri Käo",
+          "buyer": "10788733",
+          "companies_winning": [
+            "Viking Security AS",
+            "Kitman Thulema AS"
+          ],
+          "contract_count": 25,
+          "total_value": 5725000.0
+        },
+        {
+          "owner": "Dagnis Dreimanis",
+          "buyer": "74000323",
+          "companies_winning": [
+            "Coffee Address OÜ",
+            "Aktsiaselts Hansab"
+          ],
+          "contract_count": 3,
+          "total_value": 5600000.0
+        },
+        {
+          "owner": "Martin Kõdar",
+          "buyer": "74000323",
+          "companies_winning": [
+            "Coffee Address OÜ",
+            "Aktsiaselts Hansab"
+          ],
+          "contract_count": 3,
+          "total_value": 5600000.0
+        },
+        {
+          "owner": "Peeter Saks",
+          "buyer": "74000323",
+          "companies_winning": [
+            "Coffee Address OÜ",
+            "Aktsiaselts Hansab"
+          ],
+          "contract_count": 3,
+          "total_value": 5600000.0
+        },
+        {
+          "owner": "Simonas Gustainis",
+          "buyer": "74000323",
+          "companies_winning": [
+            "Coffee Address OÜ",
+            "Aktsiaselts Hansab"
+          ],
+          "contract_count": 3,
+          "total_value": 5600000.0
+        },
+        {
+          "owner": "Jaan Pillesaar",
+          "buyer": "70008440",
+          "companies_winning": [
+            "AKTSIASELTS HELMES",
+            "Trinidad Wiseman OÜ"
+          ],
+          "contract_count": 12,
+          "total_value": 4788200.0
+        },
+        {
+          "owner": "Anti Mölter",
+          "buyer": "11044696",
+          "companies_winning": [
+            "KESKKOND &amp; PARTNERID OÜ",
+            "WESICO PROJECT OÜ"
+          ],
+          "contract_count": 7,
+          "total_value": 4060000.0
+        },
+        {
+          "owner": "Margus Linnamäe",
+          "buyer": "90003433",
+          "companies_winning": [
+            "aktsiaselts SEMETRON",
+            "MAGNUM MEDICAL OÜ"
+          ],
+          "contract_count": 52,
+          "total_value": 3538400.0
+        },
+        {
+          "owner": "Kalev Svilberg",
+          "buyer": "16130213",
+          "companies_winning": [
+            "Lansec Tele OÜ",
+            "Lansec Elekter OÜ",
+            "Lansec Energia OÜ"
+          ],
+          "contract_count": 34,
+          "total_value": 3378199.2
+        },
+        {
+          "owner": "Enn Pant",
+          "buyer": "74000323",
+          "companies_winning": [
+            "AS Eesti Gaas",
+            "AS EG Ehitus"
+          ],
+          "contract_count": 2,
+          "total_value": 3200000.0
+        },
+        {
+          "owner": "Enn Kunila",
+          "buyer": "75023817",
+          "companies_winning": [
+            "Viking Security AS",
+            "Selver AS"
+          ],
+          "contract_count": 2,
+          "total_value": 2700000.0
+        },
+        {
+          "owner": "Jüri Käo",
+          "buyer": "75023817",
+          "companies_winning": [
+            "Viking Security AS",
+            "Selver AS"
+          ],
+          "contract_count": 2,
+          "total_value": 2700000.0
+        },
+        {
+          "owner": "Raul Puusepp",
+          "buyer": "75023817",
+          "companies_winning": [
+            "Viking Security AS",
+            "Selver AS"
+          ],
+          "contract_count": 2,
+          "total_value": 2700000.0
+        },
+        {
+          "owner": "Kristo Anton",
+          "buyer": "75023817",
+          "companies_winning": [
+            "Viking Security AS",
+            "Selver AS"
+          ],
+          "contract_count": 2,
+          "total_value": 2700000.0
+        },
+        {
+          "owner": "Toomas Annus",
+          "buyer": "77000306",
+          "companies_winning": [
+            "Aktsiaselts Merko Ehitus Eesti",
+            "AS Connecto Eesti"
+          ],
+          "contract_count": 3,
+          "total_value": 2640000.0
+        },
+        {
+          "owner": "Deimantė Korsakaitė",
+          "buyer": "75023817",
+          "companies_winning": [
+            "Eesti Keskkonnateenused AS",
+            "aktsiaselts Epler &amp; Lorenz"
+          ],
+          "contract_count": 2,
+          "total_value": 2510000.0
+        },
+        {
+          "owner": "Jürgen Ligi",
+          "buyer": "77000430",
+          "companies_winning": [
+            "Eesti Energia AS",
+            "Eesti Energia Aktsiaselts"
+          ],
+          "contract_count": 2,
+          "total_value": 2500000.0
+        },
+        {
+          "owner": "Jaan Pillesaar",
+          "buyer": "70009770",
+          "companies_winning": [
+            "AKTSIASELTS HELMES",
+            "Trinidad Wiseman OÜ"
+          ],
+          "contract_count": 6,
+          "total_value": 2235000.0
+        },
+        {
+          "owner": "Jürgen Ligi",
+          "buyer": "77000170",
+          "companies_winning": [
+            "Eesti Energia AS",
+            "Eesti Energia Aktsiaselts"
+          ],
+          "contract_count": 3,
+          "total_value": 1900000.0
+        },
+        {
+          "owner": "Viljar Nurme",
+          "buyer": "70001490",
+          "companies_winning": [
+            "Osaühing IB Foor",
+            "Trafiction OÜ"
+          ],
+          "contract_count": 9,
+          "total_value": 1876245.0
+        },
+        {
+          "owner": "Neeme Tammis",
+          "buyer": "70009764",
+          "companies_winning": [
+            "Aktsiaselts Iv Pluss",
+            "Hansarent OÜ"
+          ],
+          "contract_count": 5,
+          "total_value": 1546000.0
+        },
+        {
+          "owner": "Märt Järvik",
+          "buyer": "10349560",
+          "companies_winning": [
+            "Diotech OÜ",
+            "Solar Wheel OÜ"
+          ],
+          "contract_count": 3,
+          "total_value": 1500000.0
+        },
+        {
+          "owner": "Priit Post",
+          "buyer": "10349560",
+          "companies_winning": [
+            "Diotech OÜ",
+            "Solar Wheel OÜ"
+          ],
+          "contract_count": 3,
+          "total_value": 1500000.0
+        },
+        {
+          "owner": "Siim Soplepmann",
+          "buyer": "10349560",
+          "companies_winning": [
+            "Diotech OÜ",
+            "Solar Wheel OÜ"
+          ],
+          "contract_count": 3,
+          "total_value": 1500000.0
+        }
+      ]
+    },
+    {
+      "test": "political_donations",
+      "total_donors": 30679,
+      "matched_donors": 586,
+      "donor_company_links": 636,
+      "donor_linked_contracts": 4258,
+      "donor_linked_value": 755599376,
+      "total_contracts": 27332,
+      "total_value": 7350097228,
+      "pct_by_count": 15.58,
+      "pct_by_value": 10.28,
+      "donor_linked_disputes": 74,
+      "top_matches": [
+        {
+          "donor_name": "IGOR JALLAI",
+          "donor_amount": 965,
+          "donor_parties": {
+            "Eesti Keskerakond": 965
+          },
+          "company_code": "80087434",
+          "company_name": "mittetulundusühing Valga Arvutikeskus"
+        },
+        {
+          "donor_name": "MIHKEL UNDREST",
+          "donor_amount": 55241,
+          "donor_parties": {
+            "Eesti Keskerakond": 55241
+          },
+          "company_code": "10121058",
+          "company_name": "osaühing Kaabeltau"
+        },
+        {
+          "donor_name": "JÜRI SAAR",
+          "donor_amount": 2164,
+          "donor_parties": {
+            "Eesti Keskerakond": 502,
+            "Eesti Vabaerakond": 1502,
+            "Sotsiaaldemokraatlik Erakond": 160
+          },
+          "company_code": "12342881",
+          "company_name": "BRP Insenerid OÜ"
+        },
+        {
+          "donor_name": "ANDRES KOLLIST",
+          "donor_amount": 3584,
+          "donor_parties": {
+            "Eesti Keskerakond": 3584
+          },
+          "company_code": "74001529",
+          "company_name": "Tallinna Ülikooli Akadeemiline Raamatukogu"
+        },
+        {
+          "donor_name": "EVE TOOTS",
+          "donor_amount": 40000,
+          "donor_parties": {
+            "Eesti Keskerakond": 40000
+          },
+          "company_code": "80004733",
+          "company_name": "Eesti Kaubandus-Tööstuskoda"
+        },
+        {
+          "donor_name": "STANISLAV BELJAKOV",
+          "donor_amount": 117,
+          "donor_parties": {
+            "Eesti Keskerakond": 117
+          },
+          "company_code": "11326331",
+          "company_name": "Steelrent OÜ"
+        },
+        {
+          "donor_name": "IRINA PAVLOVA",
+          "donor_amount": 92,
+          "donor_parties": {
+            "Eesti Keskerakond": 92
+          },
+          "company_code": "14257487",
+          "company_name": "KRUSOR OÜ"
+        },
+        {
+          "donor_name": "ESTER TUIKSOO",
+          "donor_amount": 5417,
+          "donor_parties": {
+            "Eesti Keskerakond": 5417
+          },
+          "company_code": "80310163",
+          "company_name": "MITTETULUNDUSÜHING PALDISKI ETTEVÕTJATE LIIT"
+        },
+        {
+          "donor_name": "TARMO TAMMISTE",
+          "donor_amount": 5392,
+          "donor_parties": {
+            "Eesti Keskerakond": 5392
+          },
+          "company_code": "10096113",
+          "company_name": "Osaühing ARDENNE"
+        },
+        {
+          "donor_name": "MART KIVISTIK",
+          "donor_amount": 3940,
+          "donor_parties": {
+            "Eesti Keskerakond": 3890,
+            "ISAMAA Erakond": 50
+          },
+          "company_code": "14878746",
+          "company_name": "MEK Tehnika OÜ"
+        },
+        {
+          "donor_name": "TOOMAS LAANPERE",
+          "donor_amount": 7500,
+          "donor_parties": {
+            "Eesti Keskerakond": 500,
+            "EKRE - Eesti Konservatiivne Rahvaerakond": 7000
+          },
+          "company_code": "10067560",
+          "company_name": "Aktsiaselts Napal"
+        },
+        {
+          "donor_name": "IGOR ANDREJEV",
+          "donor_amount": 287,
+          "donor_parties": {
+            "Eesti Keskerakond": 287
+          },
+          "company_code": "10045848",
+          "company_name": "Aktsiaselts OST STEEL"
+        },
+        {
+          "donor_name": "MARKO MÄNNIKOV",
+          "donor_amount": 861,
+          "donor_parties": {
+            "Eesti Keskerakond": 861
+          },
+          "company_code": "12474832",
+          "company_name": "Treulop OÜ"
+        },
+        {
+          "donor_name": "TIIT JÕGI",
+          "donor_amount": 212,
+          "donor_parties": {
+            "Eesti Keskerakond": 212
+          },
+          "company_code": "10094433",
+          "company_name": "osaühing Aure"
+        },
+        {
+          "donor_name": "VLADIMIR MIHHAILOV",
+          "donor_amount": 116,
+          "donor_parties": {
+            "Eesti Keskerakond": 116
+          },
+          "company_code": "12074558",
+          "company_name": "Origin Grupp OÜ"
+        },
+        {
+          "donor_name": "MARGUS LAURIMAA",
+          "donor_amount": 20,
+          "donor_parties": {
+            "Eesti Keskerakond": 20
+          },
+          "company_code": "14674937",
+          "company_name": "Nõmme Kõrts ja Peoruum OÜ"
+        },
+        {
+          "donor_name": "ALEKSANDR BÕSTRJAK",
+          "donor_amount": 246,
+          "donor_parties": {
+            "Eesti Keskerakond": 246
+          },
+          "company_code": "10337120",
+          "company_name": "Aktsiaselts MEKE SILLAMÄE"
+        },
+        {
+          "donor_name": "RAIVO RAUDSEPP",
+          "donor_amount": 102,
+          "donor_parties": {
+            "Eesti Keskerakond": 40,
+            "EKRE - Eesti Konservatiivne Rahvaerakond": 62
+          },
+          "company_code": "10349643",
+          "company_name": "Osaühing EHTO"
+        },
+        {
+          "donor_name": "SULEV ROOS",
+          "donor_amount": 150,
+          "donor_parties": {
+            "Eesti Keskerakond": 150
+          },
+          "company_code": "10125429",
+          "company_name": "osaühing ROOSmashiin"
+        },
+        {
+          "donor_name": "MAIE NIIT",
+          "donor_amount": 3021,
+          "donor_parties": {
+            "Eesti Keskerakond": 1521,
+            "EKRE - Eesti Konservatiivne Rahvaerakond": 1500
+          },
+          "company_code": "10051180",
+          "company_name": "OÜ OTEPÄÄ LIHATÖÖSTUS EDGAR"
+        },
+        {
+          "donor_name": "REIN LASS",
+          "donor_amount": 100,
+          "donor_parties": {
+            "Eesti Keskerakond": 100
+          },
+          "company_code": "10281715",
+          "company_name": "Tulundusühistu Alvar MÜ"
+        },
+        {
+          "donor_name": "VIRGO LAANSOO",
+          "donor_amount": 200,
+          "donor_parties": {
+            "Eesti Keskerakond": 200
+          },
+          "company_code": "14318125",
+          "company_name": "OÜ LAHE Kinnisvara Hindamine"
+        },
+        {
+          "donor_name": "VIRGO LAANSOO",
+          "donor_amount": 200,
+          "donor_parties": {
+            "Eesti Keskerakond": 200
+          },
+          "company_code": "14333030",
+          "company_name": "Lahe Kinnisvara Põhja-Eesti OÜ"
+        },
+        {
+          "donor_name": "JELENA POPKOVA",
+          "donor_amount": 25,
+          "donor_parties": {
+            "Eesti Keskerakond": 25
+          },
+          "company_code": "10662898",
+          "company_name": "Modus OÜ"
+        },
+        {
+          "donor_name": "BORIS LEHTJÄRV",
+          "donor_amount": 310,
+          "donor_parties": {
+            "Eesti Keskerakond": 300,
+            "Eesti Reformierakond": 10
+          },
+          "company_code": "14303773",
+          "company_name": "Kirsivälja Invest OÜ"
+        },
+        {
+          "donor_name": "HELLE SASS",
+          "donor_amount": 115,
+          "donor_parties": {
+            "Eesti Keskerakond": 115
+          },
+          "company_code": "80373206",
+          "company_name": "MTÜ TARTU VIIPEKEELETÕLGID"
+        },
+        {
+          "donor_name": "PAVEL RUBEL",
+          "donor_amount": 30,
+          "donor_parties": {
+            "Eesti Keskerakond": 30
+          },
+          "company_code": "16588633",
+          "company_name": "Arboristid OÜ"
+        },
+        {
+          "donor_name": "AIN PETROV",
+          "donor_amount": 742,
+          "donor_parties": {
+            "Eesti Keskerakond": 510,
+            "ISAMAA Erakond": 232
+          },
+          "company_code": "14389272",
+          "company_name": "Kesk-Eesti Mööbel OÜ"
+        },
+        {
+          "donor_name": "LEMBIT ALLIKMETS",
+          "donor_amount": 86,
+          "donor_parties": {
+            "Eesti Keskerakond": 86
+          },
+          "company_code": "11548994",
+          "company_name": "Linus Medical OÜ"
+        },
+        {
+          "donor_name": "IGOR ABARENKOV",
+          "donor_amount": 1415,
+          "donor_parties": {
+            "Eesti Keskerakond": 1415
+          },
+          "company_code": "10725158",
+          "company_name": "OÜ FENOALFA"
+        },
+        {
+          "donor_name": "AHTO TEMPEL",
+          "donor_amount": 219,
+          "donor_parties": {
+            "Eesti Keskerakond": 219
+          },
+          "company_code": "16417191",
+          "company_name": "Paide Kinnisvarahaldus OÜ"
+        },
+        {
+          "donor_name": "PEETER KUUS",
+          "donor_amount": 15,
+          "donor_parties": {
+            "Eesti Keskerakond": 15
+          },
+          "company_code": "10841723",
+          "company_name": "Osaühing Laoekspert"
+        },
+        {
+          "donor_name": "TRIIN VAREK",
+          "donor_amount": 17155,
+          "donor_parties": {
+            "Eesti Keskerakond": 13591,
+            "ISAMAA Erakond": 3564
+          },
+          "company_code": "10158363",
+          "company_name": "Osaühing Wimberg"
+        },
+        {
+          "donor_name": "JAANUS KALEV",
+          "donor_amount": 4283,
+          "donor_parties": {
+            "Eesti Keskerakond": 4283
+          },
+          "company_code": "10281715",
+          "company_name": "Tulundusühistu Alvar MÜ"
+        },
+        {
+          "donor_name": "ANTI LEEDU",
+          "donor_amount": 1015,
+          "donor_parties": {
+            "Eesti Keskerakond": 1015
+          },
+          "company_code": "11460153",
+          "company_name": "Ruu Kivi Osaühing"
+        },
+        {
+          "donor_name": "HANNES SOONSEIN",
+          "donor_amount": 880,
+          "donor_parties": {
+            "Eesti Keskerakond": 580,
+            "Sotsiaaldemokraatlik Erakond": 300
+          },
+          "company_code": "10312717",
+          "company_name": "Aktsiaselts Stik-Elekter"
+        },
+        {
+          "donor_name": "MARDO LEIUMAA",
+          "donor_amount": 1000,
+          "donor_parties": {
+            "Eesti Keskerakond": 1000
+          },
+          "company_code": "10100932",
+          "company_name": "K.MET AS"
+        },
+        {
+          "donor_name": "MARGUS MUST",
+          "donor_amount": 211,
+          "donor_parties": {
+            "Eesti Keskerakond": 211
+          },
+          "company_code": "14056984",
+          "company_name": "Kamo Ehitus OÜ"
+        },
+        {
+          "donor_name": "ANDRES LÕHMUS",
+          "donor_amount": 19815,
+          "donor_parties": {
+            "Eesti Keskerakond": 7500,
+            "Eesti Vabaerakond": 300,
+            "Erakond Eesti 200": 12000,
+            "ISAMAA Erakond": 15
+          },
+          "company_code": "10284984",
+          "company_name": "Salva Kindlustuse AS"
+        },
+        {
+          "donor_name": "RAUNO VÕRNO",
+          "donor_amount": 711,
+          "donor_parties": {
+            "Eesti Keskerakond": 641,
+            "ISAMAA Erakond": 70
+          },
+          "company_code": "80258178",
+          "company_name": "Mittetulundusühing Lääne-Viru Jäätmekeskus"
+        },
+        {
+          "donor_name": "URMO SAAREOJA",
+          "donor_amount": 850,
+          "donor_parties": {
+            "Eesti Keskerakond": 850
+          },
+          "company_code": "90008436",
+          "company_name": "Sihtasutus Tallinna Lauluväljak"
+        },
+        {
+          "donor_name": "ROMAN ANTONOV",
+          "donor_amount": 20,
+          "donor_parties": {
+            "Eesti Keskerakond": 20
+          },
+          "company_code": "12493077",
+          "company_name": "RV-Elekter OÜ"
+        },
+        {
+          "donor_name": "MART UNDREST",
+          "donor_amount": 2000,
+          "donor_parties": {
+            "Eesti Keskerakond": 2000
+          },
+          "company_code": "10121058",
+          "company_name": "osaühing Kaabeltau"
+        },
+        {
+          "donor_name": "SERGEI SOLOVJOV",
+          "donor_amount": 117,
+          "donor_parties": {
+            "Eesti Keskerakond": 12,
+            "Sotsiaaldemokraatlik Erakond": 105
+          },
+          "company_code": "12777828",
+          "company_name": "VARITECH EHITUS OÜ"
+        },
+        {
+          "donor_name": "KARL LAAS",
+          "donor_amount": 94,
+          "donor_parties": {
+            "Eesti Keskerakond": 94
+          },
+          "company_code": "11925988",
+          "company_name": "Upsteem.com OÜ"
+        },
+        {
+          "donor_name": "SERGEI NIKITIN",
+          "donor_amount": 1406,
+          "donor_parties": {
+            "Eesti Keskerakond": 1406
+          },
+          "company_code": "11047461",
+          "company_name": "Osaühing STARINAR"
+        },
+        {
+          "donor_name": "MARKO KUTSER",
+          "donor_amount": 4399,
+          "donor_parties": {
+            "Eesti Keskerakond": 518,
+            "ISAMAA Erakond": 3881
+          },
+          "company_code": "12861285",
+          "company_name": "Anyboat OÜ"
+        },
+        {
+          "donor_name": "KRISTJAN MARK",
+          "donor_amount": 459,
+          "donor_parties": {
+            "Eesti Keskerakond": 459
+          },
+          "company_code": "10364157",
+          "company_name": "Aktsiaselts Megaron-E"
+        },
+        {
+          "donor_name": "KRISTJAN MADISSON",
+          "donor_amount": 300,
+          "donor_parties": {
+            "Eesti Keskerakond": 300
+          },
+          "company_code": "11896241",
+          "company_name": "REVIN GRUPP OÜ"
+        },
+        {
+          "donor_name": "KAUPO KASKLA",
+          "donor_amount": 139,
+          "donor_parties": {
+            "Eesti Keskerakond": 50,
+            "Eesti Reformierakond": 89
+          },
+          "company_code": "11270607",
+          "company_name": "T-MODEL OÜ"
+        },
+        {
+          "donor_name": "ENDEL SIFF",
+          "donor_amount": 117000,
+          "donor_parties": {
+            "Eesti Keskerakond": 100000,
+            "Eesti Reformierakond": 17000
+          },
+          "company_code": "10390775",
+          "company_name": "AS Laser Diagnostic Instruments"
+        },
+        {
+          "donor_name": "ANATOLI GOLTS",
+          "donor_amount": 40,
+          "donor_parties": {
+            "Eesti Keskerakond": 40
+          },
+          "company_code": "12570694",
+          "company_name": "SOREX Invest OÜ"
+        },
+        {
+          "donor_name": "KOIT UUS",
+          "donor_amount": 60000,
+          "donor_parties": {
+            "Eesti Keskerakond": 30000,
+            "Eesti Reformierakond": 30000
+          },
+          "company_code": "11948274",
+          "company_name": "Interrobang OÜ"
+        },
+        {
+          "donor_name": "URMAS MURUMETS",
+          "donor_amount": 8,
+          "donor_parties": {
+            "Eesti Keskerakond": 8
+          },
+          "company_code": "14629888",
+          "company_name": "Mekon Ehitus OÜ"
+        },
+        {
+          "donor_name": "RAUL ALTNURME",
+          "donor_amount": 2000,
+          "donor_parties": {
+            "Eesti Keskerakond": 2000
+          },
+          "company_code": "10944392",
+          "company_name": "OÜ Europolis"
+        },
+        {
+          "donor_name": "INDREK LAUL",
+          "donor_amount": 24000,
+          "donor_parties": {
+            "Eesti Keskerakond": 3000,
+            "Eesti Reformierakond": 9000,
+            "Eesti Vabaerakond": 1000,
+            "EKRE - Eesti Konservatiivne Rahvaerakond": 3000,
+            "ISAMAA Erakond": 5000,
+            "Sotsiaaldemokraatlik Erakond": 3000
+          },
+          "company_code": "10103095",
+          "company_name": "Aktsiaselts ESTONIA Klaverivabrik"
+        },
+        {
+          "donor_name": "REIN MEE",
+          "donor_amount": 8,
+          "donor_parties": {
+            "Eesti Keskerakond": 8
+          },
+          "company_code": "11096397",
+          "company_name": "Optimus Systems AS"
+        },
+        {
+          "donor_name": "MARGO TAMM",
+          "donor_amount": 15,
+          "donor_parties": {
+            "Eesti Keskerakond": 15
+          },
+          "company_code": "14296033",
+          "company_name": "Artem OÜ"
+        },
+        {
+          "donor_name": "MAARJA PÄRS",
+          "donor_amount": 25,
+          "donor_parties": {
+            "Eesti Keskerakond": 25
+          },
+          "company_code": "80295682",
+          "company_name": "Eesti Era- ja Riskikapitali Assotsiatsioon"
+        },
+        {
+          "donor_name": "MARKO TAMM",
+          "donor_amount": 95,
+          "donor_parties": {
+            "Eesti Keskerakond": 80,
+            "Sotsiaaldemokraatlik Erakond": 15
+          },
+          "company_code": "12247237",
+          "company_name": "TM Hooldusgrupp OÜ"
+        },
+        {
+          "donor_name": "MARKO TAMM",
+          "donor_amount": 95,
+          "donor_parties": {
+            "Eesti Keskerakond": 80,
+            "Sotsiaaldemokraatlik Erakond": 15
+          },
+          "company_code": "10572335",
+          "company_name": "osaühing VEEGA GRUPP"
+        },
+        {
+          "donor_name": "MARKO TAMM",
+          "donor_amount": 95,
+          "donor_parties": {
+            "Eesti Keskerakond": 80,
+            "Sotsiaaldemokraatlik Erakond": 15
+          },
+          "company_code": "11031133",
+          "company_name": "Osaühing Roogkatus"
+        },
+        {
+          "donor_name": "REIN TALI",
+          "donor_amount": 2464,
+          "donor_parties": {
+            "Eesti Keskerakond": 5,
+            "Eesti Rahvuslased ja Konservatiivid": 1000,
+            "Eesti Vabaerakond": 709,
+            "ISAMAA Erakond": 750
+          },
+          "company_code": "10370525",
+          "company_name": "Osaühing Tapa Autobussipark"
+        },
+        {
+          "donor_name": "MARGUS VANASELJA",
+          "donor_amount": 295000,
+          "donor_parties": {
+            "Eesti Keskerakond": 10000,
+            "Eesti Reformierakond": 150000,
+            "Sotsiaaldemokraatlik Erakond": 135000
+          },
+          "company_code": "10657801",
+          "company_name": "Baltic Workboats AS"
+        },
+        {
+          "donor_name": "MARGUS VANASELJA",
+          "donor_amount": 295000,
+          "donor_parties": {
+            "Eesti Keskerakond": 10000,
+            "Eesti Reformierakond": 150000,
+            "Sotsiaaldemokraatlik Erakond": 135000
+          },
+          "company_code": "11725966",
+          "company_name": "BMG Power Systems OÜ"
+        },
+        {
+          "donor_name": "RAIN KUMM",
+          "donor_amount": 5000,
+          "donor_parties": {
+            "Eesti Keskerakond": 5000
+          },
+          "company_code": "10729877",
+          "company_name": "AS Baltic Marine Group"
+        },
+        {
+          "donor_name": "RISTO SAKARI ROUVARI",
+          "donor_amount": 5000,
+          "donor_parties": {
+            "Eesti Keskerakond": 5000
+          },
+          "company_code": "10730774",
+          "company_name": "OÜ Maikelluke"
+        },
+        {
+          "donor_name": "AIVO KANGUS",
+          "donor_amount": 1001,
+          "donor_parties": {
+            "Eesti Keskerakond": 1001
+          },
+          "company_code": "80266953",
+          "company_name": "MTÜ Topsiring"
+        },
+        {
+          "donor_name": "ANATOLI IVANOV",
+          "donor_amount": 62,
+          "donor_parties": {
+            "Eesti Keskerakond": 17,
+            "Sotsiaaldemokraatlik Erakond": 45
+          },
+          "company_code": "10431646",
+          "company_name": "Aktsiaselts Gaur"
+        },
+        {
+          "donor_name": "TÕNU VÕRNO",
+          "donor_amount": 8,
+          "donor_parties": {
+            "Eesti Keskerakond": 8
+          },
+          "company_code": "14895265",
+          "company_name": "Mu-Mu UÜ"
+        },
+        {
+          "donor_name": "KAIDO NURK",
+          "donor_amount": 5,
+          "donor_parties": {
+            "Eesti Keskerakond": 5
+          },
+          "company_code": "11331326",
+          "company_name": "OÜ TecCen"
+        },
+        {
+          "donor_name": "NIKOLAI MUTOVKIN",
+          "donor_amount": 2,
+          "donor_parties": {
+            "Eesti Keskerakond": 2
+          },
+          "company_code": "10091624",
+          "company_name": "Osaühing Dropkont"
+        },
+        {
+          "donor_name": "TIIU REBANE",
+          "donor_amount": 102,
+          "donor_parties": {
+            "Eesti Keskerakond": 2,
+            "EKRE - Eesti Konservatiivne Rahvaerakond": 100
+          },
+          "company_code": "10233171",
+          "company_name": "OSAÜHING R-SÜSTEEMID"
+        },
+        {
+          "donor_name": "KAIDO LUIK",
+          "donor_amount": 3,
+          "donor_parties": {
+            "Eesti Keskerakond": 3
+          },
+          "company_code": "10943978",
+          "company_name": "OÜ Mööblirestauraator"
+        },
+        {
+          "donor_name": "KAIDO LUIK",
+          "donor_amount": 3,
+          "donor_parties": {
+            "Eesti Keskerakond": 3
+          },
+          "company_code": "12203843",
+          "company_name": "AKO Eesti OÜ"
+        },
+        {
+          "donor_name": "ALEKSEI IVANOV",
+          "donor_amount": 32,
+          "donor_parties": {
+            "Eesti Keskerakond": 32
+          },
+          "company_code": "10797790",
+          "company_name": "Osaühing REDIANS"
+        },
+        {
+          "donor_name": "ALAR PÄRN",
+          "donor_amount": 1,
+          "donor_parties": {
+            "Eesti Keskerakond": 1
+          },
+          "company_code": "11059195",
+          "company_name": "Noto OÜ"
+        },
+        {
+          "donor_name": "ARTHUR SEPPERN",
+          "donor_amount": 11,
+          "donor_parties": {
+            "Eesti Keskerakond": 11
+          },
+          "company_code": "14477958",
+          "company_name": "ZEPPARTH.EE OÜ"
+        },
+        {
+          "donor_name": "RAINER TOOMJÕE",
+          "donor_amount": 1,
+          "donor_parties": {
+            "Eesti Keskerakond": 1
+          },
+          "company_code": "12509938",
+          "company_name": "FKE OÜ"
+        },
+        {
+          "donor_name": "RAIVO REBANE",
+          "donor_amount": 57,
+          "donor_parties": {
+            "Eesti Keskerakond": 57
+          },
+          "company_code": "10667277",
+          "company_name": "osaühing ÕLIPLUS"
+        },
+        {
+          "donor_name": "RAIVO REBANE",
+          "donor_amount": 57,
+          "donor_parties": {
+            "Eesti Keskerakond": 57
+          },
+          "company_code": "10170861",
+          "company_name": "OBB Kaubanduse osaühing"
+        },
+        {
+          "donor_name": "AIVAR LEHTMETS",
+          "donor_amount": 11,
+          "donor_parties": {
+            "Eesti Keskerakond": 11
+          },
+          "company_code": "10078687",
+          "company_name": "Aktsiaselts Remet"
+        },
+        {
+          "donor_name": "ANDREI SOKOLOV",
+          "donor_amount": 11,
+          "donor_parties": {
+            "Eesti Keskerakond": 11
+          },
+          "company_code": "10901543",
+          "company_name": "Osaühing Rehabilitatsiooniabi"
+        },
+        {
+          "donor_name": "PRIIT ALAMÄE",
+          "donor_amount": 538700,
+          "donor_parties": {
+            "Eesti Keskerakond": 28000,
+            "Eesti Reformierakond": 16000,
+            "Erakond Eesti 200": 438700,
+            "ISAMAA Erakond": 28000,
+            "Sotsiaaldemokraatlik Erakond": 28000
+          },
+          "company_code": "10391131",
+          "company_name": "Nortal AS"
+        },
+        {
+          "donor_name": "MAREK KAASIK",
+          "donor_amount": 1,
+          "donor_parties": {
+            "Eesti Keskerakond": 1
+          },
+          "company_code": "11168919",
+          "company_name": "Osaühing Ehitusagentuur"
+        },
+        {
+          "donor_name": "MAIKEL LÄTT",
+          "donor_amount": 20,
+          "donor_parties": {
+            "Eesti Keskerakond": 20
+          },
+          "company_code": "14884480",
+          "company_name": "M&amp;R Cleaning Team OÜ"
+        },
+        {
+          "donor_name": "JAAN METS",
+          "donor_amount": 1907,
+          "donor_parties": {
+            "Eesti Keskerakond": 1907
+          },
+          "company_code": "10691382",
+          "company_name": "Osaühing Pandivere Puit"
+        },
+        {
+          "donor_name": "ALEKSEI LEBEDEV",
+          "donor_amount": 11,
+          "donor_parties": {
+            "Eesti Keskerakond": 11
+          },
+          "company_code": "12863924",
+          "company_name": "Refpro OÜ"
+        },
+        {
+          "donor_name": "ARVO SARAPUU",
+          "donor_amount": 6688,
+          "donor_parties": {
+            "Eesti Keskerakond": 6688
+          },
+          "company_code": "12739911",
+          "company_name": "ATKO Transport OÜ"
+        },
+        {
+          "donor_name": "ARVO SARAPUU",
+          "donor_amount": 6688,
+          "donor_parties": {
+            "Eesti Keskerakond": 6688
+          },
+          "company_code": "10926425",
+          "company_name": "Aktsiaselts Atko Bussiliinid"
+        },
+        {
+          "donor_name": "ARVO SARAPUU",
+          "donor_amount": 6688,
+          "donor_parties": {
+            "Eesti Keskerakond": 6688
+          },
+          "company_code": "16043603",
+          "company_name": "ATG Bussipark OÜ"
+        },
+        {
+          "donor_name": "ARVO SARAPUU",
+          "donor_amount": 6688,
+          "donor_parties": {
+            "Eesti Keskerakond": 6688
+          },
+          "company_code": "10878583",
+          "company_name": "OÜ ATKO Liinid"
+        },
+        {
+          "donor_name": "ARVO SARAPUU",
+          "donor_amount": 6688,
+          "donor_parties": {
+            "Eesti Keskerakond": 6688
+          },
+          "company_code": "16038306",
+          "company_name": "ATG Bussiliinid OÜ"
+        },
+        {
+          "donor_name": "SIIM REINIKE",
+          "donor_amount": 5,
+          "donor_parties": {
+            "Eesti Keskerakond": 5
+          },
+          "company_code": "11981188",
+          "company_name": "OÜ Kärner ja Ko"
+        },
+        {
+          "donor_name": "RUDOLF RAKŠTIS",
+          "donor_amount": 30,
+          "donor_parties": {
+            "Eesti Keskerakond": 30
+          },
+          "company_code": "14891416",
+          "company_name": "ALTMER EHITUS OÜ"
+        },
+        {
+          "donor_name": "VALERI VOLKOV",
+          "donor_amount": 1114,
+          "donor_parties": {
+            "Eesti Keskerakond": 11,
+            "Sotsiaaldemokraatlik Erakond": 1103
+          },
+          "company_code": "12873035",
+          "company_name": "Safeway OÜ"
+        },
+        {
+          "donor_name": "EDUARD EAST",
+          "donor_amount": 900,
+          "donor_parties": {
+            "Eesti Keskerakond": 900
+          },
+          "company_code": "10446139",
+          "company_name": "Aktsiaselts ÖKOSIL"
+        },
+        {
+          "donor_name": "VLADIMIR ISSAKOV",
+          "donor_amount": 5500,
+          "donor_parties": {
+            "Eesti Keskerakond": 5500
+          },
+          "company_code": "10307171",
+          "company_name": "TALLINNA LINNAEHITUSE AKTSIASELTS"
+        },
+        {
+          "donor_name": "RAIVO KALLAS",
+          "donor_amount": 10,
+          "donor_parties": {
+            "Eesti Keskerakond": 10
+          },
+          "company_code": "10100932",
+          "company_name": "K.MET AS"
+        },
+        {
+          "donor_name": "VLADIMIR KUZNETSOV",
+          "donor_amount": 1,
+          "donor_parties": {
+            "Eesti Keskerakond": 1
+          },
+          "company_code": "16588633",
+          "company_name": "Arboristid OÜ"
+        }
+      ],
+      "top_companies": [
+        {
+          "code": "10391131",
+          "count": 28,
+          "value": 69008666.0,
+          "name": "Nortal AS",
+          "donors": [
+            "PRIIT ALAMÄE"
+          ]
+        },
+        {
+          "code": "14133207",
+          "count": 34,
+          "value": 46277366.0,
+          "name": "Wisercat Estonia OÜ",
+          "donors": [
+            "OLEG ŠVAIKOVSKI"
+          ]
+        },
+        {
+          "code": "10080052",
+          "count": 62,
+          "value": 40944774.8,
+          "name": "aktsiaselts TREF",
+          "donors": [
+            "ANDRES GAILIT"
+          ]
+        },
+        {
+          "code": "10277820",
+          "count": 97,
+          "value": 39231461.0,
+          "name": "Eesti Keskkonnateenused AS",
+          "donors": [
+            "ARGO LUUDE"
+          ]
+        },
+        {
+          "code": "14889626",
+          "count": 9,
+          "value": 32550000.0,
+          "name": "KESKKONNAHOOLDUS EESTI OÜ",
+          "donors": [
+            "CHRISTEL JÄRVE"
+          ]
+        },
+        {
+          "code": "10203566",
+          "count": 2,
+          "value": 31000000.0,
+          "name": "AS Levira",
+          "donors": [
+            "VEIKO SEPP"
+          ]
+        },
+        {
+          "code": "10325720",
+          "count": 18,
+          "value": 28005000.0,
+          "name": "Estravel Group AS",
+          "donors": [
+            "MARK AIVO TAKIS"
+          ]
+        },
+        {
+          "code": "10303995",
+          "count": 32,
+          "value": 26455600.0,
+          "name": "Aktsiaselts KH Energia - Konsult",
+          "donors": [
+            "HEINO HARAK"
+          ]
+        },
+        {
+          "code": "10364097",
+          "count": 32,
+          "value": 26385333.0,
+          "name": "AKTSIASELTS HELMES",
+          "donors": [
+            "JAAN PILLESAAR"
+          ]
+        },
+        {
+          "code": "10405442",
+          "count": 41,
+          "value": 24879611.0,
+          "name": "osaühing Üle",
+          "donors": [
+            "MÄRT JÄRVIK"
+          ]
+        },
+        {
+          "code": "16141725",
+          "count": 4,
+          "value": 21500000.0,
+          "name": "DEFREM OÜ",
+          "donors": [
+            "ELMAR BERGMANN"
+          ]
+        },
+        {
+          "code": "11043389",
+          "count": 45,
+          "value": 20022000.0,
+          "name": "OÜ HANSO MK",
+          "donors": [
+            "KAUPO JANSEN"
+          ]
+        },
+        {
+          "code": "10721829",
+          "count": 29,
+          "value": 12400000.0,
+          "name": "Osaühing Silindia Ehitus",
+          "donors": [
+            "TOOMAS PERVE"
+          ]
+        },
+        {
+          "code": "11896241",
+          "count": 36,
+          "value": 12146000.0,
+          "name": "REVIN GRUPP OÜ",
+          "donors": [
+            "KRISTJAN MADISSON"
+          ]
+        },
+        {
+          "code": "12967894",
+          "count": 44,
+          "value": 11671965.0,
+          "name": "Altos Teed OÜ",
+          "donors": [
+            "TÕNU VILIPUU"
+          ]
+        },
+        {
+          "code": "10284814",
+          "count": 2,
+          "value": 9000000.0,
+          "name": "Osaühing DORMIKOR",
+          "donors": [
+            "REIN NIGUL"
+          ]
+        },
+        {
+          "code": "10364157",
+          "count": 15,
+          "value": 8315000.0,
+          "name": "Aktsiaselts Megaron-E",
+          "donors": [
+            "KRISTJAN MARK"
+          ]
+        },
+        {
+          "code": "10657801",
+          "count": 5,
+          "value": 8257700.0,
+          "name": "Baltic Workboats AS",
+          "donors": [
+            "MARGUS VANASELJA"
+          ]
+        },
+        {
+          "code": "10178905",
+          "count": 19,
+          "value": 7925000.0,
+          "name": "AS Eesti Gaas",
+          "donors": [
+            "MARGUS KAASIK"
+          ]
+        },
+        {
+          "code": "10047988",
+          "count": 39,
+          "value": 7900597.99,
+          "name": "Infotark AS",
+          "donors": [
+            "MARGARITA ROSS",
+            "JÜRI ROSS"
+          ]
+        },
+        {
+          "code": "10943961",
+          "count": 94,
+          "value": 7251527.1,
+          "name": "TERASTEENUS OÜ",
+          "donors": [
+            "MAREK KALJULA"
+          ]
+        },
+        {
+          "code": "10845129",
+          "count": 262,
+          "value": 7207132.66,
+          "name": "AS Infragate Eesti",
+          "donors": [
+            "URMAS AASKIVI"
+          ]
+        },
+        {
+          "code": "10080980",
+          "count": 29,
+          "value": 7177698.33,
+          "name": "OÜ SEMUEHITUS",
+          "donors": [
+            "MEELIS MUNSKI"
+          ]
+        },
+        {
+          "code": "10136864",
+          "count": 50,
+          "value": 6933125.0,
+          "name": "aktsiaselts Epler &amp; Lorenz",
+          "donors": [
+            "ARGO LUUDE"
+          ]
+        },
+        {
+          "code": "10832463",
+          "count": 94,
+          "value": 6770252.4,
+          "name": "Quantum Eesti AS",
+          "donors": [
+            "MARTIN LEPIKU"
+          ]
+        },
+        {
+          "code": "12519049",
+          "count": 38,
+          "value": 6600000.0,
+          "name": "DataFox OÜ",
+          "donors": [
+            "RISTO KIILBERG",
+            "MARKO KÜLAOTS",
+            "MATI RAIDMA"
+          ]
+        },
+        {
+          "code": "12083348",
+          "count": 313,
+          "value": 6220142.32,
+          "name": "LEONHARD WEISS OÜ",
+          "donors": [
+            "KALLE KASK",
+            "INDREK RÄTSEP"
+          ]
+        },
+        {
+          "code": "12873532",
+          "count": 2,
+          "value": 6000000.0,
+          "name": "STATS Unities OÜ",
+          "donors": [
+            "OLIVER KADAK"
+          ]
+        },
+        {
+          "code": "11092436",
+          "count": 10,
+          "value": 5715000.0,
+          "name": "Inspired Universal McCann OÜ",
+          "donors": [
+            "MEELIS JÄRVELA"
+          ]
+        },
+        {
+          "code": "10033667",
+          "count": 3,
+          "value": 5000000.0,
+          "name": "aktsiaselts Projekteerimisbüroo Maa ja Vesi",
+          "donors": [
+            "HENRI DANIEL OTS"
+          ]
+        },
+        {
+          "code": "12765966",
+          "count": 11,
+          "value": 4926999.0,
+          "name": "HEISI IT OÜ",
+          "donors": [
+            "RAUL RAUDSEPP"
+          ]
+        },
+        {
+          "code": "10004826",
+          "count": 27,
+          "value": 4880900.0,
+          "name": "aktsiaselts Pristis",
+          "donors": [
+            "PRIIT PAJU",
+            "ANTON VASSILJEV"
+          ]
+        },
+        {
+          "code": "12339040",
+          "count": 60,
+          "value": 4503984.0,
+          "name": "Medivar OÜ",
+          "donors": [
+            "KALEV RABI"
+          ]
+        },
+        {
+          "code": "10100168",
+          "count": 30,
+          "value": 4376499.0,
+          "name": "If P&amp;C Insurance AS",
+          "donors": [
+            "TIIT KOLDE"
+          ]
+        },
+        {
+          "code": "14618181",
+          "count": 6,
+          "value": 4235000.0,
+          "name": "Miltton New Nordics OÜ",
+          "donors": [
+            "ANNIKA ARRAS",
+            "SANDRA KAMILOVA"
+          ]
+        },
+        {
+          "code": "16022038",
+          "count": 1,
+          "value": 4000000.0,
+          "name": "Supervivent OÜ",
+          "donors": [
+            "OLIVER ŠULTS"
+          ]
+        },
+        {
+          "code": "10011051",
+          "count": 65,
+          "value": 3900200.0,
+          "name": "Aktsiaselts STANDARD",
+          "donors": [
+            "JONATAN KARJUS"
+          ]
+        },
+        {
+          "code": "12927009",
+          "count": 8,
+          "value": 3730000.0,
+          "name": "Akkadian OÜ",
+          "donors": [
+            "ENELI MIKKO"
+          ]
+        },
+        {
+          "code": "11347600",
+          "count": 13,
+          "value": 3580000.0,
+          "name": "UNIRO GRUPP OÜ",
+          "donors": [
+            "RAINO NURME"
+          ]
+        },
+        {
+          "code": "11415454",
+          "count": 12,
+          "value": 3551200.0,
+          "name": "Baltic Medcom OÜ",
+          "donors": [
+            "VILLEM ARUOJA"
+          ]
+        },
+        {
+          "code": "11455212",
+          "count": 38,
+          "value": 3360000.0,
+          "name": "Balti Vara Ehitus OÜ",
+          "donors": [
+            "MEELIS KARRO"
+          ]
+        },
+        {
+          "code": "10827700",
+          "count": 5,
+          "value": 3349990.67,
+          "name": "OSAÜHING INVERSION SOFTWARE",
+          "donors": [
+            "URMAS JÄRVE"
+          ]
+        },
+        {
+          "code": "11906991",
+          "count": 15,
+          "value": 3336600.0,
+          "name": "OÜ Arens Ehitustööd",
+          "donors": [
+            "MART LOIK"
+          ]
+        },
+        {
+          "code": "10282927",
+          "count": 2,
+          "value": 3310000.0,
+          "name": "osaühing Harmet",
+          "donors": [
+            "TOOMAS KALEV",
+            "IVAR VALDMAA"
+          ]
+        },
+        {
+          "code": "10166658",
+          "count": 30,
+          "value": 3252000.0,
+          "name": "Cramo Estonia AS",
+          "donors": [
+            "REMO HOLSMER"
+          ]
+        },
+        {
+          "code": "12071650",
+          "count": 4,
+          "value": 3200000.0,
+          "name": "OÜ VECO BALTIC",
+          "donors": [
+            "SERGEI IVANOV",
+            "ANDRUS PÕLDRE"
+          ]
+        },
+        {
+          "code": "14804570",
+          "count": 8,
+          "value": 3019000.0,
+          "name": "OÜ divitiae",
+          "donors": [
+            "ERIKA SCHOLLER"
+          ]
+        },
+        {
+          "code": "11554492",
+          "count": 4,
+          "value": 2891300.0,
+          "name": "Wikmani LT OÜ",
+          "donors": [
+            "TÕNU TEDER"
+          ]
+        },
+        {
+          "code": "12851387",
+          "count": 35,
+          "value": 2629979.0,
+          "name": "Lindvill OÜ",
+          "donors": [
+            "TÕNIS VILLMÄE"
+          ]
+        },
+        {
+          "code": "10179218",
+          "count": 2,
+          "value": 2562000.0,
+          "name": "Santeh-Ehituse Osaühing",
+          "donors": [
+            "JÜRI TEPPO"
+          ]
+        }
+      ]
+    }
+  ]
+}

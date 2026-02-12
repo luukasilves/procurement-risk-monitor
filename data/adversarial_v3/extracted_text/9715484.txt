@@ -1,0 +1,2069 @@
+=== 9715484_304231_hankepass_taiendavate_selgitustega.pdf ===
+1/20
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+Riigi ametlik teataja:
+304231
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+Sihtasutus Viljandi Haigla (90004585)
+Riik:
+Eesti
+Hankija aadress:
+C. R. Jakobsoni tn 2a
+Hankija veebiaadress:
+http://www.viljandihaigla.ee
+E-posti aadress:
+viljandihaigla@viljandihaigla.ee
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+2/20
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Ravitoidud ja tarvikud
+Lühikirjeldus:
+Toitumisraviks vajalike ravitoitude ja tarvikute müük ja transport Viljandi haiglasse ja kliendile
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+304231
+Hanke liik:
+Asjad
+Hanke CPV-d:
+33196000-0 Meditsiinilised abivahendid
+33692200-9 Parenteraalsed toited
+33692300-0 Enteraalsed toitevedelikud
+Hanke osad
+Hanke osade kohta kehtivad järgnevad nõuded:
+Tingimuse kirjeldus:
+Pakkumusi võib esitada: Maksimaalne osade arv
+Maksimaalne osade arv, mille kohta võib pakkumusi esitada: 2
+Maksimaalne osade arv, mille kohta võidakse sõlmida leping ühe pakkujaga:
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+3/20
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+4/20
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+5/20
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+6/20
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kuritegelikus ühenduses osalemise eest". Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud aususe kohustuse rikkumise või korruptiivse teo eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+7/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kelmuse eest kõige rohkem viimase viie aasta jooksul või kehtib
+süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kelmuse eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+8/20
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo
+või sellele kihutamise, kaasaaitamise või selle katse eest". Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud rahapesualase süüteo või terrorismi rahastamise eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+9/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 3 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud
+teo eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada
+tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise
+võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või
+hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+10/20
+maksukorralduse seaduse tähenduses või maksuvõlg /…/ tema asukohariigi õigusaktide kohaselt“
+Kehtib: Kõik osad
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul, kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku /…/ makse /…/ maksuvõlg maksukorralduse seaduse
+tähenduses või sotsiaalkindlustusemaksete võlg tema asukohariigi õigusaktide kohaselt
+Kehtib: Kõik osad
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+11/20
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+12/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt“,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, likvideerimisel või kelle suhtes on algatatud
+pankrotimenetlus või kes on muus sellesarnases olukorras tema asukohamaa õigusaktide
+kohaselt, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+13/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kelle äritegevus on peatatud, välja arvatud asjade ostmisel RHS § 49 lõikes 4
+sätestatud juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Viide seadusele:
+RHS § 95 lg 4 p 4 „kes on raskelt eksinud ametialaste käitumisreeglite vastu ja see muudab tema
+aususe küsitavaks“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+14/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Viide seadusele:
+RHS § 95 lg 4 p 5 „konkurentsi kahjustava kokkuleppe, ettevõtjate ühenduse otsuse või
+kooskõlastatud tegevuse tõttu“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Viide seadusele:
+RHS § 95 lg 4 p 6 „kui huvide konflikti ei ole muude vahenditega võimalik vältida“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+15/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Viide seadusele:
+RHS § 95 lg 4 p 7 „kelle pakkumuse või taotluse koostamisel on osalenud isik, kes on osalenud
+sama riigihanke ettevalmistamisel või on muul viisil hankijaga seotud, ja sellele isikule seetõttu
+teadaolev info annab talle eelise teiste riigihankes osalejate eest ning sellest tingitud konkurentsi
+moonutamist ei ole muude vahenditega võimalik vältida“. Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Viide seadusele:
+RHS § 95 lg 4 p 8 „kes on oluliselt või pidevalt rikkunud eelnevalt sõlmitud hankelepingu olulist
+tingimust või hankelepingute olulisi tingimusi nii, et rikkumise tulemusena on lepingust
+taganetud või leping üles öeldud, hinda alandatud, hüvitatud kahju või makstud leppetrahvi". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud. Alates 1.09.2017 alustatud hangete tulemusena sõlmitud
+riigihankelepingute kohta leiab infot riigihangete registrist.
+Kehtib: Kõik osad
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+16/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Viide seadusele:
+RHS § 95 lg 4 p 9 „kes on esitanud valeandmeid käesolevas paragrahvis sätestatud või RHS §-
+des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele vastavuse kohta“;
+RHS § 95 lg 4 p 9 „kes on jätnud andmed käesolevas paragrahvis sätestatud või käesoleva
+seaduse §-des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele
+vastavuse kohta esitamata“;
+RHS § 95 lg 4 p 9 „kes on jätnud käesoleva seaduse § 104 lõigete 7 ja 8 alusel hankija nõutud
+täiendavad dokumendid esitamata“;
+RHS § 95 lg 4 p 10 „kes on tegutsenud eesmärgiga mõjutada hankijat või esitanud hooletusest
+eksitavat teavet, mis on võinud mõjutada hankija otsuseid riigihankes, või on tegutsenud
+eesmärgiga saada konfidentsiaalset teavet, mis on võinud anda talle põhjendamatu eelise teiste
+riigihankes osalejate ees“.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+17/20
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+keskkonnaõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+sotsiaalõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+18/20
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid tööõiguse
+valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PANKROT
+Kas ettevõtja on pankrotis?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud
+juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Viide seadusele:
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+19/20
+RHS § 95 lg 4 p 3 „kes on likvideerimisel või kelle suhtes on algatatud pankrotimenetlus, välja
+arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 2 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud riigis ilma seadusliku aluseta viibivale välismaalasele töötamise
+võimaldamise või välismaalase Eestis töötamise tingimuste rikkumise võimaldamise, sealhulgas
+seaduses sätestatud töötasu määrast väiksema töötasu maksmise eest“. Kohustuslik kõrvaldamise
+alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+20/20
+Viide seadusele:
+RHS § 95 lg 1 p 5. Kellega hankelepingu sõlmimine rikuks rahvusvahelist või Vabariigi
+Valitsuse sanktsiooni rahvusvahelise sanktsiooni seaduse tähenduses. Hankija kontrollib
+käesoleva seaduse § 95 lõike 1 punktis 5 sätestatud kõrvaldamise alust pakkuja või taotleja
+kinnituse alusel. Hankija võib põhjendatud kahtluse korral nõuda pakkujalt või taotlejalt
+täiendavate andmete või tõendite esitamist, mis võimaldavad kõrvaldamise alust kontrollida.
+(RHS § 96 lg 2.1).
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 11 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku esindajat on karistatud maksualaste süütegude eest“. Vabatahtlik kõrvaldamise alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 19.12.2025 13:13:07
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+
+=== 9715484_304231_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 304231
+Hankija:Sihtasutus Viljandi Haigla (90004585)
+Hange:Ravitoidud ja tarvikud
+OSA1 – TARVIKUD JA SONDITOIDUD
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Kaupade maksumus Kauba kõigi positsioonide ühikhindade Maksumus - 95 1 EUR jah
+summa (vt esildisel tabel 1). vähim on parim
+2 Toitmispumba rendi ühikhind vt esildise tabel 2 pos 1 Kulu - vähim on 4 EUR jah
+parim
+3 Kullerteenuse ühikhind vt esildise tabel 2 pos 2 Kulu - vähim on 1 EUR jah
+parim
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Kaupade maksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+2. Toitmispumba rendi ühikhind
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+3. Kullerteenuse ühikhind
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 19.12.2025 13:12:55 1/2 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9715484/general-info
+OSA2 – SUUKAUDSED RAVITOIDUD
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Kaupade maksumus kauba ühikhindade summa (vt esildise Maksumus - 98 1 EUR jah
+tabel 1 summa) vähim on parim
+2 Kullerteenuse ühikhind vt esildise tabel 2 pos 1 Kulu - vähim on 2 EUR jah
+parim
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Kaupade maksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+2. Kullerteenuse ühikhind
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 19.12.2025 13:12:55 2/2 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9715484/general-info
+
+=== 9715484_304231_vastavustingimused.pdf ===
+1/4
+VASTAVUSTINGIMUSED
+Viitenumber: 304231
+Hankija: Sihtasutus Viljandi Haigla (90004585)
+Hange: Ravitoidud ja tarvikud
+OSA1: TARVIKUD JA SONDITOIDUD
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Küsimused ettevõtjale:
+1. Kas ettevõtja kinnitab, et täidab pakkumuse lehe "Hindamiskriteeriumid ja hinnatavad
+näitajad" lehel ette antud struktuuri kohaselt? (Raadionupp valikutega "Jah/Ei")
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Koostatud 12.01.2026 10:18:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+2/4
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+RAHVUSVAHELISE SANKTSIOONI OBJEKT
+Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks või pärit
+sanktsiooni all olevatest piirkondadest. Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav
+hankeleping oleks RSanS § 7 lg 1 alusel tühine.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks ega pärit
+sanktsiooni all olevatest piirkondadest. (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE ESILDIS
+Küsimused ettevõtjale:
+1. Pakkumuse esildis (Dokumendi vorm / Pakkumuse esildis_1201.xlsx)
+TOOTELEHED
+Esitada toodete tootelehed toote kirjelduse, andmetega
+Küsimused ettevõtjale:
+1. Tootelehed (Vabas vormis dokument)
+LISAMATERJALID
+Esitada muud nõuete täitmist tõendavad dokumendid, näiteks tarvikute vastavusdeklaratsioonid
+jmt.
+Küsimused ettevõtjale:
+1. Lisamaterjalid (Vabas vormis dokument)
+TOOTENÄIDISED
+Kui pakkuja ei ole viimase 12 kuu jooksul tarninud lepingu alusel pakutavat toodet, tuleb esitada
+tootenäidised (kehtib kõigile positsioonidele). Tootenäidiste esitamise juhis on esitatud
+pakkumuse esitamise ettepanekus.
+Küsimused ettevõtjale:
+1. Kas pakkuja esitas tootenäidised? (Raadionupp valikutega "Jah/Ei")
+Koostatud 12.01.2026 10:18:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+3/4
+2. Mis aadressile, millal ja kuhu täpselt tootenäidised esitati? (Sisestusväli (max pikkus 250
+tähemärki))
+3. Kui pakkuja tootenäidiseid ei esitanud, siis märkida põhjendus. (Sisestusväli (max pikkus 250
+tähemärki))
+OSA2: SUUKAUDSED RAVITOIDUD
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Küsimused ettevõtjale:
+1. Kas ettevõtja kinnitab, et täidab pakkumuse lehe "Hindamiskriteeriumid ja hinnatavad
+näitajad" lehel ette antud struktuuri kohaselt? (Raadionupp valikutega "Jah/Ei")
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+Koostatud 12.01.2026 10:18:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+4/4
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+RAHVUSVAHELISE SANKTSIOONI OBJEKT
+Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks või pärit
+sanktsiooni all olevatest piirkondadest. Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav
+hankeleping oleks RSanS § 7 lg 1 alusel tühine.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks ega pärit
+sanktsiooni all olevatest piirkondadest. (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE ESILDIS
+Küsimused ettevõtjale:
+1. Pakkumuse esildis (Dokumendi vorm / Pakkumuse esildis_1201.xlsx)
+TOOTELEHED
+Esitada toodete tootelehed toote kirjelduse, andmetega
+Küsimused ettevõtjale:
+1. Tootelehed (Vabas vormis dokument)
+TOOTENÄIDISED
+Kui pakkuja ei ole viimase 12 kuu jooksul tarninud lepingu alusel pakutavat toodet, tuleb esitada
+tootenäidised (kehtib kõigile positsioonidele). Tootenäidiste esitamise juhis on esitatud
+pakkumuse esitamise ettepanekus.
+Küsimused ettevõtjale:
+1. Kas pakkuja esitas tootenäidised? (Raadionupp valikutega "Jah/Ei")
+2. Mis aadressile, millal ja kuhu täpselt tootenäidised esitati? (Sisestusväli (max pikkus 250
+tähemärki))
+3. Kui pakkuja tootenäidiseid ei esitanud, siis märkida põhjendus. (Sisestusväli (max pikkus 250
+tähemärki))
+Koostatud 12.01.2026 10:18:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9715484/general-info
+
+=== 9715484_Lepingu_lisa_1_Tarne_logistilised_tingimused.docx ===
+Lepingu lisa 1
+Kauba tarne logistilised tingimused
+
+
+Kaup tuuakse Tervikumi hoonesse logistikaterminali kaudu (vt joonis 1).
+Logistikaterminali sisenemine toimub Turu tänava poolse sissepääsude kaudu.
+Terminali saab siseneda ja teha laadimistöid sõidukiga, mille kõrgus on kuni 2700 mm ja teljevahe kuni 4200 mm. Soovitav on tagaluugi olemasolu. 
+Kui kaup saabud suuremate gabariitidega sõidukiga, korraldab kõik vajalikud ümberlaadimised väljaspool terminali sissesõiduala omal kulul kauba müüja.
+Terminalis puudub laadimisestakaad, kaup tuleb laadida põrandatasandile.
+Kohaletoodud/mahalaaditav kaup tuleb ladustada/paigutada terminali töötaja näidatud kohta.
+Kauba transportimiseks sõidukist paigutuskohta saab kasutada terminali käsikahveltõstukit/roklalt.
+ Joonis 1. Logistikaterminali sissepääs
+Kauba võtab vastu ja kinnitab saatedokumendid terminali töötaja.
+Logistikaterminali tööaeg: tööpäeviti kell 8-16.
+Kauba vastu võtmise ajavahemikud on järgnevad: kell 8-8.30; 9-10; 10.30-11; 12-16.00. 
+NB! Ettevõtjatele terminali aegu ei broneerita. Kaup võetakse vastu üldise järjekorra alusel. Sisenemise võimalusest teavitab roheline foorituli.
+
+Huvitatud isikul on logistikaterminalis olemasolevate tingimustega enne pakkumuse esitamist võimalik kohapeal tutvuda.
+Tutvumiseks leppida kokku sobiv aeg vähemalt 1 tööpäev enne planeeritud külastusaega, kontaktisik Aimar Kuill tel 5884 4381, e-post aimar.kuill@vmh.ee
+
+
+=== 9715484_Lisa_1_Raamlepingu_kavand.doc ===
+Raamlepingu kavand
+
+Hankija: SA Viljandi Haigla
+Riigihange: Ravitoidud ja tarvikud (viitenumber 304231)
+
+
+RAAMLEPING nr HM 2025-74/___ osa nr				                                   	
+kuupäev digiallkirjas
+
+SA Viljandi Haigla, registrikood 90004585 (edaspidi ostja), keda esindab põhikirja alusel juhatuse esimees Priit Tampere 
+ja 
+________, registrikood _____ (edaspidi nimetatud müüja), keda esindab _______
+keda nimetatakse edaspidi ka pool või koos pooled, sõlmisid riigihanke 304231 ,,Ravitoidud ja tarvikud“ (edaspidi riigihange) osa __ tulemusena käesoleva raamlepingu (edaspidi leping) alljärgnevas:
+
+Lepingu eesmärk ja objekt
+Lepingu eesmärgiks on ostjale vajaliku ja eesmärgipäraseks kasutamiseks sobiva riigihankes kirjeldatud kauba tarnimine lepingus sätestatud tingimustel.
+Lepingu objektiks on kliinilised ravitoidud ja tarvikud (edaspidi kaup) müük vastavalt riigihanke alusdokumentide nõuetele ja selle alusel esitatud müüja pakkumusele.
+Kauba loetelu on toodud lepingu lisas 1. 
+Ostja ostab kaupa vajadusepõhiselt. 
+Käesoleva lepingu sõlmimisega müüja kinnitab, et lepingu alusel müüdava kauba tarnimine vastab ostja iga tellimuse täitmisel lepingu tingimustele.
+Hankelepingut kauba iga tellimuse puhul eraldiseisvalt ei sõlmita. Kõik lepingus toodud kauba tarnimise tingimused kehtivad kauba iga tellimuse täitmisel automaatselt.
+
+Üldsätted
+Poolte õiguste ning kohustuste aluseks on leping oma lisade ja riigihanke alusdokumentide ja müüja pakkumusega, Eesti Vabariigis kehtivad õigusaktid ja hea tava.
+Pooled kinnitavad, et lepingu nõuetekohane täitmine on võimalik ning pooled suunavad oma tegevused lepingust tulenevate kohustuste kohasele täitmisele, järgides teise poole seaduslikke ja lepingust tulenevaid õigusi ja huve.
+Poolte esindajad kinnitavad, et neil on olemas pädevus lepingu sõlmimiseks.
+
+Müügiperiood, lepingu kehtivus.
+Kauba müügiperiood: 
+24 kuud lepingu jõustumisest või
+lepingu maksimaalse maksumuse täitumisel.
+Mõlema osa maksimaalseks maksumuseks on 60 000,00 eurot, millele lisandub käibemaks.
+Leping jõustub, kui selle on allkirjastanud mõlemad pooled.
+Leping kehtib, kuni pooled on täitnud kõik lepingust tulenevad kohustused.
+
+Hinnad
+Kauba ühikhinnad on toodud lepingu lisas 1. 
+Toitmispumba rendihind (osa 1) on ___ eurot/kuu, millele lisandub käibemaks. Kui rendiperiood pole täismahus kalendrikuu, siis tasutakse rendi eest proportsionaalselt rendiperioodi pikkusega.
+Väljaspool Viljandi haiglat asuvale kliendile kauba kättetoimetamise kullerteenuse hind on ___ eurot/kord, millele lisandub käibemaks.
+Viljandi haiglasse kohaletoodava kauba maksumus sisaldub kauba ühikhinnas.
+Müüjal ei ole õigust lepingust tulenevate kohustuste täitmise eest küsida mingit täiendavat tasu. Kõikidel tarnetel kehtib lisas 1 toodud ühikhind, mis ei ole sõltuvuses tegelikest müügikogustest. 
+Kui müügiperioodil kauba turuhind väheneb võrreldes lepingus toodud/riigihankes esitatud pakkumusega, on müüjal on õigus esitada ostjale kauba soodsama ühikhinna alusel kalkuleeritud arve.
+
+Maksetingimused
+Ostja maksab kauba eest arve alusel pärast tellitud kauba tarnimist ostjale. Arvestust peetakse ühe kalndrikuu põhiselt.
+Ostja ei tee ettemaksu.
+Arve maksetähtaeg on 21 päeva arve saamisest.
+Müüjal on õigus arve esitada iga tellimuse nõuetekohase täitmise järgselt.
+Müüja esitab ostjale tellimusekohast kaupa üle andes saatelehe, mis on kauba eest tasumise arve alusdokumendiks.
+Esitada masintöödeldav e-arve, mis vastab   HYPERLINK "https://www.riigiteataja.ee/akt/dyn=123042019008&id=127122016003!pr7b1lg10" raamatupidamise seaduse alusel kehtestatud masintöödeldava algdokumendi juhendile. Muid formaate ostja ei aktsepteeri. Arvele tuleb märkida vähemalt tellimuse teinud isiku nimi, saatelehe ja raamlepingu numbrid.
+Arvele märkida ka riigihanke viitenumber, lepingu number ja ostja esindaja.
+
+Kauba tellimine, tarnimine, üleandmine
+Tellimine
+Kauba tellimus esitatakse tööpäeviti kuni kella 16-ni. Ostja määrab tellimuses kauba koguse ja tarneaadressid (kas kaup toimetatakse Viljandi haiglasse või kliendi aadressile).
+Müüja peab tagama tellimisvõimaluse vähemalt telefonitsi ja e-kirjaga. 
+Tellimuse esitamine:
+e-posti aadressile: ___________ või 
+telefonile ________ või
+müüja veebikeskkonnas (tellimisportaal): kui müüjal see olemas _____________.
+Pooled lepivad rakenduva tellimiseelistuse kokku lepingu täitmise raames.
+Tarnimine
+Kauba transport müüjalt ostjale toimub müüja korraldusel.
+Müüja tagab kauba transportimise tootja kehtestatud hoiutingimustel. Välistatud peab olema  kauba purunemine, saastumine ja sattumine kõrvaliste isikute valdusesse. 
+Müüja markeerib ja pakib kauba transportimiseks vastavalt markeerimis- ja pakkimisnõuetele, mis tagavad kauba transpordil selle nõuetekohase säilimise ja turvalisuse kuni kauba üleandmiseni apteeki. Kõikide müügipakendite etikettidel peab olema toote info ja skaneeritav EAN triipkood laoarvestuseks.
+Kaup peab jõudma ostjani või ostja määratud kliendini 3 tööpäeva jooksul tellimuse esitamisest arvates.
+Ostja ja klient võtavad kaupa vastu tööpäeviti kell 8-16. 
+Kauba tarne ning ostjale üleandmise kohaks on:
+Klient: aadressi määrab klient tellimuses.
+Ravitoidud Viljandi haiglasse: Viljandi haigla logistikakeskuse toiduladu (Saariku tee 6, Jämejala küla, Viljandi vald);
+Tarvikud Viljandi haiglasse: Viljandi haigla haiglaapteek (Tervikumi hoone logistikakeskus, C. R. Jakobsoni tn 2a, Viljandi linn, sissepääs Turu tn kaudu).
+          Logistikaterminali juurdepääsu, tarne ja laadimise tingimused on esitatud lepingu lisas 1 (Kauba tarne logistilised tingimused).
+Üleandmine-vastuvõtmine
+Kauba üleandmisel peab kauba säilivustähtaeg kehtima veel vähemalt 6 kuud.
+Kaup antakse üle markeeritult, pakendatult ja saatelehega.
+Kauba üleandmine kinnitatakse saatedokumentide allkirjastamisega.
+Kaup loetakse kohale toimetatuks ja vastu võetuks, kui selle üleandmine on fikseeritud.
+Kauba kontrolli (vastavus tellimusele, kogus jm) teostab klient või Viljandi haigla vastava struktuuriüksuse töötaja. 
+Ostjal on pärast kauba vastuvõtmist õigus esitada pretensioone tarnitud kauba nõuetekohasuse osas.
+Kauba juhusliku hävimise riisiko läheb müüjalt ostjale üle alates kauba üleandmisest.
+Teavitamine
+Müüja kohustub ostja kontaktisikule viivitamatult kirjalikult teatama kõigist  kauba kvaliteeti ja/või tähtaegset tarnimist ohustavatest või ohustada võivatest asjaoludest, samuti muudest asjaoludest, mis takistavad või võivad takistada lepingu eesmärgi saavutamist. Samuti teavitab ostja müüjat nõuete mittevastava kauba tarnimisest. Teavitamiskohustuse täitmine ei vabasta müüjat vastutusest lepingus sätestatud alustel.
+
+Müügigarantii
+Müüja kinnitab ja kohustub tagama, et kaup vastab õigusaktides, riigihanke alusdokumentides nõutule ning pakkumusele. 
+Müüja kinnitab, et täidab ravimiseadusest ning Euroopa Komisjoni delegeeritud määrusest  nr 2016/161 tulenevaid kohustusi ravimite ainulaadse identifikaatori tuvastamise kohta vastavalt eeltoodud õigusaktides määratud ulatusele ja tingimustele.
+Müüja kohustub omal kulul 3 tööpäeva jooksul pretensiooni esitamisest arvates tarnima kauba partiist puuduoleva kauba (saatelehe fikseeritud üleandmise kuupäevast arvates) või välja vahetama/juurde tarnima tellimusele ja/või kvaliteedinõuetele mittevastava kauba juhul, kui ostja on mittevastavuse avastanud ja müüjale pretensiooni esitanud. Ostjal on pretensiooni esitamise õigus 5 tööpäeva kauba saatedokumentide allkirjastamisest arvates. 
+Müüja on kohustatud ostja soovil esitama ostjale kauba kohta igakülgset informatsiooni.
+Müüja kohustub tagama lepingu täitmiseks vajalike õiguslike eelduste (sh kehtivate tegevuslubade, registreeringute, müügilubade jms) olemasolu kogu lepingu kehtivuse jooksul. 
+
+Vastutus
+Arve tasumisega viivitamisel on müüjal õigus nõuda ostjalt viivist 0,1% tähtajaks tasumata summalt iga tasumisega viivitatud kalendripäeva eest.
+Kui müüja ei pea kinni tarneaegadest ja viivitab kauba või selle osa üleandmisega, on ostjal õigus nõuda müüjalt leppetrahvi 0,1% kauba maksumusest iga viivitatud päeva eest. 
+Juhul, kui müüja ei ole suuteline kaupa nõuetekohaselt tarnima (puudused koguses, nomenklatuuris, kvaliteedis või muud mittevastavused lepingule), on ostjal õigus:
+8.3.1. osta müüjalt sama toimeaine lepingule vastavat asendusravimit, kusjuures asendusravimi ühikhind ei tohi olla kõrgem lepingukohasest ravimi ühikhinnast; 
+8.3.2. hankida puuduolev kaup kolmandatelt isikutelt ning nõuda müüjalt sellega seonduva kahju (sh hinnavahe, transport) hüvitamist.
+Leppetrahvi tasumine müüja poolt ei vabasta müüjat lepingus sätestatud kohustuste täitmisest. Leppetrahv on kokku lepitud kohustuse täitmise tagamiseks, mitte kohustuse täitmise asendamiseks. Ostjal on õigus müüjalt täiendavalt nõuda lepingu rikkumise tulemusena tekkinud kahju hüvitamist osas, mida leppetrahv ei kata. 
+Ostjal on õigus lepingu alusel nõutav leppetrahv ja sellele lisanduv võimalik kahju hüvitamise nõue tasaarvestada lepingu alusel tasumisele kuuluvatest summadest, kui ostja on leppetrahvi ja/või kahju hüvitamise nõude suurusest ja alusest müüjat teavitanud ning müüja ei ole sellele 7  kalendripäeva jooksul esitanud põhjendatud ja leppetrahvi ja/või kahju hüvitamise nõuet välistavat vastuväidet. Vastuväide võib tugineda ainult vääramatu jõu või ostjapoolse viivituse asjaolule.
+
+Lepingu muutmine ja ülesütlemine
+Lepingu muutmine toimub kooskõlas riigihangete seadusega poolte kirjalikul kokkuleppel. Muudatuskokkulepe on lepingu lahutamatu lisa.
+Pool võib lepingu üles öelda, teatades sellest lepingut rikkunud poolt kirjalikku taasesitamist võimaldavas vormis vähemalt 30 kalendripäeva ette, kui teine pool on olulisel määral rikkunud oma lepingujärgseid kohustusi või on need jätnud olulisel määral täitmata ning ei ole oma lepingulist kohustust täitnud 7 kalendripäeva jooksul alates teiselt poolelt lepingu ülesütlemise hoiatusteate saamisest.
+Pakkuja kohustub lepingu kehtivuse ajal tootja poolt toote osas tehtavatest muudatustest koheselt hankijat teavitama. Kui muudatuse tulemusena ei vasta toode enam hanke alusdokumentide tingimustele, on ostjal õigus leping ühepoolselt lõpetada.
+
+Vääramatu jõud
+Lepingu mittetäitmise põhjuseid, mida on tekitanud vääramatu jõud, loetakse vabandavaks tingimusel, kui pooled rakendavad jõupingutusi sellise olukorra vältimiseks ning tingimusel, et võetakse tarvitusele meetmed lepingu täitmiseks. 
+Vääramatu jõuna ei käsitle pooled müüja tarneraskuste põhjusi, mis osaliselt või täielikult on tingitud müüja ja/või tema partnerite tegevusest või tegevusetusest. 
+Pool, kelle tegevus lepingujärgsete kohustuste täitmisel on takistatud vääramatu jõu asjaolude tõttu, on kohustatud sellest koheselt kirjalikult teatama teisele Poolele või tema esindajatele.
+
+Teavitamine. Kontaktisikud
+Teisele poolele saadetava lepinguga seotud teated peavad olema esitatud kirjalikus vormis, välja arvatud juhtudel, kui teade on informatiivse iseloomuga, mille edastamisel teisele poolele ei ole õiguslikke tagajärgi.
+Informatiivset teadet võib edastada telefoni või e-posti teel.
+Ostja esindajad: 
+Kliinilised ravitoidud haiglale: toitlustusosakonna juht Ingrid Abram, 
+tel 5461 0094, e-post  HYPERLINK "mailto:ingrid.abram@viljandihaigla.ee" ingrid.abram@viljandihaigla.ee 
+Kliinilised ravitoidud patsientidele väljaspool haiglat: toitumisravi õde Airi Lind, tel 514 9801, e-post  HYPERLINK "mailto:airi.lind@viljandihaigla.ee" airi.lind@viljandihaigla.ee 
+Tarvikud: haiglaapteegi juhataja Erkko Põldaru, tel 5196 8662, e-post  HYPERLINK "mailto:erkko.poldaru@viljandihaigla.ee" erkko.poldaru@viljandihaigla.ee 
+Müüja esindaja: _____, tel _____, e-post _____.
+Kontaktisikute muutumisel teavitatakse teist poolt uue isiku andmetest.
+
+Konfidentsiaalsus
+Infot, mis pooled lepingu täitmise käigus teiselt poolelt saavad, s.h andmed teise poole kohta (edaspidi konfidentsiaalsuskohustus), ei kuulu avaldamisele kolmandatele isikutele ilma teise poole eelneva kirjaliku nõusolekuta, v.a kui see on õigusaktide kohaselt poolele kohustuslik. 
+Müüja vastutab kõigi oma töötajate või teiste oma majandus- ja kutsetegevuses kasutatavate isikute poolse konfidentsiaalsuskohustuse täitmise eest.
+Lepingus mõistavad pooled konfidentsiaalsete andmete all muu hulgas, kuid mitte ainult:
+mistahes andmeid patsientide kohta;
+muid andmeid, mis ei ole mõeldud avalikuks kasutamiseks ning mille avalikustamine kahjustab või võib kahjustada ostja huve.
+
+Lõppsätted
+Leping on allkirjastatud digitaalselt.
+Kõik lepingust tulenevad erimeelsused püütakse lahendada läbirääkimiste teel. Juhul, kui läbirääkimised ei anna tulemusi, lahendatakse vaidlus kohtu korras Tartu Maakohtus. Lepingu täitmisel tekkivad vaidlused lahendatakse Eesti Vabariigi õigusaktidega ettenähtud korras.
+
+Lisad
+Lisa 1. Kauba tarne logistilised tingimused
+Lisa 2. Hinnakiri, kaup ja teenused
+
+15. Poolte andmed
+OSTJA						MÜÜJA
+SA Viljandi Haigla
+C. R. Jakobsoni 2a 								
+Viljandi 71013 
+tel 434 3043 
+e-post  HYPERLINK "mailto:viljandihaigla@viljandihaigla.ee" viljandihaigla@viljandihaigla.ee   
+
+(allkirjastatud digitaalselt)			(allkirjastatud digitaalselt)
+Priit Tampere
+
+
+
+
+
+
+
+
+PAGE   \* MERGEFORMAT2
+
+
+
+
+
+
+=== 9715484_Pakkumuse_esildis_1201.xlsx ===
+[Sheet: Osa 1. Tarvikud ja sonditoidud]
+Pakkumuse esildis
+Osa 1. Tarvikud ja sonditoidud
+Hankija: SA Viljandi Haigla
+Riigihange: Ravitoidud ja tarvikud (viitenumber 304231)
+Hankija ostab toitmisraviks ravitoitusid, nendega seotud tarvikuid ja teenuseid (vt tabelid 1 ja 2).
+Kauba ja teenuste eeldatavat kogust ei määrata, kaupa ja teenust ostetakse vajadusepõhiselt raamlepingu alusel.
+Tabel 1. Tooted ja toodete miinimumnõuded. Maksumused
+Pos | TEHNILINE KIRJELDUS | PAKKUMUS
+Toode | Miinimumnõuded, kirjeldus | Suurus (pos 1)
+Pakendi maht (pos 2) | Toote nimetus, tootja | Tootekood (erinevatele suurustele näidata eraldi koodid) | Nõuetele vastavus
+"jah" - vastab, "ei" - ei vasta. Lisada arvväärtused punktide põhiselt | Pakendi suurus | Ühe pakendi maksumus km-ta, euro/pakend *
+1 | TARVIKUD
+1.1 | Enteraalne toitmissüstal ENFit ühendusega steril! | 1) kasutatakse enteraalseks toitmiseks, aspiratsiooniks, loputamiseks ja enteraalsete ravimite manustamiseks;
+2) hästi jälgitava mõõtskaala ja sujuva kolvi liikumisega; 
+3) läbipaistev silinder; 
+4) suure kontrastiga gradueering; 
+5) minimaalse jääkmahuga; 
+6) tagatud hermeetilisus; 
+7) ühilduvad ENFit keeret omavate enteraalse toitmise tarvikutega. | nõutavad kõik: 5, 10, 20, 60 ml
+100 ml
+1.2 | Toitmispumbaga ühilduv süsteem enteraalseks toitmiseks  ENFit ühendusega ster! | 1) ENFit ühendusega enteraalse toimise süsteem, mis ühildub Flocare Infinity toitmispumbaga; 
+2) võimalik ühendada pakiga (spike otsikuga) ENFit ravimiport;
+3) peab sobima pos-ga 1.7.
+1.3 | Toitmispumbaga ühilduv süsteem enteraalseks toitmiseks  ENFit ühendusega ster! | 1) ENFit ühendusega enteraalse toimise süsteem, mis ühildub Flocare Infinity toitmispumbaga; 
+2) võimalik ühendada nii toitmispudeli (40 mm diameeter) kui ka kotiga/pakiga spike otsikuga; 
+3) ENFit ravimiport;
+4) peab sobima pos-ga 1.7.
+1.4 | Konnektor ENFit  koonusotsaga ster! | 1) ENFit toitmissondile konnektor, mis võimaldab ülemineku konnektor koonusotsaga sondile/gastrostoomi sondile; 
+2) tagab ENFit ühenduse.
+1.5 | Gastrsotoomi vahetuskomplekt  (klassikaline balloongastrostoom) | 1) materjal: PVC vaba, DEHP (Diethylhexyl phthalate) ja lateksivaba; 
+2) sondi kogupikkus 18-30 cm;  
+3) süsteemi distaalne otsik - ENFit; 
+4) pakendatud ühekaupa ja steriilselt; 
+5) sond on soolesiseselt röntgenkontrastne; 
+6) kasutusaeg vähemalt 12 nädalat; 
+7) sondil välimine liikuv fiksaator ja sulgur ning kork otsas. | Nõutavad kõik: Ch 14, Ch 18, 
+Ch 20, Ch 24
+1.6 | Boolusadapter | 1) ENFit ühendusega boolusadapter toidu ohutuks ja hügieeniliseks süstlasse tõmbamiseks;
+2) korgiga suletav; 
+3) võimalik ühendada nii toitmispudeli (40 mm diameeter) kui ka kotiga/pakiga (spike otsik).
+1.7 | Toitmispump | 1) enteraalsete toitelahuste manustamiseks ettenähtud pump;
+2) kaal 350-400 gr; 
+3) portatiivne; 
+4) manustamiskiirus 1-400 ml/h sammuga 1 ml; 
+5) annus vahemikus 1-4000 ml 1 ml sammuga; 
+6) akutoitel töötamise võimalus; 
+7) visuaalsed ja akustilised alarmid probleemide korral; 
+8) veekindel, loputatav jooksva vee all; 
+9) klamber kinnitamiseks statiivile.
+10) Peab sobima pos-ga 1.2 ja 1.3 
+1.8 | Gravitatsioonisüsteem | 1) toitmissüsteem pudelist toitmiseks (40 mm diameeter) gravitatsiooni meetodil;
+2) ühildub pakutavate enteraalsete toitelahuste pakenditega.
+1.9 | Gravitatsioonisüsteem | 1) toitmissüsteem spike ühendusega toitmiseks gravitatsiooni meetodil, 
+ühildub pakutavate enteraalsete toitelahuste pakenditega; 
+2) spike otsikuga.
+1.10 | Toitmissond ENFit ühendusega, juhtetraadita | 1) nasogastraalsond; 
+2) materjal: polüuretaan või silikoon; 
+3) pikkus vahemikus 100-120 cm; 
+4) 16Fr pikkus vahemikus 92-120 cm; 
+5) röntgenkontrastne; 
+6) sondil gradueering pikkuse jälgimiseks vahega kuni 10 cm; 
+7) atraumaatilise tipuga, avad lateraalselt, ots suletud; 
+8) pikaajaliseks kasutamiseks - vähemalt 30 päeva; 
+9) ühekaupa steriilselt pakendatud. | Nõutavad kõik: 12 fr, 14 fr, 16 fr
+1.11 | Toitmissond ENFit ühendusega, juhtetraadiga | 1) nasogastraalsond; 
+2) materjal: polüuretaan või silikoon; 
+3) pikkus vahemikus 100-120 cm; 
+4) 16Fr pikkus vahemikus 92-120 cm; 
+5) röntgenkontrastne; 
+6) sondil gradueering pikkuse jälgimiseks vahega kuni 10 cm; 
+7) atraumaatilise tipuga, avad lateraalselt, ots suletud; 
+8) pikaajaliseks kasutamiseks - vähemalt 45 päeva; 
+9) ühekaupa steriilselt pakendatud. | Nõutavad kõik: 12 fr, 14 fr, 16 fr
+1.12 | Intestinaalne toitmissond ENFit ühendusega, juhtetraadiga | 1) materjal: polüuretaan; 
+2) pikkus vahemikus 120-140 cm; 
+3) röntgenkontrastne; 
+4) sondil gradueering pikkuse jälgimiseks vahega kuni 10 cm; 
+5) atraumaatilise tipuga, avad lateraalselt (vähemalt 2), ots suletud; 
+6) pikaajaliseks kasutamiseks - vähemalt 45 päeva; 
+7) ühekaupa steriilselt pakendatud. | 12 fr
+1.13 | Positsioonide 1.1 kuni 1.12 tooted | Kõik tooted peavad omama CE-märgist ja vastama Euroopa Liidus kehtestatud nõuetele (kui toode on vastavusdeklaratsiooni põhiselt meditsiiniseade, siis meditsiiniseadmele kehtvatele nõuetele).
+2 | SONDITOIT
+2.1 | Standardiseeritud sonditoit, kiudainevaba, täiskasvanule
+näidistoode Nutrison või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega;
+2) tasakaalustatud valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) laktoosi-, gluteeni- ja kiudainevaba; 
+4) energiasisaldus: 100 ml = 100 kcal. | 500 ml 
+(lubatud ±5%) 
+2.2 | Standardiseeritud sonditoit, kiudainevaba, täiskasvanule
+näidistoode Nutrison või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) laktoosi-, gluteeni- ja kiudainevaba; 
+4) energiasisaldus: 100 ml = 100 kcal. | 1000 ml 
+(lubatud ±5%) 
+2.3 | Standardiseeritud sonditoit, energia- ja valgurikas, kiudainevaba, täiskasvanule
+näidistoode Nutrison Energy või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud energia- ja valgurikas, rasvade, mineraalainete ja vitamiinide sisaldusega;  
+3) laktoosi-, gluteeni- ja kiudainevaba;  
+4) energiasisaldus: 100 ml = 150 kcal.                      | 500 ml 
+(lubatud ±5%) 
+2.4 | Standardiseeritud sonditoit, energia- ja valgurikas, kiudainevaba, täiskasvanule
+näidistoode Nutrison Energy või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud energia- ja valgurikas, rasvade, mineraalainete ja vitamiinide sisaldusega;  
+3) laktoosi-, gluteeni- ja kiudainevaba;  
+4) energiasisaldus: 100 ml = 150 kcal.                      | 1000 ml 
+(lubatud ±5%) 
+2.5 | Standardiseeritud sonditoit, kiudainerikas,                täiskasvanule
+näidistoode Nutrison Multi Fibre või sellega samaväärne | 1) standardiseeritud sonditoit; 
+2) kiudainerikas; 
+3) täiskasvanule. | 500 ml 
+(lubatud ±5%) 
+2.6 | Standardiseeritud sonditoit, kiudainerikas,                täiskasvanule
+näidistoode Nutrison Multi Fibre või sellega samaväärne | 1) standardiseeritud sonditoit; 
+2) kiudainerikas; 
+3) täiskasvanule. | 1000 ml 
+(lubatud ±5%) 
+2.7 | Standardiseeritud sonditoit, energia- ja valgurikas, kiudainerikas,  täiskasvanule
+näidistoode Energy Multi Fibre või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud energia- ja valgurikas, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega;
+3) laktoosi- ja gluteenivaba, kiudainerikas;  
+4) toiduenergiat vähemalt 1,5 kcal/ml; 
+5) toiduvalgu sisaldus: vähemalt 0,07 g/1 ml; 
+6) kiudainete sisaldus: 1,5-2,5 g/100 ml; 
+7) laktoosisisaldus: <0,025 g/100 ml.              | 500 ml 
+(lubatud ±5%) 
+2.8 | Standardiseeritud sonditoit, energia- ja valgurikas, kiudainerikas,  täiskasvanule
+näidistoode Energy Multi Fibre või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud energia- ja valgurikas, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) laktoosi- ja gluteenivaba, kiudainerikas;  
+4) energiasisaldus: vähemalt 1,5 kcal/ml; 
+5) toiduvalgu sisaldus vähemalt 0,07 g/1 ml; 
+6) kiudainete sisaldus 1,5-2,5 g/100 ml; 
+7) laktoosisisaldus <0,025 g/100 ml.              | 1000 ml 
+(lubatud ±5%) 
+2.9 | Modifitseeritud sonditoit  madala glükeemilise indeksiga diabeedi ja hüperglükeemia korral, kiudainerikas, täiskasvanule
+näidistoode Nutrison advanced Diason Energy HP või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) energiarikas ja kõrge valgusisaldusega; 
+3) valgud (kaseinaat ja osaliselt hüdrolüüsitud sojavalk) kergesti omastatavad üle 20% energiast;  
+4) intensiivravi patsientidele diabeedi või hüperglükeemia korral; 
+5) laktoosi- ja gluteenivaba, kiudainete seguga; 
+6) energiasisaldus vähemalt: 100 ml = 150 kcal. | 500 ml 
+(lubatud ±5%) 
+2.10 | Modifitseeritud sonditoit  madala glükeemilise indeksiga diabeedi ja hüperglükeemia korral, kiudainerikas, täiskasvanule
+näidistoode Nutrison advanced Diason Energy HP või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) energiarikas ja kõrge valgusisaldusega; 
+3) valgud (kaseinaat ja osaliselt hüdrolüüsitud sojavalk) kergesti omastatavad üle 20% energiast;  
+4) intensiivravi patsientidele diabeedi või hüperglükeemia korral; 
+5) laktoosi- ja gluteenivaba, kiudainete seguga; 
+6) energiasisaldus vähemalt: 100 ml = 150 kcal. | 1000 ml 
+(lubatud ±5%) 
+2.11 | Spetsiaalne sonditoit, metaboolse alatoitumise korral, kliiniliseks toitmiseks intensiivravis, täiskasvanule
+näidistoode Nutrison Protein Intensiv või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud kõrge valgu, kõrge rasvade, madala süsivesikute, mineraalainete ja vitamiinide sisaldusega;  
+3) laktoosi- ja gluteenivaba, vähese kiudainega; 
+4) süsivesikute  sisaldus vähemalt 10 g/100 ml; 
+5) valgusisaldus vähemalt 10 g/100 ml; 
+6) energiasisaldus: vähemalt: 100 ml = 125 kcal. | 500ml 
+(lubatud ±5%) 
+2.12 | Modifitseeritud  sonditoit, toitainete imendumis- ja ainevahetushäirete korral, kiudainevaba, täiskasvanule
+näidistoode Nutrison advanced Peptisorb või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud aminohapete ja oligopeptiidide, rasvade, süsivesikute (maltodekstriin), mineraalainete ja vitamiinide sisaldusega; 
+3) laktoosi-, gluteeni- ja kiudainevaba; 
+4) energiasisaldus vähemalt: 100 ml = 100 kcal. | 500 ml 
+(lubatud ±5%) 
+2.13 | Modifitseeritud  sonditoit  kasutamiseks lamatiste korral,  kiudainerikas, täiskasvanule
+näidistoode Nutrison advanced Cubison või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) kõrge energia, valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) gluteenivaba; 
+4) laktoosisisaldus ≤0,025g/100 ml; 
+5) kiudainerikas; 
+6) energiasisaldus ≥1,0 kcal/ml. | 1000 ml 
+(lubatud ±5%) 
+2.14 | Modifitseeritud  sonditoit soja- ja hernevalgul baseeruv,  lehmapiimavalgu allergia või ülitundlikkuse korral, kiudainerikas,  täiskasvanule
+näidistoode Nutrison PlantBase või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) sisaldab soja ja hernevalku; 
+4) laktoosi-, gluteenivaba;  
+5) sisaldab kiudaineid; 
+6) lehmapiimavalguvaba;  
+7) energiasisaldus: 100 ml = 200 kcal. | 500 ml 
+(lubatud ±5%) 
+2.15 | Modifitseeritud sonditoit kasutamiseks madala energia- ja vedelikuvajaduse korral
+näidistoode Nutrison 1000 Complete Multi Fibre või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) vitamiinide- ja mineraalaineterikas toitelahus;
+3) sisaldab hästiomastatavat valgusegu; 
+4) laktoosi-, gluteenivaba; 
+5) sisaldab kiudaineid; 
+6) energiasisaldus: 100 ml = 100 kcal.  | 1000 ml 
+(lubatud ±5%) 
+2.16 | Positsioonide 2.1 kuni 2.15 tooted | Kõik tooted peavad  olema kantud/registreeritud Põllumajandus- ja Toiduameti toidulisandite ja eritoitude andmebaasis eritoiduna. https://jvis.agri.ee/jvis/avalik.html#/toidulisandEritoitparing) 
+Osa 1 KAUBA MAKSUMUS (positsioonid 1 ja 2 kokku)  | 0
+Märkus* Viljandi haiglasse kohaletoodava kauba transpordi ja laadimise tasu sisaldub toodete ühikhinnas | hindamiskriteerium 1, 
+osakaal 95, kanda registrivormile
+Tabel 2. Seotud teenused. Maksumus
+Pos | Teenus | Nõuded | Nõuete täitmine | Hindamiskriteerium, osakaal | Ühik | Ühikhind km-ta, euro
+1 | Toitmispumba (tabel 1 pos 1.7) rent kliendile | Teenuse tellib oma kliendile hankija (klient võib asuda kodus või hooldus- asutuses üle Eesti). Pump tuleb kliendile kätte viia, üle anda, teha kasutuskoolitus, pumpa vajaduspõhiselt hooldada, tagada kasutusvalmidus, kasutuse lõppedes kliendi uurest ära viia. Hinnastatakse komplektina, st maksumus hõlmab kõikide nõuete täitmist. 
+Hankija on määranud ühikhinna maksimaalse piirmäära - 70 eurot/kuu (pakutav ühikhind ei tohi seda ületada).  | kriteerium 2, osakaal 4 | kalendrikuu
+2 | Tabeli 1 toodete (v.a pos 1.7) kliendile kättetoimetamise kullerteenus * | Teenuse tellib oma kliendile hankija (klient võib asuda kodus või hooldus- asutuses üle Eesti). Kaup tuleb kliendile kätte viia 3 tööpäeva jooksul tellimuse esitamisest arvates ja kliendile üle anda.
+Hankija on määranud ühikhinna maksimaalse piirmäära - 10 eurot/kuu
+(pakutav ühikhind ei tohi seda ületada).  | kriteerium 3, osakaal 1 | kord
+Märkus* kullerteenuse hind rakendub vaid sellele kaubale, mis toimetatakse kliendile, kes asub väljaspool Viljandi haiglat.
+Viljandi haiglasse kohaletoodava kauba transpordi ja laadimise tasu sisaldub toodete ühikhinnas
+
+[Sheet: Osa 2. Suukaudsed ravitoidud]
+Pakkumuse esildis
+Osa 2. Suukaudsed ravitoidud
+Hankija: SA Viljandi Haigla
+Riigihange: Ravitoidud ja tarvikud (viitenumber 304231)
+Hankija ostab toitmisraviks ravitoitusid ja nendega seotud teenust (vt tabelid 1 ja 2).
+Kauba ja teenuste eeldatavat kogust ei määrata, kaupa ja teenust ostetakse vajadusepõhiselt raamlepingu alusel.
+Tabel 1. Tooted ja toodete miinimumnõuded. Maksumused
+Pos | TEHNILINE KIRJELDUS | PAKKUMUS
+Toode. Toote funktsionaalsus | Miinimumnõuded | Pakendi suurus
+(lubatud ±5%)  | Toote nimetus, tootja | Tootekood | Nõuetele vastavus
+"jah" - vastab, "ei" - ei vasta. Lisada arvväärtused punktide põhiselt | Pakendi suurus | Ühe pakendi maksumus km-ta, euro/pakend *
+1 | Energiarikas homogeenne maitsestatud ravitoit joogina,  kasutamiseks täiendava või ainsa toiduna alatoitumuse korral täiskasvanule
+näidistoode Nutridrink või sellega samaväärne
+ | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) kontsentreeritud energia, valkude, rasvade, süsivesikute, mineraalainete, vitamiinide sisaldusega;
+3) laktoosisisaldus minimaalne (<0,7 g/100ml);
+4) gluteeni-, kiudainevaba;  
+5) energiasisaldus: 100 ml = 200-250 kcal.
+ | 125 ml
+2 | Energiarikas homogeenne maitsestatud ravitoit joogina, kasutamiseks täiendava või ainsa toiduna alatoitumuse korral täiskasvanule
+näidistoode Nutridrink Multi Fibre või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) kontsentreeritud energia, valkude, rasvade, süsivesikute, mineraalainete, vitamiinide sisaldusega;  
+3) laktoosisisaldus minimaalne (<0,7g/100ml); 
+4) gluteenivaba, kiudainega; 
+5) erinevaid kiudaineid üle 3 g/100 ml (GOS/FOS); 
+6) energiasisaldus: 100 ml = 200-250 kcal. | 125 ml
+3 | Energia- ja valgurikas homogeenne maitsestatud ravitoit joogina kliiniliseks toitmiseks, täiendava või ainsa toiduna kriitilise alatoitumuse korral täiskasvanule,  kiudainevaba
+näidistoode Nutridrink Protein või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) kontsentreeritud energia, valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega;  
+3) laktoosisisaldus minimaalne (<0,7g/100ml); 
+4) gluteeni- ja kiudainevaba; 
+5) väga kõrge valgusisaldusega. Valgusisaldus: vähemalt 14 g/100 ml; 
+6) väga kõrge energiasisaldusega, 100 ml = 200-250 kcal. | 125 ml
+4 | Süsivesikuterikas homogeenne maitsestatud jook enne ja pärast operatsiooni, maksatsirroosi, kroonilise pankreatiidi või neerupuudulikkuse korral täiskasvanule
+näidistoode Nutridrink PreOp või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) energia-ja süsivesikuterikas; 
+3) rasva- ja valguvaba;  
+4) mineraalainete sisaldusega; 
+5) laktoosi-, gluteeni- ja kiudainevaba; 
+6) kiiresti imenduvate süsivesikute sisaldus vähemalt 12 g/100 ml; 
+7) energiasisaldus 100 ml = 50 kcal. | 200 ml
+5 | Energiarikas homogeenne maitsestatud jook, kasutamiseks täiendava või ainsa toiduna diabeetikule alatoitumise korral täiskasvanule
+näidistoode Nutridrink Diasip või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) kõrge energia, valkude, rasvade, madala süsivesikute, mineraalainete, vitamiinide ja  kiudainete sisaldus;
+3) gluteenivaba;  
+4) energiasisaldus: 100 ml = 100 kcal. | 200 ml
+6 | maitsestatud toidulisand spetsiaalseks meditsiiniliseks otstarbeks, kasutamiseks täiendava toiduna kognitiivse languse või varajase Alzheimeri tõve korral
+näidistoode Nutridrink Souvenaid või sellega samaväärne | 1) spetsiaalne meditsiiniline toit, mis sisaldab kontsentreeritud energiat, valke, süsivesikuid, rasvu, mineraalaineid ja vitamiine; 
+2) sisaldab unikaalset toitainete kombinatsiooni Fortasyn Connect (DHA, EPA, uridiinmonofosfaat, koliin, B-vitamiinid, fosfolipiidid, seleen, vitamiinid C ja E), mis toetavad närvirakkude membraanide ja sünapside moodustumist; 
+3) laktoosisisaldus minimaalne (< 0,7 g / 100 ml); 
+4) gluteenivaba; 
+5) energiasisaldus: 100 ml = 100 kcal.  | 125 ml
+7 | Energiarikas homogeenne maitsestatud ravitoit joogina, täiendava või ainsa toiduna ägeda ja kroonilise neerupuudulikkuse korral piiratud valgu ja mikroelementide sisaldus, täiskasvanule,  ei ole dialüüsravi
+näiditoode Nutridrink Renilon või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) suurendatud energia ja rasvade sisaldusega; 
+3) vähendatud naatriumi-, kaaliumi- ja fosfaatide sisaldusega; 
+4) valgusisaldus: vähemalt 4 g/100 ml;
+5) kiudainetevaba; 
+6) energiasisaldus: 100 ml = 200-250 kcal. | 125 ml
+8 | Energiarikas homogeenne maitsestatud ravitoit joogina, täiendava või ainsa toiduna ägeda ja kroonilise neerupuudulikkuse korral piiratud valgu ja mikroelementide sisaldus, täiskasvanule, hemo- või peritoneaaldialüüsil
+näidistoode Nutridrink Renilon või sellega samaväärne  | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) suurendatud energia ja rasvade sisaldusega; 
+3) vähendatud naatriumi-, kaaliumi- ja fosfaatide sisaldusega;
+4) valgusisaldus: vähemalt 7 g/100 ml;
+5) kiudainetevaba;  
+6) energiasisaldus: 100 ml = 200-250 kcal. | 125 ml
+9 | Energiarikas ja valgusisaldust suurendav toidulisand haavade paranemise toetamiseks
+näidistoode Nutridrink Cubitan või sellega samaväärne | 1) vedel meditsiiniline toit spetsiaalseks otstarbeks, mille koostis on mõeldud suurenenud valgu-, energia- ja mikrotoitainete vajadusega patsientidele, eriti haavade paranemise toetamiseks; 
+2)valgusisaldus: 20 g/200 ml, 
+3) energiasisaldus: ~ 250 kcal/100 ml; 
+4) olulisi mikrotoitaineid (tsink, C-vitamiin, arginiin); 
+5) laktoosisisaldus minimaalne; 
+6) gluteenivaba. | 200 ml
+10 | Rasvavaba, energiarikas selge jook, kasutamiseks lisatoiduna suurenenud energiavajaduse korral
+näidistoode Nutridrink Juice Style või sellega samaväärne | 1) selge, puuviljamaitseline vedel meditsiiniline toit spetsiaalseks otstarbeks; 
+2) ei sisalda rasva; 
+3) energiasisaldus: 100 ml = 150 kcal; 
+4) sisaldab süsivesikuid (süsivesikupõhine), vitamiine ja mineraalaineid; 
+5) laktoosivaba ja gluteenivaba; 
+6) sobib inimestele, kes ei talu rasvarikkaid toite või kellel on rasva seedimise probleemid. | 200 ml
+11 | Energiarikas taimset päritolu maitsestatud meditsiinilistel näidustustel kasutatav jook, kasutamiseks täiendava või ainsa toiduna alatoitumise korral täiskasvanutel
+näidistoode Nuridrink PlantBase 1,5 või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) energiasisaldus: 150 kcal = 100 ml; 
+3) taimne valguallikas. Valgusisaldus: vähemalt 5 g/100 ml; 
+4) laktoosi- ja kaseiinivaba; 
+5) gluteenivaba. | 200 ml
+12 | Energiarikas taimset päritolu maitsestatud meditsiinilistel näidustustel kasutatav jook, kasutamiseks täiendava või ainsa toiduna alatoitumise korral täiskasvanutel
+näidistoode Nuridrink PlantBase 2,0 või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) energiasisaldus: 200 kcal = 100 ml; 
+3) taimne valguallikas. Valkude sisaldus vähemalt 10 g/100 ml; 
+4) laktoosi- ja kaseiinivaba; 
+5) gluteenivaba. | 200 ml
+13 | Valgulisand toidu rikastamiseks  täiskasvanutele
+Näidistoode Protifar või sellega samaväärne | 1) pulbrina, eritoitudele kehtestatud koostisega;
+2) madala rasvasisaldusega; 
+3) gluteenivaba; 
+4) valgusisaldus: vähemalt 85 g/100 g;  
+5) energiasisaldus: 100 g = 350-400 kcal.        | 225-1000 g
+14 | Toidu ja vedelike paksendaja täiskasvanule
+Näidistoode Nutilis Clear või sellega samaväärne | 1) maltodekstriinil põhinev toidu ja vedeliku paksendaja; 
+2) kiirelt toimiv; 
+3) ei muuda toidu või joogi maitset; 
+4) amülaasresistentne. | 175 g
+15 | Kiudaine segu kõhukinnisuse või ebaregulaarse sooletegevuse korral
+Näidistoode Stimulance või sellega samaväärne | 1) neutraalse maitsega, saab lisada nii magusale kui soolasele toidule/joogile; 
+2) sisalsab lahustuvate ja lahustumatute kiudainete segu; 
+3) gluteenivaba. | 400 g
+16 | Energiarikas meditsiinilistel näidustustel kasutatav oomega-3 rasvhapetega rikastatud toit (ravijook) haigusest tingitud alatoitumuse korral
+Näidistoode Nutridrink Protein Omega3 või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega;
+2) energiasisaldus: vähemalt 2 kcal/100 ml; 
+3) valgusisaldus: vähemalt 12 g/100 ml; 
+4) suure oomega-3 rasvhapete sisaldusega (DHA+EPA), vähemalt 
+1,2 g/100 ml;
+5) gluteenivaba. | 125 ml
+17 | Positsioonide 1 kuni 16 tooted | Kõik tooted peavad  olema kantud/registreeritud Põllumajandus- ja Toiduameti toidulisandite ja eritoitude andmebaasis eritoiduna. https://jvis.agri.ee/jvis/avalik.html#/toidulisandEritoitparing) 
+osa 2 KAUBA MAKSUMUS (kõikide positsioonide summa) | 0
+Märkus* Viljandi haiglasse kohaletoodava kauba transpordi ja laadimise tasu sisaldub toodete ühikhinnas | hindamiskriteerium 1, 
+osakaal 98, kanda registrivormile
+Tabel 2. Seotud teenused. Maksumus
+Pos | Teenus | Nõuded | Nõuete täitmine | Hindamiskriteerium, osakaal | Ühik | Ühikhind km-ta, euro
+1 | Tabeli 1 toodete kättetoimetamise 
+kullerteenus * | Teenuse tellib oma kliendile hankija (klient võib asuda kodus või hooldus- asutuses üle Eesti). Kaup tuleb kliendile kätte viia 3 tööpäeva jooksul tellimuse esitamisest arvates ja kliendile üle anda.
+Hankija on määranud ühikhinna maksimaalse piirmäära - 10 eurot/kuu (pakutav ühikhind ei tohi seda ületada).  | kriteerium 2, osakaal 2 | kord
+Märkus* kullerteenuse hind rakendub vaid sellele kaubale, mis toimetatakse kliendile, kes asub väljaspool Viljandi haiglat.
+Viljandi haiglasse kohaletoodava kauba transpordi ja laadimise tasu sisaldub toodete ühikhinnas
+
+
+=== 9715484_Pakkumuse_esitamise_ettepanek_1201.doc ===
+
+PAKKUMUSE ESITAMISE ETTEPANEK
+Hankija
+SA Viljandi Haigla registrikood 90004585 C. R. Jakobsoni tn 2a, Viljandi 71013
+Hanke nimetus
+Ravitoidud ja tarvikud
+Hanke viitenumber
+304231
+Menetlusliik
+Avatud hankemenetlus
+Hanke osad
+Hange on jagatud 2 osaks: Osa 1 – Tarvikud ja sonditoidud Osa 2 . Suukaudsed ravitoidud
+Lepingukohane müügiperiood
+24 kuud või lepingu maksimaalse maksumuse täitumiseni
+Pakkumuse esitamise tähtpäev
+21.01.2026 kell 10.00
+Pakkumuse esitamine 
+Riigihangete register (eRHR) https://riigihanked.riik.ee/rhr-web/#
+Päringud, taotlused, selgitused
+eRHRi keskkonnas
+
+1. Pakkumuse ettepaneku juurde kuuluvad järgmised lisad:
+Lisa 1. Raamlepingu kavand.
+Lisa 2. Tehniline kirjeldus. Esildise vorm.
+
+2. Lepingu ese
+2.1. Lepingu esemeks on mitmesuguste toitumisraviks vajalike ravitoitude ja tarvikute müük hankijale ja toodete transport hankija määratud tarnekohta.
+2.2. Lepingut täidetakse vastavalt hankija esitatud tellimustele, nõuded kaubale ja tarnetingimused on määratud alusdokumentides.
+2.3. Kõik pakutavad tooted peavad vastama hankija määratud nõuetele.
+
+3. Leping
+3.1. Mõlema osa eduka pakkumuse esitanud pakkujaga sõlmitakse raamleping ühe pakkujaga alusdokumentides ettenähtud tingimustel ja vastavuses edukaks tunnistatud pakkumusega. Kui üks pakkuja on edukas rohkem kui ühes osas, võib sõlmida ühise lepingu, mis võtab kokku kõik osad, milles pakkumus edukaks tunnistati.
+3.2. Raamlepingu põhjal hankelepinguid eraldi ei vormistata, igat tellimust käsitletakse hankelepinguna, millele rakenduvad raamlepingus sätestatud tellimused.
+3.3. Raamlepingus on müügiperiood määratud. 
+Raamlepingule pole määratud koguste ja maksumuse miinimumi ega maksimumi, lepingu maht sõltub otseselt hankija ravimi vajadusest. 
+3.4. Hanke alusdokumendid, nende muudatused, hankija selgitused huvitatud isikute päringutele ja edukaks tunnistatud pakkumus on raamlepingu dokumentideks.
+
+4. Juhis pakkujale 
+4.1. Mõlemas osas tuleb pakkumuses täita vastavustingimustes sätestatud nõuded, sealhulgas esitada alusdokumentides nõutud positsioonide toodete tootenäidised (tootenäidist ei pea esitama toodetele, mida pakkuja on hankijale lepingu alusel tarninud viimase 12 kuu jooksul ja kui pakub täpselt sama tarnitud toodet).
+4.2. Pakkumuse esildisel tuleb esitada kõik pakkumuse lahtrite veerud tabelites 1,2, 3.
+4.3. Kauba maksumuseks on selle osa toodete ühikhindade summa käibemaksuta. Teenuste maksumuseks on ühikhind, millele lisandub käibemaks.
+4.3.1. ühikhinnad ja teenustasud esitatakse sendise ehk sajandiku euro täpsusega;
+4.3.2. pakkuja tuleb kontrollida esildise tabelisse eelsisestatud valemeid, et maksumuse arvutamisel poleks arvutusviga.
+4.3.3. Hindamiseks vajalikud summad ja ühikhinnad (need mis esildisel) kantakse osa eRHR-i maksumusvormile.
+4.4. Pakutavate toode näidiste (tootenäidiste) esitamine.
+4.4.1. Esitada kõikide toodete tootenäidised (igast 1 tk), v.a punktis 4.1 nimetatud juhul. 
+4.4.2. Tootenäidised peavad olema samad tooted, mida pakkuja pakkumuses pakub. 
+4.4.3. Tootenäidised tuleb esitada hiljemalt pakkumuse esitamise tähtpäevaks Viljandi haigla Tervikumi hoonesse (Viljandi linn, C. R. Jakobsoni tn 2a). Tootenäidiste pakend tuleb panna hoone aatriumis asuvasse pakiautomaati, saajaks valida haiglaapteek või anda Tervikumi infolauda klienditeenindajale.
+4.4.4. Tootenäidised pakendada ühte koondpakendisse, milles tootenäidised omakorda pakendatud osade põhiselt (iga osa eraldi pakendis, kui pakkuja esitab pakkumuse mitmele osale ja osa pakendil osa number). Igal tootenäidisel peab olema info, mis positsiooni toode see on.
+Koondpakend peab olema kinnine ja pakendil markeering:
+Viljandi haigla Riigihanke 304231 „Ravitoidud ja tarvikud“ tootenäidised
+Pakkuja nimi 
+Probleemi tekkimisel võtta ühendust: Kaidi Braun (Viljandi haigla hankejuht), 
+tel 5346 5379, e-post  HYPERLINK "mailto:kaidi.braun@viljandihaigla.ee" kaidi.braun@viljandihaigla.ee 
+4.4.5. Tootenäidiste kohaletoimetamise kulud, kohaletoimetamise ja ajalise riski kannab pakkuja. Kui pakkuja soovib hankijalt tootenäidiste kättesaamist kinnitavat tõendit, tuleb vastav taotlus esitada riigihangete registri teabevahetuse kaudu. 
+4.4.6. Tootenäidiseid hankija pakkujale ei tagasta. 
+     4.5. Iga viidet, mille hankija teeb hanke alusdokumentides (sh tehnilises kirjelduses, maksumusvormis) standardile või ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule või tootmisviisile, tuleb lugeda/mõista selliselt, et see on täiendatud märkega „või sellega samaväärne“.
+
+5. Pakkumuse vastavus
+5.1. Pakkumus peab vastama alusdokumentides sätestatud vastavustingimustele.
+5.2. Pakkumuse vastavaks tunnistamiseks peavad esitatud tooted vastama alusdokumentides esitatud. Kui pakutav toode/tooted ei vasta nõuetele ja sellel on sisulisi puudusi, on komisjonil õigus tunnistada pakkumus põhjendatult mittevastavaks.
+
+6. Pakkumuste hindamine
+6.1. Hinnatakse hanke alusdokumentidega sätestatud vastavustingimustele vastavaid pakkumusi. 
+6.2. Pakkumusi hinnatakse osade põhiselt. 
+6.3. Igas osas tunnistatakse edukaks majanduslikult soodsaim pakkumus. Majanduslikult soodsaimaks pakkumuseks on odavaima maksumusega pakkumus. 
+6.4. Hindamiskriteeriumid ja nende osakaalud hindamisel:
+6.4.1. Osa 1. 
+Kauba maksumus (vt esildise tabel 1 summa), osakaal 95;
+Toitmispumba rendi ühikhind (vt esildise tabel 2 pos 1), osakaal 4;
+Kullerteenuse ühikhind (vt esildise tabel 2 pos 2), osakaal 1.
+6.4.2. Osa 2.
+Kauba maksumus (vt esildise tabel 1 summa), osakaal 98;
+Kullerteenuse ühikhind (vt esildise tabel 2 pos 1), osakaal 2.
+6.5. Nii maksumust kui ühikhindu hinnatakse põhimõttel „Vähim on parim“.
+Maksimaalsed punktid omistatakse pakkumusele, mille maksumus on väikseim. Ülejäänud pakkumused saavad proportsionaalselt vähem punkte. 
+6.6. Punkte arvestatakse sajandiku täpsusega.
+6.7. Kriteeriumide lõikes omistatud punktid summeeritakse. 
+6.8. Edukaks pakkumuseks igas osas tunnistatakse pakkumus, mille punktide summa on suurim (majanduslikult soodsaim). 
+Kui mitu pakkumust koguvad võrdselt suurima punktisumma, tunnistatakse edukaks pakkumus, milles kauba maksumus on väikseim.
+6.9. Kui pakkumuse maksumuses on arvutusviga, esitab hankija pakkujale ettepaneku nõustuda vea parandamisega. Keeldumisel on hankijal õigus lükata pakkumus tagasi.
+6.10. Kui edukaks tunnistatud pakkumuse esitanud pakkuja võtab hankijast mitteolenevatel põhjustel oma pakkumuse tagasi, on hankijal õigus tunnistada edukaks hindamistulemuste põhiselt järgmine pakkumus. 
+
+7. Pakkumuste tagasilükkamine
+7.1. Hankijal on õigus lükata pakkumus tagasi, kui see ei vasta sätestatud vastavustingimustele.
+7.2. Hankijal on õigus kõik pakkumused tagasi lükata, kui:
+7.2.1. hanke läbiviimise aluseks olevad tingimused on oluliselt muutunud ja seetõttu osutub hankelepingu sõlmimine mittevajalikuks või võimatuks. 
+7.2.2. maksumus ületab hankelepingu eeldatavat maksumust ja hankija finantseerimissuutlikkust.
+7.2.3. hankijal on põhjendatud vajadus muuta hankelepingu eseme tehnilist kirjeldust ja hankelepingu tingimusi (näiteks hankija on toodet ebatäpselt kirjeldanud ja toode ei rahulda hankija ravitöö vajadusi, lepingu tingimusi on vajalik muuta või muud objektiivsed põhjused).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+PAGE  2
+
+
+PAGE  2
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== 9715484_Tehniline_kirjeldus_1201.xlsx ===
+[Sheet: Osa 1. Tarvikud ja sonditoidud]
+Tehniline kirjeldus
+Osa 1. Tarvikud ja sonditoidud
+Hankija: SA Viljandi Haigla
+Riigihange: Ravitoidud ja tarvikud (viitenumber 304231)
+Hankija ostab toitmisraviks ravitoitusid, nendega seotud tarvikuid ja teenuseid (vt tabelid 1 ja 2).
+Kauba ja teenuste eeldatavat kogust ei määrata, kaupa ja teenust ostetakse vajadusepõhiselt raamlepingu alusel.
+Tabel 1. Tooted ja toodete miinimumnõuded. Maksumused
+Pos | TEHNILINE KIRJELDUS | PAKKUMUS
+Toode | Miinimumnõuded, kirjeldus | Suurus (pos 1)
+Pakendi maht (pos 2) | Toote nimetus, tootja | Tootekood (erinevatele suurustele näidata eraldi koodid) | Nõuetele vastavus
+"jah" - vastab, "ei" - ei vasta. Lisada arvväärtused punktide põhiselt | Pakendi suurus | Ühe pakendi maksumus km-ta, euro/pakend
+1 | TARVIKUD
+1.1 | Enteraalne toitmissüstal ENFit ühendusega steril! | 1) kasutatakse enteraalseks toitmiseks, aspiratsiooniks, loputamiseks ja enteraalsete ravimite manustamiseks;
+2) hästi jälgitava mõõtskaala ja sujuva kolvi liikumisega; 
+3) läbipaistev silinder; 
+4) suure kontrastiga gradueering; 
+5) minimaalse jääkmahuga; 
+6) tagatud hermeetilisus; 
+7) ühilduvad ENFit keeret omavate enteraalse toitmise tarvikutega. | nõutavad kõik: 5, 10, 20, 60 ml
+100 ml
+1.2 | Toitmispumbaga ühilduv süsteem enteraalseks toitmiseks  ENFit ühendusega ster! | 1) ENFit ühendusega enteraalse toimise süsteem, mis ühildub Flocare Infinity toitmispumbaga; 
+2) võimalik ühendada pakiga (spike otsikuga) ENFit ravimiport;
+3) peab sobima pos-ga 1.7.
+1.3 | Toitmispumbaga ühilduv süsteem enteraalseks toitmiseks  ENFit ühendusega ster! | 1) ENFit ühendusega enteraalse toimise süsteem, mis ühildub Flocare Infinity toitmispumbaga; 
+2) võimalik ühendada nii toitmispudeli (40 mm diameeter) kui ka kotiga/pakiga spike otsikuga; 
+3) ENFit ravimiport;
+4) peab sobima pos-ga 1.7.
+1.4 | Konnektor ENFit  koonusotsaga ster! | 1) ENFit toitmissondile konnektor, mis võimaldab ülemineku konnektor koonusotsaga sondile/gastrostoomi sondile; 
+2) tagab ENFit ühenduse.
+1.5 | Gastrsotoomi vahetuskomplekt  (klassikaline balloongastrostoom) | 1) materjal: PVC vaba, DEHP (Diethylhexyl phthalate) ja lateksivaba; 
+2) sondi kogupikkus 18-30 cm;  
+3) süsteemi distaalne otsik - ENFit; 
+4) pakendatud ühekaupa ja steriilselt; 
+5) sond on soolesiseselt röntgenkontrastne; 
+6) kasutusaeg vähemalt 12 nädalat; 
+7) sondil välimine liikuv fiksaator ja sulgur ning kork otsas. | Nõutavad kõik: Ch 14, Ch 18, 
+Ch 20, Ch 24
+1.6 | Boolusadapter | 1) ENFit ühendusega boolusadapter toidu ohutuks ja hügieeniliseks süstlasse tõmbamiseks;
+2) korgiga suletav; 
+3) võimalik ühendada nii toitmispudeli (40 mm diameeter) kui ka kotiga/pakiga (spike otsik).
+1.7 | Toitmispump | 1) enteraalsete toitelahuste manustamiseks ettenähtud pump;
+2) kaal 350-400 gr; 
+3) portatiivne; 
+4) manustamiskiirus 1-400 ml/h sammuga 1 ml; 
+5) annus vahemikus 1-4000 ml 1 ml sammuga; 
+6) akutoitel töötamise võimalus; 
+7) visuaalsed ja akustilised alarmid probleemide korral; 
+8) veekindel, loputatav jooksva vee all; 
+9) klamber kinnitamiseks statiivile.
+10) Peab sobima pos-ga 1.2 ja 1.3 
+1.8 | Gravitatsioonisüsteem | 1) toitmissüsteem pudelist toitmiseks (40 mm diameeter) gravitatsiooni meetodil;
+2) ühildub pakutavate enteraalsete toitelahuste pakenditega.
+1.9 | Gravitatsioonisüsteem | 1) toitmissüsteem spike ühendusega toitmiseks gravitatsiooni meetodil, 
+ühildub pakutavate enteraalsete toitelahuste pakenditega; 
+2) spike otsikuga.
+1.10 | Toitmissond ENFit ühendusega, juhtetraadita | 1) nasogastraalsond; 
+2) materjal: polüuretaan või silikoon; 
+3) pikkus vahemikus 100-120 cm; 
+4) 16Fr pikkus vahemikus 92-120 cm; 
+5) röntgenkontrastne; 
+6) sondil gradueering pikkuse jälgimiseks vahega kuni 10 cm; 
+7) atraumaatilise tipuga, avad lateraalselt, ots suletud; 
+8) pikaajaliseks kasutamiseks - vähemalt 30 päeva; 
+9) ühekaupa steriilselt pakendatud. | Nõutavad kõik: 12 fr, 14 fr, 16 fr
+1.11 | Toitmissond ENFit ühendusega, juhtetraadiga | 1) nasogastraalsond; 
+2) materjal: polüuretaan või silikoon; 
+3) pikkus vahemikus 100-120 cm; 
+4) 16Fr pikkus vahemikus 92-120 cm; 
+5) röntgenkontrastne; 
+6) sondil gradueering pikkuse jälgimiseks vahega kuni 10 cm; 
+7) atraumaatilise tipuga, avad lateraalselt, ots suletud; 
+8) pikaajaliseks kasutamiseks - vähemalt 45 päeva; 
+9) ühekaupa steriilselt pakendatud. | Nõutavad kõik: 12 fr, 14 fr, 16 fr
+1.12 | Intestinaalne toitmissond ENFit ühendusega, juhtetraadiga | 1) materjal: polüuretaan; 
+2) pikkus vahemikus 120-140 cm; 
+3) röntgenkontrastne; 
+4) sondil gradueering pikkuse jälgimiseks vahega kuni 10 cm; 
+5) atraumaatilise tipuga, avad lateraalselt (vähemalt 2), ots suletud; 
+6) pikaajaliseks kasutamiseks - vähemalt 45 päeva; 
+7) ühekaupa steriilselt pakendatud. | 12 fr
+1.13 | Positsioonide 1.1 kuni 1.12 tooted | Kõik tooted peavad omama CE-märgist ja vastama Euroopa Liidus kehtestatud nõuetele (kui toode on vastavusdeklaratsiooni põhiselt meditsiiniseade, siis meditsiiniseadmele kehtvatele nõuetele).
+2 | SONDITOIT
+2.1 | Standardiseeritud sonditoit, kiudainevaba, täiskasvanule
+näidistoode Nutrison või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega;
+2) tasakaalustatud valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) laktoosi-, gluteeni- ja kiudainevaba; 
+4) energiasisaldus: 100 ml = 100 kcal. | 500 ml 
+(lubatud ±5%) 
+2.2 | Standardiseeritud sonditoit, kiudainevaba, täiskasvanule
+näidistoode Nutrison või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) laktoosi-, gluteeni- ja kiudainevaba; 
+4) energiasisaldus: 100 ml = 100 kcal. | 1000 ml 
+(lubatud ±5%) 
+2.3 | Standardiseeritud sonditoit, energia- ja valgurikas, kiudainevaba, täiskasvanule
+näidistoode Nutrison Energy või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud energia- ja valgurikas, rasvade, mineraalainete ja vitamiinide sisaldusega;  
+3) laktoosi-, gluteeni- ja kiudainevaba;  
+4) energiasisaldus: 100 ml = 150 kcal.                      | 500 ml 
+(lubatud ±5%) 
+2.4 | Standardiseeritud sonditoit, energia- ja valgurikas, kiudainevaba, täiskasvanule
+näidistoode Nutrison Energy või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud energia- ja valgurikas, rasvade, mineraalainete ja vitamiinide sisaldusega;  
+3) laktoosi-, gluteeni- ja kiudainevaba;  
+4) energiasisaldus: 100 ml = 150 kcal.                      | 1000 ml 
+(lubatud ±5%) 
+2.5 | Standardiseeritud sonditoit, kiudainerikas,                täiskasvanule
+näidistoode Nutrison Multi Fibre või sellega samaväärne | 1) standardiseeritud sonditoit; 
+2) kiudainerikas; 
+3) täiskasvanule. | 500 ml 
+(lubatud ±5%) 
+2.6 | Standardiseeritud sonditoit, kiudainerikas,                täiskasvanule
+näidistoode Nutrison Multi Fibre või sellega samaväärne | 1) standardiseeritud sonditoit; 
+2) kiudainerikas; 
+3) täiskasvanule. | 1000 ml 
+(lubatud ±5%) 
+2.7 | Standardiseeritud sonditoit, energia- ja valgurikas, kiudainerikas,  täiskasvanule
+näidistoode Energy Multi Fibre või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud energia- ja valgurikas, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega;
+3) laktoosi- ja gluteenivaba, kiudainerikas;  
+4) toiduenergiat vähemalt 1,5 kcal/ml; 
+5) toiduvalgu sisaldus: vähemalt 0,07 g/1 ml; 
+6) kiudainete sisaldus: 1,5-2,5 g/100 ml; 
+7) laktoosisisaldus: <0,025 g/100 ml.              | 500 ml 
+(lubatud ±5%) 
+2.8 | Standardiseeritud sonditoit, energia- ja valgurikas, kiudainerikas,  täiskasvanule
+näidistoode Energy Multi Fibre või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud energia- ja valgurikas, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) laktoosi- ja gluteenivaba, kiudainerikas;  
+4) energiasisaldus: vähemalt 1,5 kcal/ml; 
+5) toiduvalgu sisaldus vähemalt 0,07 g/1 ml; 
+6) kiudainete sisaldus 1,5-2,5 g/100 ml; 
+7) laktoosisisaldus <0,025 g/100 ml.              | 1000 ml 
+(lubatud ±5%) 
+2.9 | Modifitseeritud sonditoit  madala glükeemilise indeksiga diabeedi ja hüperglükeemia korral, kiudainerikas, täiskasvanule
+näidistoode Nutrison advanced Diason Energy HP või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) energiarikas ja kõrge valgusisaldusega; 
+3) valgud (kaseinaat ja osaliselt hüdrolüüsitud sojavalk) kergesti omastatavad üle 20% energiast;  
+4) intensiivravi patsientidele diabeedi või hüperglükeemia korral; 
+5) laktoosi- ja gluteenivaba, kiudainete seguga; 
+6) energiasisaldus vähemalt: 100 ml = 150 kcal. | 500 ml 
+(lubatud ±5%) 
+2.10 | Modifitseeritud sonditoit  madala glükeemilise indeksiga diabeedi ja hüperglükeemia korral, kiudainerikas, täiskasvanule
+näidistoode Nutrison advanced Diason Energy HP või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) energiarikas ja kõrge valgusisaldusega; 
+3) valgud (kaseinaat ja osaliselt hüdrolüüsitud sojavalk) kergesti omastatavad üle 20% energiast;  
+4) intensiivravi patsientidele diabeedi või hüperglükeemia korral; 
+5) laktoosi- ja gluteenivaba, kiudainete seguga; 
+6) energiasisaldus vähemalt: 100 ml = 150 kcal. | 1000 ml 
+(lubatud ±5%) 
+2.11 | Spetsiaalne sonditoit, metaboolse alatoitumise korral, kliiniliseks toitmiseks intensiivravis, täiskasvanule
+näidistoode Nutrison Protein Intensiv või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud kõrge valgu, kõrge rasvade, madala süsivesikute, mineraalainete ja vitamiinide sisaldusega;  
+3) laktoosi- ja gluteenivaba, vähese kiudainega; 
+4) süsivesikute  sisaldus vähemalt 10 g/100 ml; 
+5) valgusisaldus vähemalt 10 g/100 ml; 
+6) energiasisaldus: vähemalt: 100 ml = 125 kcal. | 500 ml 
+(lubatud ±5%) 
+2.12 | Modifitseeritud  sonditoit, toitainete imendumis- ja ainevahetushäirete korral, kiudainevaba, täiskasvanule
+näidistoode Nutrison advanced Peptisorb või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud aminohapete ja oligopeptiidide, rasvade, süsivesikute (maltodekstriin), mineraalainete ja vitamiinide sisaldusega; 
+3) laktoosi-, gluteeni- ja kiudainevaba; 
+4) energiasisaldus vähemalt: 100 ml = 100 kcal. | 500 ml 
+(lubatud ±5%) 
+2.13 | Modifitseeritud  sonditoit  kasutamiseks lamatiste korral,  kiudainerikas, täiskasvanule
+näidistoode Nutrison advanced Cubison või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) kõrge energia, valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) gluteenivaba; 
+4) laktoosisisaldus ≤0,025g/100 ml; 
+5) kiudainerikas; 
+6) energiasisaldus ≥1,0 kcal/ml. | 1000 ml 
+(lubatud ±5%) 
+2.14 | Modifitseeritud  sonditoit soja- ja hernevalgul baseeruv,  lehmapiimavalgu allergia või ülitundlikkuse korral, kiudainerikas,  täiskasvanule
+näidistoode Nutrison PlantBase või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) tasakaalustatud valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega; 
+3) sisaldab soja ja hernevalku; 
+4) laktoosi-, gluteenivaba;  
+5) sisaldab kiudaineid; 
+6) lehmapiimavalguvaba;  
+7) energiasisaldus: 100 ml = 200 kcal. | 500 ml 
+(lubatud ±5%) 
+2.15 | Modifitseeritud sonditoit kasutamiseks madala energia- ja vedelikuvajaduse korral
+näidistoode Nutrison 1000 Complete Multi Fibre või sellega samaväärne | 1) vedelikuna, eritoidule kehtestatud koostisega; 
+2) vitamiinide- ja mineraalaineterikas toitelahus;
+3) sisaldab hästiomastatavat valgusegu; 
+4) laktoosi-, gluteenivaba; 
+5) sisaldab kiudaineid; 
+6) energiasisaldus: 100 ml = 100 kcal.  | 1000 ml 
+(lubatud ±5%) 
+2.16 | Positsioonide 2.1 kuni 2.15 tooted | Kõik tooted peavad  olema kantud/registreeritud Põllumajandus- ja Toiduameti toidulisandite ja eritoitude andmebaasis eritoiduna. https://jvis.agri.ee/jvis/avalik.html#/toidulisandEritoitparing) 
+Osa 1 MAKSUMUS (positsioonid 1 ja 2 kokku)  | 0
+hindamiskriteerium 1, 
+osakaal 95, kanda registrivormile
+Tabel 2. Seotud teenused. Maksumus
+Pos | Teenus | Nõuded | Nõuete täitmine | Hindamiskriteerium, osakaal | Ühik | Ühikhind km-ta, euro
+1 | Toitmispumba (tabel 1 pos 1.7) rent kliendile | Teenuse tellib oma kliendile hankija (klient võib asuda kodus või hooldus- asutuses üle Eesti). Pump tuleb kliendile kätte viia, üle anda, teha kasutuskoolitus, pumpa vajaduspõhiselt hooldada, tagada kasutusvalmidus, kasutuse lõppedes kliendi uurest ära viia. Hinnastatakse komplektina, st maksumus hõlmab kõikide nõuete täitmist. 
+Hankija on määranud ühikhinna maksimaalse piirmäära - 70 eurot/kuu (pakutav ühikhind ei tohi seda ületada).  | kriteerium 2, osakaal 4 | kalendrikuu
+2 | Tabeli 1 toodete (v.a pos 1.7) kliendile kättetoimetamise kullerteenus  | Teenuse tellib oma kliendile hankija (klient võib asuda kodus või hooldus- asutuses üle Eesti). Kaup tuleb kliendile kätte viia 3 tööpäeva jooksul tellimuse esitamisest arvates ja kliendile üle anda.
+Hankija on määranud ühikhinna maksimaalse piirmäära - 10 eurot/kuu
+(pakutav ühikhind ei tohi seda ületada).  | kriteerium 3, osakaal 1 | kord
+[Sheet: Osa 2. Suukaudsed ravitoidud]
+Tehniline kirjeldus
+Osa 2. Suukaudsed ravitoidud
+Hankija: SA Viljandi Haigla
+Riigihange: Ravitoidud ja tarvikud (viitenumber 304231)
+Hankija ostab toitmisraviks ravitoitusid ja nendega seotud teenust (vt tabelid 1 ja 2).
+Kauba ja teenuste eeldatavat kogust ei määrata, kaupa ja teenust ostetakse vajadusepõhiselt raamlepingu alusel.
+Tabel 1. Tooted ja toodete miinimumnõuded. Maksumused
+Pos | TEHNILINE KIRJELDUS | PAKKUMUS
+Toode. Toote funktsionaalsus | Miinimumnõuded | Pakendi suurus
+(lubatud ±5%)  | Toote nimetus, tootja | Tootekood | Nõuetele vastavus
+"jah" - vastab, "ei" - ei vasta. Lisada arvväärtused punktide põhiselt | Pakendi suurus | Ühe pakendi maksumus km-ta, euro/pakend
+1 | Energiarikas homogeenne maitsestatud ravitoit joogina,  kasutamiseks täiendava või ainsa toiduna alatoitumuse korral täiskasvanule
+näidistoode Nutridrink või sellega samaväärne
+ | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) kontsentreeritud energia, valkude, rasvade, süsivesikute, mineraalainete, vitamiinide sisaldusega;
+3) laktoosisisaldus minimaalne (<0,7 g/100ml);
+4) gluteeni-, kiudainevaba;  
+5) energiasisaldus: 100 ml = 200-250 kcal.
+ | 125 ml
+2 | Energiarikas homogeenne maitsestatud ravitoit joogina, kasutamiseks täiendava või ainsa toiduna alatoitumuse korral täiskasvanule
+näidistoode Nutridrink Multi Fibre või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) kontsentreeritud energia, valkude, rasvade, süsivesikute, mineraalainete, vitamiinide sisaldusega;  
+3) laktoosisisaldus minimaalne (<0,7g/100ml); 
+4) gluteenivaba, kiudainega; 
+5) erinevaid kiudaineid üle 3 g/100 ml (GOS/FOS); 
+6) energiasisaldus: 100 ml = 200-250 kcal. | 125 ml
+3 | Energia- ja valgurikas homogeenne maitsestatud ravitoit joogina kliiniliseks toitmiseks, täiendava või ainsa toiduna kriitilise alatoitumuse korral täiskasvanule,  kiudainevaba
+näidistoode Nutridrink Protein või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) kontsentreeritud energia, valkude, rasvade, süsivesikute, mineraalainete ja vitamiinide sisaldusega;  
+3) laktoosisisaldus minimaalne (<0,7g/100ml); 
+4) gluteeni- ja kiudainevaba; 
+5) väga kõrge valgusisaldusega. Valgusisaldus: vähemalt 14 g/100 ml; 
+6) väga kõrge energiasisaldusega, 100 ml = 200-250 kcal. | 125 ml
+4 | Süsivesikuterikas homogeenne maitsestatud jook enne ja pärast operatsiooni, maksatsirroosi, kroonilise pankreatiidi või neerupuudulikkuse korral täiskasvanule
+näidistoode Nutridrink PreOp või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) energia-ja süsivesikuterikas; 
+3) rasva- ja valguvaba;  
+4) mineraalainete sisaldusega; 
+5) laktoosi-, gluteeni- ja kiudainevaba; 
+6) kiiresti imenduvate süsivesikute sisaldus vähemalt 12 g/100 ml; 
+7) energiasisaldus 100 ml = 50 kcal. | 200 ml
+5 | Energiarikas homogeenne maitsestatud jook, kasutamiseks täiendava või ainsa toiduna diabeetikule alatoitumise korral täiskasvanule
+näidistoode Nutridrink Diasip või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) kõrge energia, valkude, rasvade, madala süsivesikute, mineraalainete, vitamiinide ja  kiudainete sisaldus;
+3) gluteenivaba;  
+4) energiasisaldus: 100 ml = 100 kcal. | 200 ml
+6 | maitsestatud toidulisand spetsiaalseks meditsiiniliseks otstarbeks, kasutamiseks täiendava toiduna kognitiivse languse või varajase Alzheimeri tõve korral
+näidistoode Nutridrink Souvenaid või sellega samaväärne | 1) spetsiaalne meditsiiniline toit, mis sisaldab kontsentreeritud energiat, valke, süsivesikuid, rasvu, mineraalaineid ja vitamiine; 
+2) sisaldab unikaalset toitainete kombinatsiooni Fortasyn Connect (DHA, EPA, uridiinmonofosfaat, koliin, B-vitamiinid, fosfolipiidid, seleen, vitamiinid C ja E), mis toetavad närvirakkude membraanide ja sünapside moodustumist; 
+3) laktoosisisaldus minimaalne (< 0,7 g / 100 ml); 
+4) gluteenivaba; 
+5) energiasisaldus: 100 ml = 100 kcal.  | 125 ml
+7 | Energiarikas homogeenne maitsestatud ravitoit joogina, täiendava või ainsa toiduna ägeda ja kroonilise neerupuudulikkuse korral piiratud valgu ja mikroelementide sisaldus, täiskasvanule,  ei ole dialüüsravi
+näiditoode Nutridrink Renilon või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) suurendatud energia ja rasvade sisaldusega; 
+3) vähendatud naatriumi-, kaaliumi- ja fosfaatide sisaldusega; 
+4) valgusisaldus: vähemalt 4 g/100 ml;
+5) kiudainetevaba; 
+6) energiasisaldus: 100 ml = 200-250 kcal. | 125 ml
+8 | Energiarikas homogeenne maitsestatud ravitoit joogina, täiendava või ainsa toiduna ägeda ja kroonilise neerupuudulikkuse korral piiratud valgu ja mikroelementide sisaldus, täiskasvanule, hemo- või peritoneaaldialüüsil
+näidistoode Nutridrink Renilon või sellega samaväärne  | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) suurendatud energia ja rasvade sisaldusega; 
+3) vähendatud naatriumi-, kaaliumi- ja fosfaatide sisaldusega;
+4) valgusisaldus: vähemalt 7 g/100 ml;
+5) kiudainetevaba;  
+6) energiasisaldus: 100 ml = 200-250 kcal. | 125 ml
+9 | Energiarikas ja valgusisaldust suurendav toidulisand haavade paranemise toetamiseks
+näidistoode Nutridrink Cubitan või sellega samaväärne | 1) vedel meditsiiniline toit spetsiaalseks otstarbeks, mille koostis on mõeldud suurenenud valgu-, energia- ja mikrotoitainete vajadusega patsientidele, eriti haavade paranemise toetamiseks; 
+2)valgusisaldus: 20 g/200 ml, 
+3) energiasisaldus: ~ 250 kcal/100 ml; 
+4) olulisi mikrotoitaineid (tsink, C-vitamiin, arginiin); 
+5) laktoosisisaldus minimaalne; 
+6) gluteenivaba. | 200 ml
+10 | Rasvavaba, energiarikas selge jook, kasutamiseks lisatoiduna suurenenud energiavajaduse korral
+näidistoode Nutridrink Juice Style või sellega samaväärne | 1) selge, puuviljamaitseline vedel meditsiiniline toit spetsiaalseks otstarbeks; 
+2) ei sisalda rasva; 
+3) energiasisaldus: 100 ml = 150 kcal; 
+4) sisaldab süsivesikuid (süsivesikupõhine), vitamiine ja mineraalaineid; 
+5) laktoosivaba ja gluteenivaba; 
+6) sobib inimestele, kes ei talu rasvarikkaid toite või kellel on rasva seedimise probleemid. | 200 ml
+11 | Energiarikas taimset päritolu maitsestatud meditsiinilistel näidustustel kasutatav jook, kasutamiseks täiendava või ainsa toiduna alatoitumise korral täiskasvanutel
+näidistoode Nuridrink PlantBase 1,5 või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) energiasisaldus: 150 kcal = 100 ml; 
+3) taimne valguallikas. Valgusisaldus: vähemalt 5 g/100 ml; 
+4) laktoosi- ja kaseiinivaba; 
+5) gluteenivaba. | 200 ml
+12 | Energiarikas taimset päritolu maitsestatud meditsiinilistel näidustustel kasutatav jook, kasutamiseks täiendava või ainsa toiduna alatoitumise korral täiskasvanutel
+näidistoode Nuridrink PlantBase 2,0 või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega; 
+2) energiasisaldus: 200 kcal = 100 ml; 
+3) taimne valguallikas. Valkude sisaldus vähemalt 10 g/100 ml; 
+4) laktoosi- ja kaseiinivaba; 
+5) gluteenivaba. | 200 ml
+13 | Valgulisand toidu rikastamiseks  täiskasvanutele
+Näidistoode Protifar või sellega samaväärne | 1) pulbrina, eritoitudele kehtestatud koostisega;
+2) madala rasvasisaldusega; 
+3) gluteenivaba; 
+4) valgusisaldus: vähemalt 85 g/100 g;  
+5) energiasisaldus: 100 g = 350-400 kcal.        | 225-1000 g
+14 | Toidu ja vedelike paksendaja täiskasvanule
+Näidistoode Nutilis Clear või sellega samaväärne | 1) maltodekstriinil põhinev toidu ja vedeliku paksendaja; 
+2) kiirelt toimiv; 
+3) ei muuda toidu või joogi maitset; 
+4) amülaasresistentne. | 175 g
+15 | Kiudaine segu kõhukinnisuse või ebaregulaarse sooletegevuse korral
+Näidistoode Stimulance või sellega samaväärne | 1) neutraalse maitsega, saab lisada nii magusale kui soolasele toidule/joogile; 
+2) sisalsab lahustuvate ja lahustumatute kiudainete segu; 
+3) gluteenivaba. | 400 g
+16 | Energiarikas meditsiinilistel näidustustel kasutatav oomega-3 rasvhapetega rikastatud toit (ravijook) haigusest tingitud alatoitumuse korral
+Näidistoode Nutridrink Protein Omega3 või sellega samaväärne | 1) vedelikuna, eritoitudele kehtestatud koostisega;
+2) energiasisaldus: vähemalt 2 kcal/100 ml; 
+3) valgusisaldus: vähemalt 12 g/100 ml; 
+4) suure oomega-3 rasvhapete sisaldusega (DHA+EPA), vähemalt 
+1,2 g/100 ml;
+5) gluteenivaba. | 125 ml
+17 | Positsioonide 1 kuni 16 tooted | Kõik tooted peavad  olema kantud/registreeritud Põllumajandus- ja Toiduameti toidulisandite ja eritoitude andmebaasis eritoiduna. https://jvis.agri.ee/jvis/avalik.html#/toidulisandEritoitparing) 
+osa 2 MAKSUMUS (kõikide positsioonide summa) | 0
+hindamiskriteerium 1, 
+osakaal 98, kanda registrivormile
+Tabel 2. Seotud teenused. Maksumus
+Pos | Teenus | Nõuded | Nõuete täitmine | Hindamiskriteerium, osakaal | Ühik | Ühikhind km-ta, euro
+1 | Tabeli 1 toodete kättetoimetamise kullerteenus  | Teenuse tellib oma kliendile hankija (klient võib asuda kodus või hooldus- asutuses üle Eesti). Kaup tuleb kliendile kätte viia 3 tööpäeva jooksul tellimuse esitamisest arvates ja kliendile üle anda.
+Hankija on määranud ühikhinna maksimaalse piirmäära - 10 eurot/kuu (pakutav ühikhind ei tohi seda ületada).  | kriteerium 2, osakaal 2 | kord

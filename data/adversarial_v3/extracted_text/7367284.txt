@@ -1,0 +1,1708 @@
+=== 7367284_279899_hankepass_taiendavate_selgitustega.pdf ===
+1/14
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+Riigi ametlik teataja:
+279899
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+Aktsiaselts Kiviõli Soojus (10245027)
+Riik:
+Eesti
+Hankija aadress:
+Aasa tn 19
+Hankija veebiaadress:
+http://www.kiviolisoojus.ee/et/
+E-posti aadress:
+kivioli.soojus@gmail.com
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+2/14
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+Lühikirjeldus:
+Soojuse ostmine Kliimaministri 13.03.2024.a. määruses nr 20 „Kiviõli linna kaugkütte lahti sidumiseks
+põlevkivitööstusest toetuse andmise tingimused ja kord“ (KliM Määrus) püstitatud eesmärkide (sh
+Kiviõli linna kaugkütte lahti sidumine põlevkivitööstusest taastuvatel energiaallikatel põhineva
+energiatõhusa soojuse tootmisjaama ehitusega ja soojuse tootmine ja müümine võrguettevõtjale)
+täitmiseks
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+279899
+Hanke liik:
+Asjad
+Hanke CPV-d:
+09324000-6 Kaugküte
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+3/14
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+4/14
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+5/14
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+6/14
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kuritegelikus ühenduses osalemise eest". Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud aususe kohustuse rikkumise või korruptiivse teo eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+7/14
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kelmuse eest kõige rohkem viimase viie aasta jooksul või kehtib
+süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kelmuse eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+8/14
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo
+või sellele kihutamise, kaasaaitamise või selle katse eest". Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud rahapesualase süüteo või terrorismi rahastamise eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+9/14
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 3 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud
+teo eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada
+tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise
+võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või
+hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg
+maksukorralduse seaduse tähenduses või maksuvõlg /…/ tema asukohariigi õigusaktide kohaselt“
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+10/14
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul, kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku /…/ makse /…/ maksuvõlg maksukorralduse seaduse
+tähenduses või sotsiaalkindlustusemaksete võlg tema asukohariigi õigusaktide kohaselt
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+11/14
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 2 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud riigis ilma seadusliku aluseta viibivale välismaalasele töötamise
+võimaldamise või välismaalase Eestis töötamise tingimuste rikkumise võimaldamise, sealhulgas
+seaduses sätestatud töötasu määrast väiksema töötasu maksmise eest“. Kohustuslik kõrvaldamise
+alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+12/14
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 5. Kellega hankelepingu sõlmimine rikuks rahvusvahelist või Vabariigi
+Valitsuse sanktsiooni rahvusvahelise sanktsiooni seaduse tähenduses. Hankija kontrollib
+käesoleva seaduse § 95 lõike 1 punktis 5 sätestatud kõrvaldamise alust pakkuja või taotleja
+kinnituse alusel. Hankija võib põhjendatud kahtluse korral nõuda pakkujalt või taotlejalt
+täiendavate andmete või tõendite esitamist, mis võimaldavad kõrvaldamise alust kontrollida.
+(RHS § 96 lg 2.1).
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+IV OSA: KVALIFITSEERIMISTINGIMUSED
+A: Sobivus
+KUULUMINE ÄRIREGISTRISSE
+Ettevõtja on kantud mõnda tema asukohaliikmesriigi äriregistrisse kooskõlas direktiivi 2014/24/
+EL lisaga XI; teatavate liikmesriikide ettevõtjatelt võidakse nõuda muude kõnealuses lisas
+sätestatud nõuete täitmist.
+Viide seadusele:
+RHS § 99 lg 1 „pakkuja või taotleja asukohariigi õigusaktide kohaselt tuleb ettevõtja kanda
+äriregistrisse“
+RHS § 99 lg 2 „hankija võib nõuda registreeringut tõendava asjakohase tõendi esitamist“
+Tingimuse selgitus:
+Eestis asuv pakkuja peab olema registreeritud äriregistris, välismaal asuv pakkuja peab olema
+registreeritud äriregistris, kui see on tema asukohamaal nõutav. Hankija kontrollib Eestis asuva
+pakkuja registreeritust äriregistri (https://ariregister.rik.ee) kaudu. Välisriigis registreeritud
+pakkuja peab, kui see on tema asukohamaal nõutav, esitama registreeringu nõude täitmise kohta
+õiguspädeva institutsiooni tõendi või registreeringu koopia.
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+13/14
+Tingimuse kirjeldus:
+Registri nimi: Äriregister
+Veebiaadress (URL): https://ariregister.rik.ee/
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Registreerimise number (Sisestusväli (max pikkus 250 tähemärki))
+3. Põhjused, miks ei kuulu nõutud registrisse (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Majanduslik ja finantsseisund
+ÜLDINE AASTAKÄIVE
+Ettevõtja üldine aastakäive on asjaomases teates, hankedokumentides või hankepassis nõutud
+majandusaastate jooksul järgmine:
+Viide seadusele:
+RHS § 100 lg 1 p 4 „andmed pakkuja või taotleja kogu majandustegevuse netokäibe kohta kuni
+viimase kolme riigihanke algamise ajaks lõppenud majandusaasta jooksul, sõltuvalt pakkuja või
+taotleja asutamise või äritegevuse alguse kuupäevast“
+Tingimuse selgitus:
+Pakkuja viimase kolme lõppenud majandusaasta summaarne netokäive (müügitulu) soojuse
+tootmisel, jaotamisel ja müügil peab kokku vähemalt 2 000 000 EUR.
+Pakkuja esitab täiendavalt andmed Vormil 1
+Tingimuse kirjeldus:
+Miinimumnõue: 2000000
+Valuuta: EUR
+Ettevõtjalt oodatavad vastused:
+1. Ajavahemik (Periood)
+2. Käive (Summa)
+3. Valuuta (Vääring)
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Tehniline ja kutsealane suutlikkus
+ASJADE HANKELEPINGUTE PUHUL: TÄPSUSTATUD LIIKI TARNETE TEOSTAMINE
+Ainult asjade riigihankelepingute puhul: nimekiri hankija kindlaksmääratud tunnustele vastavate
+asjade müügi või teenuste osutamise lepingutest, mis on täidetud riigihanke algamisele eelneva
+36 kuu jooksul, koos teabega nende maksumuse, kuupäevade ja teiste lepingupoolte kohta.
+Avaliku sektori hankijad võivad võtta arvesse rohkem kui kolme aasta vanuseid lepinguid.
+Viide seadusele:
+RHS § 101 lg 1 p 2 „nimekiri hankija kindlaks määratud tunnustele vastavate asjade müügi
+lepingutest, mis on täidetud riigihanke algamisele eelneva 36 kuu jooksul, koos teabega nende
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+14/14
+maksumuse, kuupäevade ja teiste lepingupoolte kohta“
+RHS § 101 lg 2 „hankija võib piisava konkurentsi tagamiseks arvesse võtta andmeid rohkem kui
+36 kuu eest täidetud asjade müügi lepingute kohta“
+Tingimuse selgitus:
+Pakkujal peab olema hankele eelneva 36 kuu kestel töökogemus soojusettevõtjana (KKtüS
+mõistes) tegutsemisel soojuse tootmiseks mahus vähemalt 15 000 MWh ja müügiks vähemalt 12
+000 MWh.
+Pakkuja esitab täiendavalt andmed Vormil 1
+Tingimuse kirjeldus:
+Minimaalne teostatud tööde arv: 1
+Kirjeldus: Kehtib kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Kirjeldus (Suur sisestusala (max pikkus 4000 tähemärki))
+2. Kogusumma (Summa)
+3. Valuuta (Vääring)
+4. Ettevõtja vastutusala (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Summa (Summa)
+6. Valuuta (Vääring)
+7. Ajavahemik (Periood)
+8. Kas info on konfidentsiaalne? (Raadionupp valikutega "Jah/Ei")
+9. Tellija nimi (Sisestusväli (max pikkus 250 tähemärki))
+10. Kontaktisiku nimi (Sisestusväli (max pikkus 250 tähemärki))
+11. E-mail (Sisestusväli (max pikkus 250 tähemärki))
+12. Telefon (Sisestusväli (max pikkus 250 tähemärki))
+13. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+14. URL (Url)
+15. Kood (Sisestusväli (max pikkus 250 tähemärki))
+16. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 16.05.2024 10:57:53
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+
+=== 7367284_279899_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 279899
+Hankija:Aktsiaselts Kiviõli Soojus (10245027)
+Hange:Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Majanduslik soodsus Pakkumiste hindamise kriteeriumiks on Maksumus - 100 EUR jah
+käitises toodetava ja liitumispunktis vähim on parim
+üleantava soojuse MWh hinna suurus
+kahe aasta jooksul arvates soojuse
+ostuperioodi algusest.
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Majanduslik soodsus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 16.05.2024 11:12:20 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+7367284/general-info
+
+=== 7367284_279899_vastavustingimused.pdf ===
+1/3
+VASTAVUSTINGIMUSED
+Viitenumber: 279899
+Hankija: Aktsiaselts Kiviõli Soojus (10245027)
+Hange: Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+3. Ühispakkuja volikiri / Vorm 2 (Dokumendi vorm / Vorm 2 - Ühispakkujate volikiri
+150524.docx)
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+2. HD Lisa 4 Hankes osalemise taotlus (Dokumendi vorm / Hankes osalemise taotlus
+150524.docx)
+3. Kas ettevõtja saab kinnitada, et on esitanud hanke alusdokumentide punktide 6.3. ja 6.4.
+alapunktides nimetatud dokumendid? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Küsimused ettevõtjale:
+1. Kas ettevõtja kinnitab, et täidab pakkumuse lehe "Hindamiskriteeriumid ja hinnatavad
+näitajad" lehel ette antud struktuuri kohaselt? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE TAGATIS
+Pakkuja esitab pakkumuse tagatise krediidi- või finantseerimisasutuse või kindlustusandja
+garantiiga või rahasumma deponeerimisega hankija arvelduskontole.
+Pakkuja esitab pakkumuse tagatise rahasumma deponeerimisega hankija arvelduskontole.
+Pakkumuse tagatise kehtivusaeg peab olema võrdne pakkumuse kehtivusajaga. Tagatise summa
+on toodud hanke alusdokumendis. Esitada tagatis vastavalt nõuetele.
+Küsimused ettevõtjale:
+1. Kas ettevõtja on deponeerinud tagatise? (Raadionupp valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+Koostatud 16.05.2024 11:17:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+2/3
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 (1)).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+2. Teave ärisaladuse kohta / Vorm 4 (Dokumendi vorm / Vorm 4 - Teave ärisaladuse kohta
+150524.docx)
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+EL NÕUKOGU SANKTSIOON. ALLTÖÖVÕTJAD JA TARNIJAD.
+Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on:
+1. Vene Föderatsiooni kodanik, resident või Vene Föderatsioonis asutatud ettevõtja, sh füüsilisest
+isikust ettevõtja, juriidiline isik, asutus või muu üksus;
+2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või muu
+üksuse omandis;
+3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või tegutseb sellise isiku
+juhiste alusel.
+Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav hankeleping oleks RSanS § 7 lg 1 alusel
+tühine.
+Määrust kohaldatakse riigihangetele alates rahvusvahelisest piirmäärast. NÕUKOGU MÄÄRUS
+(EL) 2022/576, 8. aprill 2022, millega muudetakse määrust (EL) nr 833/2014, mis käsitleb
+piiravaid meetmeid seoses Venemaa tegevusega, mis destabiliseerib olukorda Ukrainas.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on: 1. Vene Föderatsiooni kodanik, resident või Vene
+Föderatsioonis asutatud ettevõtja, sh füüsilisest isikust ettevõtja, juriidiline isik, asutus või muu
+üksus; 2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või
+muu üksuse omandis; 3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või
+tegutseb sellise isiku juhiste alusel. (Raadionupp valikutega "Jah/Ei")
+Koostatud 16.05.2024 11:17:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+3/3
+RAHVUSVAHELISE SANKTSIOONI OBJEKT
+Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks või pärit
+sanktsiooni all olevatest piirkondadest. Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav
+hankeleping oleks RSanS § 7 lg 1 alusel tühine.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks ega pärit
+sanktsiooni all olevatest piirkondadest. (Raadionupp valikutega "Jah/Ei")
+ESINDUSÕIGUS
+Pakkumusele peab alla kirjutama pakkuja seaduslik või volitatud esindaja. Pakkuja esitab
+volikirja juhul, kui pakkumusele on alla kirjutanud isik või isikud ei ole registrikaardile kantud
+esindusõiguslike isikutena.
+Küsimused ettevõtjale:
+1. Volikiri pakkuja esindamiseks / Vorm 3 (Dokumendi vorm / Vorm 3 - Volikiri 150524.docx)
+VENEMAA JA VALGEVENE ETTEVÕTJATE OSALEMISE PIIRAMINE
+Riigihankes ei ole lubatud osaleda ettevõtjatel, kelle elu- või asukoht on Venemaa Föderatsioonis
+või Valgevene Vabariigis.
+Küsimused ettevõtjale:
+1. Kas kinnitate, et elu- või asukoht ei ole Venemaa Föderatsioonis või Valgevene Vabariigis?
+(Raadionupp valikutega "Jah/Ei")
+Koostatud 16.05.2024 11:17:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/7367284/general-info
+
+=== 7367284_HD_Lisa_2_Soojuse_ostumaht.xlsx ===
+[Sheet: Soojuse ostumaht]
+HD Lisa 2
+Kavandatud soojuse ostumaht aastate lõkes
+Aasta | MWh | Soojuse ostumaht | Aastane soojuse ostumaht
+2026 | 4900 | 2026 | Uus TJ | 2027/2038 | Uus TJ
+2027 | 12000 | jaan | jaan | 2500
+2028 | 12000 | veeb | veeb | 2300
+2029 | 12000 | märts | märts | 1500
+2030 | 12000 | aprill | aprill | 800
+2031 | 12000 | mai | mai | 0
+2032 | 12000 | juuni | juuni | 0
+2033 | 12000 | juuli | juuli | 0
+2034 | 12000 | august | august | 0
+2035 | 12000 | sept | sept | 0
+2036 | 12000 | okt | 600.4900000000001 | okt | 600.4900000000001
+2037 | 12000 | nov | 1700 | nov | 1700
+2038 | 12000 | dets | 2600 | dets | 2600
+KOKKU | 148900 | Kokku | 4900.49 | Kokku | 12000.49
+
+=== 7367284_Hanke_alusdokumendid_150524.docx ===
+
+
+
+
+
+
+
+HANKE ALUSDOKUMENDID
+
+
+Hankija
+AS Kiviõli Soojus
+Hankelepingu ese
+Soojuse ost 
+Hanke nimetus 
+Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+Hankemenetluse liik
+Avatud hankemenetlus
+Hanke viitenumber
+279899
+
+Lugupeetud pakkuja!
+
+Kutsume Teid esitama pakkumust avatud hankemenetluses „Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038“. Menetlus viiakse läbi kooskõlas riigihangete seaduse (RHS), Kliimaministri 13.03.2024.a. määrusele nr 20 „Kiviõli linna kaugkütte lahti sidumiseks põlevkivitööstusest toetuse andmise tingimused ja kord“ (KliM Määrus) ja teiste Eesti Vabariigis kehtivate õigusaktidega ning arvestades Kaugkütteseaduses (KKütS) ja selle alusel Majandus- ja kommunikatsiooniministri 21.06.2011.a. määruses nr 47 „Soojuse ostmiseks konkursi korraldamise kord ja pakkumiste hindamise metoodika“ (MKM Määrus) sätestatut. Pakkumuse palume esitada vastavalt käesolevates hanke alusdokumentides (sh lisad) esitatud tingimustele.
+
+	•	ÜLDANDMED 
+
+	•	Hanke nimi: Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038. 
+	•	Hankija: AS Kiviõli Soojus, registrikood 10245027, asukoht Ida-Viru maakond, Lüganuse vald, Kiviõli linn, Aasa tn 19, 43125, e-post soojus@kiviolisoojus.ee 
+	•	Hankija kontaktisik: Vladimir Tšikul, telefon 5064391, e-post soojus@kiviolisoojus.ee .
+	•	Hanke alusdokumentides kasutatakse termineid järgmistes tähendustes:
+1.4.1 	hankija ja/või võrguettevõtja – asutus, kes on hanke välja kuulutanud;
+1.4.2 	pakkuja – isik, kes on esitanud pakkumuse;
+1.4.3 	hankeleping – menetluse tulemusel hankija ja pakkuja vahel sõlmitud soojuse müügileping;
+1.4.4 	Ostja – hankija, kes on sõlminud lepingu edukaks tunnistatud pakkumuse esitanud pakkujaga;
+1.4.5 	Müüja – edukaks tunnistatud pakkumuse esitanud pakkuja, kellega on sõlmitud leping.
+1.4.6.	Käitis – KliM Määruse nõuetele vastav uus soojuse tootmisjaam(ad) soojusliku võimsusega vähemalt 7 MW.
+1.4.7.	Kaugküttevõrk – Võrguettevõtja omandis olev võrk KKtüS mõistes.
+1.4.8.	Liitumispunkt – Käitist kaugküttevõrguga ühendava soojustorustiku tehniliselt võimalik ühenduskoht.
+1.4.9.	Mõõtepunkt – Müüja poolt võrguettevõtjale müüdava soojuse koguse mõõtmiseks liitumispunkti paigaldatud müüdava soojuse koguse mõõtesüsteem. 
+	•	Hankeleping sõlmitakse pärast riigihankes nr 279899 „Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038“ või juhul, kui nimetatud hange ebaõnnestub, sellele järgneva õnnestunud kordushankes eduka pakkuja valimist. 
+	•	Hankijal on õigus viia hankemenetlus läbi pöördmenetlusena.
+	•	Hanke eeldatav maksumus on 7 500 000 eurot. Hanke maksumus sõltub Konkurentsiameti poolt kooskõlastatavast soojuse piirhinnast ja arvestades KKtüS regulatsiooni ei ole hanke läbiviimise ajal võimalik hanke maksumust piisava detailsusastmega määratleda.
+
+	•	HANKE ESE 
+
+2.1.	Hanke esemeks on soojuse ostmine KliM Määruses püstitatud eesmärkide (sh Kiviõli linna kaugkütte lahti sidumine põlevkivitööstusest taastuvatel energiaallikatel põhineva energiatõhusa soojuse tootmisjaama ehitusega ja soojuse tootmine ja müümine võrguettevõtjale) täitmiseks vastavalt käesoleva dokumendi lisaks 1 olevale tehnilisele kirjeldusele, Eesti Vabariigi õigusaktides ning käesoleva hanke alusdokumentides toodud tingimustel.
+	•	Hanke eesmärgiks on Kiviõli linna kaugkütte lahti sidumine põlevkivitööstusest taastuvatel energiaallikatel põhineva energiatõhusa käitise ehitusega, selles soojuse tootmine ja toodetud soojuse müümine hankijale 12 (kaheteistkümneks) aastaks sõlmitava hankelepingu alusel.
+	•	Müüjal on võimalus käitise ehituseks esitada KliM Määruses sätestatud taotlus, kui Müüja on Eesti äriregistris registreeritud ja tegutsev äriühing ja ta ei ole välistatud KliM Määruse § 7 lg 2 alusel(KliM Määruse § 12 lg 1).
+	•	Hankija ei jaga riigihanget osadeks ja sõlmib soojuse ostmiseks hankelepingu ühe pakkujaga kuna KliM Määruse tingimuste täitmiseks ei ole hanke osadeks jagatav.
+
+HANKE TÄHTPÄEVAD
+
+	•	Pakkumuste esitamise tähtpäev on sätestatud e-Riigihangete registris hanketeates.
+	•	Soojuse ostuperiood on 01.10.2026.a. – 30.09.2038.a.
+
+HANKES OSALEMINE
+	•	
+	•	Hankes saavad osaleda pakkujad, millised vastavad KliM Määruses sätestatud ja KKütS soojuse tootjale kehtestatud nõuetele.
+	•	Pakkuja on kohustatud enne pakkumuse esitamist tutvuma hankelepingu täitmise asukohaga (sh käitise võimaliku asukohaga). Pakkuja kohustub enne pakkumise esitamist põhjalikult tutvuma sooja tootmise, jaotamise ja müügiga Kiviõlis (sh katlamaja ning kaugküttega) ning peab olema veendunud, et suudab hankelepingut nõuetekohaselt täita.
+
+PAKKUMUSE TAGATIS
+
+5.1.	Pakkuja peab pakkumise tagatisena hankija arvelduskontole Swedbank AS-is nr EE052200001120014483 enne pakkumise esitamist deponeerima 10 000 (kümme tuhat) eurot selgitusega „Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038“. Pakkumuse tagatis kindlustab hankijale pakkuja poolt kohustuste (RHS § 90 lg 1) täitmata jätmise korral kahjude täieliku või osalise hüvitamise. Hankija tagastab või jätab selle tagastamata RHS § 91 sätestatud tingimustel ja juhtudel.
+
+PAKKUMUSE ESITAMINE
+
+6.1.	Pakkumus tuleb esitada e-riigihangete keskkonna kaudu ning selle vormistamisel järgib pakkuja e-riigihangete keskkonnas kättesaadavaid nõudeid dokumentidele ja nende vormidele.
+6.2.	Pakkumusele lisab pakkuja eraldi vabas vormis dokumendi, milline peab sisaldama järgnevaid andmeid:
+6.2.1.	avariide avastamise, teavitamise, lokaliseerimise ja kõrvaldamise süsteem;
+6.2.2.	käitise parendamise ja arendamise ning nende tegevuste finantseerimise ettepanekud koos võimaliku ajakavaga;  
+6.2.3.	välja tooma käitises kasutatava kütuse ja tehnoloogia keskkonnasõbralikkuse näitajad planeeritavate investeeringute elluviimisel;
+6.2.4.	planeeritavad tegevused ja nende ajakava peab arvestama käitise seisukorda ja amortiseerumist ning parenduste tegemist.
+6.3.	Pakkumusele lisab pakkuja eraldi vabas vormis käitise võimalikult üksikasjaliku kirjelduse, mis peab sisaldama järgmisi põhiseadmete loetelu ja nende põhiparameetreid:
+6.3.1.	soojustootmisseadmete arv, võimsus, kasutatav soojusallikas (kütus);
+6.3.2. käitise reguleerimisulatus nominaalvõimsusest, sh efektiivsusnäitajad erinevate võimsuste juures; 
+6.3.3. 	käitise poolt tekitatud heitekoguste arv (mg/Nm3) SO2, NOx ja teiste osakeste lõikes ning kasutatava kütuse füüsikaliste ja mehaaniliste omaduste kirjeldus (vastavalt KliM Määruses toodut tingimustele ja kriteeriumile);
+6.3.4. 	kasutatava kütuse füüsikaliste ja mehaaniliste omaduste kirjeldus (vastavalt Euroopa liidu direktiiv 2015/2193 ja keskkonnaministri määruses 05.11.2017 nr 44 „Väljaspool tööstusheite seaduse reguleerimisala olevatest põletusseadmetest väljutavate saasteainete heite piirväärtused, saasteainete heite seirenõuded ja heite piirväärtuste järgimise kriteeriumid1“);
+6.3.5. 	kasutatava tootmistehnoloogia täpne kirjeldus; 
+6.3.6.	käitise rajamise projekti kirjeldus, ajakava ja valmimise tähtaeg (projektimeeskond, projekteerimistöövõtjad, seadistamine, käikulaskmine, täisvõimsusel soojuse tootmise alustamise tähtaeg jmt); 
+6.3.7.	kasutatava kütuse tarnete kirjeldus (tarneallikad, mahud, varustuskindluse tagamine, logistika jmt).
+6.4.	Pakkumuse koosseisus esitab pakkuja järgnevad dokumendid:
+6.4.1.	Käitise ja selle võrguühenduse (torustik) liitumispunktini asukoha kinnistu(te) omandiõigust tõendavad dokumendid või (eel)leping kinnistu(te) omandamiseks või kasutamiseks ja vajadusel Lüganuse valla poolt väljastatud projekteerimistingimustega kinnistul käitise rajamiseks või kinnituse projekteerimistingimuste saamise kohta või siduva ajakava, mille jooksul väljastatakse pakkujale projekteerimistingimused.
+6.4.2.	kinnituse käitise ja selle võrguühenduse (torustik) liitumispunktini asukohas kitsenduste puudumise kohta või juhul, kui vastav ehitis paikneb looduskaitsealal, ehituskeeluvööndis või mingis muus piiranguvööndis, pädeva asutuse kooskõlastuse või siduva ajakava, mille jooksul väljastatakse pakkujale pädeva asutuse kooskõlastus ehitise rajamise kohta;
+6.5.		Hankija ei vastuta pakkumuse esitamisel esineda võivate elektrooniliste süsteemide tõrgete eest.  
+6.6.	Pakkumus on konfidentsiaalne. Pakkumuses sisalduvat teavet võib avalikustada RHS-is sätestatud juhtudel ja ulatuses ning teave võib kuuluda avaldamisele hanke läbiviimise üle kontrolli teostavatele üksustele. 
+6.7.		Pakkuja kannab kõik pakkumuse ettevalmistamisega ning esitamisega seotud kulud.
+
+SELGITUSTE SAAMISE KORD
+
+7.1.	Pakkujal on õigus saada selgitusi ja lisateavet hanke dokumentide kohta. Selgitusi ja/või lisateavet võib küsida kirjalikult e-Riigihangete registri kaudu.
+7.2.	Hankija vastused koos küsimustega edastatakse pakkujale kirjalikult RHS-is sätestatud tähtaja jooksul sellekohase taotluse saamisest arvates e-Riigihangete registri kaudu. 
+
+PAKKUMUSTE VASTAVAKS TUNNISTAMINE VÕI TAGASILÜKKAMINE JA PAKKUJA KVALIFITSEERIMINE
+
+8.1.	Hankija hindab pakkumuste vastavust hanke tingimustele.
+8.2.	Hankijal on õigus RHS § 116 sätestatud juhtudel tagasi lükata kõik pakkumused.
+8.3.	Hankija lükkab pakkumuse tagasi, kui see ei vasta hanke dokumentides esitatud tingimustele. Hankija võib tunnistada pakkumuse vastavaks, kui selles ei esine sisulisi kõrvalekaldeid nimetatud tingimustest.
+8.4.	Hankijal on õigus põhjendamatult madala maksumusega pakkumus tagasi lükata, kui hankija leiab pärast pakkujalt või ühispakkujalt nõutud selgituse saamist ja tõendite hindamist, et pakkumuse maksumus on põhjendamatult madal, või pakkuja ei ole tähtaegselt esitanud nõutud selgitust.
+8.5.	Hankijal on õigus pakkumus tagasi lükata ka järgmistel juhtudel:
+8.5.1 	pakkumuse maksumus ületab lepingu eeldatavat maksumust;
+8.5.2 	hanke korraldamiseks vajalikud tingimused on oluliselt muutunud ja muudavad hanke realiseerimise võimatuks või mittevajalikuks;
+8.5.3	aset on leidnud sündmus, mida saab pidada vääramatuks jõuks. Vääramatu jõud on asjaolu, mida hankija ei saa mõjutada, ja lähtuvalt mõistlikkuse põhimõttest ei saa temalt oodata, et ta hankemenetluse ajal selle asjaoluga arvestaks või seda väldiks või takistava asjaolu või selle tagajärje ületaks.
+8.6.	Hankija küsib vajadusel kvalifitseerimistingimustes nimetatud täiendavaid dokumente eduka pakkuja kvalifikatsiooni kontrollimiseks pärast pakkumuste vastavuse kontrollimist ja hindamist. Kui edukas pakkuja ei tõenda vastavust kvalifitseerimistingimustele, teeb hankija otsuse tema kvalifitseerimata jätmise kohta ning teostab menetluses veel olevate pakkujate pakkumuste hindamise. 
+
+PAKKUMUSTE HINDAMINE
+
+9.1.	Hankija hindab vastavaks tunnistatud pakkumusi.
+9.2.	Pakkumiste hindamisel lähtub hankija MKM Määruse § 13 lg 2 sätestatust arvestades KliM Määruse nõudeid käitisele ja selles toodetava soojuse osas.
+9.3.	Eduka pakkumuse valiku aluseks on majanduslik soodsus.
+9.4.	Pakkumiste hindamise kriteeriumiks on käitises toodetava ja liitumispunktis üleantava soojuse MWh hinna suurus kahe aasta jooksul arvates soojuse ostuperioodi algusest.
+
+	•	HANKE JÄTKAMINE EDUKAKS TUNNISTATUD PAKKUMUSE TAGASIVÕTMISE KORRAL
+
+10.1.	Kui edukas pakkuja võtab hankijast mitteolenevatel põhjustel oma pakkumuse tagasi, ei allkirjasta hankelepingut 10 kalendripäeva jooksul pärast hankelepingu saamist või ei asu nõustumuse andmisega sõlmitud hankelepingut pakkujast tulenevatel põhjustel hankija määratud aja jooksul täitma, hindab hankija kõiki ülejäänud pakkumusi uuesti RHS §117 lg 1 kohaselt ja tunnistab edukaks pakkumuse, mis on vastavaks tunnistatud pakkumustest majanduslikult soodsaim.
+10.2.	Hankijal on õigus edukalt pakkujalt nõuda kahju hüvitamist esialgu edukaks tunnistatud pakkumuse ja järgmise edukaks tunnistatud pakkumuse maksumuse vahe ulatuses ning kõigi võimalike lisakulude ulatuses, mis hankijal tuleb kanda seoses hankelepingu sõlmimisega selle pakkumuse alusel, mis tunnistati edukaks pärast pakkumuste uuesti hindamist, samuti kulutuste ulatuses, mis tulenesid uuest pakkumuste hindamisest.
+
+	•	HANKELEPINGU SÕLMIMINE 
+
+11.1.	Hankeleping sõlmitakse eesti keeles riigihanke alusdokumentides ettenähtud tingimustel ja vastavuses edukaks tunnistatud pakkumusega. Hankelepingu täitmisel on pooltevaheliseks suhtlus- ja töökeeleks eesti keel.
+11.2.	Edukaks tunnistatud pakkumuse teinud pakkuja peab allkirjastama hankelepingu 10 kalendripäeva jooksul pärast hankelepingu saamist ja tagastama selle hankijale.
+
+	•	HANKELEPINGU PÕHITINGIMUSED
+
+12.1.	Pakutav hind sisaldab kõiki müüja poolt osutatavaid teenuseid, mis on vajalikud hanke tingimustes, pakkumises ja hankelepingus sätestatud nõuetele vastava soojuse müügiks soojuse ostuperioodil.
+12.2.	Soojuse hind ühiku kohta fikseeritakse lepingu sõlmimisel kaheks aastaks alates soojuse ostuperioodi algusest. Edaspidi lähtutakse Konkurentsiameti poolt kooskõlastatud piirhinnast.
+12.3.	Pakkumises esitatud soojuse hind ei vabasta müüjat kohustusest kooskõlastada soojuse piirhind Konkurentsiametiga KKtüS §-s 9 sätestatud korras. Lepingus sätestatud hinna ja kooskõlastatud piirhinna erinevuse korral kuulub alati kohaldamisele madalam.
+12.4.	Lepingu tingimused hanke alusdokumendi lisana esitatud hankelepingu projektis ja leping sõlmitakse vastavalt neile.
+
+LISAD
+
+Lisa 1. Tehniline kirjeldus koos lisadega
+Lisa 2. Soojuse ostumaht
+Lisa 3. Lepingu projekt
+Lisa 4. Riigihankes osalemise taotlus
+Vorm 1. Andmed netokäibe ja soojusettevõtjana tegutsemise kohta
+Vorm 2. Ühispakkuja volikiri
+Vorm 3. Volikiri
+Vorm 4. Teave ärisaladuse kohta
+
+
+=== 7367284_Hankelepingu_projekt_140624.docx ===
+
+MÜÜGILEPING
+number ……………..
+
+/vastavalt digitaalallkirjastamise kuupäevale/
+
+Leping sõlmitakse AS-i Kiviõli Soojus poolt korraldatud riigihanke tulemusena.
+Riigihanke nimetus: „Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038“, (edaspidi Riigihange)
+Riigihanke viitenumber: 279899 
+				
+	
+Käesoleva müügilepingu (edaspidi Leping) pooled on:
+
+AS Kiviõli Soojus, registrikood 10245027, asukoht Ida-Viru maakond, Lüganuse vald, Kiviõli linn, Aasa tn 19, 43125 (edaspidi Ostja või Pool, koos Müüjaga Pooled), mida esindab põhikirja alusel juhatuse liige Vladimir Tšikul
+ja 
+…………………, registrikood ……………, asukoht ……………………..(edaspidi Müüja või Pool, koos Ostjaga Pooled),
+mida esindab mida esindab põhikirja alusel juhatuse liige …………………….
+
+
+LEPINGU OBJEKT, ÜLDSÄTTED
+
+Lepingu objektiks on Riigihanke alusdokumentides nimetatud käitise(te)s (nominaalne paigaldatud soojusvõimsus vähemalt 7 MW) toodetud soojuse (edaspidi "Soojus") müük Lepinguga fikseeritud mahus ja tingimustel, samuti nimetatud müügiga seotud ning sellest tulenevad tööd ja toimingud.
+
+Müüja kohustub Soojust müüma alates 01.10.2026.a. kuni 30.09.2038.a. ja selle Ostjale üle andma Liitumispunktis vastavalt Lepingus sätestatule.
+
+Ostetava Soojuse kogused kalendriaastate põhiselt on toodud Lepingu Lisas 3. Nimetatud lisas toodud kogused kehtivad muutumatult esimese 24 (kahekümne nelja) kalendrikuu jooksul. Edaspidi on Ostjal õigus ja Müüjal kohustus müüa Soojust rohkem kui Lisas 3 toodud kogus, kui Ostja seda soovib. Täpsemad müüdava Soojuse kogused lepitakse kokku 3 (kolme) aastaste perioodide kaupa alates 01.10.2028.a.
+
+Lepingu dokumendid koosnevad Lepingust, Lepingu lisadest ja Lepingu muudatustest. Termini all „Leping“ mõistetakse Lepingu tähenduses kõiki Lepingu dokumente. Lepingu juurde kuuluvad järgmised lisad:
+	•	Lisa 1 – Riigihanke tehniline kirjeldus, sh Riigihanke käigus Tellija antud selgitused.
+	•	Lisa 2 – Müüja poolt Riigihankes esitatud pakkumus koos kõikide selle lisadega.
+	•	Lisa 3 – Soojuse ostumaht.
+	•	Lisa 4 - Aastane Ostja võrgupiirkonna soojuskoormusgraafik perioodil 2021 – 2023
+	•	Lisa 5 - Müüja poolt esitatav garantii (lisatakse pärast Lepingu sõlmimist vastavalt Lepingus sätestatule);
+	•	Muud Lepingus sätestatud dokumendid.
+
+Juhul, kui Lepingu erinevate dokumentide vahel on vastuolusid või võimaldavad need mitmesugust tõlgendust, lähtutakse Riigihanke käigus Tellija antud selgitustest. Juhul, kui Riigihanke käigus ei ole vastuolude, vasturääkivuste või puuduste kohta selgitusi küsitud, lähtutakse Lepingu eesmärgile antud Ostja tõlgendusest ning sellisel juhul ei ole Müüjal õigust tugineda ettenägematutele asjaoludele, mitteinformeeritusele, tõlgenduste erinevustele või muudele takistustele Lepingu täitmisega seotud asjaolude suhtes. 
+
+Poolte õiguste ning kohustuste aluseks on Leping oma lisadega, seadused, Eesti Vabariigis kehtivad eeskirjad ja standardid ning teised Asju käsitlevad tehnilised dokumendid. Lepingu raames termin "Leping" hõlmab endas kõiki eelnevalt loetletud dokumente, kui konkreetsest sättest ei tulene teisiti.
+
+Pooled tagavad ja deklareerivad, et Lepingu sõlmimisega ei ole nad rikkunud ühtegi enda suhtes kehtiva seaduse, põhikirja või muu normatiivakti sätet ega ühtki endale varem sõlmitud lepingute ja kokkulepetega võetud kohustust.
+
+MÜÜJA KOHUSTUSED JA ÕIGUSED
+
+Müüja kohustub:
+
+müüma ning tarnima Ostjale Lepingu kohaselt Soojust punktis 1.2. nimetatud perioodil;
+
+tagama iga ajahetkel kaugküttevõrgu soojuskoormuse katmiseks võrguettevõtjaga kokkulepitud soojusvõimsuse;
+
+kooskõlastama Ostjaga soojuse tootmise korralised seisakud ja teavitama põhiseadmete remondigraafikutest jooksva aasta 30. jaanuariks;
+
+mõõtma müüdava Soojuse kogused Mõõtepunktis;
+
+akteerima Ostjale müüdud (so üle antud) Soojuse kogused koos Ostja volitatud esindajaga iga kuu viimase päeva seisuga;
+
+hüvitama täies ulatuses oma tegevuse või tegevusetusega Ostjale ja kolmandatele isikutele tekitatud kahjud. Vaidluste korral määrab kahjude tekkepõhjused kõigi osapoolte aktsepteeritud sõltumatu ekspert;
+
+teatama Ostjale kirjalikult viivitamatult, kuid mitte hiljem kui kolme (3) tööpäeva jooksul alates vastavate asjaolude ilmnemisest, Soojuse tarnetähtaegadest mittekinnipidamise vajadusest või muudest asjaoludest, mis takistavad Lepinguliste kohustuste täitmist. Kui Müüja ei teata Ostjale kohaselt nimetatud asjaoludest, puudub tal õigus nõuda Ostjalt Lepingu tingimuste muutmist. Ostjal on õigus mitte aktsepteerida Müüja poolseid ettepanekuid või muid Müüja poolt teavitatud või mitteteavitatud asjaolusid kui Müüja poolset õigustust mitte kinni pidada Lepingu tingimustest;
+
+Müüjal on õigus:
+
+saada Ostjalt üle antud Soojuse eest tasu vastavalt Lepingus sätestatud tingimustele ja korrale;
+
+kasutada õiguskaitsevahendeid (sh. taganeda Lepingust või öelda Leping üles) samuti nõuda Lepingus sätestatud juhtudel leppetrahve, kui Ostja ei pea kinni Lepingus, selle lisades või muudes Lepingu juurde kuuluvates dokumentides sätestatud tingimustest, sh kui Ostja ei täida või täidab mittevastavalt muid endale Lepinguga võetud kohustusi.
+
+
+OSTJA KOHUSTUSED JA ÕIGUSED
+
+Ostja kohustub:
+
+andma vajadusel Müüjale Lepingu allakirjutamisel ja edaspidiselt üle dokumendid ja volitused, mis on vajalikud Lepingus sätestatud Müüja kohustuste täitmiseks. Seejuures on Müüja kohustatud Ostjat vastavast vajadusest kirjalikult teavitama vähemalt viis (5) tööpäeva ette;
+
+tasuma Soojuse eest vastavalt Lepingus sätestatud tingimustele ja korrale.
+
+tagama tippkoormuse katmise ja reservvõimsuse.
+
+Ostjal on õigus:
+
+kasutada õiguskaitsevahendeid (sh. taganeda Lepingust või öelda Leping üles) samuti nõuda Lepingus sätestatud juhtudel leppetrahve, kui Müüja ei pea kinni Lepingus, selle lisades või muudes Lepingu juurde kuuluvates dokumentides sätestatud tingimustest, sh kui Müüja ei täida või täidab mittevastavalt muid endale Lepinguga võetud kohustusi.
+
+Müüja nõusolekuta anda oma Lepingust tulenevad õigused ja kohustused üle teisele Müüja tegevuskoha kaugküttepiirkonnas tegutsevale võrguettevõtjale (KKütS mõttes). Lepingu ülevõtmisega loetakse, et kõik Lepingust tulenevad õigused ja kohustused on Lepingu ülevõtjale üle läinud. Ostja kohustub 3 (kolme) tööpäeva jooksul pärast Lepingu üleandmise allkirjastamist informeerima sellest Müüjat.
+
+LIITUMISPUNKT JA MÕÕTEPUNKT
+
+Liitumispunkti(de) asukoh(ad)t on: ………………………………..
+
+Mõõtepunkti(de) asukoht on ………………
+
+
+OSTUHIND. TASUMISE KORD
+
+Müüdava Soojuse hind ühiku kohta on Müüja pakkumuses toodud hind esimeseks kaheks Lepingu p. 1.2. toodud perioodi kalendriaastaks. Edaspidi lähtutakse Konkurentsiameti poolt kooskõlastatud Soojuse piirhinnast.
+
+Ostjale üle antud Soojuse eest esitab Müüja arve eelnenud kalendrikuul müüdud Soojuse kohta. Arve edastamise aluseks on Soojuse üleandmise akt, milles on fikseeritud arvestusperioodil Ostjale Mõõtepunktis asuva soojusarvesti näidu alusel väljastatud Soojuse kogus. Arve esitatakse Ostjale hiljemalt iga kuu seitsmendaks kuupäevaks eelmise kuu eest. Ostja kohustub arve tasuma 30 (kolmekümne) päeva jooksul arve saamisest.
+
+
+POOLTE ESINDAJAD JA SIDEKANALID
+
+Müüjat esindavad: 
+	•	Lepingulistes küsimustes ………….., tel +372 …….., e-post: ……. 
+	•	Tehnilistes küsimustes ………., tel +372 ………., e-post: ……… 
+
+Ostjat esindavad: 
+	•	Lepingulistes küsimustes ……….., tel ……………, e-post: …………….,
+	•	 Tehnilistes küsimustes ……………., tel …………….., e-post: ……......
+
+
+VÄÄRAMATU JÕUD 
+
+Pooled vabanevad Lepingust tulenevate ja sellega seotud kohustuste täitmisest osaliselt või täielikult, kui seda takistab vääramatu jõud, kusjuures Pooled on kohustatud rakendama kõiki meetmeid, et ära hoida teisele Poolele kahju tekitamine ja tagada võimalikult suures ulatuses Lepingu täitmine. Seejuures on Müüjal õigus ületada Lepingu maksumust ainult Ostjaga kooskõlastatult. Vääramatu jõu esinemine peab olema tõendatud selle Poole poolt, kes soovib viidata nimetatud asjaoludele, kui alusele, et vabaneda seadusest tulenevast ja/või Lepingus sätestatud vastutusest endale Lepinguga võetud kohustuste mittetäitmise või mittevastava täitmise eest.
+
+Vääramatu jõu esinemisest tuleb teist Poolt sellest viivitamatult kirjalikult informeerida.
+
+Vääramatu jõu esinemisel pikeneb Müügi lõpptähtaeg, samuti kõik vahetähtajad nimetatud asjaolude esinemise perioodi võrra. Vääramatu jõu esinemisel kestusega üle kolme (3) kalendrikuu on Pooltel õigus Lepingust taganeda või Leping üles öelda.
+
+GARANTII
+
+Kolmekümne päeva jooksul pärast Lepingu sõlmimist esitab Müüja Ostjale Eestis tegutseva krediidiasutuse tingimusteta garantii, mis on vastavuses ICC URDG 2010 (väljaanne nr 758) nõuetega. Garantii suuruseks on 100 000 eurot. Garantii andja kohustub Ostja esimesel nõudmisel maksma Ostja poolt Lepingu alusel nõutud summa. Ostjale peab olema tagatud võimalus esitada garantii alusel nõudeid kogu Lepingu kehtivusajal ning 30 (kolmekümne) päeva jooksul pärast Lepingu lõppemist.
+
+Punktis 8.1. sätestatud garantii osalisel või täielikul realiseerimisel Ostja poolt, kohustub Müüja andma Ostjale uue garantii selliselt, et garantii(de) kogusumma moodustaks punktis 8.1. märgitud suuruse. 
+
+POOLTE VASTUTUS
+
+Müüja vastutab Lepingu mittetäitmise või mittekohase täitmisega Ostjale tekitatud kahju eest, samuti on Müüja kohustatud Ostjale hüvitama Ostja poolt seoses Müüjapoolse Lepingu rikkumisega tehtud kulutused. Ostja vastutab Lepingu rikkumise eest ning on kohustatud Müüjale hüvitama Lepingu rikkumisega tekitatud kahju ning Müüja poolt Ostjapoolse Lepingu rikkumisega seoses tehtud kulutused.
+
+Müüjal on õigus nõuda Ostjalt arve mitteõigeaegse tasumise korral viivist null koma üks (0,1) protsenti tähtajaks tasumata summalt (arvestamata käibemaksu) iga viivitatud päeva eest (esitatud arve alusel). Tasumine loetakse tehtuks vastava Ostjapoolse ülekande tegemisega.
+
+Lepingu rikkumisel on Ostjal õigus Müüjalt nõuda leppetrahve järgmiste rikkumiste esinemisel:
+	•	
+	•	Soojuse müügi ja tarnega viivitamisel arvates Lepingu p. 1.2. sätestatud tähtaja algusest - 5 000 (viis tuhat) eurot päevas;
+	•	Soojusvõimsuse langemisel alla nõutava taseme, kuid mitte alla 50 % nõutavast tasemest, kui vastav olukord kestab kuni kolm tundi – 500 (viissada) eurot korra eest;
+	•	Planeerimata Soojuse müügi (so soojusvarustuse) katkestus välisõhu temperatuuril alla 0 oC – 500 (viissada) eurot/tunnis, mis hõlmab alljärgnevaid juhtumeid:
+(i) soojusvarustuse täielik seiskumine; 
+(ii) soojusvõimsuse langemine alla 50% nõutavast, kui vastav olukord kestab üle kolme tunni; 
+(iii) võimsuse langemine kuni 50%-ni nõutavast, kui vastav olukord kestab üle kolme tunni;
+(iv) planeeritud katkestuse korral planeeritud katkestuse aja ületamine.
+
+Ostjal on õigus leppetrahvid ja muud Lepingu Müüja poolsest rikkumisest tulenevad nõuded tasaarveldada Müüjale tasumisele kuuluvate summadega (so rahaliste nõuetega).
+
+ÜLEANDMINE JA VASTUVÕTMINE
+
+Soojuse üleandmine-vastuvõtmine toimub perioodiliselt kuude kaupa Mõõtepunkti(de)s asuva soojusarvesti näidu alusel koostatud aktiga, millises on toodud akti koostamisele eelneval kalendrikuul Ostjale väljastatud Soojuse kogus.
+
+ OMANDIÕIGUSE ÜLEMINEK
+
+Soojuse omandiõigus ning juhusliku hävimise riisiko läheb Müüjalt Ostjale Liitumispunktis. 
+
+LEPINGUST TAGANEMINE JA ÜLESÜTLEMINE
+
+Pooltel on õigus Leping üles öelda või sellest taganeda, kui teise Poole suhtes esitatakse pankrotiavaldus, kui teise Poole suhtes kuulutatakse välja pankrot, samuti muudel Lepingus ja seadustes ettenähtud juhtudel. Lepingu üles öelnud või sellest taganenud Poolel on õigus nõuda teiselt Poolelt Lepingu täitmisega seoses tehtud kulutuste ja kahju hüvitamist.
+
+Pooltel on õigus Leping üles öelda või sellest taganeda kui Müüja taotles Kliimaministri 13.03.2024.a. määruse nr 20 „Kiviõli linna kaugkütte lahti sidumiseks põlevkivitööstusest toetuse andmise tingimused ja kord“ alusel toetust uu(t)e soojuse tootmisjaama(de) ehitamiseks, kuid müüjale toetust ei antud.
+
+Ostjal on õigus Leping üles öelda või sellest taganeda, teatades sellest ette 30 (kolmkümmend) kalendripäeva, järgnevatel juhtudel:
+
+	•	Müüja ei täida kohaselt Lepingu punktides 8.1. ja 8.2. sätestatud kohustusi,
+	•	Ostjal on põhjendatud kahtlus (sh näiteks käitise ehitusega mittealustamine, selle ehitamine sedavõrd aeglaselt, et see ei valmi Lepingu p. 1.2. toodud tähtajaks, vms.), et Müüja ei ole võimeline müüma Soojust alates Lepingu p. 1.2. toodud ajast,
+	•	planeerimata soojusvarustuse katkestus, mis kestab üle viie (5) päeva,
+	•	Ostjast mitteolenevatel põhjustel (nt force majeure, lõpptarbijate tarbimismahu oluline vähenemine) kaob vajadus Soojuse ostuks.
+
+Lepingu ülesütlemise korral on Müüja kohustatud jätkama Lepingu täitmist ühe aasta jooksul ülesütlemise teate saamise päevast (või Lepingu algse tähtaja möödumiseni, kui nimetatud tähtajani on jäänud vähem kui üks aasta), kui Ostja ei ole määranud ülesütlemise teates lühemat tähtaega.
+
+Olenemata Lepingu ülesütlemise põhjusest on Ostja kohustatud Müüjale tasuma faktiliselt tarnitud Soojuse eest nii Lepingu lõppemise seisuga kui ka Lepingu p. 12.4. sätestatud tähtaja lõpuni.
+
+NÕUETE JA KOHUSTUSTE ÜLEMINEK, TEATED
+
+Pooltel on õigus Lepingust tulenevaid ja sellega seotud nõudeid ja kohustusi kolmandatele isikutele üle anda ainult teise Poole eelneval kirjalikul nõusolekul (va Lepingu p. 3.5. sätestatud juhul). Mittekohaselt üle antud nõuete ja kohustuste osas jääb teise Poole ees vastutavaks nõuded ja/või kohustused üle andnud Pool. Nimetatu ei kehti Poolte rahaliste nõuete osas.
+	•	
+	•	Kõik Pooltevahelised teated seoses Lepingu täitmisega esitatakse teisele Poolele kirjalikult Poolte poolt Lepingu punkti 6 alapunktides fikseeritud aadressidel või mõnel muul aadressil, mida üks Pool on teisele Poolele kirjalikult teatavaks teinud. 
+	•	Kõik Pooltevahelised teated loetakse üle antuks kirja või elektronposti registreeritud edastamisel või allkirja vastu üleandmisel teise Poole poolt. 
+
+Kõikidest muudatustest Poolte aadresside/kontaktandmete/esindajate osas kohustuvad Pooled teisele Poolele teatama viivitamatult, kuid mitte hiljem kui viie (5) tööpäeva jooksul alates vastavate muudatuste toimumisest.
+
+LÕPPSÄTTED
+
+Leping jõustub selle allakirjutamise momendist Poolte esindajate poolt ning kehtib kuni Poolte poolt endale Lepinguga võetud kohustuste kohase täitmiseni.
+Leping on konfidentsiaalne, välja arvatud sätted, mis riigihangete seadusest tulenevalt kuuluvad avaldamisele riiklikus riigihangete registris. 
+	•	Pooltel ei ole õigust anda kolmandatele isikutele informatsiooni teise Poole finantsseisundi ja finantseerimisallikate, samuti juhtimissüsteemi või majandusliku tegevuse kohta, välja arvatud seaduses sätestatud juhtudel. Nimetatud korrast kõrvalekaldumine on lubatud teise Poole eelneval kirjalikul nõusolekul eesmärkidel, mis ei kahjusta teist Poolt. 
+	•	Käesolevat sätet rikkunud Pool hüvitab omapoolse rikkumisega teisele Poolele tekitatud kahju täies ulatuses. 
+	•	Käesolev säte säilitab oma juriidilise jõu kolme (3) kalendriaasta jooksul alates Lepingu lõppemisest või lõpetamisest.
+
+Lepingus toodud pealkirjad ja mõisted on mõeldud sätete sisu edasiandmiseks. Vastuolu korral mõiste ja sisu või pealkirja ja sisu vahel lähtutakse sisust.
+ 
+Lepingut muudetakse ainult kirjaliku (sh kirjalikku taasesitamist võimaldava) kokkuleppe alusel, mis vormistatakse Lepingu lisana. 
+
+Pooled kohustuvad rakendama kõiki kohaseid meetmeid, et lahendada kõik Lepingust tulenevad vaidlusküsimused läbirääkimiste teel, mitte kahjustades seejuures teise Poole Lepingust tulenevaid ja seaduslikke õigusi ja huve. Kokkuleppele mittejõudmisel lahendatakse kõik Lepingust tulenevad vaidlusküsimused seaduste alusel Viru Maakohtus (Jõhvi kohtumaja).
+
+Pooled töötlevad teise poole esindajate ja Lepingu täitmisega seotud teiste isikute isikuandmeid ilma nimetatud isikute eraldi antud nõusolekuta poolte vahel sõlmitud lepingu täitmiseks, poolte õigustatud huvides või muul õiguslikul alusel. Pooled lähtuvad isikuandmete töötlemisel õigusaktidest ja oma organisatsioonis kehtestatud isikuandmete töötlemise põhimõtetest.
+
+Poolte allkirjad:
+
+Ostja:				Müüja:
+
+/digitaalallkiri/			/digitaalallkiri/
+
+Vladimir Tšikul			………
+Juhatuse liige			………
+
+
+=== 7367284_Hankelepingu_projekt_150524.docx ===
+
+MÜÜGILEPING
+number ……………..
+
+/vastavalt digitaalallkirjastamise kuupäevale/
+
+Leping sõlmitakse AS-i Kiviõli Soojus poolt korraldatud riigihanke tulemusena.
+Riigihanke nimetus: „Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038“, (edaspidi Riigihange)
+Riigihanke viitenumber: 279899 
+				
+	
+Käesoleva müügilepingu (edaspidi Leping) pooled on:
+
+AS Kiviõli Soojus, registrikood 10245027, asukoht Ida-Viru maakond, Lüganuse vald, Kiviõli linn, Aasa tn 19, 43125 (edaspidi Ostja või Pool, koos Müüjaga Pooled), mida esindab põhikirja alusel juhatuse liige Vladimir Tšikul
+ja 
+…………………, registrikood ……………, asukoht ……………………..(edaspidi Müüja või Pool, koos Ostjaga Pooled),
+mida esindab mida esindab põhikirja alusel juhatuse liige …………………….
+
+
+LEPINGU OBJEKT, ÜLDSÄTTED
+
+Lepingu objektiks on Riigihanke alusdokumentides nimetatud käitise(te)s (nominaalne paigaldatud soojusvõimsus vähemalt 7 MW) toodetud soojuse (edaspidi "Soojus") müük Lepinguga fikseeritud mahus ja tingimustel, samuti nimetatud müügiga seotud ning sellest tulenevad tööd ja toimingud.
+
+Müüja kohustub Soojust müüma alates 01.10.2026.a. kuni 30.09.2038.a. ja selle Ostjale üle andma Liitumispunktis vastavalt Lepingus sätestatule.
+
+Ostetava Soojuse kogused kalendriaastate põhiselt on toodud Lepingu Lisas 3. Nimetatud lisas toodud kogused kehtivad muutumatult esimese 24 (kahekümne nelja) kalendrikuu jooksul. Edaspidi on Ostjal õigus ja Müüjal kohustus müüa Soojust rohkem kui Lisas 3 toodud kogus, kui Ostja seda soovib. Täpsemad müüdava Soojuse kogused lepitakse kokku 3 (kolme) aastaste perioodide kaupa alates 01.10.2028.a.
+
+Lepingu dokumendid koosnevad Lepingust, Lepingu lisadest ja Lepingu muudatustest. Termini all „Leping“ mõistetakse Lepingu tähenduses kõiki Lepingu dokumente. Lepingu juurde kuuluvad järgmised lisad:
+	•	Lisa 1 – Riigihanke tehniline kirjeldus, sh Riigihanke käigus Tellija antud selgitused.
+	•	Lisa 2 – Müüja poolt Riigihankes esitatud pakkumus koos kõikide selle lisadega.
+	•	Lisa 3 – Soojuse ostumaht.
+	•	Lisa 4 - Aastane Ostja võrgupiirkonna soojuskoormusgraafik perioodil 2021 – 2023
+	•	Lisa 5 - Müüja poolt esitatav garantii (lisatakse pärast Lepingu sõlmimist vastavalt Lepingus sätestatule);
+	•	Muud Lepingus sätestatud dokumendid.
+
+Juhul, kui Lepingu erinevate dokumentide vahel on vastuolusid või võimaldavad need mitmesugust tõlgendust, lähtutakse Riigihanke käigus Tellija antud selgitustest. Juhul, kui Riigihanke käigus ei ole vastuolude, vasturääkivuste või puuduste kohta selgitusi küsitud, lähtutakse Lepingu eesmärgile antud Ostja tõlgendusest ning sellisel juhul ei ole Müüjal õigust tugineda ettenägematutele asjaoludele, mitteinformeeritusele, tõlgenduste erinevustele või muudele takistustele Lepingu täitmisega seotud asjaolude suhtes. 
+
+Poolte õiguste ning kohustuste aluseks on Leping oma lisadega, seadused, Eesti Vabariigis kehtivad eeskirjad ja standardid ning teised Asju käsitlevad tehnilised dokumendid. Lepingu raames termin "Leping" hõlmab endas kõiki eelnevalt loetletud dokumente, kui konkreetsest sättest ei tulene teisiti.
+
+Pooled tagavad ja deklareerivad, et Lepingu sõlmimisega ei ole nad rikkunud ühtegi enda suhtes kehtiva seaduse, põhikirja või muu normatiivakti sätet ega ühtki endale varem sõlmitud lepingute ja kokkulepetega võetud kohustust.
+
+MÜÜJA KOHUSTUSED JA ÕIGUSED
+
+Müüja kohustub:
+
+müüma ning tarnima Ostjale Lepingu kohaselt Soojust punktis 1.2. nimetatud perioodil;
+
+tagama iga ajahetkel kaugküttevõrgu soojuskoormuse katmiseks võrguettevõtjaga kokkulepitud soojusvõimsuse;
+
+kooskõlastama Ostjaga soojuse tootmise korralised seisakud ja teavitama põhiseadmete remondigraafikutest jooksva aasta 30. jaanuariks;
+
+mõõtma müüdava Soojuse kogused Mõõtepunktis;
+
+akteerima Ostjale müüdud (so üle antud) Soojuse kogused koos Ostja volitatud esindajaga iga kuu viimase päeva seisuga;
+
+hüvitama täies ulatuses oma tegevuse või tegevusetusega Ostjale ja kolmandatele isikutele tekitatud kahjud. Vaidluste korral määrab kahjude tekkepõhjused kõigi osapoolte aktsepteeritud sõltumatu ekspert;
+
+teatama Ostjale kirjalikult viivitamatult, kuid mitte hiljem kui kolme (3) tööpäeva jooksul alates vastavate asjaolude ilmnemisest, Soojuse tarnetähtaegadest mittekinnipidamise vajadusest või muudest asjaoludest, mis takistavad Lepinguliste kohustuste täitmist. Kui Müüja ei teata Ostjale kohaselt nimetatud asjaoludest, puudub tal õigus nõuda Ostjalt Lepingu tingimuste muutmist. Ostjal on õigus mitte aktsepteerida Müüja poolseid ettepanekuid või muid Müüja poolt teavitatud või mitteteavitatud asjaolusid kui Müüja poolset õigustust mitte kinni pidada Lepingu tingimustest;
+
+Müüjal on õigus:
+
+saada Ostjalt üle antud Soojuse eest tasu vastavalt Lepingus sätestatud tingimustele ja korrale;
+
+kasutada õiguskaitsevahendeid (sh. taganeda Lepingust või öelda Leping üles) samuti nõuda Lepingus sätestatud juhtudel leppetrahve, kui Ostja ei pea kinni Lepingus, selle lisades või muudes Lepingu juurde kuuluvates dokumentides sätestatud tingimustest, sh kui Ostja ei täida või täidab mittevastavalt muid endale Lepinguga võetud kohustusi.
+
+
+OSTJA KOHUSTUSED JA ÕIGUSED
+
+Ostja kohustub:
+
+andma vajadusel Müüjale Lepingu allakirjutamisel ja edaspidiselt üle dokumendid ja volitused, mis on vajalikud Lepingus sätestatud Müüja kohustuste täitmiseks. Seejuures on Müüja kohustatud Ostjat vastavast vajadusest kirjalikult teavitama vähemalt viis (5) tööpäeva ette;
+
+tasuma Soojuse eest vastavalt Lepingus sätestatud tingimustele ja korrale.
+
+tagama tippkoormuse katmise ja reservvõimsuse.
+
+Ostjal on õigus:
+
+kasutada õiguskaitsevahendeid (sh. taganeda Lepingust või öelda Leping üles) samuti nõuda Lepingus sätestatud juhtudel leppetrahve, kui Müüja ei pea kinni Lepingus, selle lisades või muudes Lepingu juurde kuuluvates dokumentides sätestatud tingimustest, sh kui Müüja ei täida või täidab mittevastavalt muid endale Lepinguga võetud kohustusi.
+
+Müüja nõusolekuta anda oma Lepingust tulenevad õigused ja kohustused üle teisele Müüja tegevuskoha kaugküttepiirkonnas tegutsevale võrguettevõtjale (KKütS mõttes). Lepingu ülevõtmisega loetakse, et kõik Lepingust tulenevad õigused ja kohustused on Lepingu ülevõtjale üle läinud. Ostja kohustub 3 (kolme) tööpäeva jooksul pärast Lepingu üleandmise allkirjastamist informeerima sellest Müüjat.
+
+LIITUMISPUNKT JA MÕÕTEPUNKT
+
+Liitumispunkti(de) asukoht on: Ida-Viru maakond, Lüganuse vald, Kiviõli linn, Aasa tn 19 ja ………………..
+
+Mõõtepunkti(de) asukoht on ………………
+
+
+OSTUHIND. TASUMISE KORD
+
+Müüdava Soojuse hind ühiku kohta on Müüja pakkumuses toodud hind esimeseks kaheks Lepingu p. 1.2. toodud perioodi kalendriaastaks. Edaspidi lähtutakse Konkurentsiameti poolt kooskõlastatud Soojuse piirhinnast.
+
+Ostjale üle antud Soojuse eest esitab Müüja arve eelnenud kalendrikuul müüdud Soojuse kohta. Arve edastamise aluseks on Soojuse üleandmise akt, milles on fikseeritud arvestusperioodil Ostjale Mõõtepunktis asuva soojusarvesti näidu alusel väljastatud Soojuse kogus. Arve esitatakse Ostjale hiljemalt iga kuu seitsmendaks kuupäevaks eelmise kuu eest. Ostja kohustub arve tasuma 30 (kolmekümne) päeva jooksul arve saamisest.
+
+
+POOLTE ESINDAJAD JA SIDEKANALID
+
+Müüjat esindavad: 
+	•	Lepingulistes küsimustes ………….., tel +372 …….., e-post: ……. 
+	•	Tehnilistes küsimustes ………., tel +372 ………., e-post: ……… 
+
+Ostjat esindavad: 
+	•	Lepingulistes küsimustes ……….., tel ……………, e-post: …………….,
+	•	 Tehnilistes küsimustes ……………., tel …………….., e-post: ……......
+
+
+VÄÄRAMATU JÕUD 
+
+Pooled vabanevad Lepingust tulenevate ja sellega seotud kohustuste täitmisest osaliselt või täielikult, kui seda takistab vääramatu jõud, kusjuures Pooled on kohustatud rakendama kõiki meetmeid, et ära hoida teisele Poolele kahju tekitamine ja tagada võimalikult suures ulatuses Lepingu täitmine. Seejuures on Müüjal õigus ületada Lepingu maksumust ainult Ostjaga kooskõlastatult. Vääramatu jõu esinemine peab olema tõendatud selle Poole poolt, kes soovib viidata nimetatud asjaoludele, kui alusele, et vabaneda seadusest tulenevast ja/või Lepingus sätestatud vastutusest endale Lepinguga võetud kohustuste mittetäitmise või mittevastava täitmise eest.
+
+Vääramatu jõu esinemisest tuleb teist Poolt sellest viivitamatult kirjalikult informeerida.
+
+Vääramatu jõu esinemisel pikeneb Müügi lõpptähtaeg, samuti kõik vahetähtajad nimetatud asjaolude esinemise perioodi võrra. Vääramatu jõu esinemisel kestusega üle kolme (3) kalendrikuu on Pooltel õigus Lepingust taganeda või Leping üles öelda.
+
+GARANTII
+
+Kolmekümne päeva jooksul pärast Lepingu sõlmimist esitab Müüja Ostjale Eestis tegutseva krediidiasutuse tingimusteta garantii, mis on vastavuses ICC URDG 2010 (väljaanne nr 758) nõuetega. Garantii suuruseks on 100 000 eurot. Garantii andja kohustub Ostja esimesel nõudmisel maksma Ostja poolt Lepingu alusel nõutud summa. Ostjale peab olema tagatud võimalus esitada garantii alusel nõudeid kogu Lepingu kehtivusajal ning 30 (kolmekümne) päeva jooksul pärast Lepingu lõppemist.
+
+Punktis 8.1. sätestatud garantii osalisel või täielikul realiseerimisel Ostja poolt, kohustub Müüja andma Ostjale uue garantii selliselt, et garantii(de) kogusumma moodustaks punktis 8.1. märgitud suuruse. 
+
+POOLTE VASTUTUS
+
+Müüja vastutab Lepingu mittetäitmise või mittekohase täitmisega Ostjale tekitatud kahju eest, samuti on Müüja kohustatud Ostjale hüvitama Ostja poolt seoses Müüjapoolse Lepingu rikkumisega tehtud kulutused. Ostja vastutab Lepingu rikkumise eest ning on kohustatud Müüjale hüvitama Lepingu rikkumisega tekitatud kahju ning Müüja poolt Ostjapoolse Lepingu rikkumisega seoses tehtud kulutused.
+
+Müüjal on õigus nõuda Ostjalt arve mitteõigeaegse tasumise korral viivist null koma üks (0,1) protsenti tähtajaks tasumata summalt (arvestamata käibemaksu) iga viivitatud päeva eest (esitatud arve alusel). Tasumine loetakse tehtuks vastava Ostjapoolse ülekande tegemisega.
+
+Lepingu rikkumisel on Ostjal õigus Müüjalt nõuda leppetrahve järgmiste rikkumiste esinemisel:
+	•	
+	•	Soojuse müügi ja tarnega viivitamisel arvates Lepingu p. 1.2. sätestatud tähtaja algusest - 5 000 (viis tuhat) eurot päevas;
+	•	Soojusvõimsuse langemisel alla nõutava taseme, kuid mitte alla 50 % nõutavast tasemest, kui vastav olukord kestab kuni kolm tundi – 500 (viissada) eurot korra eest;
+	•	Planeerimata Soojuse müügi (so soojusvarustuse) katkestus välisõhu temperatuuril alla 0 oC – 500 (viissada) eurot/tunnis, mis hõlmab alljärgnevaid juhtumeid:
+(i) soojusvarustuse täielik seiskumine; 
+(ii) soojusvõimsuse langemine alla 50% nõutavast, kui vastav olukord kestab üle kolme tunni; 
+(iii) võimsuse langemine kuni 50%-ni nõutavast, kui vastav olukord kestab üle kolme tunni;
+(iv) planeeritud katkestuse korral planeeritud katkestuse aja ületamine.
+
+Ostjal on õigus leppetrahvid ja muud Lepingu Müüja poolsest rikkumisest tulenevad nõuded tasaarveldada Müüjale tasumisele kuuluvate summadega (so rahaliste nõuetega).
+
+ÜLEANDMINE JA VASTUVÕTMINE
+
+Soojuse üleandmine-vastuvõtmine toimub perioodiliselt kuude kaupa Mõõtepunkti(de)s asuva soojusarvesti näidu alusel koostatud aktiga, millises on toodud akti koostamisele eelneval kalendrikuul Ostjale väljastatud Soojuse kogus.
+
+ OMANDIÕIGUSE ÜLEMINEK
+
+Soojuse omandiõigus ning juhusliku hävimise riisiko läheb Müüjalt Ostjale Liitumispunktis. 
+
+LEPINGUST TAGANEMINE JA ÜLESÜTLEMINE
+
+Pooltel on õigus Leping üles öelda või sellest taganeda, kui teise Poole suhtes esitatakse pankrotiavaldus, kui teise Poole suhtes kuulutatakse välja pankrot, samuti muudel Lepingus ja seadustes ettenähtud juhtudel. Lepingu üles öelnud või sellest taganenud Poolel on õigus nõuda teiselt Poolelt Lepingu täitmisega seoses tehtud kulutuste ja kahju hüvitamist.
+
+Pooltel on õigus Leping üles öelda või sellest taganeda kui Müüja taotles Kliimaministri 13.03.2024.a. määruse nr 20 „Kiviõli linna kaugkütte lahti sidumiseks põlevkivitööstusest toetuse andmise tingimused ja kord“ alusel toetust uu(t)e soojuse tootmisjaama(de) ehitamiseks, kuid müüjale toetust ei antud.
+
+Ostjal on õigus Leping üles öelda või sellest taganeda, teatades sellest ette 30 (kolmkümmend) kalendripäeva, järgnevatel juhtudel:
+
+	•	Müüja ei täida kohaselt Lepingu punktides 8.1. ja 8.2. sätestatud kohustusi,
+	•	Ostjal on põhjendatud kahtlus (sh näiteks käitise ehitusega mittealustamine, selle ehitamine sedavõrd aeglaselt, et see ei valmi Lepingu p. 1.2. toodud tähtajaks, vms.), et Müüja ei ole võimeline müüma Soojust alates Lepingu p. 1.2. toodud ajast,
+	•	planeerimata soojusvarustuse katkestus, mis kestab üle viie (5) päeva,
+	•	Ostjast mitteolenevatel põhjustel (nt force majeure, lõpptarbijate tarbimismahu oluline vähenemine) kaob vajadus Soojuse ostuks.
+
+Lepingu ülesütlemise korral on Müüja kohustatud jätkama Lepingu täitmist ühe aasta jooksul ülesütlemise teate saamise päevast (või Lepingu algse tähtaja möödumiseni, kui nimetatud tähtajani on jäänud vähem kui üks aasta), kui Ostja ei ole määranud ülesütlemise teates lühemat tähtaega.
+
+Olenemata Lepingu ülesütlemise põhjusest on Ostja kohustatud Müüjale tasuma faktiliselt tarnitud Soojuse eest nii Lepingu lõppemise seisuga kui ka Lepingu p. 12.4. sätestatud tähtaja lõpuni.
+
+NÕUETE JA KOHUSTUSTE ÜLEMINEK, TEATED
+
+Pooltel on õigus Lepingust tulenevaid ja sellega seotud nõudeid ja kohustusi kolmandatele isikutele üle anda ainult teise Poole eelneval kirjalikul nõusolekul (va Lepingu p. 3.5. sätestatud juhul). Mittekohaselt üle antud nõuete ja kohustuste osas jääb teise Poole ees vastutavaks nõuded ja/või kohustused üle andnud Pool. Nimetatu ei kehti Poolte rahaliste nõuete osas.
+	•	
+	•	Kõik Pooltevahelised teated seoses Lepingu täitmisega esitatakse teisele Poolele kirjalikult Poolte poolt Lepingu punkti 6 alapunktides fikseeritud aadressidel või mõnel muul aadressil, mida üks Pool on teisele Poolele kirjalikult teatavaks teinud. 
+	•	Kõik Pooltevahelised teated loetakse üle antuks kirja või elektronposti registreeritud edastamisel või allkirja vastu üleandmisel teise Poole poolt. 
+
+Kõikidest muudatustest Poolte aadresside/kontaktandmete/esindajate osas kohustuvad Pooled teisele Poolele teatama viivitamatult, kuid mitte hiljem kui viie (5) tööpäeva jooksul alates vastavate muudatuste toimumisest.
+
+LÕPPSÄTTED
+
+Leping jõustub selle allakirjutamise momendist Poolte esindajate poolt ning kehtib kuni Poolte poolt endale Lepinguga võetud kohustuste kohase täitmiseni.
+Leping on konfidentsiaalne, välja arvatud sätted, mis riigihangete seadusest tulenevalt kuuluvad avaldamisele riiklikus riigihangete registris. 
+	•	Pooltel ei ole õigust anda kolmandatele isikutele informatsiooni teise Poole finantsseisundi ja finantseerimisallikate, samuti juhtimissüsteemi või majandusliku tegevuse kohta, välja arvatud seaduses sätestatud juhtudel. Nimetatud korrast kõrvalekaldumine on lubatud teise Poole eelneval kirjalikul nõusolekul eesmärkidel, mis ei kahjusta teist Poolt. 
+	•	Käesolevat sätet rikkunud Pool hüvitab omapoolse rikkumisega teisele Poolele tekitatud kahju täies ulatuses. 
+	•	Käesolev säte säilitab oma juriidilise jõu kolme (3) kalendriaasta jooksul alates Lepingu lõppemisest või lõpetamisest.
+
+Lepingus toodud pealkirjad ja mõisted on mõeldud sätete sisu edasiandmiseks. Vastuolu korral mõiste ja sisu või pealkirja ja sisu vahel lähtutakse sisust.
+ 
+Lepingut muudetakse ainult kirjaliku (sh kirjalikku taasesitamist võimaldava) kokkuleppe alusel, mis vormistatakse Lepingu lisana. 
+
+Pooled kohustuvad rakendama kõiki kohaseid meetmeid, et lahendada kõik Lepingust tulenevad vaidlusküsimused läbirääkimiste teel, mitte kahjustades seejuures teise Poole Lepingust tulenevaid ja seaduslikke õigusi ja huve. Kokkuleppele mittejõudmisel lahendatakse kõik Lepingust tulenevad vaidlusküsimused seaduste alusel Viru Maakohtus (Jõhvi kohtumaja).
+
+Pooled töötlevad teise poole esindajate ja Lepingu täitmisega seotud teiste isikute isikuandmeid ilma nimetatud isikute eraldi antud nõusolekuta poolte vahel sõlmitud lepingu täitmiseks, poolte õigustatud huvides või muul õiguslikul alusel. Pooled lähtuvad isikuandmete töötlemisel õigusaktidest ja oma organisatsioonis kehtestatud isikuandmete töötlemise põhimõtetest.
+
+Poolte allkirjad:
+
+Ostja:				Müüja:
+
+/digitaalallkiri/			/digitaalallkiri/
+
+Vladimir Tšikul			………
+Juhatuse liige			………
+
+
+=== 7367284_Hankes_osalemise_taotlus_150524.docx ===
+Hankes osalemise taotlus
+
+Hankija: AS Kiviõli Soojus, registrikood 10245027
+Riigihange: Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+viitenumber 279899
+
+Pakkuja nimi
+
+Registrikood
+
+Aadress
+
+Kontaktisik ja tema andmed
+
+Telefon
+
+Elektronposti aadress
+
+Ühispakkujate volitatud esindaja
+
+
+	•	Kinnitame, et soovime osaleda käesolevas riigihankes ning meie pakkumus on esitatud kõiki hanketeates ja hankedokumentides esitatud tingimusi üle võttes. Aktsepteerime täielikult hanketeates, hankedokumentides ja selle lisades sätestatud tingimusi ja kinnitame, et meie pakkumus on täielikus vastavuses hanketeate, hankedokumentide ja selle lisade tingimustega.
+	•	Kinnitame, et oleme tutvunud hanketeate, hankedokumentide ja nende lisadega ning  nõustume täielikult hankija esitatud tingimustega. Kinnitame, et meile oli antud võimalus saada täiendavat informatsiooni hanketeate ja hankedokumentide kohta, oleme teadlikud hankija soovidest ning oleme arvestanud kõikide tingimustega, mis võivad mõjutada osutatava teenuse maksumust.
+	•	Kinnitame, et pakkumuse koostamisel oleme arvesse võtnud kõik käesoleva riigihanke teostamiseks ja hankelepingu eesmärgi saavutamiseks vajalikud töövõtja tööd, teenused, tegevused ja toimingud, kaasa arvatud need, mis ei ole otseselt kirjeldatud hankedokumentides ja selle lisades, kuid mis on tavapäraselt vajalikud nõuetekohase tulemuse saavutamiseks arvestades lepingu eesmärki.
+	•	Kinnitame, et teeme töö/osutame teenuse vastavalt hanke alusdokumentides ja meie pakkumuses toodud tähtaegadele ja kavale.
+	•	Kinnitame, et võtame üle kõik hanketeates ja hankedokumentides esitatud tingimused ja esitame pakkumuse üksnes kõigi nende asjaolude kohta, mille kohta hankija soovib võistlevaid pakkumusi.
+	•	Kinnitame, et vastame täielikult hanketeates esitatud kvalifitseerimistingimustele ning meil on kõik võimalused ja vahendid eelnimetatud riigihanke nõuetekohaseks teostamiseks.
+	•	Kinnitame, et meie pakkumuse lahutamatuks osaks loetakse kõik dokumendid ning täiendavad lisad, mis on tehtud riigihanke käigus.
+	•	Kinnitame, et omame hankelepingu täitmiseks vajalikku intellektuaalset omandiõigust.
+	•	Kinnitame, et meie pakkumus on jõus hanketeates märgitud tähtaja jooksul alates pakkumuste esitamise tähtpäevast.
+	•	Meie pakkumuse edukaks tunnistamise korral kohustume hankijaga sõlmima hankelepingu 10 päeva jooksul pärast pakkumuse edukaks tunnistamise teatamisest ja sellele järgneva 14 päevase ooteaja möödumist või vaidlustuse esitamise korral lõpliku lahendi jõustumist (eeldusel, et meie pakkumus jääb edukaks).
+	•	Oleme täielikult teadlikud, et juhul kui edukaks tunnistatud pakkumuse esitanud pakkuja võtab hankijast mitteolenevatel põhjustel oma pakkumuse tagasi on hankijal õigus nõuda edukaks tunnistatud pakkumuse tagasi võtnud pakkujalt kahju hüvitamist tagasi võetud pakkumuse ja järgmise edukaks tunnistatud pakkumuse maksumuse vahe osas ning kõigi võimalike lisakulude ulatuses, mis hankijal tuleb kanda seoses hankelepingu sõlmimisega selle pakkumuse alusel, mis tunnistati edukaks pärast pakkumuste uuesti hindamist, samuti kulutuste ulatuses, mis tulenesid uuest pakkumuste hindamisest.
+	•	Oleme täielikult teadlikud, et hankijal on õigus lükata tagasi kõik pakkumused.
+	•	Kinnitame, et pakkumuse maksumuse vorm eRHR-is on nõuetekohaselt täidetud. Saame aru, et pakkumuse maksumuse vormi mittenõuetekohase täitmise puhul võidakse lükata meie pakkumus tagasi kui hankedokumentidele mittevastav.
+	•	Kinnitame, et oleme pakkumuses esitanud tõesed andmed ja anname nõusoleku meie poolt esitatud andmete või dokumentide õigsuse kontrollimiseks, järelpärimiste tegemiseks kolmandatele isikutele ning nõustume, et hankija võib kolmandatelt isikutelt saadud dokumendid ja andmed võtta käesoleval riigihankel otsuste tegemisel aluseks. Aktsepteerime hankija õigust valeandmete esitamise korral kõrvaldada pakkuja hankemenetlusest.
+
+
+
+Pakkuja esindaja nimi: 
+
+
+Esindaja allkiri:	/allkirjastatud digitaalselt/
+
+
+
+=== 7367284_ML_Lisa_3_Soojuse_ostumaht.xlsx ===
+[Sheet: Soojuse ostumaht]
+ML Lisa 3
+Kavandatud soojuse ostumaht aastate lõkes
+Aasta | MWh | Soojuse ostumaht | Aastane soojuse ostumaht
+2026 | 4900 | 2026 | Uus TJ | 2027/2038 | Uus TJ
+2027 | 12000 | jaan | jaan | 2500
+2028 | 12000 | veeb | veeb | 2300
+2029 | 12000 | märts | märts | 1500
+2030 | 12000 | aprill | aprill | 800
+2031 | 12000 | mai | mai | 0
+2032 | 12000 | juuni | juuni | 0
+2033 | 12000 | juuli | juuli | 0
+2034 | 12000 | august | august | 0
+2035 | 12000 | sept | sept | 0
+2036 | 12000 | okt | 600.4900000000001 | okt | 600.4900000000001
+2037 | 12000 | nov | 1700 | nov | 1700
+2038 | 12000 | dets | 2600 | dets | 2600
+KOKKU | 148900 | Kokku | 4900.49 | Kokku | 12000.49
+
+=== 7367284_ML_Lisa_4_2021___2023_soojuskoormuse_graafikud.xlsx ===
+[Sheet: 2021 2023 tabel]
+Võrku antud soojus kokku 2021 - 2023 (keskm.)
+I | II | III | IV | V | VI | VII | VIII | IX | X | XI | XII
+1 | 6.77625 | 6.822499999999999 | 5.780972222222222 | 5.488194444444445 | 3.7819444444444446 | 1.0968055555555554 | 0.8180555555555555 | 0.8927777777777778 | 1.0569444444444445 | 2.5829166666666667 | 3.808055555555556 | 6.94486111111111
+2 | 7.364583333333333 | 6.9497222222222215 | 5.742083333333333 | 5.53375 | 3.6723611111111114 | 1.195 | 0.8295833333333333 | 0.8488888888888889 | 1.0711111111111111 | 2.6551388888888887 | 4.359583333333333 | 7.691805555555555
+3 | 7.23375 | 7.149305555555556 | 5.730972222222223 | 5.727083333333333 | 4.055138888888888 | 1.1495833333333334 | 0.6774999999999999 | 0.8993055555555555 | 1.105138888888889 | 2.6126388888888887 | 4.253333333333333 | 7.304305555555556
+4 | 7.2256944444444455 | 7.681805555555556 | 6.324027777777778 | 5.533194444444444 | 4.345833333333333 | 1.16375 | 0.33055555555555555 | 0.8720833333333333 | 1.136111111111111 | 2.5604166666666663 | 4.212777777777777 | 7.309305555555546
+5 | 6.908333333333334 | 7.825972222222222 | 6.463472222222222 | 5.601527777777778 | 4.170416666666667 | 1.0979166666666667 | 0.06527777777777778 | 0.8841666666666667 | 1.1169444444444443 | 2.7719444444444448 | 4.4494444444444445 | 7.841666666666687
+6 | 7.043055555555557 | 7.248888888888889 | 6.4181944444444445 | 5.318888888888889 | 3.7775 | 1.1220833333333333 | 0 | 0.8802777777777778 | 1.1572222222222222 | 2.7355555555555555 | 4.371944444444444 | 8.605416666666656
+7 | 7.6805555555555545 | 7.172361111111111 | 6.692916666666666 | 4.9880555555555555 | 3.5184722222222224 | 1.0580555555555555 | 0.4709722222222222 | 0.9022222222222221 | 1.1713888888888888 | 2.9931944444444443 | 4.348472222222223 | 8.397083333333333
+8 | 7.783055555555555 | 6.8500000000000005 | 6.96 | 5.132916666666667 | 3.737777777777778 | 1.0247222222222223 | 0.5991666666666667 | 0.8861111111111111 | 1.1469444444444445 | 3.398055555555555 | 4.459722222222222 | 8.16638888888889
+9 | 7.518750000000001 | 7.347083333333334 | 7.5304166666666665 | 5.057638888888889 | 3.3302777777777774 | 1.073888888888889 | 0.9330555555555556 | 0.8738888888888888 | 1.166388888888889 | 3.4141666666666666 | 4.484027777777778 | 8.10013888888889
+10 | 7.93888888888889 | 7.285555555555555 | 7.892499999999999 | 4.792361111111112 | 2.5506944444444444 | 1.0330555555555554 | 0.8130555555555556 | 0.8629166666666667 | 1.1683333333333334 | 3.700416666666667 | 4.091388888888889 | 8.156666666666657
+11 | 8.013055555555555 | 7.082777777777777 | 7.229583333333334 | 4.341944444444445 | 2.1731944444444444 | 1.0427777777777776 | 0.8420833333333332 | 0.8793055555555555 | 1.1430555555555555 | 3.5508333333333333 | 4.079305555555556 | 7.554583333333343
+12 | 8.476944444444445 | 7.529444444444444 | 6.52875 | 3.8284722222222225 | 2.0705555555555555 | 0.9758333333333334 | 0.8231944444444445 | 0.9223611111111111 | 1.2016666666666669 | 3.65875 | 4.039861111111112 | 6.949583333333334
+13 | 6.9622222222222225 | 6.727222222222221 | 5.820277777777778 | 4.126527777777778 | 1.837361111111111 | 1.0315277777777778 | 0.8566666666666666 | 0.9152777777777777 | 1.198611111111111 | 3.794583333333333 | 4.6187499999999995 | 6.718055555555556
+14 | 6.859722222222222 | 6.760138888888889 | 5.3775 | 4.382083333333333 | 1.8825 | 0.9754166666666665 | 0.8365277777777779 | 0.9084722222222222 | 1.2618055555555556 | 3.549722222222222 | 4.979583333333333 | 6.774027777777768
+15 | 7.073472222222222 | 6.571666666666666 | 5.471666666666667 | 4.585555555555556 | 1.8344444444444443 | 0.9534722222222222 | 0.8516666666666666 | 0.8736111111111112 | 1.3768055555555556 | 3.7030555555555558 | 5.343472222222222 | 6.724166666666677
+16 | 7.0929166666666665 | 6.547361111111111 | 5.690833333333334 | 4.4875 | 1.8294444444444444 | 0.9683333333333334 | 0.8679166666666668 | 0.8523611111111111 | 1.4693055555555556 | 3.823472222222222 | 5.521527777777778 | 6.616944444444424
+17 | 6.946805555555556 | 7.0122222222222215 | 5.736111111111112 | 4.132083333333333 | 1.702361111111111 | 0.9697222222222223 | 0.82375 | 0.8641666666666667 | 1.6687500000000002 | 4.191388888888889 | 5.74861111111111 | 6.51111111111111
+18 | 6.805 | 7.425972222222222 | 5.611666666666667 | 4.118055555555556 | 1.6454166666666665 | 0.9309722222222222 | 0.8970833333333333 | 0.8959722222222223 | 1.8356944444444447 | 4.334861111111111 | 5.867083333333333 | 6.322500000000001
+19 | 6.471111111111111 | 7.121944444444445 | 5.730555555555557 | 4.023194444444445 | 1.541388888888889 | 0.9643055555555556 | 0.8424999999999999 | 0.8691666666666666 | 2.0279166666666666 | 4.586527777777778 | 6.158333333333334 | 6.086944444444445
+20 | 6.220694444444444 | 6.952083333333333 | 5.328055555555555 | 3.7552777777777777 | 1.4927777777777778 | 0.90125 | 0.8708333333333332 | 0.8945833333333333 | 2.0869444444444443 | 4.524305555555556 | 5.97861111111111 | 6.825277777777778
+21 | 6.721527777777777 | 6.762777777777778 | 5.212361111111111 | 3.462222222222222 | 1.443472222222222 | 0.93 | 0.8609722222222222 | 0.9073611111111112 | 2.362222222222222 | 4.145833333333333 | 6.540833333333333 | 6.679305555555556
+22 | 6.132777777777778 | 7.098888888888889 | 5.422361111111111 | 3.4595833333333332 | 1.4279166666666665 | 0.9447222222222221 | 0.8883333333333333 | 0.9148611111111111 | 2.505277777777778 | 4.455000000000001 | 6.321666666666666 | 6.550972222222222
+23 | 6.0751388888888895 | 7.71375 | 5.095 | 3.6277777777777778 | 1.368888888888889 | 0.8438888888888889 | 0.8673611111111111 | 0.9159722222222223 | 2.5498611111111114 | 4.5761111111111115 | 6.1802777777777775 | 6.332083333333334
+24 | 5.8012500000000005 | 6.373333333333334 | 4.660138888888889 | 3.917777777777778 | 1.1830555555555555 | 0.8261111111111111 | 0.8506944444444443 | 0.9630555555555556 | 2.583472222222222 | 4.854305555555556 | 6.044444444444444 | 6.822777777777778
+25 | 5.819583333333333 | 5.995416666666666 | 4.710555555555555 | 3.915694444444444 | 1.1458333333333333 | 0.9216666666666665 | 0.8908333333333335 | 0.9534722222222222 | 2.5025 | 4.690555555555555 | 6.263749999999999 | 7.114583333333335
+26 | 6.436666666666667 | 6.360972222222222 | 5.120277777777777 | 3.889166666666666 | 1.195 | 0.8801388888888889 | 0.8411111111111111 | 0.9704166666666666 | 2.4505555555555554 | 4.465555555555556 | 6.7118055555555545 | 7.424444444444444
+27 | 6.214305555555555 | 6.470833333333334 | 5.311527777777777 | 4.277777777777778 | 1.3102777777777777 | 0.8498611111111111 | 0.8683333333333335 | 0.9755555555555554 | 2.729444444444445 | 4.358472222222223 | 6.737916666666666 | 7.276805555555555
+28 | 6.553750000000001 | 5.942361111111111 | 5.34986111111111 | 4.342222222222222 | 1.2188888888888887 | 0.8548611111111112 | 0.8695833333333333 | 0.9443055555555556 | 2.560694444444444 | 4.089861111111111 | 6.668333333333333 | 6.7754166666666675
+29 | 6.416944444444444 | 5.763194444444444 | 4.292083333333333 | 1.3022222222222222 | 0.8058333333333335 | 0.8591666666666667 | 0.96625 | 2.4888888888888885 | 3.9931944444444447 | 7.091111111111111 | 6.728888888888889
+30 | 6.350833333333334 | 5.652222222222222 | 3.9805555555555556 | 1.1648611111111113 | 0.8706944444444445 | 0.8901388888888889 | 1.0229166666666667 | 2.5930555555555554 | 4.595138888888889 | 6.544027777777778 | 6.629166666666666
+31 | 6.609166666666667 | 5.881944444444444 | 1.238611111111111 | 0.8731944444444445 | 0.9993055555555556 | 4.550277777777777 | 6.354305555555555
+Kesk | 6.8879614695340505 | 6.956512896825397 | 5.878709677419355 | 4.470638888888889 | 2.22415770609319 | 0.981875 | 0.7615860215053762 | 0.9100448028673837 | 1.7297685185185185 | 3.8037499999999995 | 5.3426018518518505 | 7.10611559139785
+Kokku | 5124.643333333333 | 4674.776666666667 | 4373.76 | 3218.86 | 1654.7733333333333 | 706.95 | 566.6199999999999 | 677.0733333333334 | 1245.4333333333334 | 2829.99 | 3846.6733333333327 | 5286.950000000001 | 34206.50333333334
+
+=== 7367284_TK_Lisa_1_2021___2023_soojuskoormuse_graafikud.xlsx ===
+[Sheet: 2021 2023 tabel]
+Võrku antud soojus kokku 2021 - 2023 (keskm.)
+I | II | III | IV | V | VI | VII | VIII | IX | X | XI | XII
+1 | 6.77625 | 6.822499999999999 | 5.780972222222222 | 5.488194444444445 | 3.7819444444444446 | 1.0968055555555554 | 0.8180555555555555 | 0.8927777777777778 | 1.0569444444444445 | 2.5829166666666667 | 3.808055555555556 | 6.94486111111111
+2 | 7.364583333333333 | 6.9497222222222215 | 5.742083333333333 | 5.53375 | 3.6723611111111114 | 1.195 | 0.8295833333333333 | 0.8488888888888889 | 1.0711111111111111 | 2.6551388888888887 | 4.359583333333333 | 7.691805555555555
+3 | 7.23375 | 7.149305555555556 | 5.730972222222223 | 5.727083333333333 | 4.055138888888888 | 1.1495833333333334 | 0.6774999999999999 | 0.8993055555555555 | 1.105138888888889 | 2.6126388888888887 | 4.253333333333333 | 7.304305555555556
+4 | 7.2256944444444455 | 7.681805555555556 | 6.324027777777778 | 5.533194444444444 | 4.345833333333333 | 1.16375 | 0.33055555555555555 | 0.8720833333333333 | 1.136111111111111 | 2.5604166666666663 | 4.212777777777777 | 7.309305555555546
+5 | 6.908333333333334 | 7.825972222222222 | 6.463472222222222 | 5.601527777777778 | 4.170416666666667 | 1.0979166666666667 | 0.06527777777777778 | 0.8841666666666667 | 1.1169444444444443 | 2.7719444444444448 | 4.4494444444444445 | 7.841666666666687
+6 | 7.043055555555557 | 7.248888888888889 | 6.4181944444444445 | 5.318888888888889 | 3.7775 | 1.1220833333333333 | 0 | 0.8802777777777778 | 1.1572222222222222 | 2.7355555555555555 | 4.371944444444444 | 8.605416666666656
+7 | 7.6805555555555545 | 7.172361111111111 | 6.692916666666666 | 4.9880555555555555 | 3.5184722222222224 | 1.0580555555555555 | 0.4709722222222222 | 0.9022222222222221 | 1.1713888888888888 | 2.9931944444444443 | 4.348472222222223 | 8.397083333333333
+8 | 7.783055555555555 | 6.8500000000000005 | 6.96 | 5.132916666666667 | 3.737777777777778 | 1.0247222222222223 | 0.5991666666666667 | 0.8861111111111111 | 1.1469444444444445 | 3.398055555555555 | 4.459722222222222 | 8.16638888888889
+9 | 7.518750000000001 | 7.347083333333334 | 7.5304166666666665 | 5.057638888888889 | 3.3302777777777774 | 1.073888888888889 | 0.9330555555555556 | 0.8738888888888888 | 1.166388888888889 | 3.4141666666666666 | 4.484027777777778 | 8.10013888888889
+10 | 7.93888888888889 | 7.285555555555555 | 7.892499999999999 | 4.792361111111112 | 2.5506944444444444 | 1.0330555555555554 | 0.8130555555555556 | 0.8629166666666667 | 1.1683333333333334 | 3.700416666666667 | 4.091388888888889 | 8.156666666666657
+11 | 8.013055555555555 | 7.082777777777777 | 7.229583333333334 | 4.341944444444445 | 2.1731944444444444 | 1.0427777777777776 | 0.8420833333333332 | 0.8793055555555555 | 1.1430555555555555 | 3.5508333333333333 | 4.079305555555556 | 7.554583333333343
+12 | 8.476944444444445 | 7.529444444444444 | 6.52875 | 3.8284722222222225 | 2.0705555555555555 | 0.9758333333333334 | 0.8231944444444445 | 0.9223611111111111 | 1.2016666666666669 | 3.65875 | 4.039861111111112 | 6.949583333333334
+13 | 6.9622222222222225 | 6.727222222222221 | 5.820277777777778 | 4.126527777777778 | 1.837361111111111 | 1.0315277777777778 | 0.8566666666666666 | 0.9152777777777777 | 1.198611111111111 | 3.794583333333333 | 4.6187499999999995 | 6.718055555555556
+14 | 6.859722222222222 | 6.760138888888889 | 5.3775 | 4.382083333333333 | 1.8825 | 0.9754166666666665 | 0.8365277777777779 | 0.9084722222222222 | 1.2618055555555556 | 3.549722222222222 | 4.979583333333333 | 6.774027777777768
+15 | 7.073472222222222 | 6.571666666666666 | 5.471666666666667 | 4.585555555555556 | 1.8344444444444443 | 0.9534722222222222 | 0.8516666666666666 | 0.8736111111111112 | 1.3768055555555556 | 3.7030555555555558 | 5.343472222222222 | 6.724166666666677
+16 | 7.0929166666666665 | 6.547361111111111 | 5.690833333333334 | 4.4875 | 1.8294444444444444 | 0.9683333333333334 | 0.8679166666666668 | 0.8523611111111111 | 1.4693055555555556 | 3.823472222222222 | 5.521527777777778 | 6.616944444444424
+17 | 6.946805555555556 | 7.0122222222222215 | 5.736111111111112 | 4.132083333333333 | 1.702361111111111 | 0.9697222222222223 | 0.82375 | 0.8641666666666667 | 1.6687500000000002 | 4.191388888888889 | 5.74861111111111 | 6.51111111111111
+18 | 6.805 | 7.425972222222222 | 5.611666666666667 | 4.118055555555556 | 1.6454166666666665 | 0.9309722222222222 | 0.8970833333333333 | 0.8959722222222223 | 1.8356944444444447 | 4.334861111111111 | 5.867083333333333 | 6.322500000000001
+19 | 6.471111111111111 | 7.121944444444445 | 5.730555555555557 | 4.023194444444445 | 1.541388888888889 | 0.9643055555555556 | 0.8424999999999999 | 0.8691666666666666 | 2.0279166666666666 | 4.586527777777778 | 6.158333333333334 | 6.086944444444445
+20 | 6.220694444444444 | 6.952083333333333 | 5.328055555555555 | 3.7552777777777777 | 1.4927777777777778 | 0.90125 | 0.8708333333333332 | 0.8945833333333333 | 2.0869444444444443 | 4.524305555555556 | 5.97861111111111 | 6.825277777777778
+21 | 6.721527777777777 | 6.762777777777778 | 5.212361111111111 | 3.462222222222222 | 1.443472222222222 | 0.93 | 0.8609722222222222 | 0.9073611111111112 | 2.362222222222222 | 4.145833333333333 | 6.540833333333333 | 6.679305555555556
+22 | 6.132777777777778 | 7.098888888888889 | 5.422361111111111 | 3.4595833333333332 | 1.4279166666666665 | 0.9447222222222221 | 0.8883333333333333 | 0.9148611111111111 | 2.505277777777778 | 4.455000000000001 | 6.321666666666666 | 6.550972222222222
+23 | 6.0751388888888895 | 7.71375 | 5.095 | 3.6277777777777778 | 1.368888888888889 | 0.8438888888888889 | 0.8673611111111111 | 0.9159722222222223 | 2.5498611111111114 | 4.5761111111111115 | 6.1802777777777775 | 6.332083333333334
+24 | 5.8012500000000005 | 6.373333333333334 | 4.660138888888889 | 3.917777777777778 | 1.1830555555555555 | 0.8261111111111111 | 0.8506944444444443 | 0.9630555555555556 | 2.583472222222222 | 4.854305555555556 | 6.044444444444444 | 6.822777777777778
+25 | 5.819583333333333 | 5.995416666666666 | 4.710555555555555 | 3.915694444444444 | 1.1458333333333333 | 0.9216666666666665 | 0.8908333333333335 | 0.9534722222222222 | 2.5025 | 4.690555555555555 | 6.263749999999999 | 7.114583333333335
+26 | 6.436666666666667 | 6.360972222222222 | 5.120277777777777 | 3.889166666666666 | 1.195 | 0.8801388888888889 | 0.8411111111111111 | 0.9704166666666666 | 2.4505555555555554 | 4.465555555555556 | 6.7118055555555545 | 7.424444444444444
+27 | 6.214305555555555 | 6.470833333333334 | 5.311527777777777 | 4.277777777777778 | 1.3102777777777777 | 0.8498611111111111 | 0.8683333333333335 | 0.9755555555555554 | 2.729444444444445 | 4.358472222222223 | 6.737916666666666 | 7.276805555555555
+28 | 6.553750000000001 | 5.942361111111111 | 5.34986111111111 | 4.342222222222222 | 1.2188888888888887 | 0.8548611111111112 | 0.8695833333333333 | 0.9443055555555556 | 2.560694444444444 | 4.089861111111111 | 6.668333333333333 | 6.7754166666666675
+29 | 6.416944444444444 | 5.763194444444444 | 4.292083333333333 | 1.3022222222222222 | 0.8058333333333335 | 0.8591666666666667 | 0.96625 | 2.4888888888888885 | 3.9931944444444447 | 7.091111111111111 | 6.728888888888889
+30 | 6.350833333333334 | 5.652222222222222 | 3.9805555555555556 | 1.1648611111111113 | 0.8706944444444445 | 0.8901388888888889 | 1.0229166666666667 | 2.5930555555555554 | 4.595138888888889 | 6.544027777777778 | 6.629166666666666
+31 | 6.609166666666667 | 5.881944444444444 | 1.238611111111111 | 0.8731944444444445 | 0.9993055555555556 | 4.550277777777777 | 6.354305555555555
+Kesk | 6.8879614695340505 | 6.956512896825397 | 5.878709677419355 | 4.470638888888889 | 2.22415770609319 | 0.981875 | 0.7615860215053762 | 0.9100448028673837 | 1.7297685185185185 | 3.8037499999999995 | 5.3426018518518505 | 7.10611559139785
+Kokku | 5124.643333333333 | 4674.776666666667 | 4373.76 | 3218.86 | 1654.7733333333333 | 706.95 | 566.6199999999999 | 677.0733333333334 | 1245.4333333333334 | 2829.99 | 3846.6733333333327 | 5286.950000000001 | 34206.50333333334
+
+=== 7367284_Tehniline_kirjeldus_140624.docx ===
+Lisa 1: Tehniline kirjeldus
+Riigihange „Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038“
+Viitenumber 279899
+
+	•	EESMÄRK
+	•	Hankija eesmärk on toodud hanke alusdokumendi p 2.2. 
+
+	•	Hanke tulemusena soovib hankija leida soojuse tootja ja sõlmida sellega hankeleping soojuse ostuks 12 aastaks.
+
+	•	ÜLDISED TINGIMUSED
+	•	Pakkuja ehitab hankijale soojuse müümiseks õigusaktide nõuetele (sh KliM Määruse § 8 sätestatud nõuetele kui soovib kasutada KliM Määruses sätestatud toetust) vastava käitise ja tagab käitises toodetava soojuse müügi hankijale hankelepingu kehtivuse perioodil;
+	•	Pakkuja esitab KliM Määruses sätestatud taotluse käitise ehituseks ja punktis 1 sätestatu täitmiseks, kui ta soovib kasutada KliM Määruses sätestatud toetust.
+	•	Pakkuja kohustub täitma KliM Määruses sätestatud nõudeid;
+	•	Käitise ehitamiseks/käitamiseks ja hankelepingu täitmiseks vajalikud kooskõlastused, load, vms. hangib pakkuja omal kulul;
+	•	Käitis(ed) ja selles/nendes võrguühendus (torustik) liitumispunktini peavad olema ehitatud õiguslikul alusel kasutatavale maa-alale (kinnistud pakkuja omandis ja/või pakkuja omab kasutusõigust) ja vastav õiguslik alus peab kehtima kogu hankelepingu kehtivuse perioodil.
+	•	Käitise/käitiste võimaliku liitumispunkt/-punktid kaugküttevõrguga kooskõlastatakse võrguettevõtjaga enne pakkumise esitamist arvestades punktis 4 toodut.
+
+	•	NÕUDED KÄITISELE
+	•	Käitise nimivõimsus vähemalt 7 MW (taastuvenergiaallikad, nt hakkepuit). 
+	•	Soojusvarustuse tippkoormuse katmine ja reservvõimsus tagab võrguettevõtja. 
+	•	Võrguettevõtja vajaliku soojuse võimsuse ja soojuse koguse määratakse Pakkujaga sõlmitud lepingus. 
+	•	Käitis peab vastama kõikidele selle ehituse ja vastuvõtmise ajal kehtivatele õigus- ja normatiivaktidele ja omama kasutusluba;
+	•	Käitise kõikide muutuvate parameetrite visualiseerimise ühilduv dubleerimine võrguettevõtja kaugjälgimis-juhtimissüsteemi vahendusel;
+	•	Käitises peab olema piisava tootlikkusega soojuskandja veepehmendussüsteem, samuti seadmed soojuskandja pidevaks puhastamiseks kõrvalistest ainetes maksimaalse soojuskandja kuluga G=6 m3/h.
+	•	Käitises toodetava soojuse varustuskindlus peab olema tagatud 24/7 oktoobrist kuni veebruarini (kaasa arvatud), sõltuvalt välisõhu temperatuurist  ja sooja veega varustamiseks;
+	•	Käitis peab kasutama keskkonnasäästlikku tehnoloogiat, mis vastab KliM Määruse§ 8 lg 6 ja 7 toodut nõuetele;
+	•	Sooja veega varustamiseks vajaduse korral perioodil mai kuni september (kaasa arvatud) peab Käitise töö sooja veega varustamiseks tagama soojusvõimsuse – 0,8 MW;
+	•	Soojushulga reguleerimise süsteem:  kvantitatiivne-kvalitatiivne.
+	•	Käitis peab olema valminud (sh omama kasutusluba) ja tootma müüdavat soojust täisvõimsusel hiljemalt 30.09.2026.a.
+	•	Temperatuurigraafik käitisest väljumisel peab olema  100 0C - 65 0C. Minimaalne väljuv võrguvee temperatuur peab olema 65 0C.
+	•	Lubatud maksimaalne rõhk soojusvõrgus on kuni  5,0 Bar, rõhk väljumisel katlamajast olenevalt hüdraulilisest režiimist. 
+	•	Soojustorustiku väljundile käitises (peale ja tagasivoolule) paigaldada sulgarmatuurid. 
+	•	Müüdava soojusenergia mõõtmine peab toimuma läbi taadeldud soojusmõõtesüsteemi. Soojusmõõtjate  mõõteandmed peavad olema ühendatud võrguettevõtja süsteemiga.
+	•	Käitis peab hoidma soojuskandja rõhkude vahet vastavalt võrguettevõtja poolt antud väärtusele. Rõhkude vahe kõikumine käitisest peab jääma piiridesse ± 0,2 bar.
+	•	Soojusenergia üldkoguse reguleerimist käitisest väljumisel korrigeeritakse võrguettevõtja poolt tsentraalselt võrguettevõtja korraldusel nii väljastatava võrguvee temperatuuri kui kuluga vastavalt temperatuurigraafikule.
+	•	Võrku antava planeeritud soojuse hulk aastate lõikes lisatud hanke dokumentides. 
+
+	•	LIITUMISPUNKT JA MÕÕTEPUNKT
+	•	Käitise (sõltumata taastuva energiaallika liigist) liitumispunkt asub hankija asukohas Ida-Viru maakond, Lüganuse vald, Kiviõli linn, Aasa tn 19 või mõnes muus võrguettevõtja poolt kooskõlastatud asukohas kaugküttevõrgu koosseisus oleval soojustorustikul tehniliselt võimalikus ühenduskohas. Kui liitumispunkt ei asu hankija asukohas Ida-Viru maakond, Lüganuse vald, Kiviõli linn, Aasa tn 19, siis liitumispunkti(de) asukoh(ad)t kooskõlastatakse võrguettevõtjaga enne pakkumise esitamist.
+	•	Mõõtepunkt asub liitumispunkti asukohas/asukohtades hankija torustikus pärast liitumispunkti.
+
+	•	TEHNILISE KIRJELDUSE LISAD
+	•	Lisa 1 – 2021 – 2023 Kiviõli võrgupiirkonna soojuskoormuse graafikud
+	•	Lisa 2 – Kiviõli võrgupiirkonna skeem.
+	•	Lisa 3 – Aasa tn 19 ja Aasa tn 19b vahelise haljasala detailplaneering
+
+
+
+=== 7367284_Tehniline_kirjeldus_150524.docx ===
+Lisa 1: Tehniline kirjeldus
+Riigihange „Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038“
+Viitenumber 279899
+
+	•	EESMÄRK
+	•	Hankija eesmärk on toodud hanke alusdokumendi p 2.2. 
+
+	•	Hanke tulemusena soovib hankija leida soojuse tootja ja sõlmida sellega hankeleping soojuse ostuks 12 aastaks.
+
+	•	ÜLDISED TINGIMUSED
+	•	Pakkuja ehitab hankijale soojuse müümiseks õigusaktide nõuetele (sh KliM Määruse § 8 sätestatud nõuetele kui soovib kasutada KliM Määruses sätestatud toetust) vastava käitise ja tagab käitises toodetava soojuse müügi hankijale hankelepingu kehtivuse perioodil;
+	•	Pakkuja esitab KliM Määruses sätestatud taotluse käitise ehituseks ja punktis 1 sätestatu täitmiseks, kui ta soovib kasutada KliM Määruses sätestatud toetust.
+	•	Pakkuja kohustub täitma KliM Määruses sätestatud nõudeid;
+	•	Käitise ehitamiseks/käitamiseks ja hankelepingu täitmiseks vajalikud kooskõlastused, load, vms. hangib pakkuja omal kulul;
+	•	Käitis(ed) ja selles/nendes võrguühendus (torustik) liitumispunktini peavad olema ehitatud õiguslikul alusel kasutatavale maa-alale (kinnistud pakkuja omandis ja/või pakkuja omab kasutusõigust) ja vastav õiguslik alus peab kehtima kogu hankelepingu kehtivuse perioodil.
+	•	Käitise/käitiste võimaliku liitumispunkt/-punktid kaugküttevõrguga kooskõlastatakse võrguettevõtjaga enne pakkumise esitamist arvestades punktis 4 toodut.
+
+	•	NÕUDED KÄITISELE
+	•	Käitise nimivõimsus vähemalt 7 MW (taastuvenergiaallikad, nt hakkepuit). 
+	•	Soojusvarustuse tippkoormuse katmine ja reservvõimsus tagab võrguettevõtja. 
+	•	Võrguettevõtja vajaliku soojuse võimsuse ja soojuse koguse määratakse Pakkujaga sõlmitud lepingus. 
+	•	Käitis peab vastama kõikidele selle ehituse ja vastuvõtmise ajal kehtivatele õigus- ja normatiivaktidele ja omama kasutusluba;
+	•	Käitise kõikide muutuvate parameetrite visualiseerimise ühilduv dubleerimine võrguettevõtja kaugjälgimis-juhtimissüsteemi vahendusel;
+	•	Käitises peab olema piisava tootlikkusega soojuskandja veepehmendussüsteem, samuti seadmed soojuskandja pidevaks puhastamiseks kõrvalistest ainetes maksimaalse soojuskandja kuluga G=6 m3/h.
+	•	Käitises toodetava soojuse varustuskindlus peab olema tagatud 24/7 oktoobrist kuni veebruarini (kaasa arvatud), sõltuvalt välisõhu temperatuurist  ja sooja veega varustamiseks;
+	•	Käitis peab kasutama keskkonnasäästlikku tehnoloogiat, mis vastab KliM Määruse§ 8 lg 6 ja 7 toodut nõuetele;
+	•	Sooja veega varustamiseks vajaduse korral perioodil mai kuni september (kaasa arvatud) peab Käitise töö sooja veega varustamiseks tagama soojusvõimsuse – 0,8 MW;
+	•	Soojushulga reguleerimise süsteem:  kvantitatiivne-kvalitatiivne.
+	•	Käitis peab olema valminud (sh omama kasutusluba) ja tootma müüdavat soojust täisvõimsusel hiljemalt 30.09.2026.a.
+	•	Temperatuurigraafik käitisest väljumisel peab olema  100 0C - 65 0C. Minimaalne väljuv võrguvee temperatuur peab olema 65 0C.
+	•	Lubatud maksimaalne rõhk soojusvõrgus on kuni  5,0 Bar, rõhk väljumisel katlamajast olenevalt hüdraulilisest režiimist. 
+	•	Soojustorustiku väljundile käitises (peale ja tagasivoolule) paigaldada sulgarmatuurid. 
+	•	Müüdava soojusenergia mõõtmine peab toimuma läbi taadeldud soojusmõõtesüsteemi. Soojusmõõtjate  mõõteandmed peavad olema ühendatud võrguettevõtja süsteemiga.
+	•	Käitis peab hoidma soojuskandja rõhkude vahet vastavalt võrguettevõtja poolt antud väärtusele. Rõhkude vahe kõikumine käitisest peab jääma piiridesse ± 0,2 bar.
+	•	Soojusenergia üldkoguse reguleerimist käitisest väljumisel korrigeeritakse võrguettevõtja poolt tsentraalselt võrguettevõtja korraldusel nii väljastatava võrguvee temperatuuri kui kuluga vastavalt temperatuurigraafikule.
+	•	Võrku antava planeeritud soojuse hulk aastate lõikes lisatud hanke dokumentides. 
+
+	•	LIITUMISPUNKT JA MÕÕTEPUNKT
+	•	Hakkepuidul töötava käitise liitumispunkt asub hankija asukohas Ida-Viru maakond, Lüganuse vald, Kiviõli linn, Aasa tn 19.
+	•	Teiste taastuvad energiaallikate liitumispunktide asukohad kooskõlastatakse võrguettevõtjaga enne pakkumise esitamist.
+	•	Mõõtepunkt asub liitumispunkti asukohas/asukohtades hankija torustikus pärast liitumispunkti.
+
+	•	TEHNILISE KIRJELDUSE LISAD
+	•	Lisa 1 – 2021 – 2023 Kiviõli võrgupiirkonna soojuskoormuse graafikud
+	•	Lisa 2 – Kiviõli võrgupiirkonna skeem.
+	•	Lisa 3 – Aasa tn 19 ja Aasa tn 19b vahelise haljasala detailplaneering
+
+
+
+=== 7367284_Vorm_1_-_Andmed_netokäibe_ja_soojusettevõtjana_tegutsemise_kohta_150524.docx ===
+Vorm 1
+Andmed netokäibe ja soojusettevõtjana tegutsemise kohta
+Hankija: AS Kiviõli Soojus, registrikood 10245027
+Riigihange: Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+viitenumber 2798
+
+Pakkuja nimi
+
+Registrikood
+
+Aadress
+
+Kontaktisik ja tema andmed
+
+Telefon
+
+Elektronposti aadress
+
+Ühispakkujate volitatud esindaja
+
+
+	•	Kinnitame, et me vastame kõikidele hankes pakkuja kvalifitseerimiseks esitatud nõuetele, mille tõenduseks esitame muuhulgas järgmised andmed:
+
+	•	Andmed netokäibe soojuse tootmisel, jaotamisel ja müügil kohta:
+
+Majandusaasta
+Netokäive (EUR)
+Märkused
+
+
+
+
+
+
+
+
+
+
+	•	Andmed soojusettevõtjana tegutsemise kohta (vajadusel lisa tabeleid juurde):
+
+Periood (kuu, aasta)
+
+Soojuse tootmise maht (MWh)
+
+Soojuse tootmise asukoht (aadress)
+
+Soojuse müük (MWh)
+
+Ostja
+Nimi:
+
+
+Registrikood:
+
+
+Periood (kuu, aasta)
+
+Soojuse tootmise maht (MWh)
+
+Soojuse tootmise asukoht (aadress)
+
+Soojuse müük (MWh)
+
+Ostja
+Nimi:
+
+
+Registrikood:
+
+
+
+	•	Kinnitame, et kõik Vormil 1 esitatud andmed on õiged.
+
+Pakkuja esindaja nimi: 
+
+Esindaja allkiri:	/allkirjastatud digitaalselt/
+
+
+=== 7367284_Vorm_2_-_Ühispakkujate_volikiri_150524.docx ===
+Vorm 2
+Ühispakkujate volikiri
+ 
+ 
+Hankija: AS Kiviõli Soojus, registrikood 10245027
+Riigihange: Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+viitenumber 279899
+
+
+
+Pakkuja nimi
+Pakkuja registrikood
+Pakkuja aadress
+Allkirjaõigusliku isiku nimi
+Allkirjaõigusliku isiku allkiri
+
+
+
+
+/allkirjastatud digitaalsel/
+
+
+
+
+/allkirjastatud digitaalsel/
+(vajadusel lisada ridu)
+
+Ühispakkujate volitatud esindajaks on:
+
+Pakkuja nimi: 
+
+registrikood: 
+
+allkirjaõigusliku isiku nimi: 
+
+Ühispakkujad volitavad siintoodud isikut tegutsema ühispakkujate volitatud esindajana käesoleva riigihanke hankemenetlusega ning hankelepingu sõlmimisega ja hankelepingu täitmisega seotud toimingute tegemiseks, sh ühispakkujate esindamiseks hankija ees.
+
+Kinnitame, et hankelepingu sõlmimisel vastutavad kõik ühispakkujad solidaarselt hankelepingu täitmise eest.
+
+
+Kuupäev: 
+
+Ühispakkujate esindajate allkirjad:	/allkirjastatud digitaalselt/
+
+
+
+=== 7367284_Vorm_3_-_Volikiri_150524.docx ===
+
+Vorm 3
+Volikiri
+
+Hankija: AS Kiviõli Soojus, registrikood 10245027
+Riigihange: Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+viitenumber 279899
+
+
+Käesolevaga volitab _______________ (pakkuja nimetus, registrikood) juhatuse liige __________________ (volitaja nimi) _______________________________ (volitatava nimi, ametikoht) 
+olema pakkuja ametlik esindaja ja allkirjastama ülal nimetatud riigihanke pakkumust.
+
+
+
+Volikiri on antud edasivolitamise õiguseta.
+
+Volikiri kehtib kuni: ________________
+
+
+Volitaja nimi ja ametikoht:
+
+Volitaja allkiri 	/allkirjastatud digitaalselt/
+
+
+
+=== 7367284_Vorm_4_-_Teave_ärisaladuse_kohta_150524.docx ===
+Vorm 4 – Teave ärisaladuse kohta
+Hankija: AS Kiviõli Soojus, registrikood 10245027
+Riigihange: Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038
+viitenumber 279899
+
+Pakkuja nimi
+
+Registrikood
+
+Aadress
+
+Kontaktisik ja tema andmed
+
+Telefon
+
+Elektronposti aadress
+
+Ühispakkujate volitatud esindaja
+
+
+Avaldame, et riigihankes „Kiviõli kaugküttepiirkonnas soojuse ost 2026-2038“ esitatud pakkumusest on ärisaladusega kaitstud järgmised dokumendid või teave:
+
+Jrk
+Dokumendi nimetus (terviktekst või viide teksti osale)
+Põhjendus teabe ärisaladuseks määramisest
+1.
+
+
+2.
+
+
+…
+
+
+
+Oleme teadlikud, et:
+	•	RHS § 111 lg 5 kohaselt ei või pakkuja ärisaladusena märkida pakkumuse maksumust ega osamaksumusi, muid pakkumuste hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid ;
+	•	juhul kui antud vorm on täitmata või on esitamata põhjendus teabe ärisaladuseks määramise kohta, loeb hankija, et pakkuja poolt esitatud pakkumus või pakkumuses sisalduv teave ei ole ärisaladusega kaitstud.
+
+
+Pakkuja esindaja nimi: 
+
+
+Esindaja allkiri:	/allkirjastatud digitaalselt/
+

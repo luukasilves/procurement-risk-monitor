@@ -1,0 +1,2213 @@
+=== 1616212_215352_HD_III_raamleping_Kliiniline_keemia_3_v2.docx ===
+
+
+RAAMLEPING
+Leping on sõlmitud digitaalselt allkirjastamisel. 
+
+AS Ida-Tallinna Keskhaigla, registrikood 10822068, aadress Ravi tn 18, 10138 Tallinn, (edaspidi: hankija), keda esindab juhatuse esimees Ralf Allikvee ja …………….., registrikood ……………….., aadress …………………. (edaspidi: tarnija), keda esindab …………………….., edaspidi nimetatuna ka: pool või koos: pooled, sõlmisid raamlepingu (edaspidi: leping):
+
+	•	Lepingu objekt 
+Lepingu objektiks on:
+	•	 Kahe eraldiseisva analüsaatori ………………………………….…. koos vahevara, kahe eraldiseisva veepuhastusseadme (edaspidi: seadmed või süsteem) ning 
+	•	 kuluvahendite (edaspidi: kaup) 
+ostmine koos tarnega hankija aadressile vastavalt riigihanke „Kliinilise keemia ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“ viitenumbriga 215352 hankedokumentidele ning tarnija esitatud pakkumusele (lisa 1). 
+
+	•	Lepingu kehtivus
+Leping jõustub sõlmimisel ja kehtib 48 kuud peale seadmete üleandmist. Seadmete üleandmise tähtaeg on 7 kuud alates lepingu jõustumisest.
+	•	Lepingu maksumus
+	•	Seadmete maksumus käibemaksuta on …………………. eurot, mis sisaldab muuhulgas kõiki tarnija poolt lepingu raames tehtavaid kulutusi.
+	•	Kauba maksumus on sätestatud tarnija hinnakirjas, mis on käesoleva lepingu lahutamatu osa. Hinnakirjas kajastatud hinnad ei sisalda käibemaksu ning on hankija jaoks lõplikud (sisaldavad muuhulgas kõiki tarnija poolt lepingu raames tehtavaid kulutusi) ning tarnija jaoks siduvad kogu lepingu perioodi vältel. 
+	•	Juhul kui kaup või seadmed ei vasta lepingus toodud nõuetele, võib hankija nõuda seadmete või kauba asendamist nõuetekohase vastu või lepingu hinda ühepoolselt alandada teavitades sellest tarnijat kirjalikku taasesitamist võimaldavas vormis. 
+
+	•	Maksetingimused
+	•	Hankija maksab või korraldab liisingupartneri poolt maksmise seadmete eest peale seadmete üleandmist esitatud arve alusel 30 (kolmekümne) kalendripäeva jooksul. Juhul kui seadmed võetakse kapitaliliisingusse, arvestatakse maksetähtaega alates üleandmis-vastuvõtuakti allkirjastamise kuupäevast.
+	•	Hankija maksab kauba eest arve alusel pärast tellitud kauba tarnimist maksetähtajaga 30 (kolmekümne) kalendripäeva jooksu.
+	•	Tarnija tõendab, et käesoleva lepingu järgi üleantavatele seadmetele ja kaupadele ei ole kolmandatel isikutel mingeid õigusi ning kolmandatel isikutel ei ole ka alust selliste õiguste taotlemiseks. 
+
+	•	Seadmete tarnetähtaeg ja üleandmine
+	•	Seadmete üleandmise tähtaeg on 7 kuud alates lepingu sõlmimisest.
+	•	Seadmed antakse üle Hankija aadressil Ravi 18, Tallinn, selleks ettenähtud ruumis RC0212.
+	•	Hankija on enne seadmete vastuvõtmist kohustatud seadmed üle vaatama. Kui seadmel ilmnevad puudused, mis ei võimalda seda otstarbekohaselt kasutada või seadmed erinevad oluliselt lepinguga kokkulepitust, siis võib hankija keelduda seadmete vastuvõtmisest.
+	•	Seadmed loetakse üleantuks, kui on läbi viidud esmakoolitus,  üle antud koolitust / väljaõpet tõendavad sertifikaadid, vahevara liidestatud ITK kesklaboris kasutatava eLaboriga, üleantud eesti ja inglisekeelsed kasutusjuhendid nii paberil kui elektroonselt ning saadud nõuetekohane hankija poolt läbiviidud verifitseerimise tulemus. Seadme üleandmise kohta koostatakse kahepoolne kasutussevõtu akt.
+	•	Seadmete omandiõigus läheb tarnijalt hankijale üle pärast seadmete üleandmist.
+
+	•	Seadmete garantii
+	•	Seadmete garantiiaeg on 12 kuud alates seadmete üleandmisest.
+	•	Seadmete rikke korral kohustub tarnija väljakutsele reageerima kohaletulekuga tööpäevadel sama tööpäeva jooksul juhul, kui teade edastati kella 8:00-12:00 vahemikus ning hiljemalt järgneva tööpäeva alguseks juhul, kui teade edastati kella 12:00-17:00 vahemikus. Tarnija võimaldab tööajaväliseid väljakutseid ja remondi teostamist
+	•	Tarnija tagab garantiiajal tasuta seadmete täishoolduse (korraline hooldus ja remont rikete kõrvaldamiseks koos kõigi varuosadega, v.a rikked, mis on põhjustatud hankija süül).
+	•	Tarnija tagab garantiiperioodi jooksul tasuta hankija konsultatsioone ja seadmete ümberkonfigureerimist ning tootja poolt välja antud seadmete tarkvara versiooni uuendusi ning riistvara modifikatsioone ja nende paigaldamist.
+	•	Tarnija tagab garantiiajal seadmete töökorras oleku ja kasutamisvalmiduse vähemalt 355-ks päevaks kalendriaastas 6-aastase perioodi jooksul kauba üleandmisest. Seadmete hooldusest, puudulikust hooldusest või riketest tingitud summaarne seiskumine ei tohi kesta üle 10 (kümne) päeva kalendriaasta kohta, kuid mitte rohkem kui 3 tööpäeva ühe rikke korral.
+	•	Seadmete rikkest tuleneva tööseisaku korral rohkem kui 3 tundi on hankijal õigus tarnijapoolsele back-up lahendusele analüüside sooritamiseks samaväärse 1 analüüsi maksumusega.
+	•	Garantiiaja kulg peatub ajal, mil hankija ei saa seadmeid kasutada lepingu tingimustele mittevastavuse tõttu, mille eest hankija ei vastuta.
+	•	Juhul kui seadmed vajavad garantiihooldust, vastutab garantiihoolduse jälgimise, kontrollimise ning läbiviimise eest hankija ees tarnija. 
+	•	Seadme parandamise korral pikeneb garantii parandamise aja kestuse võrra. 
+	•	Garantii ei välista ega piira hankija õigust kasutada muid seadusest ja lepingust tulenevaid õiguskaitsevahendeid. 
+
+	•	Garantiijärgne hooldusleping
+	•	Tarnija on hankija nõudel kohustatud sõlmima garantiitähtaja järgse hoolduslepingu hankija soovil (HD Lisa IV põhjal).
+	•	Tarnija tagab peale garantiiaega 6-aastase perioodi jooksul (hooldusperiood) süsteemi hoolduse (korraline hooldus vähemalt üks kord aastas kohapeal) ja hooldusperioodi jooksul süsteemi remondi kõigi rikete kõrvaldamise töödega (nii tarkvara kui ka riistvara rikked). Vajaminevate varuosade maksumus esitatakse Tarnija poolt Hankija kontaktisikule peale veadiagnostika selgumist. Süsteemi rikke korral on Tarnija kohustatud Hankija teatele reageerima esimesel võimalusel kohaletulekuga ühe tööpäeva jooksul.
+	•	Tarnija tagab hooldusperioodi jooksul tasuta kasutaja konsultatsioone, sh infosüsteemi liidestamiseks vajalikul määral ja mahus, süsteemi ümberkonfigureerimist ja tootja poolt välja antud seadmete tarkvara versiooni uuendusi (version updates).
+
+	•	Koolitus
+	•	Tarnija peab tagama peale seadmete lõplikku paigaldamist ja installeerimist kõigile kasutajatele kohapeal seadmete kasutamisega seotud vähemalt 5-päevase esmakoolituse, mille peab läbi viima vastava väljaõppe saanud rakendusspetsialist. 
+	•	Tarnija teostab hiljemalt garantii lõpus ja hankija soovil igal tööaastal järelkoolituse.
+	•	Tarnija annab vähemalt kahele kasutajale  analüsaatorite tootja õppekeskuses vähemalt kolme päeva ulatuses teoreetilise ja praktilise väljaõppe, hiljemalt 3 kuud peale kasutusele võtmist.
+	•	Tarnija tagab kahele hankija meditsiinitehnika insenerile seadme remondi ja hooldusega seotud ülevaatliku tutvustuse, mis tagab võimaluse teostada kohapealset esmast diagnostikat ning vajadusel lihtsamaid remonttöid.
+	•	Koolitused viiakse läbi tootjafirma või sellega võrdsustatud koolitusprogrammi alusel ning peavad toimuma eesti keeles.
+	•	Tarnija esitab koolituse järgselt hankijale kõik koolitusega seotud materjalid elektroonsel kujul.
+	•	Koolituste järgselt antakse üle eestikeelsed kasutusjuhendid, mis käsitlevad kõiki seadmete tööprotsesse.
+
+	•	Kauba tellimine ja transport
+	•	Hankija teatab tarnijale tellitavad kogused kas kirjalikult, telefoni või interneti teel lepingu rekvisiitides toodud kontaktidel.  
+	•	Kaupade transport tarnijalt hankijale toimub tarnija korraldamisel ning on hankijale tasuta.
+	•	Tarnija kohustub kaubad markeerima ja pakkima transportimiseks vastavalt markeerimis- ja pakkimisnõuetele, mis tagavad kauba säilimise transportimise käigus.
+	•	Tarnija tagab tellitud kauba kohaletoimetamise pakkumises esitatud tingimustel, 3 tööpäeva jooksul tellimise esitamisest alates. 
+	
+	•	Kauba kvaliteet
+	•	Tarnija tagab, et kaup on kõrgekvaliteediline;
+	•	Tarnija garanteerib müüdavate kaupade kvaliteedi nii poolte vahel kokkulepitud kui ka riiklikult kehtestatud standarditele;
+	•	Kauba tarneaeg on maksimaalselt 14 kalendripäeva ja säilivusaeg minimaalselt 6 kuud.
+	•	Tarnija tagab igakülgse informatsiooni pakutavate Kaupade kohta vastavuses pakkumuses esitatud tingimustele. 
+	•	Tarnija kohustub asendama mittekvaliteetse Kauba omal kulul kvaliteetse kaubaga, välja arvatud juhul, kui kauba ebakvaliteetsus on tekkinud Hankija süül. Nimetatud kohustuse kohustub Tarnija täitma viie (5) tööpäeva jooksul, arvates vastavasisulise pretensiooni esitamisest Hankija poolt.
+
+	•	Kauba üleandmine ja vastuvõtmine
+	•	Kauba tarnekohaks on vastavalt tellimusele Hankija kesklabor Ravi tn 18, Tallinn, kus toimub koguselise vastavuse ja kvaliteedi kontroll Kauba saatedokumentide järgi. 
+	•	Kaup loetakse tarnituks, kui see on üle antud hankija lepingu rekvisiitides nimetatud esindajale.  
+	•	Kaupade juhusliku hävimise riisiko läheb tarnijalt hankijale üle alates seadmete ja kaupade  tarnimisest.
+
+	•	Poolte kohustused
+	•	Hankija kohustub:
+	•	tellitud tingimustele vastavad Seadmed ja Kauba vastu võtma;
+	•	tasuma tähtaegselt tellitud Seadmete ja Kauba eest; 
+	•	mittetähtaegse tasumise korral kohustub Hankija Tarnijale maksma viivist 0,05 % tasumata arve summast iga tasumisega viivitatud päeva eest;
+	•	kontrollima esitatud Kauba saatedokumentide õigsust ja vastavust tarnitud Kaubale ning esitama pretensioonid nende avastamisel kohapeal paberkandjal, millele kirjutavad alla mõlema poole esindajad. Kauba mittevastavuse avastamisel peale pakendi avamist tuleb sellest teatada kas telefoni või e-kirja teel esimesel võimaluse Tarnija esindajale. 
+	•	Tarnija kohustub:
+	•	Tarnija peab viivitamatult teavitama Hankijat tarneraskustest;
+	•	vahetama ringi mittekvaliteetse või  saatedokumentidele mittevastavad Seadmed või Kauba;
+	•	Kauba ümbervahetamise võimatuse korral hüvitama Hankija poolsed kahjud, mis on tingitud saamalaadse Kauba ostmisel teiselt Tarnijalt.
+	•	Mittekvaliteetse Kauba üleandmisel on Tarnija kohustatud Hankija nõudmisel kas:
+	•	vahetama mittekvaliteetse Kauba oma kulul ümber vastava kvaliteediga Kauba vastu kokkulepitud tähtaja jooksul;
+	•	alandama vastavalt Kauba maksumust.
+
+	•	Poolte õigused
+	•	Hankijal on õigus:
+	•	nõuda mittekvaliteetsete Seadmete ja Kauba ümbervahetamist, kusjuures ümbervahetamise kulud kannab Tarnija;
+	•	Kui Hankija avastab Kauba vastuvõtmisel Kauba mittekvaliteetsuse, teatab ta sellest koheselt Tarnijale ja võib taotleda Tarnija esindaja  kohale kutsumist. Kui Tarnija oma esindajat määratud ajaks kohale ei saada või väljakutsele ei reageeri, võib Hankija omal valikul:
+	•	koostada ühepoolse akti, mis on pretensiooni esitamise aluseks ning tõendina Tarnija poolt aktsepteeritav;
+	•	kasutada eksperti. Ekspertiisikulud nõutakse sisse Tarnijalt. 
+	•	Tarnijal on õigus:
+	•	nõuda Hankijalt kvaliteetse ja saatedokumentidele vastavate Seadmete ja Kauba vastuvõtmist;
+	•	nõuda Hankijale tarnitud ja üleantud Seadmete ja Kauba eest õigeaegset tasumist.
+	•	
+	•	Poolte vastutust kohustuste rikkumisel
+	•	Lepingu punktis 5.1 nimetatud Seadmete üleandmise tähtajast mittekinnipidamise korral on Hankujal õigus nõuda Tarnijalt leppetrahvi 1 % Seadmete maksumusest iga viivitatud päeva eest. 
+	•	Kui Tarnija viivitab Kauba tarnimisega rohkem kui 5 (viis)  tööpäeva alates tellimuse esitamisest, on Hankijal õigus nõuda  leppetrahvi 30 EUR iga viivitatud päeva eest.
+	•	Kui Seadmel vajalikud funktsionaalsused  ei ole Lepingu punktis 6.1. sätestatud garantiiperioodi lõppemise kuupäevaks põhiseadmele lisatud, on Hankijal õigus nõuda Tarnijalt leppetrahvi 1% Seadme maksumusest iga Seadmel vajalike funktsionaaluste põhiseadmele lisamisega viivitatud päeva eest.
+	•	Lepingus esitatud tingimuste korduval (kolm korda 12 kuu jooksul) eiramisel on Hankijal õigus Lepingust taganeda teatades sellest Tarnijale kirjalikult.
+	•	
+	•	Lepingu lõpetamine ja muutmine
+	•	Käesoleva Lepingu tingimusi võib muuta ainult Poolte kirjalikul kokkuleppel, v.a Hankija ja Tarnija poolsed kontaktisikud, mida võib muuta kirjalikku taasesitamist võimaldavas vormis.
+	•	Käesolev Leping lõpeb tähtaja saabumisel.
+	•	Tarnijal on õigus Leping ennetähtaegselt lõpetada kui:
+	•	Hankija ei täida käesoleva Lepinguga endale võetud kohustusi;
+	•	Hankijal on õigus Leping ennetähtaegselt lõpetada kui:
+	•	Tarnija ei täida käesoleva Lepinguga endale võetud kohustusi.
+	•	Mõlemal Poolel on õigus Leping ühepoolset lõpetada enne tähtaja saabumist, teatades sellest kirjalikult teisele Poolele ette vähemalt kaks kuud. 
+
+	•	Force majeure (Vääramatu jõud)
+	•	Lepingu mittetäitmise põhjuseid, mida on tekitanud vääramatu jõud, loetakse vabandavaks tingimusel, kui Pooled rakendava jõupingutusi sellise olukorra vältimiseks ning tingimusel, et võetakse tarvitusele meetmed käesoleva Lepingu täitmiseks. 
+	•	Vääramatu jõu all mõistetakse Lepingu mistahes täitmist takistavat ettenägematut sündmust, mille üle Poolel puudub kontroll – tulekahju, plahvatus, loodusõnnetused, sõda, embargo, streik, rahvarahutused jne. 
+
+	•	Lõppsätted
+	•	Käesoleva Lepingu täitmisel tekkivad vaidlused lahendatakse läbirääkimiste teel. Juhul, kui läbirääkimised ei anna tulemusi, lahendatakse vaidlus Eesti Vabariigi õigusaktidega ettenähtud korras Hankija asukohajärgses kohtus..
+	•	Käesolev Leping tühistab kõik Poolte vahel Lepingu objektiks olevate Kaupade tarnimisega seonduvad varasemad suulised ja kirjalikud kokkulepped.
+	•	Konfidentsiaalsus. Pooled on kohustatud hoidma käesolevat Lepingut ning sellega seotud informatsiooni konfidentsiaalsena. 
+	•	Käesoleva Lepingu sisu avaldamine kolmandatele isikutele ilma teise Poole kirjaliku nõusolekuta on keelatud.
+	•	Leping on allkirjastatud digitaalselt.
+
+
+LEPINGUPOOLTE ANDMED: 
+Hankija:
+
+
+
+Tarnija:
+AS Ida-Tallinna Keskhaigla 
+Ravi tn 18, 10138 Tallinn 
+Reg kood: 10822068 
+Tel: 620 7000 
+E-post: info@itk.ee  
+
+Kontaktisikud: 
+Seadmete vastuvõtja:
+Marko Parve
+Meditsiinitehnika osakonna juhataja
+Tel: 620 7260
+E-post: marko.parve@itk.ee 
+
+Kaupade tellimiseks ja vastuvõtmiseks ja teiste vastavate isikute määramiseks:
+Liisa Kuhi
+Kesklabori juhataja
+Tel: 620 7241, 5635 3481
+liisa.kuhi@itk.ee
+
+Lepingulised küsimused:
+Heili Kuningas
+Tel: 5358 0115
+E-post: heili.kuningas@itk.ee 
+
+
+Allkirjastajad: 
+Ralf Allikvee, 
+juhatuse esimees 
+
+
+
+
+=== 1616212_215352_HD_II_a_Kliiniline_Keemia_Tehniline_kirjeldus_5.doc ===
+
+PAKKUJA  ……………………………..
+
+PAKUTAVAD SEADMED  …………………………………..
+
+Tabel 1. Miinimumnõuded integreeritud kliinilise keemia ja immuunanalüüsi analüsaatoritele
+
+
+
+Hankija nõue
+Vastavus nõudele JAH/EI ja/või parameetri arvväärtus
+Viide tootja poolt väljastatud tehnilisele andmestikule või tootja kinnitusele, mis tõendab pakutava toote vastavust nõudele (dokumendi nimi ja lehekülje number)
+Üldnõuded
+
+
+Hangitakse kaks eraldiseisvat analüsaatorit (edaspidi Seadet), vajadusel lisasead(m)e(d), vahevara, kaks eraldiseisvat veepuhastusseadet ja kuluvahendid neljaks aastaks.
+
+
+Seade on täisautomaatne integreeritud analüsaator, mis koosneb biokeemia-, imuunanalüüsi-, laadimismoodulitest ning juhtarvutist. Lisaseade on täisautomaatne analüsaator. Vahevara on tarkvara seadmete töö koordineerimiseks. Veepuhastusseadmed on seadmete tööks sobiva kvaliteediga vee tootmiseks. Kuluvahendid hõlmavad kõiki tööks vajalikke vahendeid.
+
+
+Esitada kõigi pakutavate seadmete paigutus ruumiplaanil Lisa II b ruumiplaani RC0212 joonis (Autocad formaat). Paigutuseks ettenähtud pind on markeeritud punase joonega.  Enne pakkumuse esitamist peavad pakkujad tutvuma ruumiga kohapeal ja vajadusel läbi viima vajalikud mõõtmised.
+
+
+Pakutavad seadmed peavad olema uued, varem kasutamata ja tootesarja viimasest põlvkonnast.
+
+
+Seadmed ja kuluvahendid on CE ja IVD märgistusega vastavalt direktiivile 98/79/EC.
+
+
+Seadmete poolt kasutatav nominaalne võrgupinge on 230 VAC, sagedus 50 Hz.
+
+
+Seadmetel puuduolevate testide tegemiseks peab pakkumus sisaldama lisaseadet, vajadusel võib pakkuda kuni kahte lisaseadet. Pakutava(te)le lisaseadme(te)le kehtivad samad seadmele nõutud üldnõuded, mis toodud punktides p.1.3-1.6. 
+
+
+Kahe seadme ja vajadusel pakutava lisaseadme(te) nõuded (vt. punkti 2.22)
+
+
+Seadmed võimaldavad kõigi Tabelis 3 Eeldatav töömaht nimetatud testide teostamist ühekaupa.
+
+
+Seadmed asendavad üksteist valvetöös tehtavate testide osas. Juhul, kui pakkumus sisaldab valvetöö tegemiseks lisaseadmeid, peab pakkumus sisaldama vähemalt kahte üksteist valvetöös asendavat lisaseadet. 
+
+
+Seadmete jõudlus on piisav, et teostada mõlema seadme peale kokku vähemalt 2000 biokeemilist (fotomeetria + potentsiomeetria) ja 600 immuunanalüüsi tunnis.
+
+
+Seadmes on jahutusega reagentide positsioonid sh. 60 biokeemilise analüüsi ja 40 immuunanalüüsi jaoks.
+
+
+Seadmetesse saab lisada proove, tellimusi, tarvikuid ja reagendianumaid ilma tööd katkestamata.
+
+
+Seadmed võimaldavad analüüsida kiireloomulisi (STAT/Cito!) proove eelisjärjekorras.
+
+
+Teostavad analüüse verest, uriinist ja kehavedelikest (täpsem info tabelis Eeldatav töömaht).
+
+
+Biokeemilisteks testideks pipeteeritav proovikogus ei ületa 50 µl
+
+
+Seadmed kasutavad erinevate tootjate, erinevate mahtude ja erinevate suurustega katsuteid. Kasutatavate katsutite mõõtmed on: diameeter 11-15 mm, kõrgus 75-100 mm.
+
+
+Seadmed määravad patsiendiproovist segavad faktorid – hemoglobiini, bilirubiini ja lipeemia (HIL indeksid).
+
+
+Seadmetel on süsteem proovimaterjalide ja reagentide pipeteeritavate koguste korrektsuse ja hüübe kontrollimiseks.
+
+
+Seadmed on varustatud UPS-idega, mis elektrikatkestuse korral võimaldavad seadmete tööd jätkata vähemalt 5 minutit.
+
+
+Pakkumine sisaldab seadmete ühendamist kanalisatsiooni ja veepuhastusseadmetega. 
+
+
+Seadmeid on võimalik kasutada temperatuuril 18-30 °C.
+
+
+Teste on võimalik kasutaja poolt ajutiselt moodulite kaupa inaktiveerida.
+
+
+Seadmetel on eraldi pipetid reagentide ja proovimaterjalide pipeteerimiseks. 
+
+
+Erinevad kvaliteedikontrollimaterjalide, kalibraatorite ja reagentide partiid (LOT-id) on samaaegselt kasutatavad.
+
+
+Juhtarvutisse sisselogimine on individuaalsete kasutajatunnustega piiratud.
+
+
+Seadmed on inseneri kaughaldusega.
+
+
+Seadmed või vahevara salvestavad kalibratsiooni tulemusi testide ja kalibraatorite partiide kaupa vähemalt kahe aasta töömahu ulatuses. 
+
+
+Kui pakutavatel seadmetel osad testid puuduvad, siis tarnib pakkuja puuduolevate testide tegemiseks kuni kaks lisaseadet (vajadusel sisaldub komplektsuses ratastega laud). Lisaseadmed ja veepuhastusseadmed mahuvad põrandapinnale, mis on markeeritud punase joonega. Lisaseadmetel tehtav testide arv kokku on maksimaalselt 20 erinevat testi. Juhul, kui lisaseadmeid peab kasutama ka valvetöö tegemiseks (tabelis Eeldatav töömaht), peab pakkuja lisama seadme tootja kinnituse, et vajalikud funktsionaalsused lisatakse põhiseadmele hiljemalt garantiiperioodi jooksul. Peale garantiiaega ei kasutata lisaseadmeid valvetöö tegemiseks.
+
+
+Pakutavatele lisasedme(te)le kehtivad punkti 2 alampunktides 2.1, 2.2, 2.6-2.9, 2.11-2.12, 2.14, 2.18-2.19, 2.21 toodud nõuded.
+
+
+Vahevara nõuded
+
+
+Vahevara teeb ja salvestab analüüsiandmetele statistikat.
+
+
+Pakkuja paigaldab vahevara ITK virtuaalserverile Windows Server 2016. Kui vahevaras sisaldub andmebaas, siis on vaikimisi lubatud avatud platvormid. Tasuliste platvormide puhul peab andmebaasi litsents sisalduma pakkumuses.
+
+
+Vahevara kasutajaliides on samaaegselt kasutatav vähemalt 15-s hankija arvutis (Win10 Enterprise, 64-bit). Vahevara peab töötama arvutites, mis alluvad domeenipoliitikatele (GPO), on varustatud viirusetõjega ning on seadistatud saama automaatseid turvauuendusi (security/critical updates). Vahevara ei tohi kasutada kolmanda osapoole tarkvara või tarkvaralisi komponente, millel puudub tootetugi. Kui vahevara on kasutatav läbi veebilehitseja, ei tohi vahevara olla seotud ainult ühe veebilehitseja või selle versiooniga.
+
+
+Vahevara on liidestatav kahesuunaliseks andmevahetuseks (tellimuste vastuvõtmine ja vastuste edastamine) ITK Kesklabori infosüsteemiga (LIS) eLabor, kasutades HL7 või ASTM protokolli. Liidestamise teeb ITK labori spetsialist. Kui liidestamise käigus selgub, et vahevara ei vasta HL7 või ASTM protokollidele siis pakkuja kompenseerib ITK-le LIS-i arendamise kulud. 
+
+
+Seadmete (sealhulgas lisaseadmete) ja vahevara vahel on liides. Liidestamise teeb pakkuja spetsialist. Kui lisaseadmed ei ole liidestatud vahevaraga, peab lisaseadmeid olema võimalik liidestada labori infosüsteemiga E-labor. Liidestamisele kehtivad samad nõuded nagu punktis 3.4.
+
+
+Vahevara võimaldab analüüside alg-ja lõpptulemuste salvestamist vähemalt 18 kuu töömahu ulatuses.
+
+
+Segavate faktorite – hemoglobiini, bilirubiini ja lipeemia (HIL indeksite) tulemuste rakendamine mõõtmistulemuste valideerimisel.
+
+
+Seadmete veateadete arvestamine tulemuste valideerimisel.
+
+
+Vahevara võimaldab jälgida proovinõu asukohta seadmetes.
+
+
+Vahevara võimaldab jooksvalt analüüsiprotsesside monitoorimist, andmete filtreerimist  ja statistilist analüüsi, sh töökoormus erinevatel ajaperioodidel ja analüüside ringlusaeg (turn around time –TAT).
+
+
+Vahevara võimaldab sisemise kvaliteedikontrolli tulemuste salvestamist ja töötlust seadmete, testide, kontrollmaterjalide ja kontrollmaterjalide partiide kaupa vähemalt kahe aasta töömahu ulatuses.
+
+
+Veepuhastusseadmete nõuded
+
+
+Veepuhastusseadmed toodavad vett kvaliteediga vähemalt ISO 3696:1987 Grade 2.
+
+
+Kummagi veepuhastusseadme tootlikus peab olema piisav seadmete tõrgeteta tööks juhul kui üks veepuhastusseade ei tööta.
+
+
+Veepuhastusseadmetele sobib veevarustus survega 2 bar.
+
+
+Kaks veepuhastusseadet peavad olema üksteisest sõltumatud.
+
+
+Veepuhastusseadmed peavad olema paigutatud seadmetega samasse ruumi.
+
+
+Veepuhastusseadmete reservuaarist peab olema võimalik võtta vett muude labori vajaduste tarbeks kuni 60 liitrit päevas.
+
+
+Kuluvahendite nõuded
+
+
+Kuluvahendid on kirjeldatud tabelis Eeldatav töömaht.
+
+
+Kõikidele testidele on sisemise kvaliteedikontrolli materjalid vähemalt kahel tasemel.
+
+
+Pakkuja tarnib tasuta kuluvahendid testide verifitseerimiseks enne nende kasutusele võtmist vastavalt Eestis meditsiinilaborites kehtivale Laboratoorsete meetodite verifitseerimise juhendile.
+
+
+Kõikidel reagentidel on tootja infoleht ja ohutuskaart (safety data sheet, SDS).
+
+
+
+
+
+
+ 
+Tabel 2. Miinimumnõudeid ületavad tehnilised näitajad
+(kokku maksimaalselt 40 punkti)
+
+Kriteerium
+Vastavus nõudele JAH/EI ja/või parameetri arvväärtus
+Viide tootja poolt väljastatud tehnilisele andmestikule või tootja kinnitusele, mis tõendab pakutava toote vastavust nõudele (dokumendi nimi ja lehekülje number)
+Juhul kui vastsündinu proovist bilirubiini mõõtmiseks pipeteeritav plasma  kogus on väiksem kui  50 µL, siis vähima proovikogusega pakkumus saab 10 punkti, teised pakkumused saavad proportsionaalselt vähem punkte. Proportsionaalsuse arvestusel saab vähima proovikoguse eest 10 punkti ja 50 µL koguse eest 0 punkti.
+
+
+Juhul kui vastsündinu proovist CRP mõõtmiseks pipeteeritav plasma  kogus on väiksem kui 50 µL, siis vähima proovikogusega pakkumus saab 10 punkti, teised pakkumused saavad proportsionaalselt vähem punkte. Proportsionaalsuse arvestusel saab vähima proovikoguse eest 10 punkti ja 50 µL koguse eest 0 punkti.
+
+
+Pakkumus saab 2 punkti, kui Eeldava töömahu tabelis on kõige enam biokeemilisi teste, mis on kalibreeritavad ilma referentsaineta, teised pakkumused saavad proportsionaalselt vähem punkte. Proportsionaalsuse arvestusel saab kõige suurema testide hulga eest 2 punkti ja 0 testi eest 0 punkti.
+
+
+Juhul, kui seadmetel on eraldiseisvad moodulid potentsiomeetrilistele analüüsidele (miinimum on nõutud tabelis Eeldatav töömaht), saab pakkumus 1 punkti.
+
+
+Vähima lisaseadmetel tehtavate testide arvuga pakkumus saab 4 punkti (andmed esitada tabelis Eeldatav töömaht). Teised pakkumused saavad proportsionaalselt vähem punkte. Proportsionaalsuse arvestusel saab vähima lisaseadmetel tehtava testide arvu eest 4 punkti ja 20 lisaseadmetel tehtava testi eest 0 punkti, kuna proportsionaalsust arvestatakse ainult miinimumnõuet ületava väärtuse osas.
+
+
+Näidata ära kõrgtundliku kardiaalse troponiini STAT määramismeetod, andmed esitada tabelis Eeldatav töömaht. Pakkumus, mis sisaldab Troponiin T saab 7 punkti.
+
+
+Juhul kui Seadme juhtarvuti tarkvara võimaldab operaatori näitlikku juhendamist video ja joonistega Seadme kasutamisel ja hooldusprotseduuride teostamisel, saab pakkumus 1 punkti.
+
+
+Juhul kui Seade kasutab kõikide proovinõelte pesemiseks UH pesu või proovinõelte otsikud on ühekordselt kasutatavad, saab pakkumus 1 punkti.
+
+
+Juhul kui Seade kasutab reaktsioonisegu ühtlustamiseks UH segajat, saab pakkumus 1 punkti.
+
+
+Juhul kui vahevara soovitab operaatorile millisesse seadmesse proov sisestada, saab pakkumus 2 punkti. 
+
+
+Juhul kui Seade võimaldab reagendikoguste korrektset pipeteerimist ka reagendi pinnal olevate mullide korral, saab pakkumus 1 punkti.
+
+
+
+
+
+
+
+
+
+
+
+AS Ida-Tallinna Keskhaigla riigihange „Kliinilise keemia ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“ viitenumbriga 215352 HD lisa II – tehniline kirjeldus / pakkumuse vorm
+
+
+
+
+
+
+=== 1616212_215352_HD_II_c_Eeldatav_töömaht_2.xlsx ===
+[Sheet: reagendid]
+Uuringu nimetus | Lühend | Materjal | Eeldatav testide arv aastas | Testide teostamine (valvetöö / plaaniline töö) | Eeldatav sisemiste kvaliteedikontrollide mõõtmiste arv päevas | Eeldatav sisemiste kvaliteedikontrollide mõõtmiste arv aastas | Nõue määramismeetodile  | Vähim mõõteulatus lahjenduseta | Kontrollmaterjali nimetus | Kalibraatori nimetus (kui on eraldiostetav) | Kalibratsioon ilma referentsaineta (jah/ei) | Testi teostav seade | Reagendi tootekood | Reagendi nimetus | Testide arv reagendipakendis | Reagendipakendi hind | Reagendi säilivus pardal (päevad) | Eeldatava töömahu teostamiseks vajalik reagendipakendite arv aastas | Reagendipakendite maksumus aastas | Reagendi valideeritus pakutud seadmele, lisada viide
+0
+Adrenokortikotroopne hormoon | ACTH | Plasma | 600 | Plaaniline töö | 2 | 208 | - | - | 0
+Alaniini aminotransferaas | ALAT | Seerum/Plasma | 75000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Albumiin liikvoris | CSF-Alb | Seljaajuvedelik | 300 | Valvetöö >1 h | 2 | 208 | kõrgtundlik immuunmeetod, sama tootja ja määramismeetodiga  reaktiiv, mis immuunglobuliin G--l liikvoris või sellega samaväärne | - | 0
+Albumiin seerumis/plasmas | Alb | Seerum/Plasma | 8000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Albumiin uriinis | U-Alb | Uriin | 4000 | Valvetöö >1 h | 2 | 506 | kõrgtundlik, immuunmeetod | - | 0
+Alfafetoproteiin | AFP | Seerum/Plasma | 1000 | Plaaniline töö | 2 | 506 | - | - | 0
+Aluseline fosfataas | ALP | Seerum/Plasma | 27000 | Valvetöö Cito (<1 h) | 3 | 759 | IFCC | - | 0
+Ammoonium | NH4 | Plasma | 600 | Valvetöö Cito (<1 h) | 2 | 208 | - | - | 0
+Amülaas (pankreasespetsiifiline) | pAmyl | Seerum/Plasma | 2000 | Valvetöö Cito (<1 h) | 2 | 506 | - | - | 0
+Angiotensiini muundav ensüüm | ACE | Seerum/Plasma | 800 | Plaaniline töö | 2 | 506 | - | - | 0
+Anti-Mülleri hormoon | AMH | Seerum/Plasma | 1400 | Plaaniline töö | 2 | 506 | - | - | 0
+Antistreptolüsiin O | ASO | Seerum/Plasma | 2300 | Plaaniline töö | 2 | 506 | - | - | 0
+Aspartaadi aminotransferaas | ASAT | Seerum/Plasma | 49000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Beeta-2-mikroglobuliin | b2-M | Seerum/Plasma | 700 | Plaaniline töö | 2 | 506 | - | - | 0
+Bilirubiin | Bil | Seerum/Plasma | 37000 | Valvetöö Cito (<1 h) | 3 | 759 | - | 3 - 550 umol/L | 0
+Bilirubiin (konjugeeritud) | Bil-conj | Seerum/Plasma | 4000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+B-tüüpi natriureetilise propeptiidi N-fragment | NT-proBNP | Seerum/Plasma | 13000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+CMV IgG | CMV IgG | Seerum/Plasma | 400 | Plaaniline töö | 2 | 208 | - | - | 0
+CMV IgM | CMV IgM | Seerum/Plasma | 400 | Plaaniline töö | 2 | 208 | - | - | 0
+C-peptiid  | C-pept | Seerum/Plasma | 300 | Plaaniline töö | 2 | 208 | - | - | 0
+C-reaktiivne valk | CRP | Seerum/Plasma | 120000 | Valvetöö Cito (<1 h) | 3 | 759 | - | 1 - 155 mg/L | 0
+Dehüdroepiandrosteroonsulfaat | DHEAS | Seerum/Plasma | 600 | Plaaniline töö | 2 | 208 | - | - | 0
+Digoksiin  | Digox | Seerum/Plasma | 500 | Valvetöö Cito (<1 h) | 2 | 208 | - | - | 0
+Etanool plasmas  | P-EtOH | Plasma | 2600 | Valvetöö Cito (<1 h) | 2 | 506 | - | - | 0
+Ferritiin | Fer | Seerum/Plasma | 13000 | Valvetöö >1 h | 3 | 759 | - | - | 0
+Folaat | Fol | Seerum/Plasma | 10000 | Valvetöö >1 h | 3 | 759 | - | - | 0
+Folliikuleid stimuleeriv hormoon | FSH | Seerum/Plasma | 3300 | Plaaniline töö | 2 | 506 | - | - | 0
+Fosfaat | P | Seerum/Plasma | 2000 | Valvetöö Cito (<1 h) | 2 | 506 | - | - | 0
+Fosfaat uriinis | U-P | Uriin | 5 | Plaaniline töö | 5 | - | - | 0
+Gammaglutamüüli transferaas | GGT | Seerum/Plasma | 26000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Glükoos | Gluc | Seerum/Plasma | 92000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+HAV IgM | HAV IgM | Seerum/Plasma | 600 | Valvetöö >1 h | 2 | 208 | - | - | 0
+HbA1c | HbA1c | EDTA veri | 22000 | Valvetöö >1 h | 2 | 506 | - | - | 0
+HBc Ab | HBc Ab | Seerum/Plasma | 2500 | Plaaniline töö | 2 | 506 | - | - | 0
+HBc IgM | HBc IgM | Seerum/Plasma | 200 | Plaaniline töö | 2 | 208 | - | - | 0
+HBe Ab | HBe Ab | Seerum/Plasma | 150 | Plaaniline töö | 2 | 208 | - | - | 0
+HBe Ag | HBe Ag | Seerum/Plasma | 150 | Plaaniline töö | 2 | 208 | - | - | 0
+HBs Ab | HBs Ab | Seerum/Plasma | 500 | Plaaniline töö | 2 | 208 | kvantitatiivne | - | 0
+HBsAg | HBsAg | Seerum/Plasma | 9000 | Valvetöö >1 h | 2 | 506 | - | - | 0
+HBsAg kinnitav uuring | HBsAg CONFIRM | Seerum/Plasma | 140 | Plaaniline töö | - | - | 0
+HCV Ab | HCV Ab | Seerum/Plasma | 5000 | Valvetöö >1 h | 2 | 506 | - | - | 0
+HDL-kolesterool | HDL-Chol | Seerum/Plasma | 20000 | Plaaniline töö | 2 | 506 | homogeenne ensümaatiline (PEG - modifitseeritud) või sellega samaväärne | - | 0
+HIV1,2 Ag+Ab | HIV1,2 Ag+Ab | Seerum/Plasma | 18000 | Valvetöö Cito (<1 h) | 2 | 506 | - | - | 0
+Homotsüsteiin | Hcy | Seerum/Plasma | 750 | Plaaniline töö | 2 | 506 | - | - | 0
+Immuunglobuliin A | IgA | Seerum/Plasma | 3000 | Plaaniline töö | 2 | 506 | - | - | 0
+Immuunglobuliin G | IgG | Seerum/Plasma | 2800 | Plaaniline töö | 2 | 506 | - | - | 0
+Immuunglobuliin G liikvoris | CSF-IgG | Seljaajuvedelik | 300 | Plaaniline töö | 2 | 208 | kõrgtundlik immuunmeetod, sama tootja ja määramismeetodiga  reaktiiv, mis albumiinil liikvoris või sellega samaväärne | - | 0
+Immuunglobuliin M | IgM | Seerum/Plasma | 2200 | Plaaniline töö | 2 | 506 | - | - | 0
+Insuliin | Ins | Seerum/Plasma | 100 | Plaaniline töö | 2 | 208 | - | - | 0
+Interleukiin 6  | IL-6 | Seerum/Plasma | 1900 | Valvetöö Cito (<1 h) | 2 | 506 | - | - | 0
+Kaalium seerumis/plasmas | K | Seerum/Plasma | 84000 | Valvetöö Cito (<1 h) | 3 | 759 | Potentsiomeetriline | - | 0
+Kaalium uriinis | U-K | Uriin | 10 | Plaaniline töö | 10 | Potentsiomeetriline | - | 0
+Kaltsitoniin | CT | Seerum/Plasma | 1500 | Plaaniline töö | 2 | 506 | - | - | 0
+Kaltsium | Ca | Seerum/Plasma | 8000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Kaltsium uriinis | U-Ca | Uriin | 30 | Plaaniline töö | 30 | - | - | 0
+Karbamasepiin | Carba | Seerum/Plasma | 500 | Valvetöö >1 h | 2 | 208 | - | - | 0
+Kartsinoembrüonaalne antigeen | CEA | Seerum/Plasma | 5500 | Plaaniline töö | 2 | 506 | - | - | 0
+Kasvajaantigeen CA 125 | CA 125 | Seerum/Plasma | 5000 | Plaaniline töö | 2 | 506 | Sama tootja ja määramismeetodiga  reaktiiv, mis HE4 | - | 0
+Kasvajaantigeen CA 15-3 | CA 15-3 | Seerum/Plasma | 2300 | Plaaniline töö | 2 | 506 | - | - | 0
+Kasvajaantigeen CA 19-9 | CA 19-9 | Seerum/Plasma | 5000 | Plaaniline töö | 2 | 506 | - | - | 0
+Kasvajaantigeen HE4  | HE4 | Seerum/Plasma | 700 | Plaaniline töö | 2 | 506 | Sama tootja ja määramismeetodiga  reaktiiv, mis CA 125 | - | 0
+Kasvajaantigeen S-100 | S-100 | Seerum/Plasma | 300 | Plaaniline töö | 2 | 208 | - | - | 0
+Kilpnääret stimuleeriv hormoon | TSH | Seerum/Plasma | 35000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Kloriid seerumis/plasmas | Cl | Seerum/Plasma | 600 | Valvetöö Cito (<1 h) | 3 | 208 | Potentsiomeetriline | - | 0
+Kolesterool | Chol | Seerum/Plasma | 26000 | Plaaniline töö | 2 | 506 | - | - | 0
+Komplemendi komponent C3 | C3 | Seerum/Plasma | 650 | Plaaniline töö | 2 | 506 | - | - | 0
+Komplemendi komponent C4 | C4 | Seerum/Plasma | 650 | Plaaniline töö | 2 | 506 | - | - | 0
+Koorioni gonadotropiin (intaktne+vaba beetaalaühik)  | hCG (intact+fβ) | Seerum/Plasma | 5500 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Kortisool seerumis/plasmas | Cort  | Seerum/Plasma | 800 | Plaaniline töö | 2 | 506 | - | - | 0
+Kreatiini kinaas | CK | Seerum/Plasma | 15000 | Valvetöö Cito (<1 h) | 3 | 759 | IFCC | - | 0
+Kreatiini kinaasi MB isoensüümi mass | CK-MBm | Seerum/Plasma | 17000 | Valvetöö Cito (<1 h) | 2 | 506 | - | - | 0
+Kreatiniin | Crea | Seerum/Plasma | 120000 | Valvetöö Cito (<1 h) | 3 | 759 | ensümaatiline | - | 0
+Kusihape seerumis/plasmas | UA | Seerum/Plasma | 14000 | Valvetöö >1 h | 3 | 759 | - | - | 0
+Kusihape uriinis | U-UA | Uriin | 25 | Plaaniline töö | 25 | - | - | 0
+Laktaadi dehüdrogenaas | LDH | Seerum/Plasma | 14000 | Valvetöö Cito (<1 h) | 3 | 759 | IFCC | - | 0
+LDL-kolesterool  | LDL-Chol | Seerum/Plasma | 21000 | Plaaniline töö | 2 | 506 | homogeenne ensümaatiline või sellega samaväärne | - | 0
+Lipaas  | Lip | Seerum/Plasma | 15000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Luteiniseeriv hormoon | LH | Seerum/Plasma | 3000 | Plaaniline töö | 2 | 506 | - | - | 0
+Magneesium  | Mg | Seerum/Plasma | 11000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Müoglobiin | Myogl | Seerum/Plasma | 1700 | Valvetöö Cito (<1 h) | 2 | 506 | - | - | 0
+Naatrium seerumis/plasmas | Na | Seerum/Plasma | 83000 | Valvetöö Cito (<1 h) | 3 | 759 | Potentsiomeetriline | - | 0
+Naatrium uriinis | U-Na | Uriin | 25 | Plaaniline töö | 25 | Potentsiomeetriline | - | 0
+Parathormoon  | PTH | Seerum/Plasma | 2700 | Valvetöö Cito (<1 h) | 2 | 506 | STAT, määramisaeg kuni 20 minutit | - | 0
+Progesteroon  | Prog | Seerum/Plasma | 2800 | Plaaniline töö | 2 | 506 | - | - | 0
+Prokaltsitoniin | PCT | Seerum/Plasma | 7000 | Valvetöö Cito (<1 h) | 3 | 759 | - | - | 0
+Prolaktiin  | Prol | Seerum/Plasma | 3600 | Plaaniline töö | 2 | 506 | - | - | 0
+Prostataspetsiifiline antigeen  | PSA | Seerum/Plasma | 10000 | Plaaniline töö | 2 | 506 | Sama tootja ja määramismeetodiga  reaktiiv, mis vaba prostataspetsiifiline antigeen | - | 0
+Raud | Fe | Seerum/Plasma | 4600 | Plaaniline töö | 2 | 506 | Sama tootja ja määramismeetodiga  reaktiiv, mis transferriin | - | 0
+Reumatoidfaktor | RF | Seerum/Plasma | 3300 | Plaaniline töö | 2 | 506 | - | - | 0
+Sapphapped  | TBA | Seerum/Plasma | 1000 | Plaaniline töö | 2 | 506 | - | - | 0
+Suguhormoone siduv globuliin  | SHBG | Seerum/Plasma | 1200 | Plaaniline töö | 2 | 506 | Sama tootja ja määramismeetodiga reaktiiv, mis testosteroon | - | 0
+T pallidum Ab | T pallidum Ab | Seerum/Plasma | 9000 | Plaaniline töö | 2 | 506 | - | - | 0
+Testosteroon  | Testo | Seerum/Plasma | 3500 | Plaaniline töö | 2 | 506 | Sama tootja ja määramismeetodiga reaktiiv, mis SHBG | - | 0
+Transferriin | Transf | Seerum/Plasma | 4600 | Plaaniline töö | 2 | 506 | - | 0
+Triglütseriidid  | Trigl | Seerum/Plasma | 17000 | Plaaniline töö | 2 | 506 | - | - | 0
+Troponiin (kõrgtundlik) | cTn-hs | Seerum/Plasma | 19000 | Valvetöö Cito (<1 h) | 3 | 759 | STAT, määramisaeg kuni 20 minutit | - | 0
+Tseruloplasmiin | Cer | Seerum/Plasma | 800 | Plaaniline töö | 2 | 506 | - | - | 0
+Tsüklilise tsitrulleeritud peptiidi vastane IgG  | CCP IgG  | Seerum/Plasma | 2000 | Plaaniline töö | 2 | 506 | kvantitatiivne või semikvantitatiivne | - | 0
+[Sheet: süsteemilahused ja plastik]
+Tootekood | Toote nimetus  | Pakendi suurus | Pakendi hind | Pakendite kulu aastas | Maksumus aastas | Toodet kasutav seade
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+[Sheet: kontrollid]
+Tootekood | Kontrolli nimetus | Pakendi hind | Pakendite kulu aastas | Maksumus aastas | Testid, mille jaoks kasutatakse
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+[Sheet: kalibraatorid]
+Tootekood | Kalibraatori nimetus | Pakendi hind | Pakendite kulu aastas | Maksumus aastas | Testid, mille jaoks kasutatakse
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+=== 1616212_215352_HD_II_d_Maksumusvorm.xlsx ===
+[Sheet: Sheet1]
+AS Ida-Tallinna Keskhaigla riigihange „Kliinilise keemia ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“ viitenumbriga 215352 
+HD lisa IId tabel 4
+MAKSUMUSVORM
+PAKKUJA ………………………………..
+Kirjeldus (seadmete puhul toote mudel) | Ühik | Kogus | Ühiku hind | Maksumus kokku
+Seade 1  | tk | 1 | 0
+Lisaseade seadmele 1 /vajadusel/ | tk | 1 | 0
+Seade 2  | tk | 1 | 0
+Lisaseade seadmele 2 /vajadusel/ | tk | 1 | 0
+Vahevara | tk | 1 | 0
+Veepuhastusseadmed | tk | 2 | 0
+Kuluvahendid (Reagendid) | Vastavalt tabelile HD lisa IIc - Tabel 3. Eeldatav töömaht (Leht 1 reagendid - Lahter T2) | aasta | 4 | 0
+Kuluvahendid (Süsteemilahused ja plastik) | Vastavalt tabelile HD lisa IIc - Tabel 3. Eeldatav töömaht (Leht 1 reagendid - Lahter F2) | aasta | 4 | 0
+Kuluvahendid (Kontrollid) | Vastavalt tabelile HD lisa IIc - Tabel 3. Eeldatav töömaht (Leht 1 reagendid - Lahter E2) | aasta | 4 | 0
+Kuluvahendid (Kalibraatorid) | Vastavalt tabelile HD lisa IIc - Tabel 3. Eeldatav töömaht (Leht 1 reagendid - Lahter E2) | aasta | 4 | 0
+Pakkumuse maksumus kokku | 0
+
+=== 1616212_215352_HD_Kliiniline_keemia.pdf ===
+AS Ida-Tallinna Keskhaigla avatud hankemenetlusega riigihanke „Kliinilise keemia
+ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“
+viitenumbriga 215352 hankedokumendid (HD)
+HANKEDOKUMENDID
+1. Üldandmed
+1.1. Hankija nimi ja andmed: AS Ida-Tallinna Keskhaigla; registrikood 10822068; aadress
+Ravi 18, Tallinn 10138, Eesti; koduleht: http://www.itk.ee.
+1.2. Hankija kontaktisiku nimi ja andmed seoses käesoleva riigihankega:
+Heili Kuningas, riigihangete spetsialist; telefon (+372) 5358 0115; e-post:
+heili.kuningas@itk.ee
+1.3. Riigihangete seadus ning selle alamastme õigusaktid on elektrooniliselt kättesaadavad
+interneti aadressidel: https://www.riigiteataja.ee ja http://www.fin.ee.
+1.4. Hange viiakse läbi elektroonilise hankena riigihangete registris aadressil
+https://riigihanked.riik.ee/.
+2. Hankemenetluses osalemine
+2.1. Käesolevaga teeb AS Ida-Tallinna Keskhaigla ettepaneku osaleda riigihankes
+“Kliinilise keemia ja immuunanalüüsi integreeritud analüsaator ja tarvikute
+raamleping“ viitenumbriga 215352 ning esitada pakkumusi vastavalt hanketeates
+(edaspidi HT) ja hanke alusdokumentides sisalduvatele tingimustele.
+2.2. Hanke alusdokumendid on käesolev hankedokument (edaspidi HD) koos järgmiste
+lisadega:
+2.2.1. Lisa I – Vormid
+2.2.2. Lisa II a – Tehniline kirjeldus
+2.2.3. Lisa II b – Ruumiplaani joonis (Autocad formaat)
+2.2.4. Lisa II c – Eeldatav töömaht
+2.2.5. Lisa II d – Maksumusvorm
+2.2.6. Lisa III – Raamlepingu projekt
+2.2.7. Lisa IV – Hooldus- ja remondilepingu projekt
+2.2.8. Kõik riigihangete registris käesoleva hanke lehel „Hanke alusandmed“ avaldatud
+dokumendid.
+2.2.9. Kõik enne pakkumuste esitamise tähtpäeva huvitatud isikutele saadetud dokumendid,
+millega on muudetud või selgitatud HD nõudeid. HD osad täiendavad üksteist ning
+moodustavad tervikliku aluse pakkumuse koostamiseks. Vastuolude korral kehtib
+hilisemalt esitatud info (k.a hankija vastus pakkuja järelepärimistele).
+3. Tehniline kirjeldus ja miinimumnõudeid ületavad tehnilised näitajad
+3.1. Riigihanke objekti tehniline kirjeldus on toodud HD lisas II.
+3.2. Tehniline pakkumus tuleb esitada tehnilise kirjelduse vormil hankija poolset infot
+muutmata ja täites vaid pakkujale vabaks/muutmiseks jäetud alad. Pakkujal ei ole
+lubatud viia muudatusi sisse vormis mujale ning pakkumus tuleb esitada MS Excelis
+või muus MS Exceli avatavas ja loetavas dokumendis.
+3.3. Kõik viited hankedokumendis ostuallikale, kaubamärgile, tüübile, päritolule ja
+tootmisviisile või standardile, mis võiks anda mõnedele pakkujatele või toodetele
+ebaõiglaseid eeliseid teiste ees või nende osaluse välistada, on loetavad klausliga „või
+sellega samaväärne“.
+AS Ida-Tallinna Keskhaigla avatud hankemenetlusega riigihanke „Kliinilise keemia
+ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“
+viitenumbriga 215352 hankedokumendid (HD)
+4. Riigihanke osadeks jaotamine
+4.1. Hankija ei ole riigihanget osadeks jaotanud, kuna tegu on ühe objektiga, mida ei ole
+võimalik osadeks jaotada.
+5. Alternatiivsed pakkumused
+5.1. Alternatiivsed lahendused ei ole lubatud.
+6. Pakkumuse koostamise keel
+6.1. Pakkumus ja sellele lisatavad dokumendid koostatakse eesti keeles.
+6.2. Tootekataloogid / infomaterjal internetis (esitatud URL alusel) võivad olla ka inglise
+keeles.
+6.3. Dokumentide kohta, mis on koostatud muus keeles, esitatakse eestikeelne tõlge. Vastav
+tõlge lisatakse tõlgitud dokumendi järele.
+7. Raamlepingu tingimused ja täitmise tähtpäev
+7.1. Hankija sõlmib edukaks tunnistatud pakkumuse esitanud pakkujaga raamlepingu, mille
+projekt on esitatud HD lisas III.
+7.2. Hankijal on õigus võtta seade kapitali- või kasutusliisingusse kolmanda osapoole kaudu
+ning korraldada seadme eest tasumine liisinguandja poolt.
+7.3. Raamlepingu täitmise tähtaeg on neli aastat alates lepingu sõlmimisest.
+7.4. Hankija ei kasuta arveldamises ettemaksu. Tasumine toimub pakkuja poolt esitatud
+arvete kinnitamise järgselt.
+7.5. Maksetähtaeg vähemalt 30 kalendripäeva peale riigihanke objekti üleandmist.
+7.6. Hankijale tuleb esitada masintöödeldav arve (edaspidi e-arve). E-arve peab vastama
+Raamatupidamise seaduse paragrahvi 71 lõike 10 alusel kehtestatud määruse nõuetele
+või e-arveldamise Euroopa standardile, mille kohta on avaldatud viide Euroopa Liidu
+Teatajas.
+8. Täiendav teave hanketeate ja hankedokumentide kohta
+8.1. HT ja HD sisu kohta saab selgitusi kirjalikul pöördumisel hankija poole läbi riigihangete
+registri aadressil https://riigihanked.riik.ee/, riigihanke viitenumber 215352.
+9. Pakkumuse kulu esitamise struktuur ja valuuta
+9.1. Pakkuja esitab pakkumuse kulu riigihangete registris lehel „Hindamiskriteeriumid ja
+hinnatavad näitajad“. Pakkumuse maksumus (eurodes) peab sisaldama kõiki kulusid,
+mis on vajalikud käesoleva riigihanke teostamiseks.
+9.2. Pakkuja esitab pakkumuse ühikuhindade maksumuse HD Lisa II vormil – tehniline
+kirjeldus/pakkumuse vorm.
+9.3. Hinnaerinevuse ilmnemisel riigihangete registris täidetava vormi ja HD Lisa II vahel,
+loeb Hankija õigeks Lisas II esitatu.
+10. Pakkumuse jõusoleku tähtaeg
+10.1. Pakkumuse jõusoleku tähtaeg on 3 kuud pakkumuste esitamise tähtpäevast arvates.
+AS Ida-Tallinna Keskhaigla avatud hankemenetlusega riigihanke „Kliinilise keemia
+ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“
+viitenumbriga 215352 hankedokumendid (HD)
+10.2. Pakkumuses esitatud hoolduslepingu tingimuste ja maksumuse jõusoleku tähtaeg on 3
+kuud lepingujärgse garantii lõppemisest.
+11. Pakkumuse vormistamine ja esitamine
+11.1. Pakkumuse koostamisel peab arvesse võtma kõik käesoleva riigihanke teostamiseks ja
+raamlepingu eesmärgi saavutamiseks vajalikud tööd, teenused, tegevused ja toimingud,
+kaasa arvatud need, mis ei ole otseselt kirjeldatud HD-s ja selle lisades, kuid mis on
+tavapäraselt vajalikud nõuetekohase tulemuse saavutamiseks, arvestades lepingu
+eesmärki.
+11.2. Pakkumus tuleb vormistada ja esitada elektrooniliselt riigihangete registri kaudu
+aadressil https://riigihanked.riik.ee.
+11.3. Pakkumusele kohustuslikuna lisatavad dokumendid on nimetatud riigihangete registri
+hanke alusandmete all.
+11.4. Pakkumuste esitamise tähtaeg on nimetatud HT’s.
+11.5. Eraldi andmekandjal esitatavad dokumendid ja paberil esitatavad originaaldokumendid
+peavad olema esitatud enne pakkumuste tähtaja saabumist tähitud postisaadetisega või
+käsiposti teel HD punktis 1.1 nimetatud Hankija aadressile.
+11.5.1. Eraldi andmekandjal ja paberkandjal esitatud täiendavate dokumentide pakendil peab
+olema järgnev informatsioon:
+ AS Ida-Tallinna Keskhaigla;
+ Ravi 18, Tallinn 10138, Eesti;
+ PAKKUMUSE DOKUMENDID riigihankele „Kliinilise keemia ja
+immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“ (viitenumber
+215352);
+ pakkuja nimi, registrikood ja aadress (ühispakkumuse esitamise korral kõigi
+pakkujate nimed, registrikoodid ja aadressid), soovi korral ka pakkuja e-posti
+aadress ning faksi number;
+ Mitte avada enne {märkida HT’s toodud pakkumuste esitamise tähtaeg}
+11.6. Paberil (v.a täiendavad dokumendid lisaks riigihangete registris esitatud koopiatele), e-
+posti teel ja/või faksiga esitatud pakkumused ei osale hankemenetluses.
+11.7. Pakkumuse tähtaegse esitamise eest vastutab pakkuja.
+11.8. Pakkumuse saab esitada üksnes pärast raamlepingu täitmise kohaga tutvumist.
+11.9. Pakkuja kannab kõik pakkumuse koostamise ning esitamisega seotud kulud.
+11.10. HD punktis 11.4 nimetatud tähtajast hiljem saabunud pakkumusi arvesse ei võeta.
+11.11. Pakkuja võib esitatud pakkumuse enne pakkumuste esitamise tähtaega iseseisvalt tagasi
+võtta riigihangete registris.
+11.12. Pakkuja võib esitada HD punktis 11.4 nimetatud tähtaja jooksul uue pakkumuse.
+11.13. Juhul kui esitatud pakkumus on pakkuja poolt riigihangete registris tagasi võetud,
+loetakse tagasivõetuks ka hankijale paberkandjal esitatud täiendavad dokumendid ja/või
+pakkumus.
+11.14. Pakkuja peab arvestama pakkumuse koostamisel ja esitamisel riigihangete registris
+tulenevate nõuete ja piirangutega. Hankija ei vastuta võimalike viivituste, tõrgete või
+katkestuste eest, mida põhjustavad riigihangete registris hankija kontrollile mitte
+alluvad asjaolud, nt force majeure, elektrikatkestused, häired pakkuja või hankija
+telefoni või interneti ühenduses või muude elektrooniliste seadmete ja vahendite,
+AS Ida-Tallinna Keskhaigla avatud hankemenetlusega riigihanke „Kliinilise keemia
+ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“
+viitenumbriga 215352 hankedokumendid (HD)
+sealhulgas tarkvara töös jne. Hankija ei vastuta riigihangete registris kasutamisest,
+mittekasutamisest või väärkasutamisest tekkinud kahjude või saamatajäänud tulu eest.
+11.15. Riigihangete registri kasutamisega seotud tuge pakub riigihangete register ja
+Rahandusministeerium.
+12. Pakkumuste avamine
+12.1. Pakkumused avatakse riigihangete registris https://riigihanked.riik.ee HTs nimetatud
+pakkumuste esitamise tähtajale järgnevalt.
+12.2. Pakkujatel on võimalik osaleda pakkumuste avamisel riigihangete registris.
+12.3. Pakkumuste avamise kohta protokolli ei koostata. Pakkujad näevad pakkumuse esitanud
+pakkujate nimesid ning esitatud pakkumuste hindu riigihangete registris peale Hankija
+poolt pakkumuste avamist.
+13. Pakkumuste vastavuse kontroll
+13.1. Hankija kontrollib pakkumuste vastavust HTs ja HDs esitatud tingimustele vastavalt
+riigihangete seaduse § 52 lõikele 3 enne pakkujate suhtes kõrvaldamise aluste
+puudumise ja kvalifikatsiooni kontrollimist (RHS § 114 lg 1).
+13.2. Hankija lükkab pakkumuse tagasi, kui see ei vasta HTs või HDs esitatud tingimustele.
+Hankija võib tunnistada pakkumuse vastavaks, kui selles ei esine sisulisi kõrvalekaldeid
+nimetatud tingimustest (RHS § 114 lg 2).
+14. Pakkumuste hindamise kriteeriumid, hindamine ja edukaks tunnistamine
+14.1. Hankija hindab pakkumusi riigihangete seaduse § 117 sätestatud korras, arvestades
+riigihangete seaduse § 85-86 sätestatud kriteeriume.
+14.2. Hankija hindab pakkumusi HD lisas Hindamiskriteeriumid ja hinnatavad näitajad toodu
+alustel /madalaima hinna alusel.
+14.3. Kui kaks või enamat pakkumust on täpselt sama punktisummaga, tunnistatakse edukaks
+pakkumus mis sai rohkem punkte kvaliteediindikaatorite eest. Edasise võrduse korral
+selgitatakse edukas pakkuja liisuheitmise teel.
+15. Kõikide pakkumuste tagasilükkamise alused
+15.1. Hankija jätab enesele õiguse lükata kõik pakkumused tagasi, kui:
+15.1.1. kõikide vastavaks tunnistatud pakkumuste maksumused ületavad raamlepingu
+eeldatava maksumuse;
+15.1.2. hankemenetluse käigus muutuvad hanke väljakuulutamise eeldused, mis muudavad
+hanke realiseerimise võimatuks (Hankija eelarveliste vahendite kärpimine, vms);
+15.1.3. raamlepingu sõlmimine on muutunud võimatuks või ebaotstarbekaks Hankijast
+sõltumatutel põhjustel;
+15.1.4. enne lepingu sõlmimist selgub, et Hankija on oma vajadusi tehnilises kirjelduses
+kirjeldanud viisil, mis ei võimalda Hankijal pakkumusi objektiivselt võrrelda või on
+jätnud Hankija tehnilises kirjelduses kirjeldamata riigihanke objekti omadused, mis
+võimaldaks Hankijal saavutada Hankija eeldustele vastav parim tulemus;
+15.1.5. esinevad muud ettenägematud olukorrad, mille tõttu ei ole Hankijal otstarbekas
+raamlepingut sõlmida.
+AS Ida-Tallinna Keskhaigla avatud hankemenetlusega riigihanke „Kliinilise keemia
+ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“
+viitenumbriga 215352 hankedokumendid (HD)
+16. Eduka pakkuja kvalifitseerimine
+16.1. Eduka pakkuja kvalifitseerimine toimub vastavalt riigihangete seaduse 2. peatüki 3. jao
+2. jaotisele, võttes arvesse HTs esitatud kvalifitseerimise tingimusi.
+16.2. Esialgse tõendina pakkuja suhtes kõrvaldamise aluste puudumise ja tema
+kvalifitseerimistingimustele vastamise tõendamiseks esitab pakkuja hankepassi
+(Euroopa ühtse hankedokumendi).
+Hankija ei ole hankepassi pakkujate jaoks eeltäitnud. Hankepass on kättesaadav ning
+täidetav Euroopa Komisjoni kodulehel.
+16.3. Hankepassi osas III D kinnitab pakkuja muuhulgas, et on teadlik, et hankel on ette
+nähtud ka ainult siseriiklikest õigusaktidest tulenevad kõrvaldamise alused. Kõik
+kõrvaldamise alused on toodud RHS § 95 lg 1 ja lg 4, millest RHS § 95 lg 1 punkt 2 on
+siseriiklikest õigusaktist tulenev kõrvaldamise alus.
+16.4. Juhul, kui pakkuja tõendab oma vastavust majandusliku- ja finantsseisundi osas esitatud
+nõuetele teise ettevõtja vahendite alusel, esitab edukas pakkuja HD lisa I vormil 2
+pakkuja ja vastava ettevõtja kõigi osaliste poolt allkirjastatud kinnituse, et pakkuja ja
+teine/teised ettevõtja(d) vastutavad solidaarselt hankelepingu selle osa täitmise eest,
+mille suhtes teise ettevõtja vahenditele tugineti (RHS § 103 lg 3).
+16.5. Edukas pakkuja esitab hankija nõudel kõik asjakohased hankepassis esitatud
+kinnitustele vastavad dokumendid. Pärast eduka pakkuja suhtes kõrvaldamise aluste
+puudumise ja esitatud kvalifitseerimise tingimustele vastamise kontrollimist teeb
+hankija otsuse eduka pakkuja kõrvaldamise või kõrvaldamata jätmise ja
+kvalifitseerimise või kvalifitseerimata jätmise kohta.
+16.6. Kui edukas pakkuja ei esita hankija nõudmisel vähemalt viie tööpäeva pikkuse tähtaja
+jooksul kõrvaldamise aluste puudumise kontrollimiseks või kvalifikatsiooni
+tõendamiseks vajalikke dokumente ja need andmed või dokumendid ei ole hankijale
+andmekogus olevate avalike andmete põhjal oluliste kulutusteta kättesaadavad,
+kõrvaldab hankija pakkuja riigihankest või jätab ta kvalifitseerimata.
+17. Pakkujate teavitamine
+Hankija teavitab pakkujaid läbi riigihangete registri. Hankija vormistab riigihangete
+registris hankeotsused ning märgib tulemused (Hankekomisjoni otsused)
+hankeotsustesse, mis tehakse hankemenetluses osalejatele avalikuks.
+18. Raamlepingu sõlmimine
+18.1. Hankija ei anna nõustumust raamlepingu sõlmimiseks enne 14 päeva möödumist
+riigihangete seaduse § 104 lg 8 nimetatud eduka pakkuja kõrvaldamata jätmise ja
+kvalifitseerimise otsuse kohta teate esitamist.
+18.2. Hankija ning edukaks tunnistatud pakkumuse esitanud pakkuja allkirjastavad
+raamlepingu digitaalselt vastavalt poolte kokkuleppele kas üheaegselt või erineval ajal.
+18.3. Juhul, kui raamlepingu allkirjastamine digitaalselt ei ole võimalik, saadab hankija peale
+HD punktis 18.1 nimetatud tähtaja möödumist edukaks tunnistatud pakkumuse esitanud
+pakkujale kaks hankija poolt allkirjastatud raamlepingu eksemplari.
+18.4. Juhul, kui pakkumuse esitas ainult üks pakkuja, võib hankija raamlepingu sõlmida HD
+punktis 18.1 sätestatud tähtaega järgimata.
+AS Ida-Tallinna Keskhaigla avatud hankemenetlusega riigihanke „Kliinilise keemia
+ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping“
+viitenumbriga 215352 hankedokumendid (HD)
+18.5. Edukaks tunnistatud pakkumuse esitanud pakkuja peab ühe raamlepingu eksemplari
+allkirjastatult tagastama hankijale 3 kalendripäeva jooksul raamlepingu saamisest
+arvates. Raamleping loetakse kätte saaduks 3 kalendripäeva möödumisel selle
+postitamisest arvates (VÕS § 11 lg 4). Juhul, kui edukas pakkuja ei tagasta allkirjastatud
+lepingut hankijale 3 kalendripäeva jooksul, loetakse lepingu alguseks hankija poolt
+pakkumusele nõustumise andmise kuupäeva ehk hankija poolset allkirja lepingul.
+18.6. Juhul, kui edukaks tunnistatud pakkuja võtab hankijast mitteolenevatel põhjustel oma
+pakkumuse tagasi, ei allkirjasta hankija antud tähtaja jooksul raamlepingut või ei asu
+nõustumuse andmisega sõlmitud raamlepingut pakkujast tulenevatel põhjustel hankija
+määratud aja jooksul täitma, hindab hankija kõiki ülejäänud pakkumusi uuesti
+riigihangete seaduse § 117 lg 1 kohaselt ja tunnistab edukaks pakkumuse, mis on
+vastavaks tunnistatud pakkumustest majanduslikult soodsaim. Sellise tegevuse
+tagajärjel tekkinud olukorras nõuab hankija kahju hüvitamist esialgselt edukaks
+tunnistatud pakkujalt esialgu edukaks tunnistatud pakkumuse ja järgmise edukaks
+tunnistatud pakkumuse maksumuse vahe ulatuses ning kõigi võimalike kaasuvate
+lisakulude ulatuses, mis on ettenähtud riigihangete seaduse § 119.
+19. Vaidlustused ja kaebused
+19.1. Vaidlustuste ja kaebuste esitamine ning menetlemine toimub vastavalt riigihangete
+seaduse 8. peatükile.
+
+=== 1616212_215352_HD_Lisa_IV_-_seadmete_hooldus-_ja_remondilepingu_projekt_v2.docx ===
+
+
+
+
+
+SEADMETE Hooldus- JA REMONDILEPING 
+
+											
+
+Käesolev leping (edaspidi: Leping) on sõlmitud AS Ida-Tallinna Keskhaigla (edaspidi: Tellija), keda esindab põhikirja alusel juhatuse esimees Ralf Allikvee ühelt poolt, 
+ja 
+_____________________(edaspidi: Täitja), keda esindab _________________ teiselt poolt (edaspidi ka pool või pooled), vahel alljärgnevas (edaspidi Leping):
+
+1. Lepingu objekt
+
+1.1. Täitja hooldab Tellija meditsiiniseadmeid (edaspidi: Seadmed) vastavalt Lepingu Lisale 1, remondib ja hooldab Lepingu Lisas 1 toodud aparatuuri Lepingu Lisas 2 esitatud tööde kirjelduste järgi.
+
+
+2. Töö teostamise tingimused
+
+2.1. Täitja kohustub tegema Seadmetele hooldustöid vastavalt Lepingu Lisale 2 ja remonti vastavalt Seadme valmistaja poolt esitatud tehnilistele nõuetele ja soovitustele. Perioodilist hooldust tehakse vastavalt hooldusgraafikule, mis kooskõlastatakse Täitja spetsialisti ja Tellija  kontaktisiku(te) (edaspidi: Kontaktisik) vahel lepingu sõlmimise järel.
+2.2. Täitja kohustub Seadmel ilmneva rikke korral Tellija esindajalt väljakutse saamisel (e-postiga või telefoni teel) väljakutsele reageerima kohaletulekuga tööpäevadel sama tööpäeva jooksul juhul, kui teade edastati kella 8:00-12:00 vahemikus ning hiljemalt järgneva tööpäeva alguseks juhul, kui teade edastati kella 12:00-17:00 vahemikus. Tarnija võimaldab tööajaväliseid väljakutseid ja remondi teostamist. 
+2.3. Täitja tagab Lisas 1 hooldatavate seadmete töökorras oleku ja kasutamisvalmiduse vähemalt 355-ks päevaks kalendriaastas, s t summaarne tehnilistest riketest tingitud seadme seiskumine ei tohi ületada 10 päeva ühe kalendriaasta kohta, kuid mitte rohkem kui 3 tööpäeva ühe rikke korral. 	
+2.4. Kui Täitja ei pea kinni punktides 2.2 ja 2.3 toodud tähtaegadest, on Tellijal õigus nõuda leppetrahvi summas 500 (viissada) eurot  iga viivitatud päeva eest ja/või tasaarvestada see Täitjale tasumisele kuuluva summaga. Seadmete rikkest tuleneva tööseisaku korral rohkem kui 3 tundi on Tellijal õigus Täitjapoolsele back-up lahendusele analüüside sooritamiseks samaväärse 1 analüüsi maksumusega.
+2.5.  Tellija kohustub Lepingu kehtimise ajal Seadmete hoolduseks ja remondiks mitte kasutama kolmandate isikute abi..
+2.6. Tellija kohustub ette valmistama Seadme ja looma Täitja spetsialistile vajalikud tingimused Seadme hoolduseks või remondiks Tellija esindajaga eelnevalt kokkulepitud ajaks.
+2.7.  Täitja kohustub kajastama iga hoolduse ja/või remondi protokollis, kuhu kannab Seadme nimetuse, seerianumbri, hooldustööd ja/või remondid (Seadmete rikete kõrvaldamised), vahetatud varuosad ja kulumaterjalid. Protokollid allkirjastatakse Tellija ja Täitja Kontaktisikute või nende poolt määratud isikute poolt. Kontaktisikut asendab tema äraolekul seadme asukohajärgse struktuuriüksuse vastava osakonna juhataja või töötaja vastavalt osakonna sisemisele töökorraldusele. Varuosade ja kulumaterjalide vahetuse, kui nende  maksumus  ületab 200 (kakssada) eurot ilma käibemaksuta, kooskõlastab Täitja iga kord eelnevalt Kontaktisikuga. Seadme vana väljavahetatud osa jääb Tellijale, kui konkreetsel juhul ei lepita kokku teisiti.
+2.8. 	Täitja annab teostatud töödele ja vahetatud varuosadele garantii 3 kuud.
+
+3. Lepingu maksumus ja arvelduste kord
+
+3.1. 	Lepingu maksumus koosneb maksetest hoolduse ja/või teenuse ning kasutatavate varuosade ja materjalide eest vastavalt Lepingu Lisadele 1 ja 2. Teenuste hinnakiri on esitatud Lisas 3.
+3.2. 	Lepingu Lisas 1 nimetatud aparaatide hooldus sisaldab väljakutse ja reglementeeritud hooldustasusid koos hooldustarvikutega, (sh. tarkvararikete kõrvaldamised) ning kõiki tootja poolt ettenähtud hoolduse varuosade hindu. Täitja tagab Tellijale tasuta kõik hoolduse varuosad.  Remontide ja muude eraldi tellitud tööde eest tasub Tellija Täitjale vastavalt poolte poolt kooskõlastatud hinnapakkumistele ja kehtivale Täitja hinnakirjale Lepingu Lisas 3.
+3.3. Tellija tasub Täitjale tema poolt esitatud arvete alusel, millele on lisatud vastavad protokollid (p. 2.7). 
+Tellija tasub arve 21 (kahekümne ühe) kalendripäeva jooksul. 
+3.4. 	Maksetähtaja möödumisel võib Täitja nõuda Tellijalt maksmata summalt viivist 0,1 % iga viivitatud päeva eest.
+
+
+4. Lepingu kehtivus
+
+4.1. Leping jõustub poolte poolt allkirjastamisest ning kehtib 36 kalendrikuu jooksul. Kui kumbki pooltest ei ole vähemalt 30 päeva enne Lepingu lõppemise kuupäeva teatanud teisele poolele kirjalikult Lepingu lõpetamise soovist, pikeneb Leping automaatselt järgmisele 12 kalendrikuule. 
+4.2. Lepingu Lisas 3 sätestatud hinnad kehtivad 36 kalendrikuud Lepingu jõustumisest arvates. Lepingu Lisa 3 muutmiseks on Täitjal õigus alustada Tellijaga läbirääkimisi 36 kalendrikuu kuu möödudes Lepingu jõustumisest arvates juhul, kui Leping pikeneb Lepingu punktis 4.1. nimetatud perioodiks.
+4.3. Tellijal on õigus lõpetada Leping ühepoolselt põhjendades seda ja teatades Täitjale kirjalikult ette 30 kalendripäeva. Sellisel juhul säilib Tellija kohustus tasuda tehtud tööde ja paigaldatud varuosade eest.
+4.4. Täitjal on õigus lõpetada Leping ühepoolselt teatades sellest Tellijale kirjalikult ette 30 kalendripäeva, kui on tekkinud olukord, et tööd pole võimalik kvaliteetselt teha Tellijast sõltuvatel põhjustel või Tellija keeldub kvaliteetselt tehtud töö tasumisest. 
+
+	•	Konfidentsiaalsus
+
+5.1. Lepingu sisu ja täitmise käigus teatavaks saanud teave on konfidentsiaalne ja ei kuulu avaldamisele kolmandatele isikutele ilma teise Poole kirjaliku nõusolekuta, v.a õigusaktides sätestatud juhtudel.
+5.2. Pool kohustub hoidma saladuses Lepingu täitmise käigus teatavaks saanud  teise Poole äri- ja tootmissaladusi. Poolel on keelatud avalikustada teise Poole äri- ja tootmissaladusi, anda neid üle kolmandatele isikutele või kasutada  neid muul viisil enda huvides. Poole äri- või tootmissaladusena käsitletakse informatsiooni Poole poolt äriühingutes ja projektides osalemise kohta, lepingute sõlmimise ja lepingute sisu kohta, teostatud, ettevalmistatud ning kavandatud äriprojektide ning nendes osalemise kohta, kõiki klientidega (s.h patsiendid) seotud andmeid, dokumente, lepinguid, raamatupidamisandmeid, majandusnäitajaid, arveid, elektroonilisi dokumente ja andmeid, töötajaid, tehinguid, tehingute tingimusi puudutav informatsioon jm.
+5.3. Pooled kohustuvad saladuses hoidma neile seoses Lepingu täitmisega teatavaks saanud intellektuaalse omandiga (kaubamärgid, autoriõigused, kasulikud mudelid, patendid jne) seotud informatsiooni ning mitte rikkuma teise Poole intellektuaalse omandiga seotud varalisi ja mittevaralisi õigusi.
+5.4. Konfidentsiaalsuse nõue eelnimetatud teabe osas kehtib tähtajatult. See piirang ei kehti, kui konfidentsiaalne informatsioon on teatavaks saanud mitte käesoleva Lepingu täitmisel või konfidentsiaalne informatsioon on muutunud avalikuks kas Poole enda või kolmanda isiku õiguspärase tegevuse tulemusena. Samuti ei laiene Lepingus sätestatud konfidentsiaalsuse nõue informatsiooni avaldamisele poolte audiitoritele, advokaatidele ja krediidi- ning finantseerimisasutustele tingimusel, et ka nemad täidavad konfidentsiaalsuskohustust.
+5.5. Informatsiooni avaldamisel otseselt Eesti Vabariigi õigusaktidest tulenevatel juhtudel on pool kohustatud sellest eelnevalt teist poolt informeerima. 
+
+
+
+6. Muud tingimused
+
+6.1. Kõik käesoleva Lepingu muudatused jõustuvad pärast nende allakirjutamist mõlema poole poolt. 
+6.2. Juhul, kui  Tellija lõpetab lepingu  Lisas 1 nimetatud seadme kasutamise, teatab ta sellest Täitjale e-posti teel. Kasutusest väljalangenud seadme osas lõpeb Leping teates märgitud kuupäevast. Kõik ülejäänud teated, mis puudutavad Lepingu tingimusi, v a juhul, kui need on informatsioonilise sisuga, peavad olema esitatud kirjalikult taas esitamist võimaldavas vormis ja loetakse kohaselt kätte toimetatuks, kui need on saadetud digitaalselt allkirjastatult Kontaktisiku e-posti aadressile või edastatud lepingupoolele posti teel 5 kalendripäeva möödumisel postitamisest arvates.
+6.3. Kumbki pool ei tohi Lepingust tulenevaid õigusi ja kohustusi üle anda kolmandale isikule ilma teise poole kirjaliku nõusolekuta.
+6.4. Käesoleva Lepingu täitmisel tekkinud vaidlused ja lahkarvamused lahendavad pooled läbirääkimiste teel. Kokkuleppe mittesaavutamisel lahendatakse vaidlused vastavalt Eesti Vabariigi seadustele Harju maakohtus.
+6.5. Lepinguga seotud tööde tegemisel kindlustab Täitja kõikide töötervishoiu-, tööohutus- ja tuleohutusnõuete ning sisekorra eeskirjade täitmise ja määrab selle eest vastutava isiku.
+6.6. Leping on sõlmitud digitaalselt allkirjastamisel ja jõustub poolte poolt allkirjastamise hetkest.
+
+
+
+Lepingu lisad
+
+Lisa 1 - Seadmete nimekiri 
+Lisa 2 - Seadmete hooldustööde loetelu koos hoolduse teostamise ajalise sagedusega
+Lisa 3 - Teenuste hinnakiri
+Lisa 4 - Isikuandmete töötlemise tingimused
+
+
+
+
+LEPINGUPOOLTE ANDMED: 
+Tellija:
+
+
+
+Täitja:
+AS Ida-Tallinna Keskhaigla 
+Ravi tn 18, Tallinn 10138 
+Reg kood: 10822068 
+Tel: 620 7000 
+E-post: info@itk.ee  
+
+Kontaktisikud: 
+Marko Parve
+Tel 620 7260
+marko.parve@itk.ee 
+ 
+
+Allkirjastajad: 
+Ralf Allikvee, 
+juhatuse esimees 
+
+
+
+
+
+Lisa 1
+												
+
+Seadmete nimekiri
+				
+
+Jrk nr.
+Nimetus
+Seeria tähis
+Mudel
+Hooldustööde korra maksumus 
+Seadme asukoht (struktuuriüksus)
+Hoolduse sagedus (kuudes)
+1
+
+xxx
+
+
+
+
+2
+
+xxx
+
+
+
+
+3
+
+xxx
+
+
+
+
+
+
+
+
+Lisa sätestab Täitja poolt hooldatava Tellija omanduses olevate Seadmete hooldustasud  ühe korra kohta.
+Lisa 2
+
+     Seadmete hooldustööde kirjeldused ja teostamise sagedused
+
+
+ 
+
+Seadme …………. hooldustööde loetelu   
+Reglementeeritud hoolduse teostamise sagedus kuudes
+Hooldustöö kirjeldus
+…..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lisa 3
+
+
+Teenuste hinnakiri
+
+
+  
+Remondi tunnihind …………….
+  
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+Lisa 4
+Isikuandmete töötlemise tingimused
+
+1. Eesmärk
+Isikuandmete töötlemise tingimustega (Tingimused) määratakse AS Ida-Tallinna Keskhaigla kui isikuandmete vastutava töötleja (edaspidi Vastutav töötleja)  
+Ja
+ ______________ kui isikuandmete volitatud töötleja (edaspidi Volitatud töötleja) kohustused isikuandmete töötlemisel Volitatud töötleja poolt osutatava teenusega ja Lepinguga seoses, samuti sätestatakse vastutus isikuandmete töötlemise nõuete rikkumise eest, arvestades 25. mail 2018.a  jõustunud  EL 2016/779 andmekaitsemäärusest (GDPR) tulenevaid nõudeid ja siseriiklikke õigusakte.
+
+2. Isikuandmete töötlemise nõuded
+2.1. Volitatud töötleja kohustub järgima ja töötlema isikuandmeid vastavalt EL andmekaitsemäärusele (General Data Protection Regulation EU 2016/679) (edaspidi GDPR)ja kõikidele vastavatele siseriiklikele õigusaktidele, s h kuid mitte ainult, rakendama ja säilitama asjakohaseid tehnilisi ja organisatsioonilisi meetmeid, et tagada riskile vastav turvalisuse tase ja isikuandmete kaitse. 
+2.2. Volitatud töötleja töötleb isikuandmeid Lepingus, Tingimustes ning Vastutava töötleja poolt kehtestatud isikuandmete kaitse organisatsioonilistes, füüsilistes ja infotehnilistes turvameetmetes määratud korras, viisil ja tingimustel.
+
+3. Poolte kohustused
+3.1. Vastutav töötleja on kohustatud:
+3.1.1. tagama isikuandmete töötlemise täies vastavuses seadustes ja seaduse alusel vastuvõetud õigusaktides sätestatud nõuetega;
+3.1.2. töötlema isikuandmeid ainult eesmärkide saavutamiseks vajalikus koosseisus;
+3.1.3. teostama järelevalvet Volitatud töötleja tegevuse üle isikuandmete töötlemisel;
+3.1.4. kehtestama isikuandmete kaitse organisatsioonilised, füüsilised ja infotehnilised turvameetmed.
+3.1.5. Vastutaval töötlejal on õigus saada volitatud töötlejalt infot punktis 4.2. sätestatud  ja rakendatud meetmete kohta veendumaks, et Volitatud töötleja tegevus on Lepinguga kooskõlas.
+
+3.2. Volitatud töötleja on kohustatud:
+3.2.1. järgima isikuandmete töötlemisel seadustes ja seaduse alusel vastuvõetud õigusaktides sätestatud nõudeid;
+3.2.2. täitma kõiki Vastutava töötleja poolt antud korraldusi, välja arvatud juhul, kui need on vastuolus seadusega;
+3.2.3. tutvuma Vastutava töötleja poolt kehtestatud isikuandmete kaitse organisatsiooniliste, füüsiliste ja infotehniliste turvameetmetega ning järgima neid osas, mis puudutab pakutava teenuse osutamiseks vajalikke andmetöötlusoperatsioone;
+3.2.4. mitte edastama isikuandmeid riikidesse, mis asuvad väljaspool Euroopa Majanduspiirkonda, välja arvatud juhul, kui isikuandmeid edastatakse riikidesse, mida Euroopa Komisjon tunnustab riigina, kus on tagatud edastatud isikuandmete kaitse piisav tase;
+3.2.5. võtma kasutusele organisatsioonilised, füüsilised ja infotehnilised turvameetmed isikuandmete kaitseks;
+3.2.6. tutvustama punktis 4.1.1  isikuandmete kaitseks tarvitusele võetud turvameetmeid ja nende muudatusi Vastutavale töötlejale;
+3.2.7. teavitama Vastutavat töötlejat põhjendamatu viivituseta, kui talle saab teatavaks mis tahes turvarikkumine, mis põhjustab isikuandmete juhusliku või ebaseadusliku hävimise, kaotuse, muutmise, omavolilise avalikustamise või juurdepääsu isikuandmetele.
+3.2.8. Kui Volitatud töötleja kasutab Lepingu täitmiseks alltöövõtjaid ning edastab alltöövõtjatele Vastutava töötleja isikuandmeid, kohustub Volitatud töötleja tagama, et nimetatud alltöövõtja järgib Lepingu ja Tingimustega kokkulepitud nõudeid.
+3.2.9 Volitatud töötleja vastutab oma alltöövõtjate Lepinguga seotud tegevuse ja tegevusetuse eest nii, nagu oleks tegemist Volitatud töötleja oma tegevuse või tegevusetusega.
+3.2.10.  Volitatud töötleja kohustub tagama, et kõik tema ja ta sidusettevõtjate ja alltöövõtjate töötajad, kes isikuandmeid töötlevad, on seotud konfidentsiaalsuskohustusega ning nendega on sõlmitud vastavad konfidentsiaalsuskokkulepped.
+3.2.11. Niivõrd, kuivõrd see on põhjustatud Volitatud töötleja, selle sidusettevõtjate või alltöövõtjate süülisest tegevusest, vastutab Volitatud töötleja andmesubjektidele tekitatud kahju eest ja isikupuutumatuse rikkumise eest Vastutava töötleja ees, mille põhjuseks on andmete töötlemine vastuolus Lepingu või Tingimuste sätetega ning millega seoses on Vastutav töötleja olnud kohustatud maksma andmesubjektile kahjutasu või haldustrahve. Volitatud töötleja vastutus kahjude eest on piiratud Vastutavalt töötlejalt andmesubjektile hüvitisena välja mõistetud summaga, või haldustrahvi summaga või kokkuleppemenetluses määratud summaga.
+
+4. Lepingu lõpetamine
+Vastutaval töötlejal on Volitatud töötleja poolsel Lepingu ja Tingimuste rikkumisel õigus Leping ühepoolselt lõpetada. Pooled kohustuvad Lepingu lõppemisel või lõpetamisel tagastama kõik lepingu täitmise käigus saadu ja hüvitama teisele Poolele tekitatud kahju.
+
+5. Konfidentsiaalsuskohustus
+5.1. Pooled kohustuvad hoidma saladuses ning mitte edastama kolmandatele isikutele teavet, mis on neile teatavaks saanud lepingulisi kohustusi täites või juhuslikult, eelkõige neile teatavaks saanud isikuandmeid. Konfidentsiaalsuskohustus kehtib ka peale lepingu lõppemist või lõpetamist tähtajatult.
+5.2. Konfidentsiaalsuskohustust ei kohaldata informatsioonile, mille kohta Pool on võimeline tõestama, et on sellise informatsiooni ise loonud, et informatsioon oli Poolele teada enne selle saamist või et informatsioon oli avalikkusele kättesaadav või et Pool sai sellest teada kolmandalt isikult muul viisil, mitte käesoleva Lepingu rikkumise tõttu.
+5.3.  Kui Pool on kohustatud avaldama informatsiooni kehtiva õigusakti või informatsiooni avaldamist nõudva pädeva isiku vastava nõude alusel, on Pool kohustatud teavitama sellest viivitamatult teist Poolt, ning paluma taotletud informatsiooni avalikustamisega seoses konfidentsiaalsuse järgimist.
+5.4. Pärast andmete töötlemise lõppemist isikuandmed kas tagastatakse Vastutavale töötlejale, niivõrd, kuivõrd see on võimalik, või kustutatakse need, nagu Vastutav töötleja oma äranägemisel otsustab.
+5.5. Mõlemad Pooled kohustuvad teavitama teist Poolt kirjalikult ja põhjendamatu viivituseta mis tahes tema vastu esitatud nõudest, mis on seotud isikuandmete töötlemisega Lepingu alusel.
+
+6. Poolte vastutus 
+6.1. Pool, kes rikub GDPRist, siseriiklikest õigusaktidest või Lepingust tulenevaid isikuandmete töötlemise nõudeid, vastutab selle eest õigusaktides ja Lepingus sätestatud korras. 
+6.2. Isikuandmete ebasihipärase, GDPRile ja siseriiklikele õigusaktidele mittevastava töötlemise korral on Vastutaval töötlejal õigus öelda kõik Volitatud töötlejaga sõlmitud kehtivad lepingud erakorraliselt üles, teatades sellest Volitatud töötlejale ette 30 (kolmkümmend) kalendripäeva. 
+
+
+=== 1616212_215352_hankepass_taiendavate_selgitustega.pdf ===
+1/17
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+http://ted.europa.eu/udl?uri=TED:NOTICE:537448-2019:TEXT:ET:HTML
+Riigi ametlik teataja:
+215352
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+aktsiaselts Ida-Tallinna Keskhaigla (10822068)
+Riik:
+Eesti
+Hankija aadress:
+Ravi tn 18
+Hankija veebiaadress:
+http://www.itk.ee
+E-posti aadress:
+info@itk.ee
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+2/17
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Kliinilise keemia ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping
+Lühikirjeldus:
+Kahe kliinilise keemia ja immuunanalüüsi integreeritud analüsaatori soetamine ja 4-aastase tarvikute
+raamlepingu sõlmimine.
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+215352
+Hanke liik:
+Asjad
+Hanke CPV-d:
+33127000-6 Immunoanalüüsiseadmed
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+3/17
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+4/17
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+5/17
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+6/17
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+7/17
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+8/17
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Kehtib: Kogu hanke kohta
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+9/17
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Kehtib: Kogu hanke kohta
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+10/17
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+11/17
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+12/17
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+13/17
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+14/17
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+15/17
+PANKROT
+Kas ettevõtja on pankrotis?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+16/17
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: HANKIJA ASUKOHAJÄRGSE KOHALIKU MAKSU MAKSUVÕLG
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 1 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+IV OSA: KVALIFITSEERIMISTINGIMUSED
+C: Tehniline ja kutsealane suutlikkus
+ASJADE HANKELEPINGUTE PUHUL: TÄPSUSTATUD LIIKI TARNETE TEOSTAMINE
+Ainult asjade riigihankelepingute puhul: Ettevõtja on arvestusperioodi jooksul kohale toimetanud
+täpsustatud liiki asjade puhul järgmised peamised tarned. Avaliku sektori hankijad võivad nõuda
+kuni kolme aasta kogemuse tõendamist ja võtta arvesse rohkem kui kolme aasta vanuseid
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+17/17
+kogemusi.
+Viide seadusele:
+RHS § 101 lg 1 p 2 „nimekiri hankija kindlaks määratud tunnustele vastavate asjade müügi
+lepingutest, mis on täidetud riigihanke algamisele eelneva 36 kuu jooksul, koos teabega nende
+maksumuse, kuupäevade ja teiste lepingupoolte kohta“
+RHS § 101 lg 2 „hankija võib piisava konkurentsi tagamiseks arvesse võtta andmeid rohkem kui
+36 kuu eest täidetud asjade müügi lepingute kohta“
+Tingimuse selgitus:
+Pakkuja peab olema riigihanke hanketeate avaldamisele eelneva 36 kuu jooksul täitnud vähemalt
+viis laborimeditsiini valdkonnas kasutatavate analüsaatorite ja nende kuluvahendite rendi- ja/või
+müügi- ja/või tasuta kasutamiseks andmise lepingut ja lepingute alusel müüdud kuluvahendite
+maksumus peab kokku olema vähemalt 2 000 000 eurot. Täidetud lepinguks peetakse lepingut,
+mille alusel on seade kasutajale korrektselt üle antud. Pakkuja esitab andmed lepingute kohta -
+lepingu objekti nimetus, ostja, seadme üleandmise kuupäev, lepingu maksumus kuluvahendite
+osas.
+Kehtib: Kogu hanke kohta
+Tingimuse kirjeldus:
+Minimaalne teostatud tööde arv: 5
+Kirjeldus: Laborimeditsiini valdkonnas kasutatavate analüsaatorite ja nende kuluvahendite rendi-
+ja/või müügi- ja/või tasuta kasutamiseks andmise leping 1 (lepingu objekti nimetus, ostja, seadme
+üleandmise kuupäev, lepingu maksumus kuluvahendite osas)
+Kirjeldus: Laborimeditsiini valdkonnas kasutatavate analüsaatorite ja nende kuluvahendite rendi-
+ja/või müügi- ja/või tasuta kasutamiseks andmise leping 2 (lepingu objekti nimetus, ostja, seadme
+üleandmise kuupäev, lepingu maksumus kuluvahendite osas)
+Kirjeldus: Laborimeditsiini valdkonnas kasutatavate analüsaatorite ja nende kuluvahendite rendi-
+ja/või müügi- ja/või tasuta kasutamiseks andmise leping 3 (lepingu objekti nimetus, ostja, seadme
+üleandmise kuupäev, lepingu maksumus kuluvahendite osas)
+Kirjeldus: Laborimeditsiini valdkonnas kasutatavate analüsaatorite ja nende kuluvahendite rendi-
+ja/või müügi- ja/või tasuta kasutamiseks andmise leping 4 (lepingu objekti nimetus, ostja, seadme
+üleandmise kuupäev, lepingu maksumus kuluvahendite osas)
+Kirjeldus: Laborimeditsiini valdkonnas kasutatavate analüsaatorite ja nende kuluvahendite rendi-
+ja/või müügi- ja/või tasuta kasutamiseks andmise leping 5 (lepingu objekti nimetus, ostja, seadme
+üleandmise kuupäev, lepingu maksumus kuluvahendite osas)
+Ettevõtjalt oodatavad vastused:
+1. Kirjeldus (Suur sisestusala (max pikkus 4000 tähemärki))
+2. Kogusumma (Summa)
+3. Valuuta (Vääring)
+4. Ettevõtja vastutusala (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Summa (Summa)
+6. Valuuta (Vääring)
+7. Ajavahemik (Periood)
+8. Kas info on konfidentsiaalne? (Raadionupp valikutega "Jah/Ei")
+9. Tellija nimi (Sisestusväli (max pikkus 250 tähemärki))
+10. Kontaktisiku nimi (Sisestusväli (max pikkus 250 tähemärki))
+11. E-mail (Sisestusväli (max pikkus 250 tähemärki))
+12. Telefon (Sisestusväli (max pikkus 250 tähemärki))
+13. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+14. URL (Url)
+15. Kood (Sisestusväli (max pikkus 250 tähemärki))
+16. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 16.12.2019 13:12:49
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+
+=== 1616212_215352_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 215352
+Hankija:aktsiaselts Ida-Tallinna Keskhaigla (10822068)
+Hange:Kliinilise keemia ja immuunanalüüsi integreeritud analüsaator ja tarvikute raamleping
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Pakkumuse kogumaksumus Pakkumuse kogumaksumuseks tuleb Maksumus - 60 jah
+märkida tabelis „Maksumusvorm“ vähim on parim
+valemite alusel arvutatud pakkumuse
+maksumus kokku lahtris G15.
+2 Kvaliteediindikaatorid Kvaliteet - hankija 40
+hinnatav
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Pakkumuse kogumaksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte proportsionaalselt vähem ja arvutatakse valemiga: "madalaim väärtus" / "pakkumuse
+väärtus" * "osakaal".
+2. Kvaliteediindikaatorid
+Kvaliteediindikaatorid ehk miinimumnõudeid ületavad tehnilised näitajad. Pakkujatele antakse kvaliteediindikaatorite eest punkte vastavalt HD Lisa II a Tabelile 2.
+Koostatud 04.11.2019 15:07:42 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+1616212/general-info
+
+=== 1616212_215352_vastavustingimused.pdf ===
+1/3
+VASTAVUSTINGIMUSED
+Viitenumber: 215352
+Hankija: aktsiaselts Ida-Tallinna Keskhaigla (10822068)
+Hange: Kliinilise keemia ja immuunanalüüsi integreeritud analüsaator ja tarvikute
+raamleping
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kui tegemist on ühispakkumusega, kas olete pakkumuse dokumentide hulka lisanud
+ühispakkujate volikirja? (Raadionupp valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+ärisaladuseks määramist. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks käesoleva lõike punktis 1 nimetatule muid
+pakkumuste hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS §
+111 lg 5).
+Küsimused ettevõtjale:
+1. Kas ärisaladus ning selle määramise põhjendus on pakkumuses märgitud? (Raadionupp
+valikutega "Jah/Ei")
+2. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus.
+(Suur sisestusala (max pikkus 4000 tähemärki))
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Lisada HD lisa I vorm 3 (Vabas vormis dokument)
+VASTAVUS TEHNILISELE KIRJELDUSELE
+Pakkumus peab vastama tehnilisele kirjeldusele, mis on kättesaadav Dokumendid lehelt. Pakkuja
+esitab pakkumuse HD Lisa II - tehniline kirjeldus/pakkumuse vorm - põhjal, täites kõik vastavad
+väljad.
+Küsimused ettevõtjale:
+1. Täita ja esitada HD Lisa II - tehniline kirjeldus tabelites vajalikud väljad (Vabas vormis
+dokument)
+2. Esitada kõigi pakutavate seadmete, lisaseadmete ja veepuhastusseadmete paigutus ruumiplaanil
+Lisa II b ruumiplaani RC0212 joonis (Autocad formaat). Paigutuseks ettenähtud pind on
+markeeritud punase joonega. (Vabas vormis dokument)
+Koostatud 13.03.2020 10:24:56
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+2/3
+RUUMI ÜLEVAATUS ENNE PAKKUMUSE ESITAMIST
+Pakkuja peab enne pakkumuse esitamist tutvuma seadmete paigaldatava ruumiga ja vajadusel läbi
+viima vajalikud mõõtmised. Pakkuja võtab ühendust hankija kontaktisikuga - Liisa Kuhi, tel 5635
+3481, et leppida kokku sobiv aeg. Objekti külastamine peab toimuma soovituslikult vähemalt 5
+tööpäeva enne pakkumuste esitamise tähtaega. Hankeobjektiga tutvuma tulev isik esitab
+isikuttõendava dokumendi ning hankele registreerunud huvitatud isiku esindamisõigust tõendava
+volikirja juhul, kui vastav esindusõigus ei tulene e-äriregistrist kontrollitavalt B-kaardilt. Pakkuja
+lisab pakkumusele hankijalt saadud objekti külastamist tõendava kinnituskirja koopia.
+Küsimused ettevõtjale:
+1. Lisada hankijalt saadud kinnituskiri ruumiga tutvumise kohta: (Vabas vormis dokument)
+TOOTJAPOOLNE INFOMATERJAL
+Pakkumuse tehnilises kirjelduses nimetatud andmed peavad olema tõendatud tootjapoolse
+infomaterjaliga. Pakkumus peab sisaldama pakutava seadme ja lisavarustuse kohta
+tootekataloogi/-brožüüri - kõik pakkumuses toodud tehnilised parameetrid koos pakutava toote
+mudeliga peavad olema toodud tootjapoolses kataloogis või brožüüris, mis peab olema lisatud
+pakkumusele. Juhul, kui tootjapoolsed infomaterjalid ei kajasta vajalikku infot, tuleb lisada
+kinnituskiri tootja poolt vastava nõude tingimuste osas.
+Küsimused ettevõtjale:
+1. Esitada pakutavate seadmete tootekataloog/-brožüür (Vabas vormis dokument)
+REAGENTIDE TOOTJAPOOLSED INFOLEHED JA OHUTUSKAARDID
+Küsimused ettevõtjale:
+1. Esitada tootjapoolsed infolehed ja ohutuskaardid (safety data sheet, SDS) kõikide pakkumuses
+pakutavate reagentide kohta. (Vabas vormis dokument)
+HOOLDUSSPETSIALISTID/ -TEHNIKUD
+Pakkuja ettevõttes peab töötama vähemalt kaks tootjapoolse väljaõppega vahevara
+hooldusspetsialisti/-tehnikut, vähemalt kaks tootjapoolse väljaõppega veepuhastusseadmete
+hooldusspetsialisti/-tehnikut ja vähemalt kolm tootjapoolse väljaõpega analüsaatorite
+hooldusspetsialisti/-tehnikut, kellel on minimaalselt 3-aastane töökogemus. Erinevatele
+seadmetele hooldust teostavad isikud võivad kattuda, üks insener võib olla väljaõppega nii
+analüsaatoritele, vahevarale kui ka veeseadmele. Pakkuja peab esitama minimaalselt kolm
+hooldusspetsialisti/-tehnikut. Kõik esitatud hooldusspetsialistid/-tehnikud peavad oskama eesti
+keelt vähemalt B2 tasemel.
+Pakkuja esitab hooldusspetsialistide/- tehnikute nimed, töökogemuse ning väljaõpet tõendavad
+sertifikaadid ja/või tunnistused. Juhul, kui pakkuja meeskonnas hetkel ei tööta vajalikul arvul
+spetsialiste, kellel oleks pakkumuse esitamise hetkel vajalik väljaõpe ja seda kinnitavad
+sertifikaadid, peab pakkuja lisama pakkumusele seadme tootja kinnituskirja, et tootja on valmis
+pakkuja hooldusspetsialiste vastavalt koolitama hiljemalt seadme üleandmise hetkeks.
+Küsimused ettevõtjale:
+1. Esitada hooldusspetsialistide/-tehnikute nimed ja töökogemus (Suur sisestusala (max pikkus
+4000 tähemärki))
+2. Esitada hooldusspetsialistide/- tehnikute väljaõpet tõendavad sertifikaadid ja/või tunnistused
+või seadme tootja kinnituskiri, et tootja on valmis pakkuja hooldusspetsialiste vastavalt koolitama
+hiljemalt seadme üleandmise hetkeks. (Vabas vormis dokument)
+Koostatud 13.03.2020 10:24:56
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info
+3/3
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Tabel 3. Eeldatav töömaht ja kuluvahendid (eraldi dokumendifailina)
+Kuluvahendite pakend ostetakse tervikuna. Pakutavate pakendite arv peab olema optimaalne ehk
+kui seoses kuluvahendi suurema kasutusega on võimalik pakkuda suurema mahuga pakendeid,
+tuleks seda teha ning arvestada korrapärast testide tegemist läbi terve lepinguperioodi. Tabelis
+Eeldatav töömaht esitada kõik tööks vajalikud vahendid sh. tarvikud, puhvrid, pesulahused,
+kalibraatorid, sisemise kvaliteedikontrolli materjalid erinevatel tasemetel, seadmepõhised
+mikrokatsutid, otsikud, muu ühekordne plastik. Kuluvahendite kulu peab olema tõestatud tootja
+infomaterjali viidetega. Toodete maksumused (eraldi sama dokumendi lehtedel) esitada ilma km-
+ta. Testide arv on hankija poolt prognoositud testide arv ühes aastas. Hankija jätab endale õiguse
+suurendada või vähendada koguseid lähtuvalt tegelikust vajadusest. Seadmetel teostatavad testid
+on esitatud tabelis Eeldatav töömaht. Reagendid, kontrollmaterjalid, kalibraatorid ning
+süsteemilahused ja plastik on tabelis Eeldatav töömaht eraldi lehtedel. Juhul kui kontrollmaterjale
+ja/või kalibraatoreid kasutataske mitme testi teostamiseks siis näidata aastane kulu ainult esimese
+testi juures ja järgnevate juures sellele viidata.
+Tabelis Eeldatav töömaht on pakkujal palutud täita reagentide tulbad J kuni U, süsteemilahuste ja
+plastiku tulbad A kuni G, kontrollide tulbad A kuni F; kalibraatorite tulbad A kuni F, v.a
+maksumus aastas kokku, mis täidetakse valemite alusel (reagendipakendi maksumus * eeldatav
+kogus aastas). Tabeli teisele reale kollasesse lahtrisse arvutatakse valemite alusel eeldatav
+maksumus aastas kokku, mis tuleb märkida Tabelisse 4 vastavale reale.
+Tabel 4. Maksumusvorm (eraldi dokumendifailina)
+Tabelisse 4 peab pakkuja märkima seadmete ühikuhinnad ja kulutarvikute aastased maksumused.
+Juhul, kui seadmed vajavad süsteemi toimimiseks lisaseadmeid, tuleb nende maksumused
+märkida eraldi. Vastasel juhul jäävad lisaseadmete read pakkuja poolt täitmata. Kuluvahendite
+ridadele tuleb märkida vastavalt Tabelile 4 „Eeldatav töömaht“ esitatud mahule eeldatav ühe
+aasta kuluvahendite maksumus, mis on valemite alusel arvutatud vastavate lehteda kollastesse
+lahtritesse real 2. Erinevuse korral Tabeli 3 ja Tabelisse 4 märgitud maksumuste vahel võtab
+hankija arvesse Tabeli 3 ning parandab arvutusvead vastavalt. Tabelis „Maksumusvorm“
+valemite alusel arvutatud pakkumuse maksumus kokku lahtris G15 tuleb märkida riigihangete
+registris pakkumuse maksumuseks. Erinevuse korral Maksumusvormil ja riigihangete registris
+esitatud pakkumuse maksumuse korral loeb hankija õigeks Maksumusvormil esitatud hinnad.
+Küsimused ettevõtjale:
+1. Esitada täidetud HD lisa II c Tabel 3 Eeldatav töömaht (Vabas vormis dokument)
+2. Esitada HD lisa II d maksumusevormi tabel 4. (Vabas vormis dokument)
+3. Kas pakkuja on täitnud pakkumuse maksumuse RHRi töölehel "Hindamiskriteeriumid ja
+hinnatavad näitajad"? (Raadionupp valikutega "Jah/Ei")
+4. Juhul kui analüsaatorite maksumus on sisse arvutatud kulutarvikute lepingu maksumusse (nö
+tasuta kasutamine), siis tuleb pakkujal näidata analüsaatorite turuväärtus. (Suur sisestusala (max
+pikkus 4000 tähemärki))
+HOOLDUSLEPINGU TINGIMUSED
+Pakkuja kinnitab, et on nõus hoolduslepingu üldtingimustega ning pakkumus peab sisaldama HD
+lisa I vormi 4 põhjal hoolduslepingu eritingimusi.
+Küsimused ettevõtjale:
+1. Esitada hoolduslepingu eritingimused HD lisa I vormil 4 (Vabas vormis dokument)
+2. Kinnitame, et oleme nõus hoolduslepingu üldtingimustega (Raadionupp valikutega "Jah/Ei")
+Koostatud 13.03.2020 10:24:56
+https://riigihanked.riik.ee/rhr-web/#/procurement/1616212/general-info

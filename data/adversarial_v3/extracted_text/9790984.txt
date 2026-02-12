@@ -1,0 +1,1179 @@
+=== 9790984_304794_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 304794
+Hankija:Pärnu linn, Mai tn 5 korteriühistu (80024724)
+Hange:Pärnu linn, Mai tn 5 korteriühistu terviklik rekonstrueerimine ehitustöövõtt (EIS)
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Pärnu linn, Mai tn 5 korterelamu Pakkumuse maksumus peab olema Maksumus - 100 1 EUR jah
+rekonstrueerimise ehitustöövõtu lõplik. Maksumus peab sisaldama nii vähim on parim
+kogumaksumus kõiki kulusid vastavalt alusdokumendile
+kui ka seal nimetamata kulusid, mis on
+vajalikud lepingu nõuetekohaseks
+täitmiseks. Toetuse saaja ei hüvita
+lepingu täitmisel pakkujale mingeid
+täiendavaid kulusid ega tee täiendavaid
+makseid. Pakkumus ei tohi olla mis
+tahes viisil eksitav.
+Pakkuja sisestab registrisse tööde
+üldmaksumuse ja reservi (5%) summa
+kokku ehk lepingu hinna ilma
+käibemaksuta.
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Pärnu linn, Mai tn 5 korterelamu rekonstrueerimise ehitustöövõtu kogumaksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 09.01.2026 16:53:02 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9790984/general-info
+
+=== 9790984_304794_korvaldamise_alused_ja_kvalifitseerimistingimused.pdf ===
+1/5
+KÕRVALDAMISE ALUSED JA
+KVALIFITSEERIMISTINGIMUSED
+Viitenumber: 304794
+Hankija: Pärnu linn, Mai tn 5 korteriühistu (80024724)
+Hange: Pärnu linn, Mai tn 5 korteriühistu terviklik rekonstrueerimine ehitustöövõtt
+(EIS)
+KÕRVALDAMISE ALUSED
+KINNITUSED KÕRVALDAMISE ALUSTE PUUDUMISE KOHTA
+Ühispakkumuse korral käsitletakse pakkujana iga ühispakkujat. Toetuse saaja kontrollib edukal
+pakkujal (ühispakkumuse korral kõigil ühispakkumuse esitanud pakkujatel) kõrvaldamise
+aluseid. Täpsemalt on tingimused ja nende kontrollimise kord kirjeldatud pakkumuskutses.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja kinnitab, et tal ei esine RHS § 95 lõike 1 punktides 1–3 ja 5 (arvestades RHS § 95 lõikes 2
+sätestatut) nimetatud kõrvaldamise aluseid. (Raadionupp valikutega "Jah/Ei")
+2) Pakkuja kinnitab, et ta ei ole pankrotis või likvideerimisel, tema suhtes ei ole algatatud pankroti- või
+likvideerimismenetlus või tema äritegevust ei ole peatatud või ta ei ole muus sellesarnases olukorras
+pakkuja asukohamaa õigusaktide kohaselt. (Raadionupp valikutega "Jah/Ei")
+3) Pakkuja kinnitab, et tal ei ole riikliku maksu, makse või keskkonnatasu maksuvõlga või maksu- või
+sotsiaalkindlustusmaksete võlga tema asukohariigi õigusaktide kohaselt. (Raadionupp valikutega "Jah/
+Ei")
+4) Pakkuja kinnitab, et tema töötajate keskmine töötasu on võrdlusperioodi jooksul olnud suurem kui
+70 protsenti sama ajavahemiku keskmisest töötasust lepingu esemele vastavas valdkonnas.
+Võrdlusperioodiks loetakse kuus kalendrikuud, mille viimaseks kuuks on ostumenetluse alustamise
+kalendrikuust üle-eelmine kalendrikuu. (Raadionupp valikutega "Jah/Ei")
+5) Pakkuja tõendab Maksu- ja Tolliameti väljavõttega, et tema töötajate keskmine töötasu on
+võrdlusperioodi jooksul olnud suurem kui 70 protsenti sama ajavahemiku keskmisest töötasust lepingu
+esemele vastavas valdkonnas. Välismaine pakkuja esitab oma asukohariigis Maksu- ja Tolliametiga
+samaväärse pädeva asutuse tõendid. Ühispakkumuse korral esitatakse tõend iga ühispakkuja kohta.
+(Vabas vormis dokument)
+6) Pakkuja kinnitab, et ta ei ole seotud isikuks toetuse saaja korterelamu rekonstrueerimist nõustava
+tehnilise konsultandiga. (Raadionupp valikutega "Jah/Ei")
+KVALIFITSEERIMISTINGIMUSED
+A: Sobivus
+KUULUMINE ASJAKOHASESSE KUTSEREGISTRISSE
+Pakkuja peab olema esitanud majandustegevuse registris tegevusalal „Ehitamine“
+majandustegevusteate tegevusala liikidega:
+1. üldehituslik ehitamine,
+2. sisekliima tagamise süsteem,
+3. hoonesisene või selle juurde kuuluv veevarustuse või kanalisatsioonisüsteem.
+Majandustegevuse registri registreeringu nõuet ei kohaldata välismaisele pakkujale. Asjakohasel
+juhul tõendab pakkuja oma pädevust samaväärse tõendiga.
+Kehtib:Kõik osad
+Koostatud 09.01.2026 16:51:57
+https://riigihanked.riik.ee/rhr-web/#/procurement/9790984/general-info
+2/5
+Küsimused ettevõtjale:
+1) Pakkuja on esitanud majandustegevuse registris tegevusalal „Ehitamine“ majandustegevusteate
+tegevusala liikidega: üldehituslik ehitamine, sisekliima tagamise süsteem, hoonesisene või selle juurde
+kuuluv veevarustuse või kanalisatsioonisüsteem. (Raadionupp valikutega "Jah/Ei")
+KUULUMINE ASJAKOHASESSE KUTSEREGISTRISSE
+Elektritööde teostamisel peab pakkuja olema esitanud majandustegevuse registris
+majandustegevusteate tegevusalal „Elektritööd“ tegevusala liigiga elektripaigaldise ehitamine,
+sealhulgas paigaldamine.
+Majandustegevuse registri registreeringu nõuet ei kohaldata välismaisele pakkujale. Asjakohasel
+juhul tõendab pakkuja oma pädevust samaväärse tõendiga.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Elektritööde teostamisel on pakkuja esitanud majandustegevuse registris majandustegevusteate
+tegevusalal „Elektritööd“ tegevusala liigiga elektripaigaldise ehitamine, sealhulgas paigaldamine.
+(Raadionupp valikutega "Jah/Ei")
+B: Majanduslik ja finantsseisund
+ÜLDINE AASTAKÄIVE
+Pakkuja ostumenetluse algamisele eelneva majandusaasta (s.t kui pakkuja majandusaasta on
+kalendriaasta, siis 2025 aasta) netokäive peab olema minimaalselt võrdne sõlmitava lepingu
+kahekordse eeldatava maksumusega (arvestatuna, et lepingu eeldatav maksumus esitatakse alati
+käibemaksuta summana). Sisestada konkreetse summana 1 euro täpsusega.
+Kvalifitseerimistingimus loetakse täidetuks, kui vähemalt 1 (ühel) ühispakkumuses osalevatest
+ettevõtjatest on vastav kvalifitseerimistingimus üksinda täidetud, tingimuse täitmiseks andmete
+summeerimine ei ole lubatav (vaata täpsemalt pakkumuskutse p 3.22).
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja pakkumuse esitamisele eelneva majandusaasta netokäive on: (Summa)
+MUUD MAJANDUS- VÕI FINANTSNÕUDED
+Pakkuja kinnitab pakkumuse esitamisega, et hiljemalt lepingu sõlmimise kuupäevaks või
+hiljemalt 10 (kümne) kalendripäeva jooksul lepingu sõlmimisest on tal võimalus anda toetuse
+saajale krediidi- või finantseerimisasutuse kinnitatud täitmisaja tagatis viie protsendi ulatuses
+lepingu maksumusest. Täitmisaja tagatisena loetakse aktsepteeritavaks ka vastava rahasumma
+deponeerimine toetuse saaja arvelduskontole või deponeerimine notari kontole, tingimusel et
+õigustatud isikuks on kogu ehitusperioodi vältel toetuse saaja. Ühispakkujad võivad tagatise
+nõude täita ühiselt.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja kinnitab, et nõustub tingimusega. (Raadionupp valikutega "Jah/Ei")
+C: Tehniline ja kutsealane suutlikkus
+EHITUSTÖÖDE HANKELEPINGUTE PUHUL: TÄPSUSTATUD LIIKI EHITUSTÖÖDE
+TEOSTAMINE
+Koostatud 09.01.2026 16:51:57
+https://riigihanked.riik.ee/rhr-web/#/procurement/9790984/general-info
+3/5
+Pakkuja peab olema ostumenetluse algamisele(s.o ostumenetluse alustamise kuupäev RHRis)
+eelneva 60 (kuukümne) kuu jooksul teostanud vähemalt 1 (ühe)samaväärse ehitustöö
+maksumusega määras, mis on võrdne vähemalt poolega sõlmitava lepingueeldatavast
+maksumusest ilma käibemaksuta.
+Samaväärseks ehitustööksloetakse hoonete püstitamise, laiendamise ja/või kogu hoone mahus
+rekonstrueerimistööd ehitustööde peatöövõtjana, mille puhul on teostatud mh vähemalt
+järgnevad ehitustööd: hoone kande- ja välispiirete ehitamine või rekonstrueerimine,
+soojustagastusega sundventilatsiooni ehitamine või rekonstrueerimine, uue küttesüsteemi
+ehitamine või rekonstrueerimine.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja esitab andmed samaväärse ehitustöö kohta, tuues välja vähemalt: 1. nimetatud ehitustöö
+nimetuse (hoone andmed), 2. ehitustöö teostamise aja ja maksumuse; 3. info, kas tegemist oli hoone
+püstitamise, laiendamise ja/või kogu hoone mahus rekonstrueerimistöödega ehitustööde peatöövõtjana
+4. info, kas nimetatud ehitustöö sisaldas vähemalt hoone kande- ja välispiirete ehitamist või
+rekonstrueerimist, 5. info, kas nimetatud ehitustöö sisaldas soojustagastusega sundventilatsiooni
+ehitamist või rekonstrueerimist, 6. info, kas nimetatud ehitustöö sisaldas uue küttesüsteemi ehitamist
+või rekonstrueerimist. (Suur sisestusala (max pikkus 4000 tähemärki))
+PROJEKTIJUHT
+Pakkuja meeskonnas peab olema projektijuht, kellel on vähemalt ehitusinseneri kutse, tase 6
+spetsialiseerumisega hoonete ehitusele, valitava kompetentsiga ehitustegevuse juhtimine või
+ehitusjuhi kutse, tase 6, spetsialiseerumisega üldehituslikule ehitamisele. Välismaise pakkuja
+puhul samaväärse pädevusega isik.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja esitab nõudele vastava projektijuhi ees- ja perekonnanime ning kutsetunnistuse numbri.
+(Sisestusväli (max pikkus 250 tähemärki))
+OBJEKTIJUHT
+Pakkuja meeskonnas peab olema objektijuht, kellel on vähemalt ehituse tööjuhi kutse, tase 5,
+tervikspetsialiseerumisega üldehitustööde tegemine.
+Välismaise pakkuja puhul samaväärse pädevusega isik.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja esitab nõudele vastava objektijuhi ees- ja perekonnanime ja kutsetunnistuse numbri. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+VENTILATSIOONI- JA KÜTTESÜSTEEMIDE SPETSIALIST
+Pakkuja meeskonnas peab olema ventilatsiooni- ja küttesüsteemide spetsialist, kellel on
+vähemalt kütte-, ventilatsiooni- ja jahutuseinseneri kutse, tase 6 kompetentsidega ehitustegevuse
+juhtimine küttesesüsteemide ehitamisel ja ehitustegevuse juhtimine ventilatsioonisüsteemide
+ehitamisel või ehitusjuhi kutse, tase 6, spetsialiseerumisega sisekliima tagamise süsteemide
+ehitamisele. Välismaise pakkuja puhul samaväärse pädevusega isik.
+Kehtib:Kõik osad
+Koostatud 09.01.2026 16:51:57
+https://riigihanked.riik.ee/rhr-web/#/procurement/9790984/general-info
+4/5
+Küsimused ettevõtjale:
+1) Pakkuja esitab nõudele vastava ventilatsiooni- ja küttesüsteemide spetsialisti ees- ja perekonnanime
+ja kutsetunnistuse numbri. (Sisestusväli (max pikkus 250 tähemärki))
+VEEVARUSTUSE- JA KANALISATSIOONISÜSTEEMIDE SPETSIALIST
+Pakkuja meeskonnas peab olema veevarustuse- ja kanalisatsioonisüsteemide spetsialist, kellel on
+vähemalt veevarustuse- ja kanalisatsiooniinseneri kutse, tase 6 kompetentsiga ehitustegevuse
+juhtimine või ehitusjuhi kutse, tase 6, spetsialiseerumisega hoonesisese või selle juurde kuuluva
+veevarustuse ja kanalisatsioonisüsteemi ehitamisele. Välismaise pakkuja puhul samaväärse
+pädevusega isik.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja esitab nõudele vastava veevarustuse- ja kanalisatsioonisüsteemide spetsialisti ees- ja
+perekonnanime ja kutsetunnistuse numbri. (Sisestusväli (max pikkus 250 tähemärki))
+ELEKTRITÖÖDE TEOSTAMISEL KAASATAV ISIK
+Pakkuja meeskonnas peab olema elektritööde teostamisel isik, kellel on vähemalt B-klassi
+pädevustunnistus või elektriinseneri kutse tarbija elektripaigaldiste alal, tase 6. Välismaise
+pakkuja puhul samaväärse pädevusega isik.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja esitab elektritööde teostamisel kaasatava nõudele vastava isiku ees- ja perekonnanime ja
+pädevustunnistuse või kutsetunnistuse numbri. (Sisestusväli (max pikkus 250 tähemärki))
+D: Kvaliteeditagamissüsteemid ja keskkonnajuhtimisstandardid
+KVALITEEDITAGAMISSÜSTEEM
+Pakkujal peab olema ehitustööde tegevusvaldkonnas rakendatud kvaliteedijuhtimissüsteem, mis
+vastab vähemalt EVS-EN ISO 9001 standardis, või samaväärsetes dokumentides sätestatud
+tingimustele.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkujal on ehitustööde tegevusvaldkonnas rakendatud kvaliteedijuhtimissüsteem, mis vastab
+vähemalt EVS-EN ISO 9001 standardis, või samaväärsetes dokumentides sätestatud tingimustele.
+(Raadionupp valikutega "Jah/Ei")
+2) EVS-EN ISO 9001 standardi koopia või tõend(id) samaväärse kvaliteedijuhtimissüsteemi kohta.
+(Vabas vormis dokument)
+KESKKONNAJUHTIMISSÜSTEEM
+Pakkujal peab olema ehitustööde tegevusvaldkonnas rakendatud keskkonnajuhtimissüsteem, mis
+vastab vähemalt EVS-EN ISO 14001 standardis, või samaväärsetes dokumentides sätestatud
+tingimustele.
+Kehtib:Kõik osad
+Koostatud 09.01.2026 16:51:57
+https://riigihanked.riik.ee/rhr-web/#/procurement/9790984/general-info
+5/5
+Küsimused ettevõtjale:
+1) Pakkujal on ehitustööde tegevusvaldkonnas rakendatud keskkonnajuhtimissüsteem, mis vastab
+vähemalt EVS-EN ISO 14001 standardis, või samaväärsetes dokumentides sätestatud tingimustele.
+(Raadionupp valikutega "Jah/Ei")
+2) EVS-EN ISO 14001 standardi koopia või tõend(id) samaväärse keskkonnajuhtimissüsteemi kohta.
+(Vabas vormis dokument)
+Koostatud 09.01.2026 16:51:57
+https://riigihanked.riik.ee/rhr-web/#/procurement/9790984/general-info
+
+=== 9790984_304794_vastavustingimused.pdf ===
+1/2
+VASTAVUSTINGIMUSED
+Viitenumber: 304794
+Hankija: Pärnu linn, Mai tn 5 korteriühistu (80024724)
+Hange: Pärnu linn, Mai tn 5 korteriühistu terviklik rekonstrueerimine ehitustöövõtt
+(EIS)
+Keskkonnahoidlik hange või hanke osa!
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi ostumenetluse alusdokumentides esitatud
+tingimuste ülevõtmist. Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab ostumenetluse alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSVORM
+Pakkuja esitab pakkumuse maksumuse toetuse saaja poolt koostatud vormil (pakkumusvormil).
+Pakkumisvormi on lubatud ridu lisada.
+Pakkumusvormis peavad olema selgelt välja toodud kogumaksumuses sisalduvad kulud toetuse
+saaja poolt määratud kuluridade lõikes. Pakkumusvormis ei ole lubatud ridu muuta.
+Küsimused ettevõtjale:
+1. Pakkumusvorm. Leitav "Dokumendid" lehelt (Vabas vormis dokument)
+ÜHISPAKKUJATE VOLIKIRI
+Volikirjas peab pakkuja märkima iga ühispakkuja poolt täidetava lepingu osa suuruse ja
+iseloomu. Ühispakkumuse korral sõlmivad ühispakkujad koos lepingu ja vastutavad selle täitmise
+eest solidaarselt kuni lepingus toodud kõigi kohustuste täitmiseni. Pakkujana käsitletakse iga
+ühispakkujat. Ühispakkumuse esitanud ettevõtjad ei pea olema moodustanud juriidilist isikut ega
+olema ühinenud muus õiguslikus vormis.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei". Raadionupp
+valikutega "Jah/Ei" (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE ESITAJA ESINDUSÕIGUS
+Pakkumus peab olema esitatud pakkuja seadusjärgse või volitatud esindaja poolt. Juhul, kui
+pakkumuse esitab isik, kes ei ole Eesti äriregistri registrikaardi väljatrükile kantud isikuna, kellel
+on pakkuja seadusjärgne esindamise õigus, siis peab pakkuja esitama seadusjärgse esindaja(te)
+volikirja pakkuja esindamiseks.
+Küsimused ettevõtjale:
+1. Kas pakkumus on esitatud pakkuja seadusjärgse või volitatud esindaja poolt? (Raadionupp
+valikutega "Jah/Ei")
+2. Kui pakkumus on esitatud volitatud esindaja poolt, kas olete lisanud pakkumuse
+"Lisadokumentide" lehele volikirja? Kui tegemist on seadusjärgse esindajaga, vastake "Ei".
+(Raadionupp valikutega "Jah/Ei")
+Koostatud 09.01.2026 16:52:31
+https://riigihanked.riik.ee/rhr-web/#/procurement/9790984/general-info
+2/2
+ÄRISALADUSE MÄRKIMINE
+Kui pakkumuses sisaldub ärisaladus, märgib pakkuja, milline teave on pakkuja ärisaladus ning
+põhjendab teabe ärisaladuseks määramist. Juhul kui pakkuja ei ole ärisaladust märkinud, eeldab
+toetuse saaja, et pakkuja pakkumuses puudub ärisaladus.
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+SAMAVÄÄRSUS
+Iga viidet, mille toetuse saaja teeb mõnele ostuallikale, protsessile, kaubamärgile, patendile,
+tüübile, päritolule või tootmisviisile, mis võiks anda mõnele ettevõtjale või tootele eeliseid teiste
+ees või nende osaluse välistada, tuleb lugeda selliselt, et see on täiendatud märkega „või sellega
+samaväärne”. Samaväärsusele tuginemisel esitab pakkuja pakkumuses samaväärsust tõendavad
+dokumendid.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab ostumenetluse alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+KAASATUD MEESKONNALIIKMED
+Kui pakkuja (ühispakkumuse korral iga ühispakkuja) on oma meeskonna pädevuse tõendamiseks
+kasutanud meeskonna liikmetena isikuid, kes ei ole pakkuja töötajad või nad ei ole pakkuja
+pädevate isikutena märgitud avalikus registris, esitatakse iga sellise füüsilise isiku kirjalik
+kinnitus, millest nähtub nõusolek enda kaasamiseks ning lepingu täitmisel pakkuja meeskonna
+liikmena osalemiseks.
+Küsimused ettevõtjale:
+1. Kas meeskonna liikmetena esitatud isikud on pakkuja või ühispakkuja töötajad? (Raadionupp
+valikutega "Jah/Ei")
+2. Juhul kui meeskonna liikmetena esitatud isikud ei ole pakkuja või ühispakkuja töötajad, kas
+olete lisanud pakkumuse "Lisadokumentide" lehele iga sellise füüsilise isiku kinnituse? Kui
+tegemist on pakkuja ja/või ühispakkuja töötajatega, vastake "Ei". (Raadionupp valikutega "Jah/
+Ei")
+Koostatud 09.01.2026 16:52:31
+https://riigihanked.riik.ee/rhr-web/#/procurement/9790984/general-info
+
+=== 9790984_820_PP_AR-7-14_v03_Solm-14.pdf ===
+Klaasrõdupiire. TOON: tumehall,
+matt
+0031
+Rõdu metallkonstruktsioon
+Rõdu raamideta lükandklaaside süsteem Tsementkiudplaat, 8mm, värvitud
+Krohvisüsteem Caparol SILS A TOON: hallikasvalge
+(Caparol Fassade A1 Kühl Weiß)
+Kivivillsoojustus 200mm
+Rõdu metallkonstruktsioon
+Tugevdusvõrk 100x100mm
+Metallist nurgapost, Terasest nelikanttoru
+Klaasi punktkinnitus 100x100mm vaheseina plaadi kinnituseks
+70x40x3
+70
+Terasest nelikanttoru
+100x100x5
+Puitpruss 100x50mm
+Metallnurgik 100x100mm
+04
+100
+001
+MÄRKUSED:
+Tellija: Mai tn 5 korteriühistu Töö nr. Staadium
+• Rõdu konstruktsiooni tulepüsivusaeg R-30, Rõdu põranda konstruktsiooni
+820 PP
+Töö nimetus:
+tuletundlikkus B-s1 ja rõdu põrandakatte tuletunlikkus D -S2.
+fl KORTERMAJA REKONSTRUEERIMINE
+Kaust nr. - tähis
+• Kõiki projektis esitatud materjale on lubatud asendada samaväärsetega.
+PÄRNU MAI TN 5 03 - AR
+• Enne lõppviimistlusmaterjalide tellimist kooskõlastada värvitoonid Tellijaga.
+Suur-Jõe 63, Pärnu
+• Kõik mõõdud kontrollida ja täpsustada objektil. Tel (+372)6016500 Joonise Joonise number
+Sõlm 14
+nimetus: AR-7-14
+• Kõikide toodete paigaldamisel tuleb lähtuda paigaldusjuhenditest ning materjalide www.termopilt.ee
+tootjate soovitustest/ettekirjutistest. OÜ TERMOPILT Projektijuht MATI JUURSALU /allkirjastatud digitaalselt/ Mõõtkava
+• Kinnituspoltide tugevusklass 8.8, kinnitusvahendite keskkonnaklass C3. Registrikood: 11216921 Vastutav spets. KARRI TIIGISOON /allkirjastatud digitaalselt/ 1 : 20
+MTR: EEP000638
+• Kui sõlme konstruktsioon ei vasta joonisele või tekib täiendavaid küsimusi, võtta Projekteerija OLGA KRASNOVA Trükitud
+TEL003100
+ühendust projekteerijaga. 19.02.2025
+Faili nimi: 820_PP_AR
+
+=== 9790984_Lepingu_projekt.docx ===
+Lepingu number, kuupäev … eritingimused
+	•	Lepingu pooled
+Tellija ja tema esindaja ning nende kontaktandmed
+Nimi: 
+
+Pärnu linn, Mai tn 5 korteriühistu
+
+
+Registrikood: 
+
+80024724
+
+Asukoht/aadress:
+Pärnu linn, Mai tn 5 80024
+
+Esindaja nimi: 
+
+Juh liige Raido Ilp
+Tehn konsultant Jüri Kodasma
+
+Esindaja e-posti aadress: 
+
+raidoilp@gmail.com
+jyrikodasma@gmail.com
+
+Esindaja kontakttelefon:
+Raido Ilp 5268447
+Jüri Kodasma 53452171
+Töövõtja ja tema esindaja ning nende kontaktandmed
+Nimi: 
+
+
+
+Registrikood: 
+
+
+
+Asukoht/aadress:
+
+
+Esindaja nimi: 
+
+
+
+Esindaja e-posti aadress: 
+
+
+
+Esindaja kontakttelefon:
+
+Töövõtja esindaja lepingu täitmisel, kui tegemist on ühispakkujatega
+Nimi:
+
+	•	Lepingu objekt
+Ostumenetlus
+Nimetus:
+Toetuse saaja ost
+
+Ostumenetluse viitenumber riigihangete registris:
+
+Andmed ehitusprojekti kohta
+Ehitusprojekti autor:
+
+
+Töö number:
+
+
+Töö koostamise aeg:
+
+
+Autoriõigused on tööde tegemiseks vajalikus mahus üle antud tellijale:
+
+Andmed ehitusplatsi kohta
+Kinnistu asukoht:
+Pärnu linn, Mai tn 5 80024
+
+Kinnistu registriosa number:
+103015714
+
+Katastriüksus:
+62513050:7280
+
+Kinnistu pindala:
+5634m2
+
+Ehitusplats hõlmab kogu kinnistut:
+ei 
+Tööprojekti koostamine
+ ei ole nõutav 
+Teostusjooniste koostamine
+ töövõtja )
+Lubade hankimine ja vastavate riigilõivude tasumine 
+Projekteerimistingimused:
+Tellija
+
+Ehitusluba/ehitusteatis:
+Tellija 
+
+Kasutusluba/kasutusteatis:
+ töövõtja/ 
+Ajagraafiku esitamine
+30… tööpäeva jooksul lepingu sõlmimisest arvates
+Ehitusplatsile juurdepääsu õigus (kui on muul juhul, kui alates lepingu sõlmimisest)
+Töövõtja, alltöövõtjad  
+Garantiiaja kestus
+60 kuud
+Tehnosüsteemide hooldamine töövõtja poolt garantiiajal
+ei ole nõutav
+Tehnosüsteemide hoolduse kestus, arvestatuna garantiiaja algusest
+
+Täitmisaja tagatis
+Nõutav – 5% (lepingu hinnast = üldmaksumus + reserv). Arvestatuna summast ilma käibemaksuta
+Arveldusarve number tagatiste deponeerimiseks
+Arvelduskonto valdaja:
+Pärnu linn, Mai tn 5 KÜ
+
+Arvelduskonto number:
+EE551010902022769006
+
+Pank:
+
+Ettemaksu tegemine töövõtjale
+ ei tehta)
+Ettemaksu suurus, juhul kui ettemaksu makstakse
+…
+Ettemaksu tasa-arvestamise määr (igast summast)
+… %
+CAR kindlustuse nõutavus
+Nõutav/ 
+CAR kindlustuse hüvitise minimaalne piirmäär
+Vähemalt võrdne lepingu hinnaga arvestatuna summast ilma käibemaksuta
+CAR kindlustuse omavastutuse maksimaalne suurus
+1000… eurot
+Tsiviilvastutus-kindlustuse nõutavus
+Nõutav/ 
+Tsiviilvastutus-kindlustuse hüvitise minimaalne piirmäär
+1000… eurot
+Tsiviilvastutus-kindlustuse oma-vastutuse maksimaalne suurus
+500… eurot
+Garantiiaja tagatis
+ ei ole nõutav 
+Täitmisaeg
+18… kuud
+Põhilise kasutusvalmiduse teatise esitamise tähtaeg
+…30 kalendripäeva enne täitmistähtaega
+Vahetähtajad (jäetakse tühjaks kui ei soovita vahetähtaegade rakendamist)
+I 
+… kuud
+
+
+… kuud
+
+
+… kuud
+
+jne
+
+Lepingu hind (tööde üldmaksumus ja reserv selle olemasolu korral), ilma käibemaksuta
+Lepingu hind:
+… eurot käibemaksuta
+
+Tööde üldmaksumus:
+… eurot käibemaksuta
+
+Reserv:
+… eurot käibemaksuta
+Maksetähtajad
+…30 tööpäeva jooksul alates arve saatmisest
+Normaalne tööaeg
+
+Viivisemäär päevas (kalendripäev)
+… % tasumata summalt
+Leppetrahv
+Sisestada rikkumise kirjeldus koos trahvi suurusega
+Leppetrahvi maksimummäär tööde teostamise tähtaegade ületamise korral (lepingu hinnast, ilma käibemaksuta)
+…10 % 
+Dokumentide pädevusjärjestus
+
+Lepingu lisade loetelu
+	•	Ostumenetluse dokumendid
+	•	Töövõtja pakkumus
+Lepingus viidatud dokumentide vormid (kui kohaldatakse)
+Töövõtja blanketil
+
+
+Hankelepingu üldtingimused
+	•	Mõisted
+	•	alltöövõtja – töövõtja valitud juriidiline või füüsiline isik (sh füüsilisest isikust ettevõtja), keda on pakkumuses või lepingus alltöövõtjana nimetatud või isik, kes töövõtja juhtimisel ja korraldusel teeb alltöövõtuna tööd või selle osa. Alltöövõtjat võib esindada tema seadusjärgne või volitatud esindaja;
+	•	ehitusplats – koht, mis on ette nähtud ehitustööde tegemiseks ja kuhu toimetatakse ehitustooted; ning kõik teised kohad, mida võidakse lepingus määratleda ehitusplatsi osana;
+	•	ehitusprojekt – ehitise või selle osa ehitamiseks ja kasutamiseks vajalike dokumentide komplekt, mis koosneb tehnilistest joonistest, seletuskirjast, hooldusjuhendist ja muudest asjakohastest dokumentidest;
+	•	ehitustoode või ehitustooted – ehitisse püsivaks paigaldamiseks ettenähtud ehitusmaterjalid ja -tooted;
+	•	ettenägematud füüsilised tingimused – looduslikud tingimused ning inimese loodud või muud füüsilised takistused (sh nt ootamatud arheoloogilised leiud, fossiilid vm ehitusplatsil), muu hulgas aluspinnase ja hüdroloogilised olud, mida töövõtja ei näinud ega pidanud ette nägema enne pakkumuse esitamist. Ettenägematuks füüsiliseks tingimuseks ei peeta: 
+	•	selliseid tingimusi, millega kaasnevaid asjaolusid pidi töövõtja ise tööde tegemise käigus uurima;
+	•	kliimatingimusi;
+	•	reostust, kui selle likvideerimine ja sellega kaasnevad tööd kuuluvad lepingus sätestatud tööde hulka;
+	•	garantiiaeg – lepingus kokkulepitud ajavahemik alates täitmisakti või põhilise valmiduse akti allkirjastamise päevale järgnevast päevast, mille jooksul on töövõtjal kohustus tagada, et tema tehtud töö vastab lepingu tingimustele ning töö tulemusena valminud ehitisel või selle osal säilivad määratud aja jooksul sihipärase kasutamise ja hooldamise korral ehitise või selle osa kasutamiseks vajalikud ohutuse ja kasutamise omadused ning kvaliteet. Kui töö võetakse vastu põhilises kasutusvalmiduses koos vaegtöödega, algab garantiiaeg ehitustööde puhul põhilise kasutusvalmiduse akti allkirjastamise päevale järgnevast päevast, v.a. vaegtööde puhul, mille korral algab garantiiaeg täitmisakti allkirjastamise päevale järgnevast päevast; 
+	•	garantiitöö – garantiiajal ilmnenud puuduste kõrvaldamiseks tehtav töö. Garantiitööde hulka ei kuulu hariliku kulumisega seotud tööd ega selliste puuduste kõrvaldamine, mis tulenevad hooldus- või kasutusjuhendite rikkumisest, ehitise mittesihipärasest kasutamisest vm asjaoludest;
+	•	garantiiülevaatus – garantiiajal või selle lõppemisel tehtav tööde ülevaatus, mille eesmärk on kindlaks teha, kas ehitisel või selle osal on säilinud vajalikud ohutuse ja kasutamise omadused ning kvaliteet ning vajaduse korral fikseerida esinevad puudused. Garantiiülevaatuse kohta koostatakse garantiiülevaatuse akt;
+	•	hankedokumendid – tellija koostatud ning lepingu sõlmimise aluseks olev dokumentide komplekt, milles määratakse kindlaks töödele esitatavad nõuded;
+	•	hea ehitustava – ehitusvaldkonnas tunnustatud tavad ja praktika, mis hõlmavad nii õigusaktidega kui ka standarditega kehtestatud nõudeid;
+	•	kõrvaltöövõtja – tellija valitud juriidiline või füüsiline isik (sh füüsilisest isikust ettevõtja), kes teeb tellija ja kõrvaltöövõtja vahelise lepingu objektiks olevaid töid ning kes tegutseb ehitusplatsil töövõtjaga ühel ajal. Kõrvaltöövõtjat võib esindada tema seadusjärgne või volitatud esindaja;
+	•	leping – tellija ja töövõtja vaheline ehitustööde või projekteerimis-ehitustööde töövõtuleping, mis sisaldab täielikku ja terviklikku pooltevahelist kokkulepet tööga seotud tingimuste kohta. Leping hõlmab kõiki lepingu dokumente;
+	•	lepingu dokumendid – dokumendid, mida on vaja lepingus kirjeldatud töö ettevalmistamiseks ja tegemiseks. Lepingu dokumendid hõlmavad nii tellija kui töövõtja dokumente;
+	•	lepingu hind – tasu, mis hõlmab tööde üldmaksumust ja reservi. Kui lepingus ei ole sätestatud teisiti, on lepingu hinnaks tasu suurus ilma käibemaksuta. Käibemaks lisandub lepingu hinnale kehtivate õigusaktide kohaselt;
+	•	lepinguperiood – ajavahemik lepingu jõustumise päevast kuni lepingu lõppemiseni, hõlmates nii täitmisaega kui ka garantiiaega; 
+	•	leppetrahv – lepingust tulenev kõrvalkohustus, kui selle rakendamises ja selle määras on lepingus kokku lepitud. Leppetrahvi rakendamise eesmärk on eelkõige sundida töövõtjat täitma lepinguga võetud kohustusi ning leppetrahv ei asenda kohustuse täitmist ega piira kahjude hüvitamist osas, mida leppetrahv ei katnud;
+	•	lisatöö – töö, mis oma olemuselt ja lepingu eesmärgist tulenevalt ei kuulu töö hulka ja mida tehakse lisaks lepingus kokku lepitud töödele. Lisatööks ei peeta sellist lisanduvat tööd, millega kaasneb tööde mahu suurenemine või täiendavate tööde tegemine, kui sellised tööd on oma olemuselt seotud lepinguga ja selle eesmärgi saavutamisega ning ilma vastavate tööde tegemiseta ei oleks võimalik lepingu eesmärki saavutada. Vastavaid töid käsitatakse lepingu tähenduses muudatustöödena;
+	•	lõplik kasutusvalmidus – tööd on tervikuna lõpetatud, sh on kõrvaldatud põhilise kasutusvalmiduse aktis fikseeritud vaegtööd. Kasutusloa taotlemiseks tehnilisi takistusi ei ole, vastavad ametkonnad (nt päästeamet, terviseamet jne) on tööd vastavaks tunnistanud ja allkirjastanud ehitise ülevaatuse akti. Lõpliku kasutusvalmiduse tõendamiseks koostatakse ja allkirjastatakse täitmisakt;
+	•	lõpliku kasutusvalmiduse teatis – töövõtja teavitab tellijat mõistliku aja jooksul, et lepingus sätestatud töö on lõplikult valmis, arvestades aega, mis tellijal kulub tööde ülevaatamiseks ja et tellijapoolse puuduste avastamise korral oleks töövõtjal võimalik puudused enne täitmisakti allkirjastamist likvideerida. Koos teatisega esitatakse täitmisakt;
+	•	muudatustöö – muudatus (lisandumine, ärajäämine, vähenemine või suurenemine või muu muudatus) sellises töös, mis oma olemuselt ja lepingu eesmärgist tulenevalt kuulub töö hulka ja mis lepingu kohaselt on töövõtja kohustus ning ilma vastavate tööde tegemiseta ei oleks võimalik lepingu eesmärki saavutada;
+	•	omanikujärelevalve tegija – tellija valitud juriidiline või füüsiline isik (sh füüsilisest isikust ettevõtja), kes omab selleks vastavat pädevust ning kellel on õigusaktide kohaselt õigus omanikujärelevalvet teha;
+	•	pakkumus – töövõtja esitatud siduv tahteavaldus lepingus kirjeldatud tööde tegemiseks;
+	•	pool või pooled – tellija ja töövõtja eraldi või koos nimetatuna;
+	•	projekteerija – juriidiline või füüsiline isik (sh füüsilisest isikust ettevõtja), kellel on õigusaktide kohaselt õigus projekteerida ja kes on koostanud või koostab tööde tegemise aluseks oleva ehitusprojekti;
+	•	puudus töös – tehtud töö või selle osa mittevastavus lepingule;
+	•	põhiline kasutusvalmidus – tööd on töövõtja hinnangul sellises valmiduses, et töö on põhiliselt lõpetatud (v.a vaegtööd), tellija fikseeritud puudused on likvideeritud, täitedokumentatsioon esitatud ning saab alustada kasutusloa taotlemist. Kasutusloa taotlemiseks tehnilisi takistusi ei ole, vastavad ametkonnad (nt päästeamet, terviseamet jne) on tööd vastavaks tunnistanud ja allkirjastanud ehitise ülevaatuse akti. Põhilise kasutusvalmiduse korral on lubatud vaegtööde olemasolu, mis fikseeritakse põhilise kasutusvalmiduse aktis. Põhilise kasutusvalmiduse tõendamiseks koostatakse ja allkirjastatakse põhilise kasutusvalmiduse akt;
+	•	põhilise kasutusvalmiduse akt – dokument, mis koostatakse ja allkirjastatakse pärast põhilise kasutusvalmiduse saavutamist. Põhilise kasutusvalmiduse akti allkirjastamise päevale järgnevast päevast algab garantiiaeg, v.a. vaegtööde puhul;
+	•	põhilise kasutusvalmiduse teatis – töövõtja teavitab tellijat mõistliku aja jooksul, et lepingus sätestatud töö on põhiliselt valmis, arvestades aega, mis tellijal kulub tööde ülevaatamiseks ja et tellijapoolse puuduste avastamise korral oleks töövõtjal võimalik puudused enne põhilise kasutusvalmiduse akti allkirjastamist likvideerida. Koos teatisega esitatakse põhilise kasutusvalmiduse akt.
+	•	reserv – lepingus ette nähtud summa, mis selle olemasolu korral sisaldub lepingu hinnas, kuid ühelgi juhul ei sisaldu tööde üldmaksumuse hulgas. Reservi kasutamine on ette nähtud üksnes lepingus kirjeldatud juhtudel ning reserv kuulub töövõtjale väljamaksmisele üksnes lepingus sätestatud juhtudel ja tingimustel;
+	•	toetuse saaja ost – tellija poolt tööde tegemiseks korraldatud ostumenetlus, mis on avaldatud riigihangete registris;
+	•	tehniline kirjeldus – lepingu dokumentide hulka kuuluvad dokumendid, milles määratakse kindlaks tehtav töö. Juhul kui leping sõlmitakse toetuse saaja ostu tulemusena, peetakse tehnilise kirjelduse all silmas tehnilist kirjeldust hankedokumentide tähenduses;
+	•	tellija – juriidiline või füüsiline isik (sh füüsilisest isikust ettevõtja), kes tellib töövõtjalt töö tegemise. Juhul kui leping sõlmitakse toetuse saaja ostu tulemusel, käsitatakse tellijana ka hankedokumentides toetuse saajana nimetatud isikut. Tellijat võib esindada tema seadusjärgne või volitatud esindaja;
+	•	tehtud tööde rahaline akt – dokument, mis pärast pooltepoolset allkirjastamist on aluseks töövõtjale arve esitamisel ja tellijale tööde eest tasumisel. Tehtud tööde rahalise akti eesmärk on fikseerida tehtud tööde mõõtmine, hindamine ning nende valmidus protsentuaalselt ja sellega seotud tellija rahalised kohustused. Tehtud tööde rahalise aktiga ei anta üle tööde valdust, juhusliku hävimise ega kahjustumise riisikot ega võeta töid vastu tellija poolt;
+	•	täitmisaeg – ajavahemik lepingu jõustumise päevast kuni töö lõpetamiseni, puuduste kõrvaldamiseni ja täitmisakti allkirjastamiseni töövõtja ja tellija poolt. Täitmisaja sisse ei kuulu garantiiaeg. Kui töö võetakse vastu põhilises kasutusvalmiduses, lõppeb täitmistähtaeg põhilise kasutusvalmiduse akti allkirjastamisel;
+	•	täitmisakt – dokument, mis koostatakse ja allkirjastatakse pärast lõpliku kasutusvalmiduse saavutamist ning kõikide lepingus sätestatud tööde üleandmist tellijale; 
+	•	täitedokumentatsioon – ehitamise tehnilised dokumendid õigusaktides sätestatud mahus ja ulatuses, kuid siiski vähemalt kaetud tööde aktid, teostusjoonised, töökoosolekute protokollid, kasutusjuhendid, ehitustööde päevikud, ehitustoodete vastavusdeklaratsioonid või sertifikaadid jm;
+	•	töö või tööd – ehitustöö või selle osa koos ehitusjuhtimise korraldamise ja vajalike tellimustega, et teostada kõik tegevused töö tegemiseks ja lõpetamiseks ning puuduste kõrvaldamiseks ja saavutada lepingus kokkulepitud tulemus. Töö hõlmab muu hulgas kogu ehituseks vajaliku tööjõu kulu, kõiki ehitustooteid ning tööde tegemiseks kasutatavate seadmete ja masinate kulu, samuti ehitisse monteeritavaid seadmeid ja inventari ning muid tegevusi ja toiminguid, mis on vajalikud lõpliku kasutusvalmiduse ja lepingus kirjeldatud eesmärgi saavutamiseks või mis on kooskõlastatud tellijaga (load, sulgemised jne), samuti ajutisi lepinguid (vesi, elekter, side jne) ja nendega kaasnevaid kulusid, kui lepingus ei ole kokku lepitud teisiti. Tööde hulka kuuluvad ka kõik need tööd, mida ei ole lepingus otseselt kirjeldatud, kuid mis on heale ehitustavale ja töövõtja professionaalsusele tuginedes vajalikud lepingus kirjeldatud eesmärgi saavutamiseks ja kokkulepitud tööde nõuetekohaseks tegemiseks. Tööde hulka ei kuulu sellised tööd, mis on lepingu kohaselt tööde hulgast välja arvatud;
+	•	tööde üldmaksumus – tasu, mille tellija kohustub töövõtjale lepingu alusel nõuetekohaselt tehtud töö eest maksma. Tööde üldmaksumus ei sisalda võimalikest lisa- või muudatustöödest tulenevaid summasid ega reservi. Kui lepingus ei ole sätestatud teisiti, on tööde üldmaksumuseks tasu suurus ilma käibemaksuta. Käibemaks lisandub tööde üldmaksumusele vastavalt kehtivatele õigusaktidele;
+	•	töövõtja – tellija valitud juriidiline isik, kes teeb tööd töövõtjana ja kes korraldab tellijaga sõlmitud lepingus ettenähtud tööd ehitusplatsil. Juhul kui leping sõlmitakse toetuse saaja ostu tulemusena, käsitatakse töövõtjana ka hankedokumentides pakkujana nimetatud isikut. Töövõtjat võib esindada tema seadusjärgne või volitatud esindaja;
+	•	vaegtööd – sellised tööd, mida ei ole põhilise valmiduse akti vormistamise ajaks tehtud, ent mis ei takista töö ohutut ja eesmärgipärast kasutamist ning kasutusteatise või kasutusloa saamist ja mille tegemise ajal on võimalik alustada kasutusteatise või kasutusloa taotlemist (kui kasutusloa olemasolu või selle hankimine on nõutav) ja tööde vastuvõtmist tellija poolt. Vaegtööde hulka võivad kuuluda ka sellised lepingulised tööd, mille tegemine on edasi lükatud objektiivsetel asjaoludel (nt sesoonsed tööd); 
+	•	viivis – õiguskaitsevahend, mida rakendatakse rahaliste kohustuse täitmisega viivitamisel;
+	•	vääramatu jõud – asjaolu, mida pool ei saanud mõjutada ja mõistlikkuse põhimõttest lähtudes ei saanud temalt oodata, et ta lepingu sõlmimise ajal selle asjaoluga arvestaks või seda väldiks või takistava asjaolu või selle tagajärje ületaks. Vääramatuks jõuks ei ole asjaolu, mis on teisele poolele sisuliselt omistatav. Kui pooled on lepingus täpsustanud vääramatu jõu asjaolud või esitanud vastava loetelu, lähtutakse vääramatu jõuga seoses poolte täiendavast kokkuleppest.
+	•	Lepingu dokumendid. Lepingu tõlgendamine
+	•	Lepingu dokumendid hõlmavad kõiki töö ettevalmistamiseks ja tegemiseks vajalikke dokumente. Lepingu dokumendid täiendavad üksteist.
+	•	Juhul kui pooled ei ole kokku leppinud teisiti, on lepingu dokumentideks järgmised dokumendid, mis on esitatud tähtsuse järjekorras, alustades kõige tähtsamast:
+	•	 lepingu muudatused, mis on allkirjastatud pärast lepingu sõlmimist. Töökoosolekute protokolle käsitatakse lepingu muudatustena üksnes juhul, kui protokollid on allkirjastanud poolte seaduslikud või volitatud esindajad;
+	•	lepingu eritingimused koos lisadega (sh punktis 4.1.8 viidatud ajagraafik);
+	•	tellija poolt või korraldusel koostatud ehitusprojekt ja muud hankedokumendid (sh ehitusprojekt, kui tellija esitas selle hankedokumentide seas ja tehniline kirjeldus) koos muudatuste ja tellija antud selgitustega, samuti läbirääkimiste protokollid (nende olemasolu korral);
+	•	lepingu üldtingimused (koostatud ETÜ 2013 põhjal);
+	•	pakkumuse töömahtude loetelu (olemasolu korral);
+	•	muud lepingu juurde kuuluvad dokumendid, sh pärast lepingu sõlmimist koostatav ehitusprojekt;
+	•	töövõtja pakkumus.
+	•	Lepingu dokumentide vastuolude korral lähtutakse hilisemast dokumendist. Lepingu allkirjastamise hetkel olemasolevaid lepingu dokumente loetakse samaaegseteks.
+	•	Poolte poolt pärast lepingu sõlmimist koostatud ja allkirjastatud lepingu muudatused asuvad tähtsuse järjekorras sellest dokumendist eespool, mida lepingu muudatusega muudeti.
+	•	Peale lepingu dokumentide arvestatakse lepingu tõlgendamisel eelkõige järgmist:
+	•	lepingu olemus ja eesmärk;
+	•	lepingueelsed läbirääkimised;
+	•	tõlgendus, mille pooled on omavahel samale lepingutingimusele varem andnud;
+	•	poolte käitumine enne ja pärast lepingu sõlmimist;
+	•	tähendus, mida tavapäraselt antakse vastavatele majandus- või kutsetegevuse terminitele ja väljenditele;
+	•	tavasid;
+	•	poolte varasem käitumispraktika.
+	•	Lepingu tingimust tuleb tõlgendada koos muude lepingu tingimustega, andes sellele tähenduse, mis tuleneb lepingu kui terviku olemusest ja eesmärgist. Kui sõnal või väljendil on mitu tähendust, tuleb sõna või väljendit mõista viisil, mis on lepingu olemuse ja eesmärgiga rohkem kooskõlas.
+	•	Lepingus on pealkirju kasutatud viitamise lihtsustamiseks ning need ei piira ega mõjuta lepingu sätete tähendust ega tõlgendamist. Lepingus ainsuses olevad sõnad tähendavad mitmust ja vastupidi, kui lepingu sättest või olemusest ei tulene teisiti.
+	•	Tellija vastutab tema poolt esitatud andmete ja dokumentide õigsuse eest. Töövõtja on kohustatud andmetes ja dokumentides avastatud vigadest tellijat viivitamata teavitama. 
+	•	Töövõtja hangib tööde alustamise, tegemise, lõpetamise, ettenäitamise ning üleandmisega seotud load, kooskõlastused jm nõutavad dokumendid. Töövõtja taotleb projekteerimistingimused, kohaliku omavalitsuse kirjaliku nõusoleku, ehitusloa ja kasutusloa (sh tasub asjaomased riigilõivud), kui lepingus on kokku lepitud, et nende hankimine on töövõtja kohustus.
+	•	Ehitusprojekt
+	•	Tellija poolt või korraldusel koostatud ehitusprojekt (ehitustöövõtt)
+	•	Tellija vastutab selle eest, et ehitusprojekt vastaks kõikidele kehtivatele õigusaktidele, sh selle eest, et ehitusprojektile oleks tehtud ekspertiis, kui see on õigusaktide kohaselt nõutav. Ehitusprojekt peab olema koostatud sellises mahus ja kvaliteediga, mis võimaldaks tööde nõuetekohast tegemist ilma täiendavate projekteerimistööde ja ekspertiisideta. 
+	•	 Juhul kui tööde tegemise käigus ilmnevad vead või puudused ehitusprojektis, kohustub töövõtja sellest tellijat mõistliku aja jooksul kirjalikult teavitama ning poolte vahel lepitakse kokku nende kõrvaldamise tingimused.
+	•	 Töövõtja on kohustatud tegema tööd, võttes aluseks tellija esitatud ehitusprojekti ja muud lepingus kirjeldatud nõuded ja tingimused. Töövõtjal on õigus kalduda kõrvale ehitusprojektist tulenevatest nõuetest, mis käsitlevad tehnilisi parameetreid, üksnes tingimusel, et töövõtja fikseerib kõrvalekaldumised ehitusprojektist ehitustööde päevikus ja teostusjoonistel, ning järgmistel juhtudel:
+	•	sellega ei muutu ettenähtud lõpptulemus, töö põhimõttelised ega funktsionaalsed lahendused;
+	•	 sellega ei vähendata ehitise ega selle osade ohutust, funktsionaalsust, kvaliteeti, planeeritavat eluiga ega suurendata ekspluatatsiooni- või hoolduskulusid;
+	•	sellega ei muudeta ehitise muid olulisi näitajaid; 
+	•	tegemist on selliste kõrvalekaldumistega, mille puhul ei ole vaja ehitusprojekti muuta.
+	•	 Töövõtja peab enne tööga alustamist veenduma, et tööde tegemiseks on olemas ehitusteatis või ehitusluba või kirjalik nõusolek, kui õigusaktide kohaselt on nende olemasolu nõutav. Kui ehitusprojekti koostab tellija või see koostatakse tema korraldusel, on ehitusloa või kirjaliku nõusoleku hankimise kohustus tellijal, kui lepingus ei ole kokku lepitud teisiti.
+	•	 Kui tellija ei anna töövõtjale lepingus kokkulepitud tähtpäeval üle ehitusprojekti või muid lepingu dokumente, mis on vajalikud töö tegemiseks (sh tööde tegemiseks vajalikke lubasid, kui nende hankimine on lepingu kohaselt tellija kohustus) ja ilma nendeta ei ole tööde tegemine mõistlikult võimalik, on töövõtjal õigus täitmisaega tellija viivituse mõju võrra pikendada ja nõuda sellest tingitud mõistlike kulude hüvitamist. 
+	•	 Kui lepingus ei ole kokku lepitud teisiti, koostab töövõtja tööprojekti või korraldab selle koostamise (v.a juhul, kui tellija poolt või korraldusel koostatud ehitusprojekt on koostatud tööprojekti staadiumis), vähemalt õigusaktides ettenähtud ulatuses ning koostab teostusjoonised või korraldab nende koostamise.
+	•	Tegevused ehitusplatsil
+	•	Tegevused enne tööde alustamist
+	•	Tellija tagab, et töövõtjale ehitustööde tegemiseks üleantav ehitis ja ehitusplats on seisundis, mis võimaldab töövõtjal alustada tööde tegemist ja nende korraldamist lepingus sätestatud tingimustel ja korras. Eeldatakse, et tellija on võimaldanud töövõtjal tutvuda ehitusplatsiga enne pakkumuse esitamist ja esitanud töövõtjale kogu talle teada olnud teabe, mis võib mõjutada ehitustööde tegemist.
+	•	 Töövõtja ei tohi põhjendamatult viivitada tööde alustamisega rohkem kui mõistlikest kaalutlustest tulenevalt on otstarbekas, kui lepingus ei lepita kokku teisiti, ning jätkama töö tegemist ettenähtud tempos ja viivitusteta. 
+	•	 Tellija edastab töövõtjale teabe, mis tellija parema äranägemise kohaselt võib aidata kaasa tööde optimaalsele teostamisele.
+	•	 Töövõtja esitab kohalikule omavalitsusele hiljemalt 10 (kümme) päeva enne ehitamise alustamist vormikohase teatise ehitamise (ehitusteatis) alustamise kohta, kui lepingus ei ole kokku lepitud teisiti. Töövõtja tagab, et enne tööde tegemist paigaldatakse ehitusplatsile teabetahvel. Kui lepingus on sätestatud täpsemad teabetahvlile esitatavad nõuded, kohustub töövõtja järgima selliseid nõudeid.
+	•	 Töövõtja võib paigaldada pärast tellijaga kooskõlastamist ehitusplatsile oma reklaami ja teavet enda kohta. Tellija nõusolekul võib ehitusplatsile paigaldada ka alltöövõtjate reklaami. Asjaomase reklaamitasu maksab töövõtja või muu huvitatud isik.
+	•	 Töövõtja on kohustatud tegema peale lepingus sätestatud ehitustööde ka nendega kaasnevad ettevalmistus- ja abitööd, kui lepingus ei ole kokku lepitud teisiti, sealhulgas:
+	•	hankima, monteerima, installeerima, demonteerima ning eemaldama ehitusplatsil nii töö tegemiseks vajalikud või kasutatud töövahendid kui ka kõik ajutised seadmed, võttes arvesse kõiki sellega kaasnevaid kulusid (nt tellingud, masinad, laadimis-, ohutus- jm platvormid, ajutised kütte-, elektri-, veevarustus- ja kuivendusseadmed jm seadmed);
+	•	ehitama tööks vajalikud ajutised teed, neid hooldama, korraldama neil liiklust ning vajaduse korral need hiljemalt täitmisakti allkirjastamise ajaks lammutama;
+	•	kaitsma ning hooldama kõiki ehitusseadmeid ja -tooteid ning ehitusplatsi, sh asjasse puutuvat ehitist või selle osi, mille valduse on tellija kas aktiga või eraldi kokkuleppega töövõtjale üle andnud. See hõlmab ka seadmeid ja ehitustooteid, mille tellija on tööde tegemise eesmärgil varunud ning mille paigaldamine ja installeerimine ei ole seotud lepinguga, kuid mille kohta on töövõtjaga sõlmitud eraldi kirjalik kokkulepe;
+	•	vajaduse korral võimaldama juurdepääsu järelevalvet teostavatele ametiisikutele (nt ehitusjärelevalvet või riiklikku järelevalvet teostavatele isikutele vm);
+	•	korraldama kohustuslikud katsetused;
+	•	kütma, kuivatama ja muul viisil hooldama ehitusplatsi, sh asjaomast ehitist ja selle osi ajutiste või alaliste seadmetega kuni täitmisakti allkirjastamiseni. Kui ehitis antakse üle osade kaupa, lepivad pooled hiljemalt vastavate osade üleandmisel kirjalikult kokku ehitise hoolduskulude kandmise tingimustes;
+	•	kaitsma ja valvama ehitusplatsi, kui pooled ei ole kokku leppinud teisiti;
+	•	koristama ehitusplatsi ja korraldama jäätmete äraveo selleks määratud kohtadesse;
+	•	korraldama vajaduse korral ehitusplatsi piirdega eraldamise, et tagada ohutus ehitusplatsil.
+	•	 Töövõtja kohustub kasutama ehitusplatsi ainult töödega seotud tegevuseks. Töövõtjal on õigus kasutada ehitist tööga mitteseotud tegevuseks üksnes tellija eelneval kirjalikul nõusolekul.
+	•	 Töövõtja kohustub välja töötama ja tellijaga, sh vajaduse korral alltöövõtjate ja kõrvaltöövõtjatega, kirjalikult kooskõlastama tööde ajagraafiku hiljemalt 20 (kahekümne) tööpäeva jooksul pärast lepingu sõlmimist, kui lepingus ei ole sätestatud teisiti. Ajagraafiku allkirjastatakse poolte poolt ning vormistatakse lepingu lisana. Juhul kui töövõtja tegevusest või tegevusetusest tulenevalt jäädakse kokkulepitud ajagraafikust maha, kohustub töövõtja esitama mõistliku aja jooksul selgitused meetmete kohta, mida töövõtja kavatseb võtta mahajäämuse likvideerimiseks ning koostama ja kooskõlastama tellijaga (vajaduse korral alltöövõtjate ja kõrvaltöövõtjatega) uue ajagraafiku, et tagada tööde tähtaegne ja nõuetekohane tegemine.
+	•	Ehitusplatsile juurdepääsu õigus
+	•	Tellija tagab töövõtjale võimaluse pääseda ehitusplatsile ja selle kõikidele osadele ja võimaldab töövõtjal seda vallata ja kasutada kogu täitmisaja jooksul alates lepingus nimetatud tähtajast või ehitusplatsi üleandmise akti allkirjastamisest, kui lepingus ei ole kokku lepitud teisiti. Tellija tagab, et töövõtjale üle antav ehitusplats on seisundis, mis võimaldab töövõtjal alustada lepingus sätestatud tööde tegemist ja neid teha. Juhul kui lepingus ei ole ehitusplatsi üleandmist sätestatud, peetakse ehitusplatsi valdust töövõtjale üle antuks lepingu sõlmimise hetkest. 
+	•	 Töövõtjal on õigus nõuda, et ehitusplatsil viibimise (kontrollimise, tutvumise, ülevaatamise, vastuvõtmise või mis tahes muu tegevuse) ajal järgiksid omanikujärelevalve tegija, projektijärelevalve tegija, tellija ja temaga kaasas olevad isikud (nt tellija töötajad, esindajad, eksperdid jne) ehitusplatsil kehtivaid sisekorraeeskirju ning töövõtja esindaja asjaomaseid korraldusi.
+	•	Töövõtja kohustused peatöövõtjana
+	•	Töövõtja kohustub juhtima, koordineerima ja korraldama lepinguliste tööde tegemist ehitusplatsil kas ise või alltöövõtjate abil. Peale selle kohustub töövõtja juhtima, koordineerima ja korraldama kolmandatelt isikutelt (kõrvaltöövõtjad) tellitud tööde tegemist ehitusplatsil, kui see on sätestatud lepingus.
+	•	 Töövõtja koostab ehitusplatsi sisekorraeeskirjad ja tagab, et neid on tutvustatud kõikidele ehitusplatsil vahetult tööd tegevatele isikutele (sh alltöövõtjatele ja kõrvaltöövõtjatele). Sisekorraeeskirjadega ei saa töövõtja ühepoolselt muuta lepingut ega piirata tellija lepingust või õigusaktidest tulenevaid õigusi. 
+	•	 Töövõtja kohustub võimaldama ning mitte takistama tellija määratud kõrvaltöövõtjatel ehitusplatsil tööd teha ning lähtuma tööde tegemisel (sh kõrvaltöövõtu puhul) lepingu alusel kooskõlastatud ajagraafikust, kui tellija on töövõtjat kõrvaltöövõtjatest enne pakkumuse esitamist teavitanud. Juhul kui tellija soovib lepingu täitmise käigus määrata kõrvaltöövõtjaid, kellest ta ei ole töövõtjat enne pakkumuse esitamist teavitanud, lepitakse selliste kõrvaltöövõtjate tegevus ehitusplatsil ja selle mõju lepingule (sh sellega kaasnevad kulud) eraldi kokku.
+	•	 Töövõtja kohustub korraldama ja tegema tööd ja sellega seotud ülevaatusi, tehes seejuures mõistlikke jõupingutusi, et võimalikult vähe häirida kõrvaltöövõtjaid või isikuid, kes samal ajal teevad ehitusplatsil tööd tellija korraldusel, kuid kes ei ole kõrvaltöövõtjaks lepingu tähenduses. Töövõtja tagab, et tema alltöövõtjate teostatud tööd on tehtud nõuetekohaselt ning töövõtja on need üle vaadanud enne, kui need esitatakse üle vaatamiseks tellijale või omanikujärelevalve tegijale. 
+	•	 Juhul kui töövõtja soovib tööde tegemiseks kasutada tellijale kuuluvaid vahendeid (sh ehitustooteid, masinaid, seadmeid, ehitisi vm), mille kasutamist ei ole lepingu sõlmimisel ette nähtud, sõlmivad pooled selleks eelnevalt kirjaliku kokkuleppe.
+	•	 Töövõtja ei tohi kahjustada ega ohustada tellijale või kõrvaltöövõtjatele kuuluvaid vahendeid (sh ehitustooteid, masinaid, seadmeid, ehitisi vm) ega teha muudatusi tellija ja/või kõrvaltöövõtjate tehtud töödes ilma tellija nõusolekuta, kui lepingus ei ole kokku lepitud teisiti.
+	•	Vastutus alltöövõtjate tegevuse eest, alltöövõtjate kaasamine ja vahetamine
+	•	Töövõtja vastutab tellija ees kõikide alltöövõtjate tehtavate tööde eest. 
+	•	Juhul kui leping on sõlmitud toetuse saaja ostu tulemusena, kohaldatakse järgmist:
+	•	töövõtja peab töö tegemisel kasutama alltöövõtjaid, keda ta oli nimetanud pakkumuses. Juhul kui töövõtja soovib need alltöövõtjaid asendada, peab ta selle eelnevalt kirjalikult kooskõlastama tellijaga. Töövõtja valitud uued alltöövõtjad peavad konkreetse tööga seoses vastama vähemalt samadele nõuetele, mis oli esitatud pakkujale toetuse saaja ostu kvalifitseerimistingimustes konkreetse tööga seoses. Tellijal on õigus keelduda alltöövõtja kasutamiseks nõusoleku andmisest, kui alltöövõtja ei vasta eelnimetatud nõuetele. Nõusoleku saamiseks esitab töövõtja tellijale kirjalikku taasesitamist võimaldavas vormis taotluse alltöövõtjate kasutamiseks või vahetamiseks, näidates ära need tööd, mille ulatuses töövõtja soovib alltöövõttu teostada või alltöövõtjaid vahetada ning esitab koos taotlusega andmed ja dokumendid, mille alusel on tellijal võimalik hinnata alltöövõtja vastavust eelnimetatud tingimustele;
+	•	töövõtja peab tellijaga kooskõlastama kõik alltöövõtjad, kui alltöövõtu korras tellitava konkreetse töö maksumus ületab 10 (kümmet) protsenti lepingu hinnast (arvestatuna summast koos käibemaksuga), kui lepingus ei ole kokku lepitud teisiti. Pakkumuses nimetatud alltöövõtjaid täiendavalt kooskõlastama ei pea;
+	•	tellijal on õigus nõuda tellijaga mittekooskõlastatud alltöövõtjate eemaldamist tööde tegemiselt ning ehitusplatsilt ning vajaduse korral peatada tööde tegemine kuni lepingus sätestatud nõuetele vastavate alltöövõtjate kaasamiseni töövõtja poolt.
+	•	Ehitustoodete hankimine ja ladustamine. Ehitusplatsi valve. Soojakud ja piirded
+	•	Tööde tegemiseks vajalikud ehitustooted hangib ning sellega kaasnevad kulud kannab töövõtja, kui lepingus ei ole kokku lepitud teisiti. 
+	•	Töövõtja paigaldab ehitisse üksnes sellised ehitustooted ja -seadmed, mis vastavad õigusaktide, standardite ja teiste lähteandmete nõuetele. 
+	•	Töövõtja esitab tellijale kooskõlastamiseks põhilised tööde tegemisel kasutatavad ehitustooted ja viimistlusmaterjalid või nende näidised, v.a. juhul, kui toodete ja materjalide omadused on lepingus juba kokku lepitud. Juhul kui lepingus ei ole kokku lepitud teisiti, kohustub tellija kooskõlastama kasutatavad ehitustooted ja viimistlusmaterjalid 5 (viie) tööpäeva jooksul pärast nende esitamist või esitama sama tähtaja jooksul kirjalikku taasesitamist võimaldavas vormis põhjenduse nende kasutamisest keeldumise kohta.
+	•	Töövõtja kohustub ehitustooted ja -seadmed ehitusplatsil ladustama üksnes selleks ettenähtud kohtadesse.
+	•	Töövõtja on kohustatud tegema kõik vajalikud toimingud, et tagada ehitusplatsile ladustatud töövõtja ja alltöövõtjate vara kaitse, sh kohustub töövõtja vajaduse korral sõlmima asjakohased lepingud ehitusplatsi ja sellel asuva vara valvamiseks. Tellija ja kõrvaltöövõtjate ehitusplatsile ladustatud vara kaitse ja sellega seotud kulud lepitakse kokku eraldi.
+	•	Töövõtjal on õigus püstitada omal kulul ehitusplatsile abiehitisi (soojakuid, piirdeid jne) tellijaga eelnevalt kokkulepitud asukohta.
+	•	Keskkond (sh tolm, praht, jäätmed)
+	•	Töövõtja on kohustatud tegema tööd keskkonnasäästlikult, järgides tööde tegemisel nõuet säästa energiat, teha tööd optimaalselt, käidelda jäätmeid nõuetekohaselt ning minimeerida töödega kaasnevat keskkonnamõju (saaste, müra, tolm jms). Tellijal on õigus kontrollida nimetatud kohustuste järgimist tööde tegemise käigus ning nõuda töövõtjalt seda tõendavaid andmeid ning dokumente, samuti anda töövõtjale vajaduse korral juhiseid nimetatud kohustuste efektiivse järgimise tagamiseks.
+	•	Töövõtja kohustub hoidma ehitusplatsi, sh ehitise või selle osa pidevalt korras (sh tegema selleks vajalikke lumekoristus- jm töid) ning kandma sellega kaasnevad kulud. Ehitusplatsile ei tohi kuhjuda ehitustoodete jääke ja prahti.
+	•	Ehitustoodete jäätmed ja praht peavad olema ehitusplatsilt lõplikult eemaldatud hiljemalt 10 (kümne) tööpäeva jooksul pärast täitmisakti allkirjastamist.
+	•	Juhul kui lepingus on nii kokku lepitud, peab töövõtja hooldama ja koristama töövõtja valdusesse antud ehitusplatsi (sh sellega vahetult külgnevat maa-ala ja teid). Hooldamise ja koristamise tase ja sagedus lepitakse kokku lepingus.
+	•	Töövõtja on kohustatud tegema kõik mõistlikult vajaliku, et vältida ehitustolmu levimist raskesti puhastatavatele aladele (torustikud, radiaatorid, valgustid jm) ja ümbritsevasse keskkonda ning andma tellijale üle töö tolmust puhastatuna.
+	•	Ohutus, sh tuleohutus ja tööohutus
+	•	Töövõtja töötab välja vastava tööga seotud tööohutus- ja töötervishoiunõuded (sealhulgas riskianalüüsi ja tööohutusplaani ning tegutsemisplaani avariide korral jm), samuti tuleohutusnõuded ning rakendab neid nõudeid ehitusplatsil tööde tegemisel ning teostab nende täitmise üle järelevalvet. 
+	•	Töövõtja kohustub järgima kehtivaid õigusakte, juhendeid ja reegleid ning mistahes muid nõudeid, mis käsitlevad inimeste elu ja tervist, vara ja keskkonda, eesmärgiga vältida vigastuste ja kahjustuste tekkimist või nende tekke korral vähendada nende mõju ja tagajärgi. Töövõtja teavitab avariide ja õnnetuste vältimiseks tehtud toimingutest viivitamata tellijat. Tellijal on vajaduse korral õigus nõuda lisatoimingute tegemist avariide või õnnetuste vähendamiseks.
+	•	Töövõtja tagab, et tema poolt tööde tegemisel kasutatavate töövahendite (sh kraanade ja muude tõsteseadmete, tellingute, teisaldatavate raketiste, ajutiste tugede) ning kaitsevahendite konstruktsioon ja seisukord on ohutud.
+	•	Töövõtja peab olema väga hoolikas, kui töö tegemiseks on vaja kasutada või ladustada lõhkeainet või muid ohtlikke materjale ja tegema selliseid töid õigusaktide ja muude eeskirjade kohaselt üksnes vastava kvalifikatsiooniga isiku järelevalve all.
+	•	Töövõtja nimetab ehitusplatsil tööohutuse eest vastutava isiku, kelle kohustus on ära hoida õnnetusi ja võtta meetmeid, et vähendada võimalikke kahjusid ja kahjustusi.
+	•	Töövõtja peab võtma vajalikke meetmeid selleks, et oleks tagatud  inimese elu, tervise või vara või keskkonna ohutus ja kaitse hävingu, vigastuste ja kahjustuste eest järgnevalt:
+	•	tööga hõivatud töötajad ja kolmandad isikud (sh, kuid mitte ainult alltöövõtjad ja kõrvaltöövõtjad), kes võivad vigastada saada;
+	•	töö ja selle tulem ning tööga seotud ehitustooted ja seadmed olenemata sellest, kuidas neid ehitusplatsil hoiustatakse või valvatakse või kellele (töövõtjale, tellijale, alltöövõtjale, kõrvaltöövõtjale, kolmandale isikule vm) need kuuluvad;
+	•	muu vara ehitusplatsil või sellega piirneval alal, kaasa arvatud puud, põõsad, muru, kõnniteed, teed, tarad ja muud ehitised, mille lammutamist või asendamist ei ole lepingus ette nähtud.
+	•	Kommunikatsioonid (elekter, vesi, gaas jm), nende kasutamine ja nende eest maksmine
+	•	Juhul kui lepingus ei ole kokku lepitud teisiti, kohustub töövõtja omal kulul sõlmima ajutised teenus-, liitumis- jm lepingud, et tagada tööde tegemisel vajalike kommunikatsioonide, ühenduste ning muude talle vajalike teenuste olemasolu. Sellisel juhul kannab töövõtja kommunikatsioonide kasutamisega seotud kulud vastavalt teenuseosutajatega kokku lepitud tingimustele. 
+	•	Juhul kui lepingus on ette nähtud, et tööde tegemiseks vajalikud liitumised ning kommunikatsioonid (osaliselt või tervikuna) tagab tellija, kohustub tellija sõlmima teenus-, liitumis- jm lepingud ajal ja viisil, mis võimaldavad tööde tähtaegset tegemist, tasuma nimetatud lepingute sõlmimisega kaasnevad liitumistasud ning võimaldama töövõtjal kasutada tööde tegemiseks vajalikus mahus vett, elektrit, gaasi, kanalisatsiooni jms. Sellisel juhul hüvitab töövõtja tellijale selliste teenuste kasutamisega kaasnevad kulud vastavalt mõõtevahenditega fikseeritud näitudele või kokkuleppe kohaselt tellija esitatud arvete alusel, millel märgitud summad põhinevad vastava teenuseosutaja poolt tellijale esitatud arvetel.
+	•	Nõuded kvaliteedile
+	•	Töövõtja teeb tööd kehtivate õigusaktide ja lepingus kokkulepitud nõuete (sh kvaliteedinõuete) kohaselt. Kui lepingus ei ole sätestatud täpsemaid nõudeid tööde kvaliteedi kohta ja need ei tulene ka õigusaktidest, peab töövõtja teostama tööd asjaolusid arvestades vähemalt keskmise kvaliteediga ja järgima tööde tegemisel head ehitustava. 
+	•	 Tööd ei või tekitada ohtu inimeste elule, tervisele, varale ega keskkonnale.
+	•	 Töövõtja teeb oskuslikult ja hea ehitustava kohaselt lepingus kokku lepitud ning tulenevalt lepingu eesmärgist lepingus kirjeldatud tööd ja toimingud. Tööd tuleb teostada keskkonna- ja energiasäästlikult.
+	•	 Töövõtja peab tööde tegemisel järgima ka ehitustoodete ja -seadmete tootjate ja tarnijate antud juhiseid või soovitusi nende installeerimiseks ja paigaldamiseks. Töövõtja kohustub põhiliste kasutatavate ehitustoodete ja  seadmete vastavussertifikaadid tellijale esitama enne paigaldustööde alustamist.
+	•	 Tellija kohustub töövõtjat teavitama töö mittevastavusest 5 (viie) tööpäeva jooksul pärast mittevastavuse avastamist, andes puuduste kõrvaldamiseks mõistliku aja, mis võimaldab töövõtjal suuremate kulutusteta ilmnenud mittevastavused kõrvaldada.
+	•	 Juhul kui tellija või omanikujärelevalve tegija avastab tööde tegemise käigus puudusi töövõtja poolt või tema korraldusel tehtud töödes (sh tööde kvaliteedis), on töövõtja kohustatud nimetatud puudused omal kulul mõistliku aja jooksul kõrvaldama, jälgides, et puuduste kõrvaldamine ei takistaks tööde nõuetekohast ja õigeaegset valmimist. Juhul kui töövõtja ei kõrvalda ilmnenud puudusi, on tellijal õigus kõrvaldada puudused ja mittevastavused ise või tellida vastavad tööd kolmandalt isikult ning töövõtja on kohustatud tellijale hüvitama kõik sellega kaasnevad kulud vastavalt tellija esitatud arvetele.
+	•	 Kui poolte vahel on tekkinud erimeelsused tööde kvaliteedi või tööde mahtudega seoses, korraldavad pooled hiljemalt 5 (viie) tööpäeva jooksul, kui ei ole kokku lepitud teisiti, kontrollmõõtmised või katsetused poolte esindajate juuresolekul. Juhul kui ei ole kokku lepitud teisiti, korraldab kontrollmõõtmise või katsetuse töövõtja ning teatab sellest tellijale kirjalikku taasesitamist võimaldavas vormis vähemalt 3 (kolm) tööpäeva ette. Kui tellija teatatud ajal kontrollmõõtmisel või katsetusel ei osalenud, on tal õigus mõõtmis- ja katsetustulemusi vaidlustada üksnes ilmsete vigade olemasolu korral.
+	•	Garantii
+	•	Garantiiaeg 
+	•	Töövõtja avaldab ja kinnitab, et tema poolt ja korraldusel tehtud töödele, olenemata sellest, kas need on teinud vahetult töövõtja või töövõtja alltöövõtja, laieneb vähemalt 60 (kuuekümne) kuu pikkune, kuid mitte lühem kui õigusaktides sätestatud ehitise garantii. Ehitustöö käigus ehitisse püsivalt paigaldatud seadmetele kohaldatakse nende tootja ettenähtud garantiid, kui lepingus ei ole kokku lepitud teisiti, kusjuures ehitusettevõtja poolt seadmetele antava garantii kestus ei või olla lühem kui kuus kuud. Juhul kui vastavas lepingu tingimuses on nii kokku lepitud, laieneb ehitisele või ehitise osadele nimetatud tähtajast pikem garantii lepingus sätestatud tingimustel.
+	•	 Õigusaktidest ja lepingust tulenev garantiiaeg algab ehitamise lõppemise päevale järgnevast päevast. Ehitamise lõppemise päevaks on kuupäev, mil pooled allkirjastavad täitmisakti. Kui töö antakse üle põhilises kasutusvalmiduses, algab garantiiaeg põhilise kasutusvalmiduse akti allkirjastamisele järgnevast päevast, v.a. vaegtööd. Vaegtöödele algab garantiiaeg täitmisakti allkirjastamisele järgnevast päevast.
+	•	 Garantiiajal ilmnenud puudused on töövõtja kohustatud kõrvaldama omal kulul mõistliku aja jooksul või lepingus sätestatud tähtaja jooksul. Garantiitähtaja jooksul ilmnenud puuduse puhul eeldatakse, et see oli olemas töö üleandmise ajal, kui selline eeldus ei ole vastuolus töö või puuduse olemusega. 
+	•	 Töövõtja ei vastuta selliste vigade ja puuduste eest, mis on tekkinud ehitise mittesihipärasest kasutamisest või asjaolu tõttu, et ehitise omanik või valdaja ei ole teostanud ehitise hooldamiseks tavapäraselt vajalikuks peetavaid hooldustöid. Juhul kui tellija soovib, et töövõtja teostaks ka garantiiajal ehitise või selle osade hooldamiseks vajalikku ja regulaarset tehnosüsteemide hooldust, on töövõtjal nimetatud kohustus juhul, kui selle teostamises ning kestuses on lepingus kokku lepitud.
+	•	 Kui töövõtja kõrvaldab garantiikohustuse täitmiseks töös esinenud puuduse, algab garantiiaeg kõrvaldatud puuduse suhtes uuesti, alates puuduse kõrvaldamisest. Juhul kui töövõtja teeb garantiikohustuse täitmiseks uue töö, algab garantiiaeg uue töö valmimisest.
+	•	 Garantiiajal kohalduvad töövõtjale lepingus, ehitusseaduses ja muudes õigusaktides sätestatud kohustused.
+	•	Garantiiülevaatuste tegemine
+	•	Garantiiülevaatusi tehakse tellija soovil vähemalt üks kord aastas, kui lepingus ei ole kokku lepitud teisiti. Esimese aasta garantiiülevaatus tehakse hiljemalt 12 (kaheteistkümne) kuu jooksul pärast täitmisakti allkirjastamist ning teise aasta garantiiülevaatus hiljemalt 24 (kahekümne nelja) kuu jooksul pärast täitmisakti allkirjastamist. Juhul kui lepingus on sätestatud, et garantiiaeg on pikem kui 60 (kuuskümmend) kuud, tehakse garantiiülevaatused eelkirjeldatud sagedusega (st kord 12 kuu jooksul), arvestades siiski seda, et viimane ülevaatus toimuks vähemalt 2 (kaks) kuud enne garantiiaja lõppemist. Tellija teatab töövõtjale garantiiülevaatuse tegemise ajast kirjalikult vähemalt 10 (kümme) tööpäeva ette. Juhul kui töövõtjal ei ole võimalik osaleda garantiiülevaatusel tellija teatatud ajal, on töövõtja kohustatud pakkuma uue ülevaatuse aja, arvestades seda, et ülevaatus toimuks hiljemalt 10 (kümne) tööpäeva jooksul pärast tellijalt ülevaatuse toimumise aja kohta teate saamist.
+	•	 Pooled koostavad garantiiülevaatuse kohta kirjaliku protokolli, mis allkirjastatakse hiljemalt 5 (viie) tööpäeva jooksul pärast ülevaatuse toimumist. Juhul kui pooled on eriarvamusel ülevaatuse tulemustes, märgitakse eriarvamused ülevaatuse protokolli.
+	•	 Juhul kui vastavalt punktile 5.2.1 on määratud garantiiülevaatuse tähtaeg, kuid töövõtja ei osale garantiiülevaatusel, on tellijal õigus allkirjastada garantiiülevaatuse protokoll ühepoolselt ning protokollis sätestatu täitmine on töövõtjale kohustuslik.
+	•	 Juhul kui töövõtja keeldub põhjendamatult ülevaatuse protokolli allkirjastamisest ega ole ilmnenud puudusi või mittevastavusi lepingus sätestatud tähtaja jooksul kõrvaldanud, eeldatakse, et töövõtja on põhjendamatult keeldunud garantiiaja kohustuste täitmisest.
+	•	Garantiitööde tegemise tingimused ja tähtajad
+	•	Juhul kui garantiiaegsed puudused või takistused on tekitanud avariiolukorra, mistõttu ei ole võimalik ehitist, selle osa või selle tehnosüsteemi sihtotstarbeliselt kasutada, kohustub töövõtja kõrvaldama puuduse mõistliku aja jooksul, tagades vähemalt ajutise toimiva lahenduse 3 (kolme) tööpäeva jooksul.
+	•	 Ehitise kasutamisega seotud mitteolulised puudused kõrvaldatakse üldjuhul pärast garantiiülevaatust poolte kokkulepitud ajal.
+	•	Juhul kui töövõtja ei kõrvalda tellija kirjalikust meeldetuletusest hoolimata garantiiülevaatusel fikseeritud puudusi kokkulepitud tähtajaks, on tellijal õigus kõrvaldada puudused ja mittevastavused ise või tellida vastavad tööd kolmandalt isikult ning töövõtja on kohustatud tellijale hüvitama kõik sellega kaasnevad põhjendatud kulud.
+	•	 Lepingus garantiiaja kohta sätestatu ja tööde vastuvõtmine tellija poolt ei välista ega piira töövõtja vastutust ega tellija nõuete aegumist võlaõigusseaduse, tsiviilseadustiku üldosa seaduse või muude õigusaktide alusel.
+	•	Tagatised
+	•	Töövõtja täitmisaja tagatised
+	•	Töövõtja annab tellijale enne lepingu sõlmimist täitmisaja tagatise 5 (viie) protsendi ulatuses lepingu hinnast (arvestatuna summast ilma käibemaksuta) ühel järgmisel viisil (seejuures on töövõtjal lepinguperioodil õigus tagatise liiki vahetada, esitades enne tagatise tagastamist tellija poolt lepingus lubatud teist liiki tagatise):
+	•	esitab krediidi- või finantseerimisasutuse või kindlustusandja garantiikirja (originaali), mille tähtaeg peab olema täitmisaeg. Kui lepingus on sätestatud garantiikirja vorm, kohustub töövõtja esitama garantiikirja ette antud vormi kohaselt. Juhul kui tööde üleandmine ja täitmisakti allkirjastamine viibib mistahes põhjustel, on töövõtja kohustatud garantiikirja pikendama sama aja võrra, mille ulatuses on tööde üleandmine viibinud;
+	•	deponeerib tagatissumma lepingus sätestatud või töövõtjale eraldi teatatud tellija või kolmanda isiku arvelduskontole.
+	•	Täitmisaja tagatis katab lepingus sätestatud tööd, samuti muudatus- ja lisatööd ning töövõtja kõrvalkohustused. Täitmisaja tagatise arvelt täidetakse tellija nõuded lepingust tulenevate töövõtja kohustuste rikkumise korral.
+	•	Juhul kui pooled on kokku leppinud, et töö võetakse vastu osadena ja lepingus ei ole kokku lepitud teisiti, on töövõtjal õigus nõuda, et täitmisaja tagatist vähendatakse proportsionaalselt tehtud ja üleantud tööde maksumusega (arvestatuna lepingu hinnast ilma käibemaksuta).
+	•	Tellija tagastab täitmisaja tagatise töövõtjale 15 (viieteistkümne) tööpäeva jooksul pärast garantiiaegse tagatise esitamist tellijale. 
+	•	Juhul kui lepingus on nii sätestatud, sõlmib töövõtja enne tööde alustamist, kuid hiljemalt 5 (viie) tööpäeva jooksul pärast lepingu sõlmimist omal kulul:
+	•	ehituse koguriskikindlustuse (CAR) lepingu, mille tingimuste kohaselt katab kindlustus kõik tööde tegemisest tulenevad ohud (sh sisseseade, masinate, olemasoleva ehitise jm-ga seoses). Kindlustuslepingu hüvitamise piirmäära minimaalne suurus peab olema vähemalt võrdne lepingus sätestatud lepingu hinnaga (arvestatuna summast ilma käibemaksuta) ning omavastutuse maksimaalne suurus peab vastama lepingus kokku lepitud summale. Vastava kokkuleppe puudumise korral on töövõtjal õigus määrata omavastutuse suurus oma äranägemise järgi;
+	•	tsiviilvastutuskindlustuse lepingu, mille tingimuste kohaselt katab kindlustus kõik tööde tegemisest tulenevad ohud ja kahjud, sh kahjud, mis võivad tööde tegemisel tekkida kolmandatele isikutele. Kindlustuslepingu hüvitamise piirmäära minimaalne suurus ja omavastutuse maksimaalne suurus lepitakse poolte vahel eraldi kokku, kokkuleppe puudumise korral on töövõtjal õigus määrata vastavad summad oma äranägemise järgi.
+	•	Juhul kui lepingu kohaselt on nõutav nii ehituse koguriskikindlustus kui ka tsiviilvastutuskindlustus, võivad need sisalduda ühes kindlustuslepingus. Sellisel juhul kohaldatakse mõlemale kahjukindlustuse liigile lepingus esitatud nõudeid eraldi, mitte summeeritult.
+	•	Töövõtja kohustub tagama, et kindlustuslepingutest tulenev kindlustuskaitse kehtiks kogu täitmisaja jooksul. Töövõtja kohustub hoiduma tegudest, mis toovad kaasa või võivad kaasa tuua kindlustuskaitse lõppemise.
+	•	Töövõtja kohustub sõlmima kindlustuslepingu konkreetse ehitise ja tööde kui eraldiseisva kindlustusobjekti kohta (kindlustuspoliisil peab olema märgitud ehitise nimetus/aadress ning hüvitamise piirmäärad peavad kehtima konkreetse kindlustusobjekti kohta, mitte kõikide töövõtja kindlustatavate objektide kohta tervikuna).
+	•	Juhul kui lepingus ei ole kokku lepitud teisiti, peab ehituse koguriskikindlustuse (CAR) lepingus olema soodustatud isikuks märgitud tellija. Kindlustusjuhtumi ilmnemisel võivad tellija ja töövõtja kokkuleppel kindlustusandjaga sõlmida lisakokkuleppeid kindlustushüvitise väljamaksmise kohta. Tellija märkimine soodustatud isikuks ei või põhjustada tellija alusetut rikastumist töövõtja arvelt.
+	•	Töövõtja esitab tellijale lepingus nimetatud kindlustuslepingute sõlmimist tõendava poliisi ja kindlustuslepingu tingimuste ärakirja hiljemalt enne tööde alustamist.
+	•	Töövõtja garantiiaja tagatised
+	•	Juhul kui lepingus on nii sätestatud, annab töövõtja tellijale hiljemalt kas täitmisakti või põhilise kasutusvalmiduse akti allkirjastamise kuupäevaks garantiiaja tagatise 2 (kahe) protsendi ulatuses lepingu hinnast (arvestatuna summast ilma käibemaksuta) ühel järgmisel viisil (seejuures on töövõtjal lepinguperioodil õigus tagatise liiki vahetada, esitades enne tagatise tagastamist tellija poolt lepingus lubatud teist liiki tagatise):
+	•	esitab krediidi- või finantseerimisasutuse või kindlustusandja garantiikirja (originaali), mille tähtaeg peab olema 2 (kahe) kuu võrra pikem kui garantiiaeg. Kui lepingus on sätestatud garantiikirja vorm, kohustub töövõtja garantiikirja esitama ette antud vormi kohaselt;
+	•	deponeerib tagatissumma lepingus sätestatud või töövõtjale eraldi teatatud tellija või kolmanda isiku arvelduskontole.
+	•	 Garantiiaja tagatis katab lepingus sätestatud garantiitööd, vaegtööd (kui neid tehakse pärast täitmisakti allakirjastamist) ning töövõtja kõrvalkohustused. Garantiiperioodi tagatise arvelt täidetakse tellija nõuded lepingust tulenevate töövõtja kohustuste rikkumise korral. 
+	•	 Kui garantiiaja tagatiseks on töövõtja deponeeritud rahasumma, tagastab tellija selle hiljemalt 20 (kahekümne) tööpäeva jooksul pärast garantiiaja lõppemist, kuid siiski mitte enne garantiitööde tegemist.
+	•	Tööde tegemise tähtajad
+	•	Töövõtja kohustub tööd lõpetama ja need tellijale üle andma lepingus kokku lepitud tähtajaks. Juhul kui lepingus on kokku lepitud tööde vahetähtajad, kohustub töövõtja vastavad tööd üle andma kokkulepitud vahetähtaegadeks. 
+	•	Pool kohustub mõistliku aja jooksul teavitama teist poolt selliste asjaolude ilmnemisest, mis võivad takistada töö nõuetekohast (sh tähtaegset) tegemist või lepingu muul viisil täitmist, olenemata asjaolude tekkepõhjusest. 
+	•	Töövõtjal on õigus nõuda täitmisaja pikendamist järgmiste asjaolude ilmnemisel, kui selliste asjaolude tõttu viibib või võib viibida tööde üleandmine:
+	•	ettenägematud füüsilised tingimused;
+	•	vääramatu jõud;
+	•	vead või puudused tellija poolt või korraldusel koostatud ehitusprojektis (punkt 3.1.2);
+	•	töövõtja on lepingu alusel lepingu täitmise peatanud ja sellise peatamise korral on töövõtjal õigus nõuda tähtaegade pikendamist (punkt 12.3.2);
+	•	tellija on taotlenud töövõtjalt muudatustööde tegemist, kui muudatustööde tegemises ja täitmisaja pikendamises lepitakse kokku lepingus sätestatud tingimustel ja korras;
+	•	muud lepingus sätestatud alused.
+	•	Töövõtjal on õigus nõuda tähtaegade pikendamist üksnes juhul, kui ta on pikendamise aluseks olevast asjaolust tellijat viivitamata (kuid siiski hiljemalt 5 (viie) tööpäeva jooksul) kirjalikult teavitanud ning esitanud hiljemalt 15 (viieteistkümne) tööpäeva jooksul pärast seda, kui töövõtja sai või pidi sellisest asjaolust teada saama, kirjaliku ettepaneku koos sündmuste või asjaolude kirjeldusega, millest tulenevalt töövõtja soovib lepingus sätestatud tähtaegu pikendada. Pooled on pärast töövõtjalt sellekohase teate saamist kohustatud teisele poolele olulisi lisakulutusi tekitamata tagama tingimused tööde jätkamiseks või vähendama võimalike takistuste mõju poolte kasutuses olevate vahenditega. Tellija on kohustatud ettepaneku saamisel sellega nõustuma või esitama põhjendatud seisukoha sellest keeldumise kohta 5 (viie) tööpäeva jooksul pärast ettepaneku saamist.
+	•	Lepingu muutmine
+	•	Lepingu muudatus on lubatav, kui 
+	•	ei muudeta lepingu üldist olemust, näiteks lepingu eset, ja muudatuse väärtus kokku ei ületa 20 protsenti lepingu algsest maksumusest või ei pikene lepingu algne täitmistähtaeg kokku rohkem kui 20 protsenti.
+	•	muudatuse põhjustavad toetuse saajale ettenägematud või vääramatust jõust tingitud asjaolud.
+	•	muudatuse tingivad toetuse saajast tulenevad asjaolud, mille tulemusel ei muutu lepinguliste kohustuste vahekord ettevõtja kasuks.
+	•	Muudatustööd ja nende maksumuse hindamine
+	•	Tellijal on õigus algatada muudatustöid igal ajal enne täitmisakti väljastamist. Töövõtja on kohustatud tellija taotletud muudatustöid tegema ja ta on sellega seotud, välja arvatud siis, kui töövõtja teatab tellijale 5 (viie) tööpäeva jooksul, et ta ei ole võimeline hankima muudatustööde tegemiseks vajalikke ehitustooteid, et tagada lepingu tähtaegadest kinnipidamist, või et ta ei ole pädev muudatustöid tegema. Sellise teate saamisel peab tellija otsustama muudatustööde tegemise.
+	•	 Töövõtjal on õigus igal ajal esitada tellijale ettepanek muudatustööde tegemiseks, kui sellised tööd kiirendavad tööde lõpetamist, vähendavad tellija kulusid tööde tegemiseks, hooldamiseks või kasutamiseks, parandavad lõpetatud tööde efektiivsust või väärtust tellija jaoks või toovad muul viisil kasu tellijale. Tellijal on õigus otsustada, kas töövõtja ettepanekus kirjeldatud muudatustöid teha või mitte. Juhul kui tellija ei ole vastanud töövõtja ettepanekule 5 (viie) tööpäeva jooksul pärast ettepaneku saamist, eeldatakse, et tellija on töövõtja ettepaneku tagasi lükanud.
+	•	 Töövõtjal on õigus teha muudatusi tellija poolt või korraldusel koostatud ehitusprojektis või muudes lähteandmetes ja ehitises kasutatavates ehitustoodetes (sh viimistlusmaterjalides) üksnes tellija eelneval kirjalikul nõusolekul, arvestades punktis 3.1.3 sätestatut. Kui tegemist on tehniliselt samaväärsete ehitustoodete, projektilahenduste või seadmetega, siis tellijal ei ole õigust nende kooskõlastamisest keelduda. Samaväärsust peab tõendama töövõtja, esitades selleks vajalikud andmed või dokumendid.
+	•	 Kui lepingus on ette nähtud alternatiivsed tehnilised või muud lahendused, mille kohta on lepingus sätestatud ka erinevad hinnad, peab töövõtja lõpliku lahenduse tellijaga eelnevalt kooskõlastama. Juhul kui tellija soovib, et töövõtja viiks ellu sellise lahenduse, mida ei ole lepingus kokku lepitud, on tellija kohustatud töövõtjale hüvitama sellega kaasnevad kulud. 
+	•	 Juhul kui muudatustöö on algatanud töövõtja, esitab viimane tellijale ettepaneku, mis sisaldab vähemalt käesoleva punkti alapunktides loetletud andmeid. Juhul kui muudatustöö on algatanud tellija, peab töövõtja vastama tellija ettepanekule hiljemalt 5 (viie) tööpäeva jooksul, kui ei ole kokku lepitud teisiti, ja esitama järgmised andmed:
+	•	nii lisanduvate kui ka ärajäävate tööde maht, sisu ja kirjeldus;
+	•	tööde ühikuhinnad ja maksumus (kalkulatsioon);
+	•	mõju lepingu hinnale;
+	•	muudatustööde tegemise kirjeldus;
+	•	mõju lepingu tähtaegadele ning muudatustööde tegemise ajakava;
+	•	andmed muudatustöö algataja kohta ja algatamise põhjuste kirjeldus;
+	•	punktis 8.1.7 nimetatud kinnitused.
+	•	Muudatustööde tegemiseks vajalike tööde hindades kokkuleppimisel lähtutakse järgmisest:
+	•	sarnaste või samasuguste tööde ja mahtude puhul võetakse aluseks lepingust tulenevad ühikuhinnad, sh arvestades üldkulude osakaalu ühikuhinnas;
+	•	juhul kui lepingus ei ole vastavate tööde maksumust kindlaks määratud, võetakse aluseks vastavate tööde turuhinnad, arvestades tööde maksumuse ja mahu omavahelist suhet, sh üldkulude osakaalu ühikuhinnas;
+	•	tellija ei ole kohustatud nõustuma töövõtja esitatud muudatustööde maksumusega, kui see ei vasta lepingus sätestatule või ei vasta turuhinnale või kui tellija töövõtjaga muudatustööde hinnas kokku ei lepi. Kui tellija tellib muudatustöö kolmandalt isikult, ei vastuta töövõtja muudatustööde eest.
+	•	Olenemata sellest, kas muudatustöö on algatanud tellija või töövõtja, lepitakse enne muudatustööde tegemist kokku muudatustööde tegemises koos kõikide nendega kaasnevate mõjudega.
+	•	 Muudatustööde tegemiseks sõlmivad pooled, kui ei ole kokku lepitud teisiti, kirjaliku kokkuleppe muudatustööde tegemise kohta.
+	•	 Juhul kui leping on sõlmitud toetuse saaja ostu tulemusena, kohaldatakse lisaks järgmist:
+	•	muudatustööde tegemine lepingu raames on lubatud üksnes juhul, kui selle tulemusena ei ületata lepingu hinda (seejuures sõlmitakse reservi kasutamiseks kokkulepe lepingus sätestatud tingimustel);
+	•	muudatustööde kokkulepe sõlmitakse olenemata sellest, kas sellega kaasneb või ei kaasne täitmisaja või vahetähtaegade muutumine või lepingu hinna muutumine.
+	•	Lisatööd
+	•	Lisatööde tellimine on lubatav üksnes siis, kui samalt töövõtjalt ostetakse täiendavaid asju, teenuseid või ehitustöid, mille järele on toetuse saajal tekkinud vajadus ja mida ostumenetluse alusdokumendid ei sisaldanud, juhul kui töövõtja vahetamine põhjustaks toetuse saajale olulist ebamugavust või märkimisväärseid lisakulusid ega oleks majanduslikel või tehnilistel põhjustel võimalik.
+	•	Töövõtja teeb lisatöid üksnes tellija ja töövõtja sõlmitud kirjaliku kokkuleppe alusel. Töövõtja ei ole kohustatud lisatöid tegema, kui pooled lisatööde tegemises kokku ei lepi.
+	•	Juhul kui pooled soovivad lisatööde tegemises kokku leppida, peab lisatööde kokkulepe sisaldama vähemalt järgmist, kui ei ole kokku lepitud teisiti:
+	•	lisatööde maht, sisu ja kirjeldus;
+	•	lisatööde maksumus (kalkulatsioon);
+	•	mõju lepingu hinnale;
+	•	lisatööde tegemise kirjeldus;
+	•	lisatööde tegemise ajakava;
+	•	vajaduse korral andmed lisatööde algataja kohta ja algatamise põhjuste kirjeldus.
+	•	Järelevalve ja kontroll
+	•	Järelevalve üldine korraldus
+	•	Pooled teostavad järelevalvet ja kontrolli omavahel kooskõlastatult õigusaktides ettenähtud korras kas vahetult ise või kolmandate isikute kaudu. Pooltel on õigus kaasata järelevalve ja kontrolli teostamiseks sõltumatuid spetsialiste.
+	•	 Tellija korraldab ehitustööde ajal pideva järelevalve ehitamise üle ja tagab, et omanikujärelevalvet teostaks selleks õigust omav isik vastavalt õigusaktidele.
+	•	 Tellija tagab omanikujärelevalve tegija kohaloleku ja osavõtu kõigist töövõtja poolt mõistliku aja jooksul kirjalikult teatatud ehitustöödega seotud ülevaatustest.
+	•	 Tellijapoolne omanikujärelevalve kaasamine ei välista ega piira töövõtja vastutust tööde nõuetekohase tegemise eest.
+	•	 Tellijal on õigus igal ajal:
+	•	teostada kontrolli ja järelevalvet tööde vastavuse üle lepinguga ning tellija eesmärgi ja huvidega;
+	•	kontrollida tööde tegemist ehitusplatsil. Tellija on kohustatud järgima ehitusplatsil töövõtja kehtestatud sisekorraeeskirju;
+	•	nõuda ehitustoodete või tööde kvaliteedi lisakontrolli peale lepingus kokkulepitud juhtude. Sellise lisakontrolliga seotud kulud (sh kontrollimiseks eemaldatud seadme demonteerimiskulud) kannab töövõtja, kui ilmneb, et kontrollitud tööd pole tehtud lepingu kohaselt. Muudel juhtudel kannab lisakontrolliga kaasnevad kulud tellija.
+	•	Juhul kui töövõtja tehtud töödes (sh töövõtja poolt või korraldusel koostatud ehitusprojektis, ehitustoodetes, seadmetes või muudes tööde osades) ilmneb vigu või puudusi pärast nende üleandmist tellijale, vastutab töövõtja nende eest ka siis, kui tellija on vastavad tööd heaks kiitnud ja vastu võtnud. 
+	•	 Töövõtja kohustub tellijat teavitama kõikidest töödega seotud ülevaatustest, mis nõuavad tellija kohalolekut, vähemalt 3 (kolm) tööpäeva enne ülevaatuse kuupäeva, kui lepingus ei ole kokku lepitud teisiti.
+	•	 Töövõtja kohustub tööde tegemise dokumenteerima vastavalt õigusaktidele ja lepingus sätestatud tingimustele (sh koostama ehitusprojekti kõikides nõutavates staadiumides, ehitusprojekti muudatused, ehitustööde päeviku, kaetud tööde aktid, koosolekute protokollid jm tööde tegemist iseloomustavad dokumendid, nagu teostusjoonised, vastavussertifikaadid jm). Töövõtja on kohustatud fikseerima tööde tegeliku tegemise ja kulgemise ning tagama tellijale, omanikujärelevalve tegijale ja pädevatele ametiisikutele vaba juurdepääsu ehitise ja tööde tegemise tehniliste dokumentidega tutvumiseks.
+	•	Katsetused
+	•	Töövõtja peab tagama vajalike seadmete, dokumentide, spetsialistide, elektrienergia, tööriistade, materjalide jm olemasolu, et tulemuslikult korraldada tööde üleandmiseks ja ehitise kasutamiseks vajalikud katsetused. 
+	•	Töövõtja teavitab katsetuste tegemisest tellijat kirjalikku taasesitamist võimaldavas vormis vähemalt 3 (kolm) tööpäeva ette. 
+	•	Töövõtja koostab protokolli katsetuste tegemise kohta ja edastab selle tellijale hiljemalt 5 (viie) tööpäeva jooksul pärast katsetuste tegemist. Tellija allkirjastab protokolli või esitab põhjendatud seisukoha allkirjastamisest keeldumise kohta 5 (viie) tööpäeva jooksul pärast protokolli kättesaamist. Kui tellija ei osalenud katsetustel töövõtja teatatud ajal, on tellijal õigus vaidlustada katsetustulemusi üksnes ilmsete vigade olemasolu korral.
+	•	Tellija võib nõuda töövõtjalt lisakatsetuste tegemist. Kui lisakatsetuste tulemusena ilmneb, et tööd ei vasta lepingule, kannab töövõtja lisakatsetuste tegemisega ja mittevastavuste likvideerimisega kaasnevad kulud.
+	•	Kaetud tööd
+	•	Kaetud tööde ülevaatamine ja vastuvõtmine toimub poolte osavõtul vastavalt õigusaktidele ning selle kohta vormistatakse kirjalik kaetud tööde akt.
+	•	 Kaetud tööde akt koostatakse nende konstruktsioonide või muude ehitise osade kohta, mis kaetakse järgmiste tööde käigus muu konstruktsiooniosa või materjaliga ning millega seoses kaob hilisem võimalus nende vahetuks ülevaatamiseks (nt pinnases tehtavad tööd, hüdroisolatsioon, soojusisolatsioon, monteeritavate elementide vahelised liitekohad, vuugid ja raudbetooni armatuur jm). 
+	•	 Kaetud tööde akt koostatakse pärast vastavate tööde hoolikat ülevaatust. 
+	•	 Kaetud tööde aktiga ei võeta töid vastu, vaid aktis fikseeritakse erinevused või kõrvalekalded ehitusprojektist ja antakse hinnang ülevaadatud tööde kvaliteedile. Pärast kaetud tööde ülevaatust ja selle dokumenteerimist võib töövõtja alustada järgmiste töödega. 
+	•	 Vajaduse korral lisatakse kaetud tööde aktile muu teave tehtud töö kohta, nagu fotod olulisemate detailide kohta ja ülesmõõtmise joonised.
+	•	 Töövõtja kohustub tellijat kaetud tööde vastuvõtmise vajadusest teavitama kirjalikku taasesitamist võimaldavas vormis vähemalt 3 (kolm) tööpäeva ette, kui lepingus ei ole kokku lepitud teisiti.
+	•	 Juhul kui töövõtja rikub kaetud tööde üleandmisel lepingut või õigusakte ja tellijal ei ole võimalik kaetud töid nõuetekohaselt kontrollida, on tellijal õigus nõuda töövõtjalt kaetud tööde avamist. Töövõtja kannab kõik kaetud tööde avamise ning puuduste ilmnemisel ka tööde parandamisega kaasnevad kulud.
+	•	Tööde üleandmine ja vastuvõtmine
+	•	Mõõtmine ja hindamine
+	•	Töid mõõdetakse ja hinnatakse tööde edenemise hindamiseks ja selle põhjal töövõtjale tasutava summa kindlakstegemiseks.
+	•	Juhul kui lepingus ei ole kokku lepitud teisiti, esitab töövõtja tellijale iga kuu viimaseks kuupäevaks tehtud tööde rahalise akti. Kui lepingus on sätestatud tehtud tööde rahalise akti vorm, kohustub töövõtja akti esitama ette antud vormi kohaselt. 
+	•	Kui lepingus ei ole sätestatud teisiti, mõõdetakse ja hinnatakse kõikide tööde tegelikku valmidusastet protsentuaalselt ning rahaliste kohustuste puhul võetakse aluseks lepingus vastavatele töödele ette nähtud tariifid või hinnad. Kui lepingus ei ole vastava töö tariifi või hinda sätestatud, järgitakse sarnase töö kohta kehtivaid tariife või hindu. 
+	•	Juhul kui lepingus on nii kokku lepitud, võidakse tehtud tööde rahalises aktis kajastada ka neid ehitustooteid ja -seadmeid, mida töödes veel kasutatud ei ole, kuid mille töövõtja on tarninud ehitusplatsile ja nõuetekohaselt ladustanud. Kui sellekohane kokkulepe puudub, märgitakse ehitustooted ja seadmed tehtud tööde rahalises aktis vastavalt tööde tegelikule valmidusastmele (nt pärast nende ehitisse paigaldamist). Tellija nõudmisel peab töövõtja esitama tööde valmidusastme kindlakstegemiseks vajaliku teabe.
+	•	Tellija kohustub tehtud tööd ning tehtud tööde rahalise akti üle vaatama 5 (viie) tööpäeva jooksul pärast akti kättesaamist, kui lepingus ei ole kokku lepitud teisiti ning akti allkirjastama või esitama põhjenduse allkirjastamisest keeldumise kohta koos ettepanekutega tööde teostatuse või valmidusastme kohta. Kui tellija ei ole eelnimetatud tähtaja jooksul täitnud käesolevast punktist tulenevaid kohustusi ega täida neid kohustusi ka töövõtja antud 1 (ühe) tööpäevase lisatähtaja jooksul, loetakse tehtud tööde rahaline akt allkirjastatuks pärast töövõtja antud lisatähtaja möödumist.
+	•	Kui pooled ei saavuta osade tööde puhul kokkulepet nende teostatuse või valmidusastme suhtes, on töövõtjal õigus nõuda nende tööde akteerimist, mille puhul poolte vahel puudub vaidlus. Sellisel juhul on töövõtja kohustatud esitama tellijale parandatud tehtud tööde rahalise akti nende tööde kohta, mille teostatuse ja valmidusastmega seoses poolte vahel vaidlust ei olnud ning akti läbivaatamisele ja allkirjastamisele kohaldatakse punkti 10.1.5.
+	•	Üleandmise ja vastuvõtmise protseduur
+	•	Tööde üleandmine ja vastuvõtmine toimub pärast lõpliku kasutusvalmiduse saavutamist, kui ei ole kokku lepitud teisiti.
+	•	Tööde üleandmine ja vastuvõtmine võib toimuda vajaduse korral kahes etapis järgmiselt:
+	•	pärast põhilise kasutusvalmiduse saavutamist – koostatakse ja allkirjastatakse põhilise kasutusvalmiduse akt;
+	•	pärast lõpliku kasutusvalmiduse saavutamist – koostatakse ja allkirjastatakse täitmisakt.
+	•	Tööde lõplik vastuvõtmine toimub pärast seda, kui on täidetud kõik järgmised tingimused:
+	•	tööde lõplik kasutusvalmidus on saavutatud (sh on kõrvaldatud vaegtööd, kui ei ole kokku lepitud teisiti). Tellija võib pikendada vaegtööde lõpetamist täitmisaktijärgsesse aega, kui see on seotud ilmastikutingimustega, mida töövõtja ei näinud ega pidanud mõistlikult ette nägema;
+	•	teostatud on ehitise ja tööde ülevaatus vastavalt õigusaktidele;
+	•	töövõtja on tellijale esitanud kasutusloa, kui kasutusloa saamine on lepingu kohaselt nõutav ja selle esitamine on sätestatud töövõtja kohustusena;
+	•	töövõtja on teinud kontrollmõõdistused ja katsetused võimalike varjatud puuduste tuvastamiseks kõikide ehitise osade ja tehnosüsteemide puhul, mille vastavust kehtivatele nõuetele on võimalik kontrollmõõdistuste ja katsetuste teel tuvastada. Kontrollmõõdistused ja katsetused peab olema teinud vastava õiguse ja pädevusega isik ning neid ei või teha tööde teostaja ega temaga seotud isik. Mõõdistused ja katsetused tuleb teha täisvõimsusel ning ajal, mil mõõdistamise ja katsetuse efekt on maksimaalne;
+	•	töövõtja on tellijale üle andnud kogu täitedokumentatsiooni, sh katsetustulemused koos vastavate protokollidega, tööjoonised (kui nende koostamine oli nõutav), samuti ehitustoodete vastavust tõendavad dokumendid (ehitustoote pass, vastavussertifikaat, vastavusdeklaratsioon vm asjakohane dokument). Täitedokumentatsiooni üleandmiseks koostab töövõtja dokumentide nimekirja;
+	•	töövõtja on tellijale esitanud nõuetekohase garantiiaja tagatise;
+	•	töövõtja on korraldanud lepingus sätestatud koolituskursused ehitise või selle osa kasutajatele. Koolituskursuste korraldamise kohta koostab töövõtja koolituskursuste nimekirja koos koolituskursuse toimumise kuupäeva ja koolituskursusel osalenud isikute nimedega;
+	•	töövõtja on täitnud muud õigusaktides sätestatud kohustused, mis peavad olema selleks ajaks täidetud.
+	•	Kui töövõtja on seisukohal, et tööd on lepingu kohaselt lõpetatud (lõplik kasutusvalmidus on saavutatud), teavitab töövõtja tellijat sellest kirjalikku taasesitamist võimaldavas vormis ja esitab koos teatisega täitmisakti. Kui tellija on ette andnud täitmisakti vormi, koostab töövõtja akti selle vormi kohaselt. Lõpliku kasutusvalmiduse teatis tuleb esitada mõistliku aja jooksul enne täitmistähtaja saabumist, arvestades seda, et on tagatud nii tellijapoolne tööde ülevaatamise aeg ja vajalik aeg puuduste likvideerimiseks, mis tellija on ülevaatuse käigus avastanud. Kui lepingus ei ole kokku lepitud teisiti, on mõistlik aeg 30 kalendripäeva.
+	•	Tellija on kohustatud ülevaatamiseks esitatud tööd 10 (kümne) tööpäeva jooksul, kui lepingus ei ole kokku lepitud teisiti, üle vaatama ning täitmisakti allkirjastama või esitama põhjenduse allkirjastamisest keeldumise kohta koos kõrvaldamata vaegtööde nimekirjaga. Kui tellija ei ole eelnimetatud tähtaja jooksul täitnud käesolevast punktist tulenevaid kohustusi ega täida nimetatud kohustust ka töövõtja antud 2 (kahe) lisatööpäeva jooksul, loetakse täitmisakt allkirjastatuks pärast töövõtja antud lisatähtaja möödumist.
+	•	Tellijal on õigus keelduda täitmisakti allkirjastamisest seni, kuni kõik vaegtööd on kõrvaldatud ning kõik nõuetekohased dokumendid esitatud. 
+	•	Juhul kui muud täitmisakti allkirjastamise eeldused on täidetud, kuid töövõtja üle antud täitedokumentatsioon ei vasta õigusaktidele või lepingule, on tellijal õigus kinni pidada kuni 2 (kaks) protsenti lepingu hinnast (arvestatuna summast ilma käibemaksuta), kuni esitatakse nõuetekohane täitedokumentatsioon. 
+	•	Kui pooled on selles kokku leppinud ja töövõtja on seisukohal, et tööd on lepingu kohaselt põhiliselt lõpetatud (põhiline kasutusvalmidus on saavutatud), teavitab töövõtja tellijat sellest kirjalikku taasesitamist võimaldavas vormis ja esitab koos teatisega põhilise kasutusvalmiduse akti kavandi ning need töö juurde kuuluvad dokumendid (sh ehitamise tehnilised dokumendid) või nende koopiad, mis vastavalt lepingule ja õigusaktidele peavad olema selleks ajaks koostatud. Kui tellija on ette andnud põhilise kasutusvalmiduse akti vormi, koostab töövõtja akti selle vormi kohaselt. Põhilise kasutusvalmiduse teatis tuleb esitada mõistliku aja jooksul enne täitmistähtaja saabumist, arvestades seda, et on tagatud tellijapoolne tööde ülevaatamise aeg ja vajalik aeg puuduste likvideerimiseks, mis tellija on ülevaatuse käigus avastanud. Kui lepingus ei ole kokku lepitud teisiti, on mõistlik aeg 30 kalendripäeva.
+	•	Tellija on kohustatud pärast puuduste likvideerimist esitatud põhilise kasutusvalmiduse akti 5 (viie) tööpäeva jooksul, kui lepingus ei ole kokku lepitud teisiti, allkirjastama või esitama põhjenduse allkirjastamisest keeldumise kohta koos puuduste või vigade loeteluga. Kui tellija ei ole eelnimetatud tähtaja jooksul täitnud käesolevast punktist tulenevaid kohustusi ega täida nimetatud kohustusi ka töövõtja antud mõistliku lisatähtaja jooksul, loetakse põhilise kasutusvalmiduse akt allkirjastatuks 6. tööpäeval pärast põhilise kasutusvalmiduse akti esitamist.
+	•	Tellijal on õigus keelduda põhilise kasutusvalmiduse akti allkirjastamisest, kuni töös ilmnenud puudused ja vead ei ole kõrvaldatud.
+	•	Põhilise kasutusvalmiduse ajaks peavad olema täidetud punktis 10.2.3 sätestatud tingimused (v.a punktis 10.2.3.1 sätestatu), sh vaegtööd, mille puhul on lepingu pooled kokku leppinud, et need tehakse pärast põhilise kasutusvalmiduse saavutamist. Sellisel juhul allkirjastavad pooled põhilise kasutusvalmiduse akti, kus on loetletud vaegtööd koos vaegtööde kõrvaldamise tähtaegadega. Vaegtööd annab töövõtja tellijale üle tervikuna pärast vaegtööde nõuetekohast tegemist. 
+	•	Vaegtööde esinemisel on tellijal õigus pidada töövõtjale tasumisele kuuluvatest summadest kinni nende tööde maksumus, mille puhul esinesid vaegtööd. Juhul kui vaegtööd ei ole tagatud täitmisaja tagatisega või garantiiaja tagatisega, esitab töövõtja tellijale tellija aktsepteeritud tagatise vaegtööde maksumuse ulatuses (arvestatuna summast ilma käibemaksuta) hiljemalt 5 (viie) tööpäeva jooksul pärast põhilise kasutusvalmiduse akti allkirjastamist poolte poolt.
+	•	Juhul kui tellija hakkab pärast põhilise kasutusvalmiduse akti allkirjastamist ehitist kasutama (välja arvatud ajutine kasutamine lepingus sätestatud kohustuste täitmiseks, nagu kõrvaltöövõttude tegemine, sisustamine jm tegevused), lepivad pooled põhilise kasutusvalmiduse aktis lisaks kokku:
+	•	ehitise valduse üleandmise ning juhusliku hävimise ja kahjustumise riisiko ülemineku tingimused;
+	•	poolte õigused ja kohustused seoses ehitise ohutuse, hooldamise, energiakulude, kindlustamise, valvamise ja tööde kaitsmisega ajal, mil töövõtja kõrvaldab vaegtöid.
+	•	Juhusliku hävimise ja kahjustumise riisiko üleminek
+	•	Juhul kui ei ole kokku lepitud teisiti, läheb tööde juhusliku hävimise ja kahjustamise riisiko töövõtjalt tellijale üle pärast seda, kui pooled on allkirjastanud täitmisakti.
+	•	Juhul kui pooled on kokku leppinud, et tellija asub ehitist kasutama pärast põhilise kasutusvalmiduse saavutamist, lähtutakse juhusliku hävimise ja kahjustumise riisiko üleminekus kokku leppimisel punktist 10.2.8.
+	•	Tellija peab töövõtjale tehtud tööde eest tasuma ka juhul, kui tööd hävivad või kahjustuvad pärast juhusliku hävimise või kahjustumise riisiko üleminekut tellijale.
+	•	Lepingu hind ja tasumise kord
+	•	Lepingu hind
+	•	Lepingu hind on poolte poolt lepingus kokku lepitud summa, mis on väljendatud ilma käibemaksuta summana ning mis koosneb:
+	•	tööde üldmaksumusest, mis sisaldab tasu kõikide lepingus sätestatud tööde eest. Tööde üldmaksumus ei sõltu inflatsioonist, ehitushinnaindeksi muutusest ega muudest teguritest ning tööde üldmaksumust lepinguperioodi jooksul ei muudeta, kui pooled ei ole kokku leppinud teisiti. 
+	•	reservist, kui selles on lepingus kokku lepitud. Eeldatakse, et reserv ei kuulu tellija poolt töövõtjale tasumisele ning reservi kasutatakse üksnes juhul, kui ilmneb vajadus selliste tööde tellimiseks, mida lepingus ette ei nähtud, juhul kui lepingus ei ole kokku lepitud teisiti. Reservi kasutamise üle otsustab tellija töövõtja ettepanekul või iseseisvalt.
+	•	Lepingu nõuetekohase täitmise korral on tellija kohustatud töövõtjale tasuma tööde üldmaksumuse (sh muudatus- ja lisatööde maksumuse, kui nende tegemises on kokku lepitud) ning selle osa reservist, mille kasutamises on lepingus kokku lepitud. 
+	•	Juhul kui töövõtja leiab, et tal on lepingust või õigusaktidest tulenevalt õigus nõuda lisakulude hüvitamist, on tal sellekohane õigus üksnes juhul, kui ta on kulude suurenemise aluseks olevast asjaolust tellijat mõistliku aja jooksul (kuid siiski hiljemalt 10 (kümne) tööpäeva jooksul) kirjalikult teavitanud ning esitanud kirjalikult sündmuse või asjaolude kirjelduse, millele tuginedes töövõtja soovib kulude hüvitamist taotleda, hiljemalt 30 (kolmekümne) tööpäeva jooksul pärast seda, kui töövõtja sai teada või pidi sellisest asjaolust teada saama.
+	•	Tasumise kord
+	•	Kui leping sisaldab maksegraafikut, tasutakse tööde eest maksegraafiku ja töövõtja esitatud arvete alusel.
+	•	Juhul kui leping ei sisalda maksegraafikut, tasub tellija töövõtjale tehtud tööde eest tehtud tööde rahaliste aktide ja nende põhjal töövõtja poolt esitatud arvete alusel. Töövõtja esitab tellijale arve tööde eest tasumiseks pärast tehtud tööde rahalise akti allkirjastamist. 
+	•	Tellija kohustub maksegraafiku või tehtud tööde rahalise akti alusel esitatud arved tasuma 15 (viieteistkümne) tööpäeva jooksul pärast arve kättesaamist, kui lepingus ei ole kokku lepitud teisiti. Lepingujärgselt töövõtjale tasumisele kuuluva viimase makse teeb tellija pärast täitmisakti allkirjastamist. Tellija teeb maksed töövõtja arvelduskontole. Tellija võib oma kohustuseks olevaid rahalisi makseid teha ka kolmandate isikute kaudu ning sellisel juhul loetakse tellija kohustused töövõtja ees vastavas ulatuses täidetuks. 
+	•	Hoolimata lepingus sätestatud maksetähtaegadest:
+	•	ei ole tellija kohustatud tegema töövõtjale esimest makset seni, kuni on esitatud ja kooskõlastatud lepingus sätestatud ajagraafik, kui see peab olema makse tegemise ajaks olemas;
+	•	ei ole tellija kohustatud tegema ühtki lepingu alusel tasumisele kuuluvat makset seni, kuni töövõtja ei ole esitanud tellijale lepingus sätestatud tagatisi ja kindlustuslepingute sõlmimist tõendavaid dokumente, kui need peavad olema makse tegemise ajaks esitatud.
+	•	Tellijal on õigus teha töövõtjale tasumisele kuuluvate maksetega seoses tasaarveldusi või kinnipidamisi üksnes lepingus või õigusaktides sätestatud korras.
+	•	Tellijal ei ole õigust tasuda töövõtja poolt või tema korraldusel tehtud tööde eest alltöövõtjatele või mistahes kolmandatele isikutele ilma töövõtja kirjaliku nõusolekuta ega nõuda töövõtjalt andmeid alltöövõtjatele ega kolmandatele isikutele tehtud või tehtavate maksete kohta, kui lepingus ei ole kokku lepitud teisiti.
+	•	Tasud ja maksed tellija kohustuste (sh tasud lubade, riigilõivude, omanikujärelevalve kulude jm) eest, kui lepingus on sätestatud, et sellised kohustused ei kuulu töövõtja kohustuste hulka, tasub tellija otse tasu saamiseks õigustatud isikutele.
+	•	Juhul kui lepingus on sätestatud ükskõik kumma poole maksekohustus ning lepingus ei ole sätestatud vastava kohustuse täitmise tähtaega, tuleb selline maksekohustus täita hiljemalt 20 (kahekümne) tööpäeva jooksul pärast teise poole kirjaliku nõude kättesaamist.
+	•	Vastutus ja õiguskaitsevahendid
+	•	Vastutuse alused
+	•	Pooled on kohustatud rakendama kõiki abinõusid, et vältida teisele poolele kahju tekitamist, vähendada tekkinud kahjusid ja tagada võimalikult suures ulatuses lepingu täitmine. 
+	•	Pool vastutab teisele poolele lepingu rikkumisega tekitatud kahjude eest ning on kohustatud hüvitama kahjustatud poolele lepingu rikkumisega kaasnevad põhjendatud kulutused. 
+	•	Poolel ei ole õigust taotleda lepingu muutmist põhjustel, mis on tingitud poole omapoolsest lepingu rikkumisest. 
+	•	Juhul kui lepingus on töövõtjaks märgitud mitu isikut (ühispakkujad), vastutavad nad lepinguga võetud kohustuste täitmise eest tellija ees solidaarselt.
+	•	Juhul kui töövõtja rikub lepingut ja seab sellega ohtu tööde nõuetekohase (sh tähtaegse) valmimise, on tellijal õigus teha vastavad tööd ise või kasutada selliste tööde tegemiseks kolmandaid isikuid, kui tellija on andnud töövõtjale mõistliku lisatähtaja puuduste kõrvaldamiseks, kuid töövõtja ei ole puudusi kõrvaldanud ka lisatähtaja jooksul. Kõik sellega kaasnevad mõistlikud ja põhjendatud kulud kohustub töövõtja tellijale hüvitama tellija kirjaliku nõude alusel. 
+	•	Juhul kui töövõtja rikub lepingut ja sellega kaasneb vajadus kaasata veel isikuid tööde ülevaatamiseks (nt omanikujärelevalve tegija jm) või kui sellega kaasneb tellija töömahu suurenemine (nt projektijuhi või muude spetsialistide lisaajakulu), on töövõtja juhul, kui tellija on töövõtjat eelnevalt kirjalikku taasesitamist võimaldavas vormis teavitanud, kohustatud tellijale hüvitama sellised tõendatud mõistlikud suurenenud kulud lepingus sätestatud tunnihinna ja tellija kirjaliku nõude alusel. Käesolevat sätet kohaldatakse ka juhul, kui selliseid isikuid on vaja põhjendatult kaasata väljaspool normaalset tööaega. Juhul kui lepingus ei ole sätestatud teisiti, eeldatakse, et normaalne tööaeg kestab 40 tundi 7-päevase ajavahemiku jooksul, see teeb 8 tundi päevas, ajavahemikus kella 8–17, välja arvatud laupäeval, pühapäeval ning riigipühadel ja riigipühadele vahetult eelnevatel tööpäevadel, mil on õigusaktide kohaselt lühendatud tööaeg.
+	•	Tellija antavad juhised peavad olema kooskõlas õigusaktidega. Juhul kui tellija nõuab töövõtjalt sellise juhise järgimist, mille järgimine võib ohustada inimeste tervist, elu, vara või keskkonda või tellija juhise järgimise tõttu ei oleks ehitisele võimalik saada kasutusluba (kui see on nõutav), kohustub töövõtja sellele kirjalikult tellija tähelepanu juhtima. Kui tellija hoolimata töövõtja kirjalikust teatest nõuab eelviidatud juhise järgimist ja juhise järgimisega kaasneksid eelkirjeldatud tagajärjed, on töövõtjal õigus keelduda tellija juhise järgimisest. Juhul kui sellise erimeelsuse tõttu ei ole objektiivselt võimalik lepingu täitmist jätkata, on töövõtjal õigus lepingu täitmine peatada.
+	•	Töövõtja ei vastuta töö lepingutingimustele mittevastavuse eest, mis tulenes tellija juhistest, tellija hangitud ehitustoodete puudustest või kolmanda isiku (v.a töövõtja alltöövõtja) eeltöödest, kui töövõtja kontrollis piisavalt juhiseid, ehitustooteid või eeltöid ja juhtis kirjalikult tellija tähelepanu sellega kaasnevatele võimalikele ohtudele. Töövõtjal on õigus nõuda, et tellija hüvitaks töövõtjale kõik selliste puudustega seoses kantud või kandmisele kuuluvad  vajalikud kulutused ning pikendaks täitmisaega tähtaja võrra, mille ulatuses on tööde tegemine tulenevalt puuduste kõrvaldamisest takistatud.
+	•	Juhul kui lepingus ei ole kokku lepitud teisiti, ei kohaldata lepingust tulenevate töövõtja nõuete tagamiseks võlaõigusseaduses sätestatud pandiõigust tellija vallasasjadele, mis on lepingu täitmise eesmärgil töövõtja valduses. 
+	•	Pooled vabanevad lepingust tulenevate ja sellega seotud kohustuste täitmisest osaliselt või täielikult, kui seda takistab vääramatu jõud. Vääramatu jõu esinemisest tuleb teist poolt viivitamata kirjalikult teavitada. Vääramatu jõu esinemist peab tõendama see pool, kes soovib viidata nimetatud asjaolule, vabaneda õigusaktidest või lepingust tulenevate kohustuste täitmisest või vastutusest endale võetud kohustuste rikkumise eest.
+	•	Viivised ja leppetrahv
+	•	Kui pool rikub lepingust tulenevat maksekohustust, on teisel poolel õigus nõuda viivist alates maksetähtpäevale järgnevast päevast kuni makse tegeliku tasumise päevani lepingus sätestatud viivisemäära ulatuses. Kui lepingus ei ole viivisemäära sätestatud, on poolel õigus nõuda viivist seaduses sätestatud määras. Poolel on õigus viivis tasaarvestada teisele poolele tasumisele kuuluvate summadega õigusaktides ettenähtud korras. 
+	•	Tellijal on õigus nõuda töövõtjalt leppetrahvi rikkumiste eest poolte poolt lepingus kokku lepitud ulatuses. Tellija on kohustatud leppetrahvi nõude esitama või nõude esitamisest teatama hiljemalt 5 (viie) tööpäeva jooksul alates päevast, mil ta sai või pidi rikkumisest teada saama. Kui tellija nimetatud tähtaja jooksul leppetrahvi nõuet ei esita, kuid esitab sama aja jooksul teate leppetrahvi nõudmise kohta, on ta kohustatud leppetrahvi üksikasjaliku nõude esitama hiljemalt täitmisakti allkirjastamise kuupäevaks. Kui tellija nimetatud tähtaegade jooksul leppetrahvi nõuet või nõude esitamise kohta teadet ei esita, ei ole tal hiljem õigust leppetrahvi nõuda. 
+	•	Tellija poolt töövõtja suhtes rakendatavate leppetrahvide summa ei ületa 5 (viit) protsenti lepingu hinnast (arvestatuna summast ilma käibemaksuta), kui lepingus ei ole kokku lepitud teisiti.
+	•	Tellijal on õigus leppetrahv tasaarvestada tellija poolt töövõtjale tasumisele kuuluvate summadega õigusaktides ettenähtud korras.
+	•	Lepingu peatamine
+	•	Tellijal on õigus tööde tegemine või lepingu täitmine tervikuna peatada järgmistel juhtudel, ilma et sellega kaasneks töövõtja õigus pikendada lepingu tähtaega ja nõuda tellijalt sellega kaasnevate kulutuste hüvitamist:
+	•	punktides 4.4.2.3 (alltöövõtjad) ja 14.1.3 (spetsialistid) sätestatud alustel – õigus peatada tööd, teatades sellest 3 (kolm) tööpäeva ette;
+	•	haldusorgan teeb ehitise või tööde kohta ettekirjutuse, mis ei võimalda tööde tegemist jätkata – õigus peatada tööd ilma ette teatamata;
+	•	tellijal on põhjendatud kahtlusi töövõtja tahtes ja võimes (sh kvalifikatsioonis) lepingut nõuetekohaselt täita – õigus peatada tööd, teatades sellest 3 (kolm) tööpäeva ette;
+	•	töövõtja ei täida ehitusplatsil ohutusnõudeid vm nõudeid, mistõttu võib kahjustada saada inimeste elu, tervis, vara või võivad tekkida keskkonnakahjustused – õigus peatada tööd ilma ette teatamata.
+	•	Töövõtjal on õigus tööde tegemine või lepingu täitmine tervikuna peatada ja nõuda lepingu tähtaja pikendamist peatamise aja võrra ning sellega kaasnevate kulutuste hüvitamist tellijalt, kui:
+	•	tellija viivitab lepingus kokkulepitud maksekohustuse täitmisega 10 (kümme) tööpäeva või rohkem – õigus peatada lepingu täitmine kuni maksekohustuse täitmiseni;
+	•	tellija ei anna töövõtjale hoolimata tema nõudmisest enam kui 10 (kümne) tööpäeva jooksul teavet, mis on vajalik lepingu täitmiseks ning selle puudumise tõttu on takistatud tööde tegemine tervikuna – õigus peatada lepingu täitmine kuni vajaliku teabe saamiseni tellijalt;
+	•	esineb punktis 12.1.7 viidatud alus lepingu peatamiseks.
+	•	Kui lepingu täitmine on peatunud 10 (kümme) tööpäeva või enam, koostavad pooled ühe poole nõudmisel kirjaliku akti tehtud tööde protsentuaalse valmidusastme kohta. Kui pool on esitanud nõude tööde valmidusastme fikseerimiseks, toimub tehtud tööde ülevaatamine, mõõtmine ja hindamine hiljemalt 5 (viie) tööpäeva jooksul pärast vastava nõude kättesaamist ning toimingutele kohaldatakse punkti 10.1 alapunkte.
+	•	Lepingust taganemine
+	•	Tellijal on õigus lepingust taganeda, kui töövõtja viivitab tööde alustamisega 21 (kakskümmend üks) kalendripäeva või rohkem.
+	•	Lepingu ülesütlemine
+	•	Tellijal on õigus leping korraliselt ja ilma, et see oleks tingitud töövõtjapoolsest lepingu rikkumisest, üles ütelda igal ajal. Sellisel juhul on töövõtjal õigus nõuda tasu kõikide akteeritud tööde eest, ning muude põhjendatud ja tõendatud kulude hüvitamist, mis kaasnevad töövõtjale seoses lepingu ülesütlemisega tellija poolt.
+	•	Tellijal on õigus leping erakorraliselt üles ütelda järgmistel juhtudel:
+	•	töövõtja ei ole esitanud ajagraafikut, lepingus nõutavaid tagatisi või kindlustusi ega tee seda ka tellija antud mõistliku lisatähtaja jooksul;
+	•	töövõtja tegevusest või tegevusetusest tingitud mahajäämus ajagraafikust on 20 (kakskümmend) tööpäeva või rohkem, kui lepingus ei ole kokku lepitud teisiti, ja töövõtja ei ole mahajäämust likvideerinud ka tellija antud mõistliku lisatähtaja jooksul, mis ei ole siiski pikem kui 10 (kümme) tööpäeva;
+	•	tööde tegemise protsess või kvaliteet ei vasta lepingule ning töövõtja ei ole mittevastavusi kõrvaldanud ka tellija antud mõistliku lisatähtaja jooksul;
+	•	töövõtja ei täida lepingus kokku lepitud nõudeid või on tema tegevus muul viisil vastuolus lepinguga ja töövõtja ei ole rikkumist kõrvaldanud ka tellija antud mõistliku lisatähtaja jooksul;
+	•	töövõtja suhtes kuulutatakse välja pankrot;
+	•	töövõtja pole võimeline täitma lepingut ega suuda anda usaldusväärset tagatist lepingust tulenevate kohustuste nõuetekohase täitmise kohta tellija määratud mõistliku tähtaja jooksul;
+	•	muudel õigusaktides sätestatud juhtudel, kui lepingus ei ole kokku lepitud teisiti.
+	•	Kui tellija ütleb lepingu üles punkti 12.5.2 alusel, on töövõtjal õigus nõuda tasu tegelikult tehtud tööde eest, millest tellijal on õigus maha arvestada lepingu ülesütlemise ja tööde katkestamisega kaasnevad tõendatud kahjud, sh tööde kallinemisega kaasnevad kahjud, juba teostatud tööde kahjustumise ning tööde ümbertegemise kulud, samuti lepingu täitmisega seotud leppetrahvid ja viivised ning muud lepingu alusel maha arvestamisele kuuluvad summad (nt ettemaks jm). Tähtaegadest mittekinnipidamisega seotud leppetrahve arvestatakse kuni lepingu ülesütlemise jõustumiseni.
+	•	Töövõtjal on õigus leping erakorraliselt üles öelda järgmistel juhtudel:
+	•	töövõtja on kasutanud lepingust tulenevat õigust lepingu peatamiseks ning peatamise aluseks olev asjaolu ei ole ära langenud 30 (kolmekümne) kalendripäeva jooksul pärast seda, kui tellija tööde peatamisest teada sai või teada saama pidi;
+	•	tellija ei anna lepingus kokku lepitud tagatist lepingus sätestatud tähtajaks ega tee seda ka töövõtja poolt antud mõistliku lisatähtaja jooksul;
+	•	tellija suhtes kuulutatakse välja pankrot.
+	•	Kui töövõtja ütleb lepingu üles punkti 12.5.4 alusel, on tellija kohustatud tasuma töövõtjale tegelikult tehtud tööde eest ja hüvitama töövõtjale kõik lepingu ülesütlemisega kaasnenud tõendatud kulud. Kui lepingus on kokku lepitud töövõtja õigus kohaldada leppetrahvi, arvestatakse seda kuni lepingu ülesütlemise jõustumiseni.
+	•	Lepingu ülesütlemise korral tehakse tehtud tööde ülevaatamine, mõõtmine ja hindamine hiljemalt 5 (viie) tööpäeva jooksul pärast lepingu ülesütlemise jõustumist ning toimingutele kohaldatakse punkti 10.1 alapunkte.
+	•	Intellektuaalse ja tööstusomandiõigus
+	•	Töövõtjale kuuluvad autori- ning muud intellektuaalse omandi õigused töövõtja dokumentidele (sh ehitusprojektile), mis on koostatud töövõtja poolt või tema nimel, välja arvatud ulatuses, milles need õigused kuuluvad kolmandatele isikutele (nt töövõtja alltöövõtjatele vm isikutele). Selliste materiaalsete objektide omandiõigus, milles lepingu täitmise käigus loodud teosed on väljendatud (nt ehitusprojekt jm dokumendid), kuulub tellijale. 
+	•	Tellijale kuuluvad autori- ning muud intellektuaalse omandi õigused lepingu dokumentidele (sh ehitusprojektile), mis on koostatud tellija poolt või tema nimel, välja arvatud ulatuses, milles need õigused kuuluvad kolmandatele isikutele (nt kõrvaltöövõtjatele vm isikutele).
+	•	Tööga seotud autori- ja litsentsitasud kannab pool, kes on kohustatud teostama või teostab selliseid lepingust tulenevaid tegevusi, mis on seotud kolmandate isikute intellektuaalse omandi õiguste kaitsega, kui lepingus ei ole kokku lepitud teisiti. 
+	•	Juhul kui leping mistahes põhjusel lõpeb enne tähtaja lõppu või kuulutatakse välja töövõtja pankrot, eeldatakse, et tellijale on lepingu ülesütlemisega või pankroti väljakuulutamisega üle antud ainulitsents lepingu täitmise käigus loodud autoriõigusega kaitstavatest teostest (ennekõike koostatud ehitusprojektist) tulenevate varaliste ja isiklike autoriõiguste teostamiseks koos õigusega selliseid õigusi all-litsentseerida kogu autoriõiguse kehtivuse perioodil ning tellija õigusi selliste teoste kasutamiseks ei ole piiratud. Sellisel juhul eeldatakse, et autoriõiguste eest makstav autoritasu on töövõtjale tasutud lepingu alusel tööde eest tasutud summadega ning tellijal ei ole kohustust töövõtjale, teoste autoritele või mistahes kolmandatele isikutele selle eest lisaks tasu maksta.
+	•	Teabevahetus ja koostöö
+	•	Poolte esindajad ja nende volitused lepingu täitmisel
+	•	Tellija ja töövõtja esindajate nimed ja isikud nimetatakse lepingus või teisele poolele esitatavas eraldi volikirjas. Juhul kui lepingus on töövõtjaks märgitud mitu isikut (ühispakkujad), on töövõtja esindajaks lepingu täitmisega seotud toimingute teostamisel ühispakkujate poolt ühiselt volitatud ühispakkuja.
+	•	Kui lepingus ei ole poole esindaja volituste ulatust eraldi kindlaks määratud, eeldatakse, et poole esindajal on tööde tegemisel (sh nende üleandmisel ja vastuvõtmisel) kõik poole õigused ja kohustused, välja arvatud õigus muuta ja lõpetada lepingut, kuna see õigus peab sõnaselgelt tulenema õigusaktist, lepingust või volikirjast. 
+	•	Juhul kui leping on sõlmitud toetuse saaja ostu tulemusena, peab töövõtja lepingu täitmisel töövõtja esindajana kasutama neid spetsialiste, keda ta oli nimetanud pakkumuse koosseisus olevates dokumentides. Juhul kui töövõtja soovib sellised spetsialistid asendada, peab ta selle eelnevalt kirjalikult kooskõlastama tellijaga. Töövõtja valitud uued spetsialistid peavad vastama vähemalt samadele nõuetele, mis oli esitatud pakkujale toetuse saaja ostu kvalifitseerimistingimustes konkreetse tööga seoses. Tellijal on õigus keelduda spetsialisti kasutamiseks nõusoleku andmisest, kui spetsialist ei vasta eelnimetatud nõuetele. Nõusoleku saamiseks esitab töövõtja tellijale kirjalikku taasesitamist võimaldavas vormis taotluse spetsialisti kasutamiseks või vahetamiseks ning esitab koos taotlusega andmed ja dokumendid, mille alusel on tellijal võimalik hinnata spetsialisti vastavust eelnimetatud tingimustele. Pakkumuse koosseisus olevates dokumentides nimetatud spetsialiste täiendavalt kooskõlastama ei pea. Tellijal on õigus nõuda tellijaga mittekooskõlastatud spetsialistide eemaldamist tööde tegemiselt ning ehitusplatsilt ning vajaduse korral peatada tööde tegemine kuni lepingus sätestatud nõuetele vastavate spetsialistide kaasamiseni töövõtja poolt. 
+	•	Peale muude õiguste on tellija esindajal õigus igal ajal käia ja viibida ehitusplatsil ning teistes töö täitmisega või selleks vajalike ehitustoodete ja  konstruktsioonide valmistamisega seotud kohtades, järgides töövõtja kehtestatud korda ning ohutust. Samuti on tellija esindajal õigus teha kõiki vajalikke lepingu täitmisega seotud toiminguid, sh kontrollmõõtmisi, kasutades selleks eksperte, tarvitada kokkulepitud tingimuste kohaselt selleks töövõtja tööriistu ja seadmeid ning saada töövõtjalt vajalikku abi.
+	•	Lepingu täitmise ajal peab ehitusplatsil viibima töövõtja esindaja, kellele tellijal on õigus anda tööga seotud juhiseid.
+	•	Kui pool leiab, et teise poole esindaja või muu poole nimel või korraldusel tegutsev isik ei ole pädev ning seetõttu on takistatud töö tegemine või võib kannatada töö kvaliteet, on pool kohustatud sellest teisele poolele viivitamata teatama.
+	•	Lepingus sätestatud kontaktisikute muutumisest teavitab pool teist poolt viivitamata kirjalikult.
+	•	Koosolekud ja nõupidamised. Teave töö käigu kohta
+	•	Korralisi töönõupidamisi peetakse ehitusplatsil vähemalt üks kord nädalas, kui lepingus ei ole kokku lepitud teisiti. Erakorraline töönõupidamine toimub ühe poole nõudmisel hiljemalt 3 (kolme) tööpäeva jooksul pärast sellekohase kirjaliku teate esitamist teisele poolele. Korralisi töönõupidamisi juhib tellija, kui lepingus ei ole kokku lepitud teisiti. 
+	•	Nõupidamiste käigu ja sisu protokollib tellija esindaja, kui ei ole kokku lepitud teisiti. Poolte esindajad allkirjastavad nõupidamiste protokollid hiljemalt 3 (kolme) tööpäeva jooksul pärast koosoleku toimumist. Juhul kui pool ei nõustu protokolli sisuga, ei ole tal õigust keelduda protokolli allkirjastamast ning sellisel juhul lisatakse protokolli poolte eriarvamused ja allkirjastatakse see. Juhul kui pool keeldub eeltoodust hoolimata protokolli allkirjastamast, tehakse protokolli märge teise poole allkirjastamisest keeldumise kohta ning protokoll loetakse pooltele siduvaks. Käesolev punkt laieneb kõikidele lepingu alusel ja sellega seoses poolte vahel vormistatavatele dokumentidele, kui lepingust ei tulene teisiti.
+	•	Tellijal on igal ajal õigus töövõtjalt nõuda teavet töö käigu kohta. Töövõtja peab tellija nõudel esitama korrapäraselt teavet töö käigu kohta, edastades tellija nõutavad andmed ja üksikasjad.
+	•	Teadete edastamine
+	•	Teated ja muu teave peab olema esitatud eesti keeles. 
+	•	Kõikidel juhtudel, kui lepingus on sätestatud kirjaliku vormi nõue, tähendab see ka kirjaliku vormiga võrdset elektroonilist (digitaalallkirjastatud) vormi. Juhul kui lepingus ei ole kokku lepitud teisiti, loetakse teade teisele poolele edastatuks, kui see on lepingus märgitud aadressil käest-kätte (tõendi vastu) üle antud, saadetud tähtkirja või kulleriga või e-posti teel digiallkirjastatuna edastatud.
+	•	Teated, mis lepingu kohaselt ei pea olema kirjalikus vormis, peavad olema koostatud vähemalt kirjalikku taasesitamist võimaldavas vormis (nt ekirjana vm). Igal sellisel dokumendil peab olema märgitud dokumendi koostaja ja allkirjastaja nimi ning ametikoht, dokumendi koostamise kuupäev ja vajaduse korral kellaaeg. 
+	•	Pool kohustub kirjalikult ja viivitamata (kuid siiski hiljemalt 5 (viie) tööpäeva jooksul) teavitama teist poolt selliste asjaolude ilmnemisest, mis võivad takistada töö nõuetekohast (sh tähtaegset) tegemist (mõju tähtajale, hinnale, kvaliteedile, vastupidavusele vm) või lepingu muul viisil täitmist (avariid, õnnetused vm asjaolud), olenemata asjaolude tekkepõhjusest. 
+	•	Avariidest ja õnnetustest teavitamine peab toimuma sellise sidevahendi teel, mis võimaldab teabe jõudmist tellijani minimaalse viivitusega. Töövõtja peab esimesel võimalusel esitama tellijale lisateate nimetatud asjaolude või sündmuste kohta ka kirjalikult.
+	•	Teabe konfidentsiaalsus
+	•	Leping on konfidentsiaalne. Konfidentsiaalsuskohustus kehtib nii lepinguperioodil kui ka tähtajatult pärast lepingu lõppemist. 
+	•	Poolel ei ole õigust anda kolmandatele isikutele teavet lepingu sisu, teise poole finantsseisundi, finantseerimisallikate, juhtimissüsteemi ega majandusliku tegevuse kohta, välja arvatud järgmistel juhtudel:
+	•	teabe avaldamise kohustus on ette nähtud seaduses;
+	•	pool annab teabe avaldamiseks kirjaliku nõusoleku;
+	•	pool annab teavet advokaatidele, õigusnõustajatele, audiitoritele, finantsnõustajatele, krediidiasutustele ja alltöövõtjatele, kui see on lepingu täitmise korraldamise eeldus ning tingimusel, et nimetatud isikud hoiavad saadud teavet konfidentsiaalsena;
+	•	tellija annab teavet omanikujärelevalve tegijale oma õigusaktidest tulenevate kohustuste täitmiseks;
+	•	juhul kui leping on sõlmitud toetuse saaja ostu tulemusena, annab tellija teavet riigihangete registrile ja muudele pädevatele riigiasutustele, sh vajaduse korral ehitise tulevastele kasutajatele.
+	•	Vaidluste lahendamine
+	•	Pooled kohustuvad rakendama kõiki asjakohaseid abinõusid, et lahendada lepingust tulenevad vaidlusküsimused läbirääkimiste teel, lähtudes heast äritavast ja mitte kahjustades seejuures teise poole lepingust ja õigusaktidest tulenevaid seaduslikke õigusi ja huve.
+	•	Vaidluse lahendamiseks võivad pooled nimetada mõlemale poolele sobiva eksperdi. Ekspertiisitasu maksab lepingu pool, kelle süü tuvastati ekspertiisi käigus. Eksperdi kasutamine ei piira ega vähenda poole õigust pöörduda vaidluse lahendamiseks kohtusse.
+	•	Läbirääkimiste teel kokkuleppele mittejõudmisel lahendatakse kõik lepingust tulenevad vaidlusküsimused õigusaktidega ettenähtud korras. Sellisel juhul kohaldatakse vaidluse lahendamisele Eesti Vabariigi materiaal- ja protsessiõigust ning vaidlused lahendatakse Eesti Vabariigis asuvas kohtus, kui lepingus ei ole kokku lepitud teisiti.
+	•	Lõppsätted
+	•	Poolel on õigus loovutada lepingust tulenevaid õigusi ja kohustusi osaliselt või tervikuna üksnes teise poole eelneval kirjalikul nõusolekul. Poolel on õigus keelduda loovutamiseks nõusoleku andmisest muu hulgas juhul, kui see on seotud julgeolekukaalutlustega ning õigusaktidest tulenevate nõuete või piirangutega.
+	•	Pooled avaldavad ja kinnitavad, et lepingu sõlmimisega ei ole nad rikkunud ühtki kohustust, mis tuleneb õigusaktidest, poole põhikirjast, põhimäärusest või muust poole jaoks kohustuslikust dokumendist või nõudest ning lepingu sõlmimine ei ole vastuolus poole varem sõlmitud lepingutega.
+	•	Leping jõustub pärast selle allkirjastamist poolte poolt ning kehtib kuni lepinguga võetud kohustuste kohase täitmiseni või lepingu lõppemiseni lepingus sätestatud juhtudel.
+	•	Kui leping allkirjastatakse digitaalselt, siis loetakse see võrdseks lepingu kirjaliku vormiga. Lepingu sõlmimise kuupäevaks on sellisel juhul hilisema allkirja andmise kuupäev.
+
+
+=== 9790984_Pakkumuskutse_.docx ===
+PAKKUMUSKUTSE
+Rekonstrueerimistööd
+
+Toetuse saaja(d):
+Ostumenetluse läbiviimiseks volitatud isik:
+Pärnu linn, Mai tn 5 korteriühistu (80024724)
+Ettevõtluse ja Innovatsiooni Sihtasutus, registrikood 90006012, aadress Sepise tn 7, 11415 Lasnamäe linnaosa, Tallinn, Harju maakond
+Toetuse saaja ostu viitenumber: 
+304794
+Toetuse saaja ostu nimetus:
+Pärnu linn, Mai tn 5 korteriühistu terviklik rekonstrueerimine ehitustöövõtt (EIS)
+Pakkumuse esitamise tähtaeg:
+14/ 30 kalendripäeva alates toetuse saaja ostu väljakuulutamisest
+Lisad:
+Hankelepingu projekt, lähteülesanne, RHR-is avaldatud teave
+
+	•	Pakkumuse esitamise kutse
+	•	Toetuse saaja ostu alusdokumentide (edaspidi ka „alusdokumendid”) koostamisel on toetuse saaja lähtunud toetust reguleerivate õigusaktide tingimustest. Tegemist ei ole riigihankega riigihangete seaduse mõttes.
+	•	Alusdokumentide hulka kuuluvad: 
+	•	Käesolev lähteülesanne koos kõikide lisadega; 
+	•	Ostumenetluses riigihangete registris (edaspidi “RHR”) avaldatud teave, sh hanketeade (edaspidi “hanketeade”), kõrvaldamise alused, kvalifitseerimistingimused, vastavustingimused, hindamiskriteeriumid ja kõik enne pakkumuste esitamise tähtpäeva saadetud info ja dokumendid, millega on muudetud, selgitatud või täpsustatud alusdokumentide nõudeid.
+	•	Toetuse saaja võib muuta hanketeadet ja/või alusdokumente enne pakkumuste esitamise tähtpäeva, jättes olulise muudatuse järel vähemalt 10 kalendripäeva pakkumuste esitamiseni. Pakkumuste esitamise tähtaega ei pea pikendama, kui dokumentides on tehtud üksnes vormiline või selgitav muudatus, mis ei saa mõjutada juba esitatud pakkumuste sisu.
+	•	Toetuse saaja teeb ettepaneku esitada pakkumus vastavalt alusdokumentides sisalduvatele tingimustele RHR-i kaudu.
+
+	•	Kui ostu objektiks on üks korterelamu: Ühe korterelamu ostu korral märgitakse lepingu eeldatavaks maksumuseks toetuse taotluses kajastatud korterelamu rekonstrueerimistööde või projekteerimis- ja rekonstrueerimistööde eeldatav maksumus
+
+	•	Naabruskonnapõhise rekonstrueerimise korral: Eeldatava maksumusena märgitakse toetuse taotluses kajastatud kõrgeima maksumusega korterelamu rekonstrueerimistööde või projekteerimis- ja rekonstrueerimistööde eeldatav maksumus. Kui rekonstrueerimistööde või projekteerimis- ja rekonstrueerimistööde ostumenetlus hõlmab mitut sama toetuse saaja korterelamut või kahe või enama toetuse saaja korterelamut, peab ostumenetluses esitatav hinnapakkumus kajastama iga korterelamu tööde ja teenuste kulu eristavalt.
+	•	Protsess
+
+	•	Pakkumus
+Pakkumuse koostamine
+	•	Pakkumus peab vastama alusdokumentides sätestatud tingimustele. Pakkumuses esitatud andmed peavad olema esitatud viisil, mis võimaldavad toetuse saajal kontrollida pakkumuse vastavust alusdokumendis toodud tingimustele.
+	•	Pakkumuse esitamisega kinnitab pakkuja kõigi alusdokumentides esitatud tingimuste ülevõtmist.
+	•	Iga viidet, mille toetuse saaja teeb mõnele ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule või tootmisviisile, mis võiks anda mõnele ettevõtjale või tootele eeliseid teiste ees või nende osaluse välistada, tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne”. Samaväärsusele tuginemisel esitab pakkuja pakkumuses samaväärsust tõendavad dokumendid.
+	•	Pakkumuse maksumus esitatakse eurodes ja vastavalt RHR-is toodud struktuurile. Pakkumuse maksumus peab olema lõplik. Maksumus peab sisaldama nii kõiki kulusid vastavalt alusdokumendile kui ka seal nimetamata kulusid, mis on vajalikud lepingu nõuetekohaseks täitmiseks. Toetuse saaja ei hüvita lepingu täitmisel pakkujale mingeid täiendavaid kulusid ega tee täiendavaid makseid.
+	•	Pakkujal võib olla vajadus esitada pakkumuse maksumus nii RHR-i vormil kui ka toetuse saaja poolt koostatud vormil. Juhul, kui pakkuja esitatud andmed on neil vormidel erinevad, siis lähtub toetuse saaja pakkumuse hindamisel toetuse saaja koostatud vormil esitatud maksumustest.
+	•	Kui pakkumuse maksumuses esineb ilmne arvutusviga, on toetuse saajal õigus lubada pakkujal viga parandada koheselt või parandada see ise, teavitades parandusest viivitamatult ka pakkujat läbi registri. Kui pakkuja arvutusvea parandamisega ei nõustu, lükkab toetuse saaja pakkuja pakkumuse tagasi.
+	•	Pakkumus ei tohi olla mis tahes viisil eksitav. Pakkuja ei saa omalt poolt teha muudatusi, reservatsioone ega seada omapoolseid tingimusi alusdokumentides esitatud nõuete kohta. Tingimusliku pakkumuse esitamine ei ole lubatud.
+	•	Alternatiivsete lahenduste esitamine ei ole lubatud.
+	•	Ühispakkujad peavad esitama ühispakkumuse volikirja. Volikirjas peab pakkuja märkima iga ühispakkuja poolt täidetava lepingu osa suuruse ja iseloomu. 
+	•	Juhul kui volikirja ei ole esitatud, tuleb pakkujal esitada see hiljemalt 10 kalendripäeva jooksul arvates vastava päringu saamisest toetuse saajalt või teda esindavalt isikult.
+	•	Ühispakkumuse korral sõlmivad ühispakkujad koos lepingu ja vastutavad selle täitmise eest solidaarselt kuni lepingus toodud kõigi kohustuste täitmiseni. Pakkujana käsitletakse iga ühispakkujat.
+	•	Ühispakkumuse esitanud ettevõtjad ei pea olema moodustanud juriidilist isikut ega olema ühinenud muus õiguslikus vormis.
+	•	Pakkumuse dokumendid tuleb esitada üldlevinud dokumendi formaadis (.pdf; .txt; .rtf; .odt ja MS Office formaadid). 
+	•	Ühe üleslaetava faili maht ei tohi RHR-is ületada 100 MB. Pakkumuse dokumentide kogumaht ei tohi ületada 300MB.
+	•	Huvitatud isik või pakkuja kannab ostumenetluses osalemisega seotud kogukulud ja -riski, kaasa arvatud vääramatu jõu (force majeure) toime võimalused. 
+	•	Kui pakkumuses sisaldub ärisaladus, märgib pakkuja, milline teave on pakkuja ärisaladus ning põhjendab teabe ärisaladuseks määramist. Juhul kui pakkuja ei ole ärisaladust märkinud, eeldab toetuse saaja, et pakkuja pakkumuses puudub ärisaladus.
+Pakkumuse esitamine
+	•	Pakkumus tuleb esitada elektrooniliselt RHR-i (https://riigihanked.riik.ee) vahendusel.
+	•	Pakkumus peab olema esitatud pakkuja seadusjärgse või volitatud esindaja poolt. Juhul, kui pakkumuse esitab isik, kes ei ole Eesti äriregistri registrikaardi väljatrükile kantud isikuna, kellel on pakkuja seadusjärgne esindamise õigus, siis peab pakkuja toetuse saaja nõudel esitama seadusjärgse esindaja(te) volikirja pakkuja esindamiseks.
+	•	Toetuse saaja ei vastuta võimalike viivituste, tõrgete või katkestuste eest, mille põhjustavad RHR-is toetuse saaja kontrolli alt väljas olevad asjaolud nagu force majeure, elektrikatkestused, häired pakkuja või toetuse saaja telefoni- või internetiühenduses või muude elektrooniliste seadmete ja vahendite, sealhulgas tarkvara töös. Toetuse saaja ei vastuta RHR-i kasutamisest või mittekasutamisest tekkinud kahjude või saamata jäänud tulu eest.
+	•	Toetuse saaja avab pakkumused elektrooniliselt RHR-is. Pakkumuste avamine ei ole avalik. 
+	•	Kui laekunud pakkumused ei ületa ostumenetluses avaldatud lepingu eeldatavat maksumust, avaldatakse pakkujate nimed ja pakkumuste maksumused kõigile pakkujatele hiljemalt 7 kalendripäeva jooksul arvates pakkumuste esitamise tähtajast registri kaudu. Läbirääkimiste kasutamise korral avaldatakse pakkujate nimed ja kohandatud pakkumuste maksumused kõigile pakkujatele hiljemalt 7 kalendripäeva jooksul arvates läbirääkimiste lõppemisest.
+
+Pakkumuse vastavus
+	•	Vastavustingimused asuvad RHR-is hankemenetluse alusandmete all. 
+	•	Toetuse saaja tunnistab pakkumuse vastavaks, kui see vastab alusdokumentides sätestatud nõuetele. 
+	•	Kui toetuse saaja korterelamu rekonstrueerimisel on ehitusprojektis või projekteerimise lähteülesandes nähtud ette eeltoodetud elementide kasutamine, esitatakse elementide tootja kirjalik kinnitus, millest peab nähtuma elementide tootja valmidus osaleda lepingu täitmisel, juhul kui pakkuja pakkumus osutub edukaks pakkumuseks. Elementide tootja kirjaliku kinnituse esitamiseks annab toetuse saaja pakkujale kuni 10 kalendripäevase tähtaja juhul kui vastav kinnitus ei ole esitatud koos pakkumusega.
+	•	Kasutada juhul, kui pakkumusvormi esitamist soovitakse: Alusdokumentide hulgas on ette nähtud pakkumusvorm, mis tuleb esitada koos pakkumusega ja milles on toodud kogumaksumuses sisalduvad kulud. Pakkumusvormi esitamata jätmisel või selle puudulikul täitmisel annab toetuse saaja pakkujale 10- kalendripäevase tähtaja täidetud pakkumusvormi, milles peavad kajastuma kõik toetuse saaja poolt ettenähtud kuluread, esitamiseks. Pakkumusvormiga ei muudeta pakkumusega koos esitatud pakkumuse kogumaksumust. Pakkumisvormi on lubatud ridu lisada.
+
+Pakkuja kvalifitseerimine
+	•	Kvalifitseerimistingimused asuvad RHR-is hankemenetluse alusandmete all, alajaotises kõrvaldamise alused ja kvalifitseerimistingimused.
+	•	Juhul, kui pakkujal ei ole võimalik täita kõiki kvalifitseerimistingimusi üksinda, kaasab pakkuja pakkumuse esitamiseks teise ettevõtja, kes täidab vastava tingimuse, ühispakkujana. Kvalifitseerimistingimus loetakse täidetuks, kui vähemalt ühel ühispakkumuses osalevatest ettevõtjatest on vastav kvalifitseerimistingimus üksinda täidetud, tingimuse täitmiseks andmete summeerimine ei ole lubatav. 
+	•	Pakkuja ostumenetluse algatamisele eelneva majandusaasta netokäive peab olema minimaalselt võrdne sõlmitava lepingu kahekordse eeldatava maksumusega (arvestatuna, et lepingu eeldatav maksumus esitatakse alati käibemaksuta summana).
+
+	•	Pakkuja peab olema ostumenetluse algamisele eelneva 60 kuu jooksul teostanud vähemalt ühe samaväärse ehitustöö maksumusega määras, mis on võrdne vähemalt poolega sõlmitava lepingu eeldatavast maksumusest. Samaväärseks ehitustööks loetakse hoonete püstitamise, laiendamise ja/või kogu hoone mahus rekonstrueerimistööd ehitustööde peatöövõtjana, mille puhul on teostatud mh vähemalt järgnevad ehitustööd: hoone kande- ja välispiirete ehitamine või rekonstrueerimine, soojustagastusega sundventilatsiooni ehitamine või rekonstrueerimine, uue küttesüsteemi ehitamine või rekonstrueerimine.
+
+	•	Pakkuja meeskonnas peavad korterelamu terviklikul rekonstrueerimisel igakordselt olema järgmised pädevad või välismaise pakkuja puhul samaväärse pädevusega isikud, kelle tehnilise ja kutsealase pädevuse nõuetele vastavust tõendatakse järgnevate pädevustega:
+	•	projektijuht, kellel on vähemalt ehitusinseneri kutse, tase 6 spetsialiseerumisega hoonete ehitusele, valitava kompetentsiga ehitustegevuse juhtimine või ehitusjuhi kutse, tase 6, spetsialiseerumisega üldehituslikule ehitamisele;
+	•	objektijuht, kellel on vähemalt ehituse tööjuhi kutse, tase 5, tervikspetsialiseerumisega üldehitustööde tegemine;
+	•	ventilatsiooni- ja küttesüsteemide spetsialist, kellel on vähemalt kütte-, ventilatsiooni- ja jahutuseinseneri kutse, tase 6 kompetentsidega ehitustegevuse juhtimine küttesesüsteemide ehitamisel ja ehitustegevuse juhtimine ventilatsioonisüsteemide ehitamisel või ehitusjuhi kutse, tase 6, spetsialiseerumisega sisekliima tagamise süsteemide ehitamisele;
+	•	veevarustuse- ja kanalisatsioonisüsteemide spetsialist, kellel on vähemalt veevarustuse- ja kanalisatsiooniinseneri kutse, tase 6 kompetentsiga ehitustegevuse juhtimine või ehitusjuhi kutse, tase 6, spetsialiseerumisega hoonesisese või selle juurde kuuluva veevarustuse ja kanalisatsioonisüsteemi ehitamisele;
+	•	elektritööde teostamisel isik, kellel on vähemalt B-klassi pädevustunnistus või elektriinseneri kutse tarbija elektripaigaldiste alal, tase 6.
+	•	Pakkuja peab olema esitanud majandustegevuse registris tegevusalal „Ehitamine“ majandustegevusteate tegevusala liikidega: üldehituslik ehitamine, sisekliima tagamise süsteem, hoonesisene või selle juurde kuuluv veevarustuse või kanalisatsioonisüsteem.
+	•	Elektritööde teostamisel peab pakkuja olema esitanud majandustegevuse registris majandustegevusteate tegevusalal „Elektritööd“ tegevusala liigiga elektripaigaldise ehitamine, sealhulgas paigaldamine.
+	•	Punktides 3.24 ja 3.25 sätestatud majandustegevuse registri registreeringu nõuet ei kohaldata välismaisele pakkujale. Asjakohasel juhul tõendab pakkuja oma pädevust samaväärse tõendiga.
+	•	Pakkujal peab olema ehitustööde tegevusvaldkonnas rakendatud kvaliteedijuhtimissüsteem, mis vastab vähemalt EVS-EN ISO 9001 standardis, ja keskkonnajuhtimissüsteem, mis vastab vähemalt EVS-EN ISO 14001 standardis, või samaväärsetes dokumentides sätestatud tingimustele.
+	•	Kui pakkuja ei ole esitanud pakkumusega koos tõendeid kvalifitseerimistingimuse täitmise kohta ning vastava tingimuse täitmist ei ole toetuse saajal võimalik kontrollida avalikest registritest, annab toetuse saaja pakkujale 10-kalendripäevase tähtaja vastavate dokumentide ja andmete, mis tõendavad kvalifitseerimistingimuse täitmist, esitamiseks. Kui vastavaid andmeid ja dokumente ei esitata eelmises lauses määratud tähtaja jooksul, kuulub selline pakkuja kvalifitseerimata jätmisele.
+	•	Kui pakkuja soovib oma meeskonna pädevuse tõendamiseks kasutada meeskonna liikmetena isikuid, kes ei ole pakkuja töötajad või nad ei ole pakkuja pädevate isikutena märgitud avalikus registris, esitatakse iga sellise füüsilise isiku kirjalik kinnitus, millest nähtub nõusolek enda kaasamiseks ning lepingu täitmisel pakkuja meeskonna liikmena osalemiseks hiljemalt 10 kalendripäeva jooksul arvates vastavasisulise päringu saamisest toetuse saajalt või teda ostumenetluses esindavalt isikult.
+	•	Pakkuja kinnitab pakkumuse esitamisega, et hiljemalt lepingu sõlmimise kuupäevaks on tal võimalus anda toetuse saajale krediidi- või finantseerimisasutuse kinnitatud täitmisaja tagatis viie protsendi ulatuses lepingu maksumusest. Lepingu maksumuseks loetakse edukas pakkumuses sisalduv rekonstrueerimistööde või projekteerimis- ja rekonstrueerimistööde maksumus ilma käibemaksuta, millele liidetakse, juhul kui see on ette nähtud, reserv ilma käibemaksuta summana. Juhul, kui pooled sõlmivad lepingu enne toetuse saajale tagatise esitamist, peab pakkuja esitama toetuse saajale tagatise hiljemalt 10 kalendripäeva jooksul lepingu sõlmimisest. Kui enne lepingu sõlmimist selgub, et edukas pakkuja ei saa tagatist anda enne lepingu sõlmimist ega hiljemalt 10 kalendripäeva jooksul lepingu sõlmimisest, jätab toetuse saaja eduka pakkujaga lepingu sõlmimata ning tunnistab edukaks paremusjärjestuses järgmise pakkuja. Juhul, kui leping on juba sõlmitud, kuid pakkuja ei anna vastavat tagatist hiljemalt 10 kalendripäeva jooksul lepingu sõlmimisest, alustab toetuse saaja õiguskaitsevahendite kohaldamist. Täitmisaja tagatis peab kehtima kogu ehitusperioodi vältel. Täitmisaja tagatisena loetakse aktsepteeritavaks ka vastava rahasumma deponeerimine toetuse saaja arvelduskontole või deponeerimine notari kontole, tingimusel et õigustatud isikuks on kogu ehitusperioodi vältel toetuse saaja. Ühispakkujad võivad tagatise nõude täita ühiselt.
+
+	•	Punktis 3.19. nimetatud tootja peab olema ettevõte, mille põhitegevusala on kokkupandavate puitehitiste ja nende elementide tootmine. Elementide tootja peab olema ostumenetluse algamisele eelneva 60 kuu jooksul tootnud vähemalt kolmele samaväärsele olemasolevale või uuele hoonele fassaadi või katuse elemendid ning peab omama viimasel kolmel järjestikusel majandusaastal enne ostumenetluse teate avaldamist netokäivet summas, mis on kokku võrdne vähemalt poolega lepingu eeldatavast maksumusest. Samaväärsena käsitleks vähemalt kolmekorruselist sisekliima tagamisega hoonet, mille puhul on ehitamisel või rekonstrueerimisel kasutatud eeltoodetud elemente. Kui ostu objekt on alla kolme korrusega korterelamu, loetakse samaväärseks ostu objektiga võrdse korruste arvuga hoone. Kui ühe ostu raames soovitakse leida tööde teostajat mitmele elemendipõhiselt rekonstrueeritavale korterelamule, võetakse käesoleva tingimuse täitmisel arvesse elemendipõhiselt rekonstrueeritava korterelamu lepingu eeldatava maksumusena toetuse taotluses kajastatud kõrgeima maksumusega korterelamu rekonstrueerimistööde eeldatav maksumus. Ostu objektiks oleva korterelamuga samaväärseks korterelamuks, millele elementide tootja peab fassaadi või katuse elemendid olema viimase 60 kuu jooksul tootnud, loetakse mitme korterelamu ühise ostumenetluse korral ükskõik milline selles kajastatud korterelamu. 
+	•	Punktis 3.19 nimetatud tootja peab omama kehtivat ETAt (European Technical Assessment) või samaväärset dokumenti.
+
+Pakkuja kõrvaldamine
+	•	Pakkuja kõrvaldamise alused on avaldatud RHR-is ostumenetluse alusandmete all, alajaotises kõrvaldamise alused ja kvalifitseerimistingimused.
+	•	Toetuse saajal on õigus kõrvaldada pakkuja ning tunnistada edukaks esialgsel hindamisel leitud järjestuselt teine pakkumus uut ostumenetlust korraldamata, kui toetuse saaja soovib võtta omafinantseeringuks renoveerimislaenu ning laenuandja ei nõustu projekti elluviimiseks renoveerimislaenu väljastama pakkujaga seotud põhjustel. Kui toetuse saaja on enne laenuandjalt laenu andmisest keelduva otsuse saamist teinud juba pakkuja edukaks tunnistamise otsuse, teeb toetuse saaja asjakohase otsuse muutmise otsuse. Otsuses, millega pakkuja kõrvaldatakse käesolevas punktis nimetatud põhjusel, märgitakse, mis kuupäeval on kõrvaldamise aluseks olev asjaolu teatavaks saanud. Toetuse saaja peab tagama, et laenu andmisest keeldumine on vähemalt kirjalikku taasesitamist võimaldavas vormis.
+	•	Otsusest teavitatakse ostus vastavaks tunnistatud pakkumuste esitajaid hiljemalt 10 kalendripäeva jooksul vastava otsuse tegemisest arvates.
+	•	Lisaks § 95 lõike 1 punktides 1–3 ja 5 (arvestades RHS § 95 lõikes 2 sätestatut) nimetatud kõrvaldamise alustele kõrvaldab toetuse saaja ka pakkuja (ühispakkumuse korral kõik vastava ühispakkumuse esitanud pakkujad kui vähemalt ühel ühispakkujatest esineb kõrvaldamise alus): 
+	•	kes on pankrotis või likvideerimisel, kelle suhtes on algatatud pankroti- või likvideerimismenetlus või kelle äritegevus on peatatud või kes on muus sellesarnases olukorras pakkuja asukohamaa õigusaktide kohaselt;
+	•	kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg või maksu- või sotsiaalkindlustusmaksete võlg tema asukohariigi õigusaktide kohaselt, välja arvatud juhul, kui pakkuja on võla ajatanud või tasunud või kui ta tasub või ajatab võla kümne kalendripäeva jooksul arvates toetuse saajalt vastava teate saamisest kõrvaldamise aluse esinemise kohta.  
+	•	Maksude või maksete võla puudumist kontrollitakse toetuse saaja poolt läbi Maksu- ja Tolliameti veebilehe või registri päringu kaudu. Kui toetuse saajal ei ole pakkuja kõrvaldamiste aluse kontrolli faasis võimalik kontrolli teostada eelmises lauses nimetatud kanalite kaudu, on toetuse saajal õigus küsida pakkujalt vastavaid tõendeid, mis tõendaks vastavate võlgnevuste puudumist ja mis on väljastatud kuni kaks nädalat enne pakkumuste esitamise tähtpäeva.
+	•	Pakkuja, kelle töötajate keskmine töötasu on võrdlusperioodi jooksul olnud väiksem kui 70 protsenti sama ajavahemiku keskmisest töötasust lepingu esemele vastavas valdkonnas. Nimetatud nõuet ei kohaldata, kui isikul puuduvad töötajad. Võrdlusperioodiks loetakse kuus kalendrikuud, mille viimaseks kuuks on ostumenetluse alustamise kalendrikuust üle- eelmine kalendrikuu. Kui pakkuja või üks ühispakkujatest on asutatud või alustanud äritegevust võrdlusperioodi algusest hiljem, on tema võrdlusperioodi alguseks asutamise või äritegevuse alustamise kalendrikuu ja lõpuks ostumenetluse alustamise kalendrikuust üle- eelmine kalendrikuu. Tõendada tuleb selle nõude täitmist Maksu- ja Tolliameti dokumentidega. Välismaine pakkuja esitab oma asukohariigis Maksu- ja Tolliametiga samaväärse pädeva asutuse tõendid.
+	•	Pakkuja, kes on seotud isikuks toetuse saaja korterelamu rekonstrueerimist nõustava tehnilise konsultandiga.
+	•	Kui pakkuja ei ole esitanud pakkumusega koos tõendeid kõrvaldamise aluste puudumise kohta ning vastavate kõrvaldamise aluste puudumist ei ole toetuse saajal võimalik kontrollida avalikest registritest, annab toetuse saaja pakkujale 10-kalendripäevase tähtaja vastavate dokumentide ja andmete, mis tõendavad kõrvaldamise aluste puudumist, esitamiseks. Kui vastavaid andmeid ja dokumente ei esitata eelmises lauses määratud tähtaja jooksul, kuulub selline pakkumus kõrvaldamisele
+	•	Pakkuja ostumenetlusest kõrvaldamisel teeb toetuse saaja sellekohase põhjendatud kirjalikku taasesitamist võimaldavas vormis otsuse. Kõrvaldatud pakkuja ei osale edasises ostumenetluses.
+Hindamine
+	•	Toetuse saaja hindab pakkumusi üksnes maksumuse alusel.
+	•	Edukaks tunnistatakse pakkumus, mis on käibemaksuta madalaima maksumusega.
+	•	Juhul, kui madalaima maksumusega pakkumuse on esitanud rohkem kui 1 pakkuja, valitakse edukas pakkumus liisuheitmise teel. Toetuse saaja määrab liisu heitmise korra, aja ja koha. Pakkuja poolt osalevad liisuheitmisel pakkuja seadusjärgne või volitatud esindaja. 
+	•	Läbirääkimised
+	•	Toetuse saajal  on õigus läbi rääkida üksnes esitatud hinna osas, kui algselt ettenähtud tööde maht või sisu muutub ja selleks esineb põhjendatud alus.
+	•	Toetuse saajal on õigus pidada läbirääkimisi tingimustele vastava pakkumuse esitanud kvalifitseeritud pakkujatega, kellel ei esine kõrvaldamise aluseid.
+	•	Toetuse saaja teavitab pakkujat läbirääkimiste ajast ja läbiviimise korrast. Läbirääkimised võivad olla suulised või kirjalikud. Suuliselt peetud läbirääkimised protokollitakse.
+	•	Läbirääkimised on konfidentsiaalsed. Toetuse saaja ei avalda läbirääkimiste käigus saadud pakkumusi puudutavat teavet diskrimineerival viisil, mis võiks anda ühele pakkujale eelise teiste ees. 
+	•	Toetuse saaja tagab läbirääkimiste ajal kõigi pakkujate võrdse kohtlemise. 
+	•	Vajadusel esitab pakkuja pärast läbirääkimiste toimumist uue kohandatud pakkumuse RHR-is, milleks antakse pakkujale vähemalt 5 tööpäeva. 
+	•	Kõikide pakkumuste tagasi lükkamine
+	•	Toetuse saaja võib kõik pakkumused tagasi lükata, kui kõigi pakkumuste või vastavaks tunnistatud pakkumuste maksumused ületavad lepingu eeldatavat maksumust.
+	•	Toetuse saaja võib kõik pakkumused tagasi lükata, kui ei ole tagatud piisav konkurents. See tähendab, et kui ostule laekub ainult kaks või vähem pakkumist või kui vastavaks tunnistatakse ainult üks pakkumus. 
+	•	Toetuse saaja lükkab kõik pakkumused tagasi kirjalikku taasesitamist võimaldavas vormis otsusega. Toetuse saaja peab oma otsust põhjendama.
+	•	Kui toetuse saaja on jaganud hanke osadeks korterelamute põhiselt, siis tal on õigus teha kõigi pakkumuste tagasilükkamise otsus iga osa suhtes eraldi.
+	•	Ostumenetluse kehtetuks tunnistamine
+	•	Toetuse saajal on õigus põhjendatud vajadusel ostumenetlus kehtetuks tunnistada. Toetuse saaja põhjendatud vajadus on näiteks, kui:
+	•	toetuse saajal tekib vajadus lepingu eset olulisel määral muuta;
+	•	tingimused, mis olid ostumenetluse aluseks, on oluliselt muutunud ning seetõttu on lepingu sõlmimine ebavajalik või võimatu;
+	•	on ilmnenud ebakõlad, mida ei ole võimalik kõrvaldada ega menetlust seetõttu õiguspäraselt lõpule viia. 
+	•	Toetuse saaja tunnistab ostumenetluse kehtetuks kirjalikku taasesitamist võimaldavas vormis otsusega. Otsus peab olema põhjendatud.
+	•	Leping
+	•	Leping sõlmitakse ühe edukaks tunnistatud pakkujaga või ühispakkujatega (edaspidi nimetatud ühiselt käesolevas peatükis „pakkuja“). Leping sõlmitakse lepingu projektis kindlaksmääratud tingimustel.
+	•	Juhul, kui hanke esemeks on naabruskonnapõhine rekonstrueerimine, siis sõlmitakse töövõtulepingud iga korteriühistu lõikes eraldi.
+	•	Leping allkirjastatakse digitaalselt. Pakkuja peab lepingu allkirjastama ning tagastama tema poolt allkirjastatuna toetuse saajale 5 tööpäeva jooksul. 
+	•	Juhul, kui lepingu allkirjastamine digitaalselt ei ole võimalik, saadab toetuse saaja edukaks tunnistatud pakkumuse esitanud pakkujale kaks toetuse saaja poolt allkirjastatud lepingu eksemplari. Leping loetakse kättesaaduks 3 kalendripäeva möödumisel selle postitamisest arvates. Edukaks tunnistatud pakkumuse esitanud pakkuja peab ühe lepingu eksemplari allkirjastatult tagastama toetuse saajale 10 kalendripäeva jooksul lepingu kättesaamisest arvates. Toetuse saaja võib vajaduse korral lepingu tagastamise tähtaega pikendada. 
+	•	Kui edukas pakkuja ei pea kinni allkirjastamise tähtajast ja ei tagasta tema poolt allkirjastatud lepingut tähtaegselt, siis on toetuse saajal õigus lugeda pakkumus tagasivõetuks ning alustada kõigi ülejäänud pakkumuste uuesti hindamist. Lisaks on toetuse saajal õigus allkirjastamise nõudest mitte kinni pidanud pakkujalt nõuda kahju hüvitamist. Samasugune õigus on toetuse saajal ka juhul, kui edukas pakkuja ei asu nõustumuse andmisega sõlmitud lepingut endast tulenevatel põhjustel täitma määratud tähtaja jooksul täitma. 
+	•	Juhul, kui hanke tingimustes seatud või muu tööde teostamiseks nõutava tegevusloa või registreeringu kehtivus lõpeb lepingu täitmise ajal peab töövõtja pikendama nimetatud tegevusluba või registreeringut kuni lepingu täitmise tähtpäevani.
+
+	•	Infovahetus
+Pakkuja poolne pöördumine
+	•	Hanketeate ja alusdokumentide sisu kohta saab selgitusi pöördudes toetuse saaja poole RHR-i kaudu. Pöördumise saab esitada RHR-i teabevahetuse töölehel. 
+	•	Toetuse saaja vastab küsimustele 3 tööpäeva jooksul selgituse saamise taotlusest arvates. Vastused lisatakse RHR-i teabevahetuse töölehele avalikuna. Toetuse saajal on võimalik vastata ainult selgitustaotluse esitajale, kui on selge, et vastuses sisalduv informatsioon ei tekita ühtegi eelist vastuse saajale.
+	•	Selgitustaotlusele vastamisel lähtutakse asjaolust, et selgitused või neid sisaldavad dokumendid ei tohi sisaldada uut teavet, mis muudaks juba avaldatud ostu alusdokumente või mille tulemusel muutuksid juba esitatud pakkumused mittevastavaks või muutuks nende sisu.
+	•	Oluline on selgitustaotlus esitada tähtaegselt ehk vähemalt 6 tööpäeva enne pakkumuste esitamise tähtaega. Kui selgitustaotlus laekub hiljem, siis seadusest tulenevalt ei ole toetuse saaja kohustatud taotlusele vastama. 
+Toetuse saaja poolne pöördumine
+	•	Toetuse saaja võib pakkujalt nõuda täiendavaid dokumente. Sellise päringu eesmärk on kontrollida kõrvaldamise aluste puudumist kvalifikatsiooni või pakkumuse vastavust.  Toetuse saaja esitab nõude RHR-i teabevahetuse lehe kaudu. 
+	•	Kui pärast pakkumuste esitamise tähtaega esineb vajadus täpsustada pakkuja esitatud informatsiooni, mis ei seisne täiendavate dokumentide esitamises, vastab pakkuja toetuse saaja või tema esindaja päringule registri kaudu hiljemalt 3 tööpäeva jooksul arvates vastava päringu saamisest.
+
+
+
+=== 9790984_Pakkumusvorm_vajadusel_ta_iendada_konkreetsete_tegevustega__11_.xlsx ===
+[Sheet: Sheet1]
+HINNAPAKKUMUSTABEL REKONSTRUEERIMISTÖÖD | Pakkumise nr:
+KORTERIÜHISTU: 
+Tellija: Pärnu linn, Mai tn 5 korteriühistu
+Töövõtja: 
+Korterelamu aadress:  Pärnu linn, Mai tn 5  80024
+Kuupäev: 
+Kood | Töö nimetus | Ühik | Kogus | Ühiku maksumus | Summa | Selgitus
+0 | TELLIJA KULUD | 0
+015 | Tellija reserv | % | 0.05
+1 | VÄLISRAJATISED | 0
+11 | Ettevalmistus ja lammutus | 0
+117 | Hoonete ja rajatiste lammutamine
+118 | Raadamis- ja lammutusjäätmete vedu ja utiliseerimine
+…
+14 | Hoonevälised ehitised | 0
+141 | Estakaadid, kaldteed, pandused
+143 | Välistrepid
+144 | Varikatused
+…
+15 | Välisvõrgud | 0
+151 | Drenaaž ja truubid
+152 | Väliskanalisatsioon
+153 | Välisvalgustus
+…
+16 | Kaeved maa-alal | 0
+162 | Kaeved
+163 | Täited
+…
+17 | Maa-ala pinnakatted | 0
+171 | Haljastus
+175 | Aärekivid- ja sadeveerennid
+…
+2 | ALUSED JA VUNDAMENDID | 0
+22 | Vundamendid | 0
+227 | Alustarindite sooja- ja hüdroisolatsioon
+…
+23 | Aluspõrandad | 0
+236 | Aluspõrandate sooja- ja hüdroisolatsioon
+…
+3 | KANDETARINDID | 0
+31 | Metalltarindid | 0
+311 | Metallkarkass
+…
+32 | Kandvad ja välisseinad | 0
+324 | Müüritised
+325 | Seinte elemendid
+327 | Sooja-, heli-, hüdroisolatsioon
+328 | Seinte fassaadikatted
+…
+32 | Trepielemendid | 0
+342 | Betoontarindid
+343 | Metalltarindid
+…
+4 | FASSAADIELEMENDID JA KATUSED | 0
+41 | Klaasfassaadid, vitriinid ja eriaknad | 0
+415 | Suitsuluugid, katusaknad
+… | …
+42 | Aknad | 0
+421 | Aknalauad
+426 | Puit- ja alumiiniumaknad
+427 |  PVC aknad
+… | …
+43 | Välisuksed | 0
+433 | Terasuksed
+436 | Puituksed
+…
+46 | Rõdud ja terrassid | 0
+461 | Pinnakatted
+462 | Betoontarindid
+463 | Metalltarindid
+466 | Puittarindid
+467 | Sooja- ja hüdroisolatsioon
+… | …
+47 | Piirded ja käiguteed | 0
+472 | Klaasist piirded
+473 | Metallist piirded
+476 | Puidust piirded
+…
+48 | Katusetarindid | 0
+482 | Tasanduskihid
+483 | Metalltarindid
+484 | Müüritised
+485 | Elemendid
+486 | Puittarindid
+487 | Sooja- ja hüdroisolatsioon
+488 | Katusekatted
+… | …
+5 | RUUMITARINDID JA PINNAKATTED | 0
+52 | Siseuksed | 0
+523 | Terasuksed
+525 | Puituksed
+…
+53 | Siseseinte pinnakatted | 0
+531 | Värvkatted
+534 | Krohv ja tasandus
+…
+54 | Lagede pinnakatted | 0

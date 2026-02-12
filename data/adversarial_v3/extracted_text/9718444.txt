@@ -1,0 +1,828 @@
+=== 9718444_304259_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 304259
+Hankija:Tallinn, Niine põik 8 korteriühistu (80416559)
+Hange:Tallinn, Niine põik 8 korteriühistu
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Kogumaksumus Pakkumuse maksumus peab olema Maksumus - 100 1 EUR jah
+lõplik, sealhulgas sisaldama reservi. vähim on parim
+Maksumus peab sisaldama nii kõiki
+kulusid vastavalt alusdokumendile kui
+ka seal nimetamata kulusid, mis on
+vajalikud lepingu nõuetekohaseks
+täitmiseks. Toetuse saaja ei hüvita
+lepingu täitmisel pakkujale mingeid
+täiendavaid kulusid ega tee täiendavaid
+makseid. Pakkumus ei tohi olla mis
+tahes viisil eksitav. Pakkuja ei saa omalt
+poolt teha muudatusi, reservatsioone ega
+seada omapoolseid tingimusi
+alusdokumentides esitatud nõuete kohta.
+Tingimusliku pakkumuse esitamine ei
+ole lubatud.
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Kogumaksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 18.12.2025 10:59:05 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9718444/general-info
+
+=== 9718444_304259_korvaldamise_alused_ja_kvalifitseerimistingimused.pdf ===
+1/5
+KÕRVALDAMISE ALUSED JA
+KVALIFITSEERIMISTINGIMUSED
+Viitenumber: 304259
+Hankija: Tallinn, Niine põik 8 korteriühistu (80416559)
+Hange: Tallinn, Niine põik 8 korteriühistu
+KÕRVALDAMISE ALUSED
+KÕRVALDAMISE ALUSED
+Tingimuse selgitus
+2. Kohustuslikud kõrvaldamise alused 2.1. Ostumenetlusest kõrvaldatakse pakkuja
+(ühispakkumuse korral kõik vastava
+ühispakkumuse esitanud pakkujad kui vähemalt ühel ühispakkujatest esineb kõrvaldamise
+alus): 2.1.1. kes on pankrotis või likvideerimisel, kelle suhtes on algatatud pankroti- või
+likvideerimismenetlus või kelle äritegevus on peatatud või kes on muus sellesarnases olukorras
+pakkuja asukohamaa õigusaktide kohaselt; 2.1.2. kellel on riikliku maksu, makse või
+keskkonnatasu maksuvõlg või maksu- või sotsiaalkindlustusmaksete võlg tema asukohariigi
+õigusaktide kohaselt, välja arvatud juhul, kui
+pakkuja on võla ajatanud või tasunud või kui ta tasub või ajatab võla kümne kalendripäeva
+jooksul arvates toetuse saajalt vastava teate saamisest kõrvaldamise aluse esinemise kohta. 2.2.
+Punktis 2.1.2 nimetatud maksude või maksete võla puudumist kontrollitakse toetuse saaja poolt
+läbi Maksu- ja Tolliameti veebilehe või registri päringu kaudu. Kui toetuse saajal ei ole pakkuja
+kõrvaldamise aluse kontrolli faasis võimalik kontrolli teostada eelmises lauses nimetatud
+kanalite kaudu, on toetuse saajal õigus küsida pakkujalt vastavaid tõendeid, mistõendaks
+vastavate võlgnevuste puudumist ja mis on väljastatud kuni kaks nädalat enne pakkumuste
+esitamise tähtpäeva. 2.3. Ostumenetlusest kõrvaldatakse pakkuja (ühispakkumuse korral kõik
+vastava ühispakkumuse esitanud pakkujad kui vähemalt ühel ühispakkujatest esineb
+kõrvaldamise alus), kelle puhul ei ole täidetud vähemalt üks alljärgnevatest nõuetest, arvestades
+punktis 2.4 toodut: 2.3.1. pakkuja suhtes puuduvad riigihangete seaduse (edaspidi RHS) § 95
+lõike 1 punktides 1–3 ja 5 sätestatud alused, arvestades RHS § 95 lõikes 2 sätestatut. Nimetatud
+kinnitus loetakse antuks, kui pakkumuse koosseisus esitatakse registris koostatud dokument,
+millest nähtuvad pakkuja üldised kinnitused; 2.3.2. Maksu- ja Tolliameti tõenditelt pakkuja
+kohta peab olema võimalik tuvastada, et ühegi nimetatud isiku töötajate keskmine töötasu ei ole
+võrdlusperioodi jooksul olnud väiksem kui 70 protsenti sama ajavahemiku keskmisest töötasust
+lepingu esemele vastavas valdkonnas. Nimetatud nõuet ei kohaldata, kui isikul puuduvad
+töötajad. Võrdlusperioodiks loetakse kuus
+kalendrikuud, mille viimaseks kuuks on ostumenetluse alustamise kalendrikuust üle- eelmine
+kalendrikuu. Kui pakkuja või üks ühispakkujatest on asutatud või alustanud äritegevust
+võrdlusperioodi algusest hiljem, on tema võrdlusperioodi alguseks asutamise või äritegevuse
+alustamise kalendrikuu ja lõpuks ostumenetluse alustamise kalendrikuust üle-eelmine
+kalendrikuu; 2.3.3. välismaine pakkuja esitab oma asukohariigi punktis 2.3.2. nimetatud pädeva
+asutusega
+samaväärse asutuse tõendid; 2.3.4. pakkuja ja toetuse saaja korterelamu rekonstrueerimist
+nõustav tehniline konsultant ei ole seotud isikud. Nimetatud kinnitus vastava seose puudumise
+kohta loetakse antuks, kui pakkumuse koosseisus on esitatud registris koostatud dokument,
+millest nähtuvad pakkuja üldised kinnitused. 2.4. Kui pakkuja ei ole esitanud pakkumusega koos
+tõendeid kõrvaldamise aluste puudumise kohta ning vastavate kõrvaldamise aluste puudumist ei
+ole toetuse saajal võimalik kontrollida avalikest registritest, peab toetuse saaja andma pakkujale
+10-kalendripäevase tähtaja vastavate dokumentide ja andmete, mis tõendavad kõrvaldamise
+aluste puudumist, esitamiseks. Kui vastavaid andmeid ja dokumente ei esitata eelmises lauses
+määratud tähtaja jooksul, kuulub selline pakkuja kõrvaldamisele. Viide:Majandus- ja
+Koostatud 20.01.2026 11:27:14
+https://riigihanked.riik.ee/rhr-web/#/procurement/9718444/general-info
+2/5
+taristuministri 03.03.2023. a määrus nr 13 „Korterelamute energiatõhususe toetuse tingimused“
+Lisa (taristuministri 15.01.2026. a määruse nr 5 sõnastuses)
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja kinnitab, et tal ega ühispakkujal ei esine § 95 lõike 1 punktides 1–3 ja 5 (arvestades RHS §
+95 lõikes 2 sätestatut) nimetatud kõrvaldamise aluseid (Dokumendi vorm)
+2) Pakkuja kinnitab, et tema ega ühispakkuja ei ole pankrotis või likvideerimisel, tema suhtes ei ole
+algatatud pankroti- või likvideerimismenetlus või tema äritegevust ei ole peatatud või ta ei ole muus
+sellesarnases olukorras pakkuja asukohamaa õigusaktide kohaselt (Raadionupp valikutega "Jah/Ei")
+3) Pakkuja kinnitab, et tal ei ole riikliku maksu, makse või keskkonnatasu maksuvõlga või maksu- või
+sotsiaalkindlustusmaksete võlga tema asukohariigi õigusaktide kohaselt (Raadionupp valikutega "Jah/
+Ei")
+4) Pakkuja kinnitab, et tema töötajate keskmine töötasu on võrdlusperioodi jooksul olnud suurem kui
+70 protsenti sama ajavahemiku keskmisest töötasust lepingu esemele vastavas valdkonnas.
+(Raadionupp valikutega "Jah/Ei")
+5) Pakkuja tõendab Maksu- ja Tolliameti väljavõttega, et tema töötajate keskmine töötasu on
+võrdlusperioodi jooksul olnud suurem kui 70 protsenti sama ajavahemiku keskmisest töötasust lepingu
+esemele vastavas valdkonnas. (Vabas vormis dokument)
+6) Pakkuja kinnitab, et tal ega ühispakkujal ei esine § 95 lõike 1 punktides 1–3 ja 5 (arvestades RHS §
+95 lõikes 2 sätestatut) nimetatud kõrvaldamise aluseid: (Raadionupp valikutega "Jah/Ei")
+7) Pakkuja kinnitab, et ta ei ole seotud isikuks toetuse saaja korterelamu rekonstrueerimist nõustava
+tehnilise konsultandiga: (Raadionupp valikutega "Jah/Ei")
+KVALIFITSEERIMISTINGIMUSED
+A: Sobivus
+KUULUMINE ASJAKOHASESSE KUTSEREGISTRISSE
+Pakkuja peab olema esitanud majandustegevuse registris tegevusalal „Ehitamine“
+majandustegevusteate tegevusala liikidega: üldehituslik ehitamine, sisekliima tagamise süsteem,
+hoonesisene või selle juurde kuuluv veevarustuse või kanalisatsioonisüsteem. Majandustegevuse
+registri registreeringu nõuet ei kohaldata välismaisele pakkujale. Asjakohasel juhul tõendab
+pakkuja oma pädevust samaväärse tõendiga.
+Elektritööde teostamisel peab pakkuja olema esitanud majandustegevuse registris
+majandustegevusteate tegevusalal „Elektritööd“ tegevusala liigiga elektripaigaldise ehitamine,
+sealhulgas paigaldamine. Majandustegevuse registri registreeringu nõuet ei kohaldata
+välismaisele pakkujale. Asjakohasel juhul tõendab pakkuja oma pädevust samaväärse tõendiga.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja peab olema esitanud majandustegevuse registris tegevusalal „Ehitamine“
+majandustegevusteate tegevusala liikidega: üldehituslik ehitamine, sisekliima tagamise süsteem,
+hoonesisene või selle juurde kuuluv veevarustuse või kanalisatsioonisüsteem. Majandustegevuse
+registri registreeringu nõuet ei kohaldata välismaisele pakkujale. Asjakohasel juhul tõendab pakkuja
+oma pädevust samaväärse tõendiga. (Vabas vormis dokument)
+2) Elektritööde teostamisel peab pakkuja olema esitanud majandustegevuse registris
+majandustegevusteate tegevusalal „Elektritööd“ tegevusala liigiga elektripaigaldise ehitamine,
+sealhulgas paigaldamine. Majandustegevuse registri registreeringu nõuet ei kohaldata välismaisele
+pakkujale. Asjakohasel juhul tõendab pakkuja oma pädevust samaväärse tõendiga. (Vabas vormis
+dokument)
+B: Majanduslik ja finantsseisund
+ÜLDINE AASTAKÄIVE
+Koostatud 20.01.2026 11:27:14
+https://riigihanked.riik.ee/rhr-web/#/procurement/9718444/general-info
+3/5
+Pakkuja pakkumuse esitamisele eelneva majandusaasta netokäive peab olema minimaalselt
+võrdne sõlmitava lepingu kahekordse eeldatava maksumusega (arvestatuna, et lepingu eeldatav
+maksumus esitatakse alati käibemaksuta summana). Sisestada konkreetse summana 1 euro
+täpsusega.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) andmet pakkuja käibekohta (Sisestusväli (max pikkus 250 tähemärki))
+EHITUSAEGSE TAGATISE ANDMINE
+Pakkuja kinnitab pakkumuse esitamisega, et hiljemalt ehituslepingu sõlmimise kuupäevaks on
+tal võimalus anda toetuse saajale krediidi- või finantseerimisasutuse või kindlustusseltsi poolt
+väljastatud esimesel nõudmisel garantiikiri viie protsendi ulatuses ehituslepingu käibemaksuta
+maksumusest. Juhul, kui pooled sõlmivad ehituslepingu enne toetuse saajale tagatise esitamist,
+peab pakkuja esitama toetuse saajale tagatise hiljemalt 10 kalendripäeva jooksul lepingu
+sõlmimisest. Kui pakkuja nimetatud tagatist ei anna, ei sõlmi toetuse saaja pakkujaga lepingut
+ning tunnistab vastavasisulise otsusega edukaks paremusjärjestuses järgmise pakkuja. Juhul, kui
+leping on juba sõlmitud, kuid pakkuja ei anna vastavat tagatist hiljemalt 10 kalendripäeva
+jooksul lepingu sõlmimisest, alustab toetuse saaja õiguskaitsevahendite kohaldamist.
+Ehitusaegne tagatis peab kehtima kogu ehitusperioodi vältel. Ehitusaegse tagatisena loetakse
+aktsepteeritavaks ka vastava rahasumma deponeerimine toetuse saaja arvelduskontole või
+deponeerimine notari kontole, tingimusel et õigustatud isikuks on kogu ehitusperioodi vältel
+toetuse saaja. Ühispakkujad võivad tagatise nõude täita ühiselt.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Ehitusaegse tagatise andmine. (Raadionupp valikutega "Jah/Ei")
+C: Tehniline ja kutsealane suutlikkus
+TEAVE VARASEMATE LEPINGUTE KOHTA
+Pakkuja peab olema ostumenetluse algamisele eelneva 60 kuu jooksul teostanud vähemalt
+ühe samaväärse ehitustöö maksumusega määras, mis on võrdne vähemalt poolega sõlmitava
+lepingu eeldatavast maksumusest. Samaväärseks ehitustööks loetakse hoonete püstitamise,
+laiendamise ja/või kogu hoone mahus rekonstrueerimistööd ehitustööde peatöövõtjana, mille
+puhul on teostatud mh vähemalt järgnevad ehitustööd: hoone kande- ja välispiirete ehitamine
+või rekonstrueerimine, soojustagastusega sundventilatsiooni ehitamine või rekonstrueerimine,
+uue küttesüsteemi ehitamine või rekonstrueerimine. Peatöövõtjana käsitletakse isikut, kes on
+ehitusettevõtja, keda ehitise omanik on määranud juhtima ja korraldama ehitustöid ehitusplatsil.
+Samaväärne ehitustöö loetakse teostatuks, kui selle lõpetamise kohta on vormistatud tellija ja
+töövõtja poolt kinnitatud üleandmise-vastuvõtmise akt või kui vastavad andmed
+ehitustöölõpetamise kohta on tuvastatavad ehitisregistrist kasutusteatise või kasutusloa esitamise
+või
+saamisega seoses.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Pakkuja esitab andmed samaväärse ehitustöö kohta, tuues välja vähemalt nimetatud ehitustöö
+nimetuse (hoone andmed), ehitustöö teostamise aja ja maksumuse; info, kas tegemist oli hoone
+püstitamise, laiendamise ja/või kogu hoone mahus rekonstrueerimistöödega ehitustööde peatöövõtjana
+ning info, kas nimetatud ehitustöö sisaldas vähemalt hoone kande- ja välispiirete ehitamist või
+rekonstrueerimist, soojustagastusega sundventilatsiooni ehitamist või rekonstrueerimist, uue
+küttesüsteemi ehitamist või rekonstrueerimist (Suur sisestusala (max pikkus 4000 tähemärki))
+Koostatud 20.01.2026 11:27:14
+https://riigihanked.riik.ee/rhr-web/#/procurement/9718444/general-info
+4/5
+EHITUSTÖÖDE HANKELEPINGUTE PUHUL: TÖID TEOSTAVAD TEHNILISED
+TÖÖTAJAD VÕI TEHNILISED ÜKSUSED
+Pakkuja meeskonnas peavad korterelamu terviklikul rekonstrueerimisel igakordselt olema,
+sealjuures tuleb vastavad isikud või samaväärse pädevusega isikud kaasata ehitustööde
+teostamisse, järgmised pädevad või välismaise pakkuja puhul samaväärse pädevusega isikud,
+kelle tehnilise ja kutsealase pädevuse nõuetele vastavust tõendatakse järgnevate pädevustega:
+Projektijuht, kellel on vähemalt ehitusinseneri kutse, tase 6 spetsialiseerumisega hoonete
+ehitusele, valitava kompetentsiga ehitustegevuse juhtimine või ehitusjuhi kutse, tase 6,
+spetsialiseerumisega üldehituslikule ehitamisele; Objektijuht, kellel on vähemalt ehituse tööjuhi
+kutse, tase 5, tervikspetsialiseerumisega üldehitustööde tegemine; Ventilatsiooni- ja
+küttesüsteemide spetsialist, kellel on vähemalt kütte-, ventilatsiooni- ja jahutuseinseneri kutse,
+tase 6 kompetentsidega ehitustegevuse juhtimine küttesesüsteemide ehitamisel ja ehitustegevuse
+juhtimine ventilatsioonisüsteemide ehitamisel või ehitusjuhi kutse, tase 6, spetsialiseerumisega
+sisekliima tagamise süsteemide ehitamisele; Veevarustuse- ja kanalisatsioonisüsteemide
+spetsialist, kellel on vähemalt veevarustuse- ja kanalisatsiooniinseneri kutse, tase 6
+kompetentsiga ehitustegevuse juhtimine või ehitusjuhi kutse, tase 6, spetsialiseerumisega
+hoonesisese või selle juurde kuuluva veevarustuse ja kanalisatsioonisüsteemi ehitamisele;
+Elektritööde teostamisel isik, kellel on vähemalt B-klassi pädevustunnistus või elektriinseneri
+kutse tarbija elektripaigaldiste alal, tase 6. Viide: Majandus- ja taristuministri 03.03.2023. a
+määrus nr 13 „Korterelamute energiatõhususe toetuse tingimused“ Lisa (taristuministri
+15.01.2026. a määruse nr 5 sõnastuses)
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Kas pakkuja on spetsialistide osas tuginenud teiste isiku näitajatele ning lisanud vastavate isikute
+allkirjastatud kinnitused osalemiseks vastavas osas lepingu täitmisel? (Raadionupp valikutega "Jah/Ei")
+2) Pakkuja esitab nõudele vastava projektijuhi ees- ja perekonnanime ja kutsetunnistuse numbri.
+(Sisestusväli (max pikkus 250 tähemärki))
+3) Pakkuja esitab nõudele vastava objektijuhi ees- ja perekonnanime ja kutsetunnistuse numbri.
+(Sisestusväli (max pikkus 250 tähemärki))
+4) Pakkuja esitab nõudele vastava ventilatsiooni- ja küttesüsteemide spetsialisti ees- ja perekonnanime
+ja kutsetunnistuse numbri. (Sisestusväli (max pikkus 250 tähemärki))
+5) Pakkuja esitab nõudele vastava veevarustuse- ja kanalisatsioonisüsteemide spetsialisti ees- ja
+perekonnanime ja kutsetunnistuse numbri. (Sisestusväli (max pikkus 250 tähemärki))
+6) Pakkuja esitab nõudele vastava elektritööde spetsialisti ees- ja perekonnanime ja kutsetunnistuse
+numbri. (Sisestusväli (max pikkus 250 tähemärki))
+D: Kvaliteeditagamissüsteemid ja keskkonnajuhtimisstandardid
+KVALITEEDISTANDARDITE KOHTA SÕLTUMATUTE ASUTUSTE VÄLJASTATUD
+TÕENDID
+Pakkujal peab olema ehitustööde tegevusvaldkonnas rakendatud kvaliteedijuhtimissüsteem, mis
+vastab vähemalt EVS-EN ISO 9001 standardis, või samaväärsetes dokumentides sätestatud
+tingimustele.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Dokument (Vabas vormis dokument)
+KESKKONNAJUHTIMISSÜSTEEMIDE VÕI -STANDARDITE KOHTA SÕLTUMATUTE
+ASUTUSTE VÄLJASTATUD TÕENDID
+Koostatud 20.01.2026 11:27:14
+https://riigihanked.riik.ee/rhr-web/#/procurement/9718444/general-info
+5/5
+Pakkujal peab olema ehitustööde tegevusvaldkonnas rakendatud keskkonnajuhtimissüsteem, mis
+vastab vähemalt EVS-EN ISO 14001 standardis, või samaväärsetes dokumentides sätestatud
+tingimustele.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Keskkonnajuhtimissüsteemide või -standardite kohta sõltumatute asutuste väljastatud tõendid
+(Vabas vormis dokument)
+Koostatud 20.01.2026 11:27:14
+https://riigihanked.riik.ee/rhr-web/#/procurement/9718444/general-info
+
+=== 9718444_304259_vastavustingimused.pdf ===
+1/1
+VASTAVUSTINGIMUSED
+Viitenumber: 304259
+Hankija: Tallinn, Niine põik 8 korteriühistu (80416559)
+Hange: Tallinn, Niine põik 8 korteriühistu
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kui tegemist on ühispakkumusega, kas olete pakkumuse dokumentide hulka lisanud
+ühispakkujate volikirja? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Pakkuja peab lisaks esitama hankedokumentide koosseisus esitatud vormi „pakkumusvorm“,
+millel esitatud osamaksumuste ja tööde ühikuhindade summa peab olema võrdne
+hindamiskriteeriumite alusel avaldatuga. Pakkumus vormis võib lisada ridu - ridade lisamisel
+jälgida, et exseli tabelis ridade summerimisel oleks kõik read kaasatud.
+Küsimused ettevõtjale:
+1. Kas pakkuja on täitnud pakkumuse maksumuse RHRi töölehel "Hindamiskriteeriumid ja
+hinnatavad näitajad"? (Raadionupp valikutega "Jah/Ei")
+2. Pakkumusevorm (Dokumendi vorm / Pakkumusvorm_vajadusel täiendad konkreetsete
+tegevustega (1).xlsx)
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46.1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+2. Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks. (Suur sisestusala (max pikkus 4000 tähemärki))
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Pakkumuse esitamisega kinnitab pakkuja kõigi ostu alusdokumentides sätestatud tingimuste
+täitmist;
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+Koostatud 18.12.2025 10:58:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9718444/general-info
+
+=== 9718444_KLIM_m5_lisa.pdf ===
+Majandus- ja taristuministri
+03.03.2023. a määrus nr 13
+„Korterelamute energiatõhususe toetuse tingimused“
+Lisa
+(taristuministri 15.01.2026. a määruse nr 5 sõnastuses)
+TOETUSE SAAJA OSTUMENETLUSE TINGIMUSED
+1. Üldnõuded toetuse saaja ostumenetluse läbiviimiseks elektroonilises riigihangete
+registris
+1.1. Toetuse saaja ostu korraldamisel kasutatakse üksnes käesolevaid tingimusi. Kogu
+teabevahetus pakkujatega ja otsustest teavitamine toimub ainult läbi elektroonilise riigihangete
+registri (edaspidi register). Pakkujaid teavitatakse ostumenetluses tehtud toetuse saaja otsusest,
+sealhulgas nii pakkuja edukaks tunnistamise otsusest kui ka kõigi pakkumuste tagasilükkamise
+otsusest kui selline otsus tehakse, hiljemalt 10 kalendripäeva jooksul vastava otsuse tegemisest
+arvates.
+1.2. Pakkujate nimed ja pakkumuste kogumaksumused tuleb avaldada kõigile pakkujatele
+hiljemalt 3 kalendripäeva jooksul arvates pakkumuste esitamise tähtajast registri kaudu. Punktis
+1.12 nimetatud läbirääkimiste kasutamise korral avaldatakse pakkujate nimed ja kohandatud
+pakkumuste kogumaksumused kõigile pakkujatele registri kaudu uuesti hiljemalt 3
+kalendripäeva jooksul arvates läbirääkimiste lõppemisest.
+1.3. Lepingu eseme tehniline kirjeldus (mis võib olla ehitusprojekt) peab olema toodud toetuse
+saaja ostu dokumentide hulgas. Iga viidet, mille toetuse saaja teeb tehnilises kirjelduses mõnele
+ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule või tootmisviisile, mis
+võiks anda mõnele ettevõtjale või tootele eeliseid teiste ees või nende osaluse välistada, loetakse
+koos märkega „või sellega samaväärne”. Toetuse saaja ostumenetluses tuleb käesoleva punkti
+teine lause avaldada ostumenetluses registris, lisades selle kas ostu üldandmetesse või
+asjakohasesse lisadokumenti, mis peab olema kõigile huvitatud isikutele kogu ostumenetluse
+avaldamise aja kättesaadav.
+1.4. Rekonstrueerimistööde tellimist korterelamu kohta ei ole lubatav jagada osadeks. Toetuse
+saaja tellib rekonstrueerimistööd tervikuna ühe ostu raames läbi registri kui ostu eeldatav
+maksumus on vähemalt 100 000 eurot (käibemaksuta). Rekonstrueerimistööde teostamiseks
+sõlmitakse leping peatöövõtjaga (edukas pakkuja või edukad ühispakkujad), kes vastutab
+lepingu alusel kõigi toetatavate rekonstrueerimistegevuste elluviimise eest. Ühispakkumuse
+korral sõlmivad ühispakkujad koos lepingu ja vastutavad selle täitmise eest solidaarselt kuni
+lepingus toodud kõigi kohustuste täitmiseni. Pakkujana käsitletakse iga ühispakkujat.
+1.5. Pakkumuse esitamise tähtaeg on vähemalt 30 kalendripäeva ostu registris avalikustamisest
+arvates. Toetuse saaja võib muuta hanketeadet ja/või alusdokumente enne pakkumuste
+esitamise tähtpäeva, jättes olulise muudatuse järel vähemalt 10 kalendripäeva pakkumuste
+esitamiseni. Pakkumuste esitamise tähtaega ei pea pikendama, kui dokumentides on tehtud
+üksnes vormiline või selgitav muudatus, mis ei saa mõjutada juba esitatud pakkumuste sisu.
+Juhul, kui esimene ost lõpetatakse ilma lepingu sõlmimiseta, võib järgnevas ostus määrata
+pakkumuste esitamise tähtajaks minimaalselt 14 kalendripäeva ostu registris avalikustamisest
+arvates.
+1.6. Ostu käigus esitatud selgitustaotlusele peab toetuse saaja vastama 3 tööpäeva jooksul
+selgitustaotluse saamisest arvates. Vastus peab olema kättesaadav kõigile huvitatud
+ettevõtjatele. Toetuse saajal on võimalik vastata ainult selgitustaotluse esitajale, kui on selge,
+et vastuses sisalduv informatsioon ei tekita ühtegi eelist vastuse saajale.
+1.7. Kui ettevõtjal ei ole võimalik täita kõiki kvalifitseerimistingimusi üksinda, kaasab ettevõtja
+pakkumuse esitamiseks teise ettevõtja, kes täidab vastava tingimuse, ühispakkujana.
+Ühispakkumuse esitavad pakkujad koos, üks ühispakkujatest volitatakse end ostumenetluses
+esindama. Ühispakkumuse esitanud ettevõtjad ei pea olema moodustanud juriidilist isikut ega
+olema ühinenud muus õiguslikus vormis. Toetuse saaja ostumenetluses sätestatud
+kvalifitseerimistingimus loetakse täidetuks, kui vähemalt ühel ühispakkumuses osalevatest
+ettevõtjatest on vastav kvalifitseerimistingimus üksinda täidetud, tingimuse täitmiseks andmete
+summeerimine ei ole lubatav.
+1.8. Kui pakkuja soovib pakkumuse esitamisel oma meeskonna pädevuse tõendamiseks
+kasutada meeskonna liikmetena füüsilisi isikuid, kes ei ole pakkuja töötajad või nad ei ole
+pakkuja pädevate isikutena märgitud avalikus registris, esitatakse iga sellise füüsilise isiku
+kirjalik kinnitus, millest nähtub nõusolek enda kaasamiseks ning lepingu täitmisel pakkuja
+meeskonna liikmena osalemiseks hiljemalt 10 kalendripäeva jooksul arvates vastavasisulise
+päringu saamisest toetuse saajalt või teda ostumenetluses esindavalt isikult. Pakkuja meeskonna
+liikmena kajastatud füüsilist isikut ei käsitleta ühispakkujana.
+1.9. Kui pärast pakkumuste esitamise tähtaega esineb vajadus täpsustada pakkuja esitatud
+informatsiooni, mis ei seisne punktides 1.8, 2.4, 3.9, 5.2, 5.5 ja 5.6 esitatud täiendavate
+dokumentide esitamises, vastab pakkuja toetuse saaja või tema esindaja päringule registri kaudu
+hiljemalt 3 tööpäeva jooksul arvates vastava päringu saamisest.
+1.10. Toetuse saajal on õigus kõrvaldada pakkuja ning tunnistada edukaks esialgsel hindamisel
+leitud järjestuselt teine pakkumus uut ostumenetlust korraldamata, kui toetuse saaja soovib
+võtta omafinantseeringuks renoveerimislaenu ning laenuandja ei nõustu projekti elluviimiseks
+renoveerimislaenu väljastama pakkujaga seotud põhjustel. Kui toetuse saaja on enne
+laenuandjalt laenu andmisest keelduva otsuse saamist teinud juba pakkuja edukaks tunnistamise
+otsuse, teeb toetuse saaja asjakohase otsuse muutmise otsuse. Otsuses, millega pakkuja
+kõrvaldatakse käesolevas punktis nimetatud põhjusel, märgitakse, mis kuupäeval on
+kõrvaldamise aluseks olev asjaolu teatavaks saanud. Toetuse saaja peab tagama, et laenu
+andmisest keeldumine on vähemalt kirjalikku taasesitamist võimaldavas vormis.
+1.11. Punktis 1.10. nimetatud otsusest teavitatakse pakkujaid hiljemalt 10 kalendripäeva
+jooksul vastava otsuse tegemisest arvates.
+1.12. Pärast pakkumuste esitamise tähtaega võib pidada läbirääkimisi üksnes ostu hinna osas,
+kui algselt ettenähtud tööde maht, reservi suurus või tööde sisu muutub. Läbirääkimisi peetakse
+pakkumuste kohandamise funktsiooni teel ning tagatakse, et pakkumust saavad samaaegselt
+kohandada kõik pakkujad, kelle pakkumust ei ole tagasi lükatud. Pakkumuse kohandamiseks
+peab kõigil pakkujatel olema vähemalt 5 tööpäeva. Kui pakkumuse maksumuses esineb ilmne
+arvutusviga, on toetuse saajal õigus lubada pakkujal viga parandada koheselt või parandada see
+ise, teavitades parandusest viivitamatult ka pakkujat läbi registri. Kui pakkuja arvutusvea
+parandamisega ei nõustu, lükkab toetuse saaja pakkuja pakkumuse tagasi.
+1.13. Toetuse saaja kontrollib kõrvaldamise aluste puudumist ja kvalifitseerimistingimustele
+ning vastavustingimustele vastavust vaid sellise pakkuja puhul, kelle pakkumus on
+hindamiskriteeriumi alusel hinnates edukas pakkumus. Vajadusel võib toetuse saaja kontrollida
+eelnimetatud tingimustele vastavust kõigi pakkujate puhul.
+1.14. Toetuse saaja ostumenetluses tuleb lepingu eeldatav maksumus märkida registrisse ilma
+käibemaksuta summana. Ühe korterelamu ostu korral märgitakse lepingu eeldatavaks
+maksumuseks toetuse taotluses kajastatud korterelamu rekonstrueerimistööde või
+projekteerimis- ja rekonstrueerimistööde eeldatav maksumus. Kui ühe ostu raames soovitakse
+leida tööde teostajat mitmele korterelamule, märgitakse lepingu eeldatavaks maksumuseks
+toetuse taotluses kajastatud kõrgeima maksumusega korterelamu rekonstrueerimistööde või
+projekteerimis- ja rekonstrueerimistööde eeldatav maksumus.
+1.15. Toetuse saaja märgib registris lepingu täitmise tähtaja kalendrikuudes lähtudes konkreetse
+korterelamu eripärast. Ehitustööde oodatav kestus summeeritakse ettevalmistusajaga selliselt,
+et ehitustööde oodatavale kestusele kalendrikuudes liidetakse vastav ettevalmistusaeg, milleks
+on igakordselt kuus kalendrikuud. Edukas pakkuja ei ole kohustatud kasutama
+ettevalmistusaega, kui tema hinnangul on võimalik rekonstrueerimistöödega alustada varem.
+Projekteerimis- ja rekonstrueerimistööde ostumenetluses peab ehitusprojekti valmimine
+toimuma kuuekuulise ettevalmistusaja sees. Juhul, kui pakkujast sõltumatul põhjusel ei ole
+võimalik ehitusprojekti tellijale üle anda kuue kuu jooksul, on pakkujal õigus taotleda tellijalt
+täiendavat, kuni kuuekuulist tähtaega, ehitusprojekti kõigile nõuetele vastavusse viimiseks.
+Eelmises lauses nimetatud tähtaja pikendamine ei saa muuta projekteerimis- ja
+rekonstrueerimistööde lepingu lõpptähtaega, mis oli avaldatud ostus.
+1.16. Toetuse saajal on õigus lõpetada ostumenetlus lepingu sõlmimiseta, kui edukaks osutuva
+pakkuja pakkumuse maksumus ületab ostumenetluses märgitud eeldatavat maksumust.
+1.17. Eduka pakkujaga sõlmitakse leping samadel tingimustel, mis on avaldatud toetuse saaja
+ostumenetluses. Toetuse saaja peab kontrollima ja tagama kogu lepingu täitmise perioodi, et
+ostumenetluses edukale pakkujale ettenähtud kohustuste täitmine oleks tähtaegne ja vastaks
+ostumenetluses ja lepingus avaldatud ning sätestatud tingimustele. Lepingu muutmine on
+lubatav üksnes juhul, kui selleks esineb õigusaktides toodud alus.
+1.18. Ostumenetlus tuleb lõpetada mõistliku aja jooksul, milleks loetakse 3 kalendrikuud
+arvates pakkumuste esitamise tähtajast. Toetuse saaja sõlmib käesoleva punkti esimeses lauses
+nimetatud tähtaja jooksul lepingu eduka pakkujaga või lõpetab registris ostumenetluse ilma
+lepingu sõlmimiseta kui edukat pakkujat ei õnnestu välja selgitada. Kui toetuse saajast
+sõltumatul põhjusel on vaja ostumenetluse lõpetamiseks pikemat ajaperioodi kui 3
+kalendrikuud, peab toetuse saaja vajadusel tõendama, millisel põhjusel on pikem ajaperiood
+vajalik.
+2. Kohustuslikud kõrvaldamise alused
+2.1. Ostumenetlusest kõrvaldatakse pakkuja (ühispakkumuse korral kõik vastava
+ühispakkumuse esitanud pakkujad kui vähemalt ühel ühispakkujatest esineb kõrvaldamise
+alus):
+2.1.1. kes on pankrotis või likvideerimisel, kelle suhtes on algatatud pankroti- või
+likvideerimismenetlus või kelle äritegevus on peatatud või kes on muus sellesarnases olukorras
+pakkuja asukohamaa õigusaktide kohaselt;
+2.1.2. kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg või maksu- või
+sotsiaalkindlustusmaksete võlg tema asukohariigi õigusaktide kohaselt, välja arvatud juhul, kui
+pakkuja on võla ajatanud või tasunud või kui ta tasub või ajatab võla kümne kalendripäeva
+jooksul arvates toetuse saajalt vastava teate saamisest kõrvaldamise aluse esinemise kohta.
+2.2. Punktis 2.1.2 nimetatud maksude või maksete võla puudumist kontrollitakse toetuse saaja
+poolt läbi Maksu- ja Tolliameti veebilehe või registri päringu kaudu. Kui toetuse saajal ei ole
+pakkuja kõrvaldamise aluse kontrolli faasis võimalik kontrolli teostada eelmises lauses
+nimetatud kanalite kaudu, on toetuse saajal õigus küsida pakkujalt vastavaid tõendeid, mis
+tõendaks vastavate võlgnevuste puudumist ja mis on väljastatud kuni kaks nädalat enne
+pakkumuste esitamise tähtpäeva.
+2.3. Ostumenetlusest kõrvaldatakse pakkuja (ühispakkumuse korral kõik vastava
+ühispakkumuse esitanud pakkujad kui vähemalt ühel ühispakkujatest esineb kõrvaldamise
+alus), kelle puhul ei ole täidetud vähemalt üks alljärgnevatest nõuetest, arvestades punktis 2.4
+toodut:
+2.3.1. pakkuja suhtes puuduvad riigihangete seaduse (edaspidi RHS) § 95 lõike 1 punktides 1–
+3 ja 5 sätestatud alused, arvestades RHS § 95 lõikes 2 sätestatut. Nimetatud kinnitus loetakse
+antuks, kui pakkumuse koosseisus esitatakse registris koostatud dokument, millest nähtuvad
+pakkuja üldised kinnitused;
+2.3.2. Maksu- ja Tolliameti tõenditelt pakkuja kohta peab olema võimalik tuvastada, et ühegi
+nimetatud isiku töötajate keskmine töötasu ei ole võrdlusperioodi jooksul olnud väiksem kui 70
+protsenti sama ajavahemiku keskmisest töötasust lepingu esemele vastavas valdkonnas.
+Nimetatud nõuet ei kohaldata, kui isikul puuduvad töötajad. Võrdlusperioodiks loetakse kuus
+kalendrikuud, mille viimaseks kuuks on ostumenetluse alustamise kalendrikuust üle- eelmine
+kalendrikuu. Kui pakkuja või üks ühispakkujatest on asutatud või alustanud äritegevust
+võrdlusperioodi algusest hiljem, on tema võrdlusperioodi alguseks asutamise või äritegevuse
+alustamise kalendrikuu ja lõpuks ostumenetluse alustamise kalendrikuust üle-eelmine
+kalendrikuu;
+2.3.3. välismaine pakkuja esitab oma asukohariigi punktis 2.3.2. nimetatud pädeva asutusega
+samaväärse asutuse tõendid;
+2.3.4. pakkuja ja toetuse saaja korterelamu rekonstrueerimist nõustav tehniline konsultant ei ole
+seotud isikud. Nimetatud kinnitus vastava seose puudumise kohta loetakse antuks, kui
+pakkumuse koosseisus on esitatud registris koostatud dokument, millest nähtuvad pakkuja
+üldised kinnitused.
+2.4. Kui pakkuja ei ole esitanud pakkumusega koos tõendeid kõrvaldamise aluste puudumise
+kohta ning vastavate kõrvaldamise aluste puudumist ei ole toetuse saajal võimalik kontrollida
+avalikest registritest, peab toetuse saaja andma pakkujale 10-kalendripäevase tähtaja vastavate
+dokumentide ja andmete, mis tõendavad kõrvaldamise aluste puudumist, esitamiseks. Kui
+vastavaid andmeid ja dokumente ei esitata eelmises lauses määratud tähtaja jooksul, kuulub
+selline pakkuja kõrvaldamisele.
+3. Kohustuslikud kvalifitseerimise tingimused
+3.1. Pakkuja ostumenetluse algamisele eelneva majandusaasta netokäive peab olema
+minimaalselt võrdne sõlmitava lepingu kahekordse eeldatava maksumusega (arvestatuna, et
+lepingu eeldatav maksumus esitatakse alati käibemaksuta summana).
+3.2. Pakkuja peab olema ostumenetluse algamisele eelneva 60 kuu jooksul teostanud vähemalt
+ühe samaväärse ehitustöö maksumusega määras, mis on võrdne vähemalt poolega sõlmitava
+lepingu eeldatavast maksumusest. Samaväärseks ehitustööks loetakse hoonete püstitamise,
+laiendamise ja/või kogu hoone mahus rekonstrueerimistööd ehitustööde peatöövõtjana, mille
+puhul on teostatud mh vähemalt järgnevad ehitustööd: hoone kande- ja välispiirete ehitamine
+või rekonstrueerimine, soojustagastusega sundventilatsiooni ehitamine või rekonstrueerimine,
+uue küttesüsteemi ehitamine või rekonstrueerimine. Peatöövõtjana käsitletakse isikut, kes on
+ehitusettevõtja, keda ehitise omanik on määranud juhtima ja korraldama ehitustöid ehitusplatsil.
+Samaväärne ehitustöö loetakse teostatuks, kui selle lõpetamise kohta on vormistatud tellija ja
+töövõtja poolt kinnitatud üleandmise-vastuvõtmise akt või kui vastavad andmed ehitustöö
+lõpetamise kohta on tuvastatavad ehitisregistrist kasutusteatise või kasutusloa esitamise või
+saamisega seoses.
+3.3. Pakkuja meeskonnas peavad korterelamu terviklikul rekonstrueerimisel igakordselt olema,
+sealjuures tuleb vastavad isikud või samaväärse pädevusega isikud kaasata ehitustööde
+teostamisse, järgmised pädevad või välismaise pakkuja puhul samaväärse pädevusega isikud,
+kelle tehnilise ja kutsealase pädevuse nõuetele vastavust tõendatakse järgnevate pädevustega:
+3.3.1. projektijuht, kellel on vähemalt ehitusinseneri kutse, tase 6 spetsialiseerumisega hoonete
+ehitusele, valitava kompetentsiga ehitustegevuse juhtimine või ehitusjuhi kutse, tase 6,
+spetsialiseerumisega üldehituslikule ehitamisele;
+3.3.2. objektijuht, kellel on vähemalt ehituse tööjuhi kutse, tase 5, tervikspetsialiseerumisega
+üldehitustööde tegemine;
+3.3.3. ventilatsiooni- ja küttesüsteemide spetsialist, kellel on vähemalt kütte-, ventilatsiooni- ja
+jahutuseinseneri kutse, tase 6 kompetentsidega ehitustegevuse juhtimine küttesesüsteemide
+ehitamisel ja ehitustegevuse juhtimine ventilatsioonisüsteemide ehitamisel või ehitusjuhi kutse,
+tase 6, spetsialiseerumisega sisekliima tagamise süsteemide ehitamisele;
+3.3.4. veevarustuse- ja kanalisatsioonisüsteemide spetsialist, kellel on vähemalt veevarustuse-
+ja kanalisatsiooniinseneri kutse, tase 6 kompetentsiga ehitustegevuse juhtimine või ehitusjuhi
+kutse, tase 6, spetsialiseerumisega hoonesisese või selle juurde kuuluva veevarustuse ja
+kanalisatsioonisüsteemi ehitamisele;
+3.3.5. elektritööde teostamisel isik, kellel on vähemalt B-klassi pädevustunnistus või
+elektriinseneri kutse tarbija elektripaigaldiste alal, tase 6.
+3.4. Pakkuja peab olema esitanud majandustegevuse registris tegevusalal „Ehitamine“
+majandustegevusteate tegevusala liikidega: üldehituslik ehitamine, sisekliima tagamise
+süsteem, hoonesisene või selle juurde kuuluv veevarustuse või kanalisatsioonisüsteem.
+3.5. Elektritööde teostamisel peab pakkuja olema esitanud majandustegevuse registris
+majandustegevusteate tegevusalal „Elektritööd“ tegevusala liigiga elektripaigaldise ehitamine,
+sealhulgas paigaldamine.
+3.6. Punktides 3.4 ja 3.5 sätestatud majandustegevuse registri registreeringu nõuet ei kohaldata
+välismaisele pakkujale. Asjakohasel juhul tõendab pakkuja oma pädevust samaväärse tõendiga.
+3.7. Pakkujal peab olema ehitustööde tegevusvaldkonnas rakendatud
+kvaliteedijuhtimissüsteem, mis vastab vähemalt EVS-EN ISO 9001 standardis, ja
+keskkonnajuhtimissüsteem, mis vastab vähemalt EVS-EN ISO 14001 standardis, või
+samaväärsetes dokumentides sätestatud tingimustele.
+3.8. Pakkuja kinnitab pakkumuse esitamisega, et hiljemalt lepingu sõlmimise kuupäevaks on
+tal võimalus anda toetuse saajale krediidi- või finantseerimisasutuse kinnitatud täitmisaja
+tagatis viie protsendi ulatuses lepingu maksumusest. Lepingu maksumuseks loetakse edukas
+pakkumuses sisalduv rekonstrueerimistööde või projekteerimis- ja rekonstrueerimistööde
+maksumus ilma käibemaksuta, millele liidetakse, juhul kui see on ette nähtud, reserv ilma
+käibemaksuta summana. Kui pooled sõlmivad lepingu enne toetuse saajale tagatise esitamist,
+peab pakkuja esitama toetuse saajale tagatise hiljemalt 10 kalendripäeva jooksul lepingu
+sõlmimisest. Kui enne lepingu sõlmimist selgub, et edukas pakkuja ei saa tagatist anda enne
+lepingu sõlmimist ega hiljemalt 10 kalendripäeva jooksul lepingu sõlmimisest, jätab toetuse
+saaja eduka pakkujaga lepingu sõlmimata ning tunnistab edukaks paremusjärjestuses järgmise
+pakkuja. Kui leping on juba sõlmitud, kuid pakkuja ei anna vastavat tagatist hiljemalt 10
+kalendripäeva jooksul lepingu sõlmimisest, alustab toetuse saaja õiguskaitsevahendite
+kohaldamist. Täitmisaja tagatis peab kehtima kogu ehitusperioodi vältel. Täitmisaja tagatisena
+loetakse aktsepteeritavaks ka vastava rahasumma deponeerimine toetuse saaja arvelduskontole
+või deponeerimine notari kontole, tingimusel et õigustatud isikuks on kogu ehitusperioodi vältel
+toetuse saaja. Ühispakkujad võivad tagatise nõude täita ühiselt.
+3.9. Kui pakkuja ei ole esitanud pakkumusega koos tõendeid kvalifitseerimistingimuse täitmise
+kohta ning vastava tingimuse täitmist ei ole toetuse saajal võimalik kontrollida avalikest
+registritest, peab toetuse saaja andma pakkujale 10-kalendripäevase tähtaja vastavate
+dokumentide ja andmete, mis tõendavad kvalifitseerimistingimuse täitmist, esitamiseks. Kui
+vastavaid andmeid ja dokumente ei esitata eelmises lauses määratud tähtaja jooksul, kuulub
+selline pakkuja kvalifitseerimata jätmisele.
+4. Täiendavad kvalifitseerimise tingimused
+4.1. Tingimus, mida on kohustuslik kasutada korterelamu elemendipõhise
+rekonstrueerimise korral
+4.1.1. Elementide tootja on ettevõte, mille põhitegevusala on kokkupandavate puitehitiste ja
+nende elementide tootmine. Elementide tootja peab olema ostumenetluse algamisele eelneva
+60 kuu jooksul tootnud vähemalt kolmele samaväärsele olemasolevale või uuele hoonele
+fassaadi või katuse elemendid ning peab omama viimasel kolmel järjestikusel majandusaastal
+enne ostumenetluse teate avaldamist netokäivet summas, mis on kokku võrdne vähemalt
+poolega lepingu eeldatavast maksumusest. Samaväärsena käsitleks vähemalt kolmekorruselist
+sisekliima tagamisega hoonet, mille puhul on ehitamisel või rekonstrueerimisel kasutatud
+eeltoodetud elemente. Kui ostu objekt on alla kolme korrusega korterelamu, loetakse
+samaväärseks ostu objektiga võrdse korruste arvuga hoone. Kui ühe ostu raames soovitakse
+leida tööde teostajat mitmele elemendipõhiselt rekonstrueeritavale korterelamule, võetakse
+käesoleva tingimuse täitmisel arvesse elemendipõhiselt rekonstrueeritava korterelamu lepingu
+eeldatava maksumusena toetuse taotluses kajastatud kõrgeima maksumusega korterelamu
+rekonstrueerimistööde eeldatav maksumus. Ostu objektiks oleva korterelamuga samaväärseks
+korterelamuks, millele elementide tootja peab fassaadi või katuse elemendid olema viimase 60
+kuu jooksul tootnud, loetakse mitme korterelamu ühise ostumenetluse korral ükskõik milline
+selles kajastatud korterelamu.
+4.1.2. Elementide tootja peab omama kehtivat ETAt (European Technical Assessment) või
+samaväärset dokumenti.
+4.2. Tingimus, mida on kohustuslik kasutada juhul, kui ostumenetluses tellitakse koos nii
+ehitusprojekt kui rekonstrueerimistööd
+Pakkuja meeskonnas peab olema arhitekt, kellel on vähemalt volitatud arhitekti kutse, tase 7 ja
+kes vastutab ehitusprojekti vastavuse eest Euroopa uue Bauhausi nõuetele.
+5. Vastavustingimused
+Pakkumus tunnistatakse vastavaks järgmiste vastavustingimuste täitmisel:
+5.1. esitatud on pakkumuse kogumaksumus vastavalt ostu alusdokumentides sätestatule;
+5.2 esitatud on pakkumusvorm, milles on toodud kogumaksumuses sisalduvad kulud.
+Pakkumusvormi ei tule esitada üksnes juhul, kui toetuse saaja ei ole seda ostus nõudnud. Kui
+pakkumusvorm on ostus nõutud, kuid seda ei ole esitatud koos pakkumusega või see on täidetud
+puudulikult, annab toetuse saaja pakkujale 10-kalendripäevase tähtaja täidetud
+pakkumusvormi, milles peavad kajastuma kõik toetuse saaja poolt ettenähtud kuluread,
+esitamiseks. Pakkumusvormiga ei muudeta pakkumusega koos esitatud pakkumuse
+kogumaksumust;
+5.3. kui pakkumuses sisaldub ärisaladus, märgib pakkuja, milline teave on pakkuja ärisaladus
+ning põhjendab teabe ärisaladuseks määramist. Kui pakkuja ei ole ärisaladust märkinud, eeldab
+toetuse saaja, et pakkuja pakkumuses puudub ärisaladus;
+5.4. pakkumuse esitamisega kinnitab pakkuja kõigi ostu alusdokumentides sätestatud
+tingimuste täitmist;
+5.5. kui toetuse saaja korterelamu rekonstrueerimisel on ehitusprojektis või projekteerimise
+lähteülesandes nähtud ette eeltoodetud elementide kasutamine, esitatakse elementide tootja
+kirjalik kinnitus, millest peab nähtuma elementide tootja valmidus osaleda lepingu täitmisel
+juhul, kui pakkuja pakkumus osutub edukaks pakkumuseks. Elementide tootja kirjaliku
+kinnituse esitamiseks peab toetuse saaja andma pakkujale 10-kalendripäevase tähtaja juhul, kui
+vastav kinnitus ei ole esitatud koos pakkumusega;
+5.6. ühise pakkumuse esitamise korral esitatakse ühispakkujate volikiri. Kui volikirja ei ole
+esitatud koos pakkumusega, peab toetuse saaja andma pakkujale 10-kalendripäevase tähtaja
+volikirja esitamiseks.
+6. Hindamiskriteeriumid
+Pakkumuse maksumus – 100 protsenti. Maksumuse eest antavad hindepunktid arvutatakse
+registris automaatselt pakutava valemiga.
+
+=== 9718444_Kinnitus_karistuste_puudumise_kohta-toetuse_saaja_hankes_esitamiseks.docx ===
+Toetuse saaja ostu nr (menetluse nr riigihangete registrist): 
+Toetuse saaja ostu nimetus (menetluse nimi riigihangete registrist): 
+Pakkuja ärinimi: 
+Pakkuja registrikood: 
+
+Kinnitus
+Kinnitan, et pakkujat ega ühtegi pakkuja haldus-, juhtimis- või järelevalveorgani liiget või muud seaduslikku esindajat ei ole karistatud järgnevate kuritegude eest: kuritegelikus ühenduses osalemise, aususe kohustuse rikkumise või korruptiivse teo, kelmuse, terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo või sellele kihutamise, kaasaaitamise või selle katse, rahapesualase süüteo või terrorismi rahastamise eest; riigis ilma seadusliku aluseta viibivale välismaalasele töötamise võimaldamise või välismaalase Eestis töötamise tingimuste rikkumise võimaldamise, sealhulgas seaduses sätestatud töötasu määrast väiksema töötasu maksmise eest; laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud teo eest. 
+Juhul, kui esitan käesolevas hankes ühispakkumuse, lisan käesoleva kirjaliku kinnituse iga ühispakkuja kohta pakkumuse juurde ning tagan, et kinnitus on allkirjastatud iga ühispakkuja esindaja poolt. 
+(allkirjastatud digitaalselt) 
+Pakkuja esindaja nimi 
+Esindamise alus
+
+
+=== 9718444_Pakkumuskutse__Rek___6_.docx ===
+PAKKUMUSKUTSE
+Rekonstrueerimistööd
+
+Toetuse saaja(d):
+Ostumenetluse läbiviimiseks volitatud isik:
+Tallinn, Niine põik 8 korteriühistu (80416559)
+Janek Bahovski
+Toetuse saaja ostu viitenumber: 
+304259
+Toetuse saaja ostu nimetus:
+Tallinn, Niine põik 8 korteriühistu (80416559)
+Pakkumuse esitamise tähtaeg:
+14  kalendripäeva alates toetuse saaja ostu väljakuulutamisest
+Lisad:
+Hankelepingu projekt, lähteülesanne, RHR-is avaldatud teave
+
+	•	Pakkumuse esitamise kutse
+	•	Toetuse saaja ostu alusdokumentide (edaspidi ka „alusdokumendid”) koostamisel on toetuse saaja lähtunud toetust reguleerivate õigusaktide tingimustest. Tegemist ei ole riigihankega riigihangete seaduse mõttes.
+	•	Alusdokumentide hulka kuuluvad: 
+	•	Käesolev lähteülesanne koos kõikide lisadega; 
+	•	Ostumenetluses riigihangete registris (edaspidi “RHR”) avaldatud teave, sh hanketeade (edaspidi “hanketeade”), kõrvaldamise alused, kvalifitseerimistingimused, vastavustingimused, hindamiskriteeriumid ja kõik enne pakkumuste esitamise tähtpäeva saadetud info ja dokumendid, millega on muudetud, selgitatud või täpsustatud alusdokumentide nõudeid.
+	•	Toetuse saaja võib muuta hanketeadet ja/või alusdokumente enne pakkumuste esitamise tähtpäeva, jättes olulise muudatuse järel vähemalt 10 kalendripäeva pakkumuste esitamiseni. Pakkumuste esitamise tähtaega ei pea pikendama, kui dokumentides on tehtud üksnes vormiline või selgitav muudatus, mis ei saa mõjutada juba esitatud pakkumuste sisu.
+	•	Toetuse saaja teeb ettepaneku esitada pakkumus vastavalt alusdokumentides sisalduvatele tingimustele RHR-i kaudu.
+	•	Naabruskonnapõhise rekonstrueerimise korral: Eeldatav maksumus kujunes kõikide hoonete eeldatavate maksumuste liitmisel. Kui rekonstrueerimistööde või rekonstrueerimis- ja projekteerimistööde ostumenetlus hõlmab mitut sama toetuse saaja korterelamut või kahe või enama toetuse saaja korterelamut, peab ostumenetluses esitatav hinnapakkumus kajastama iga korterelamu tööde ja teenuste kulu eristavalt.
+	•	Protsess
+
+	•	Pakkumus
+Pakkumuse koostamine
+	•	Pakkumus peab vastama alusdokumentides sätestatud tingimustele. Pakkumuses esitatud andmed peavad olema esitatud viisil, mis võimaldavad toetuse saajal kontrollida pakkumuse vastavust alusdokumendis toodud tingimustele.
+	•	Pakkumuse esitamisega kinnitab pakkuja kõigi alusdokumentides esitatud tingimuste ülevõtmist.
+	•	Iga viidet, mille toetuse saaja teeb mõnele ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule või tootmisviisile, mis võiks anda mõnele ettevõtjale või tootele eeliseid teiste ees või nende osaluse välistada, tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne”. Samaväärsusele tuginemisel esitab pakkuja pakkumuses samaväärsust tõendavad dokumendid.
+	•	Pakkumuse maksumus esitatakse eurodes ja vastavalt RHR-is toodud struktuurile. Pakkumuse maksumus peab olema lõplik. Maksumus peab sisaldama nii kõiki kulusid vastavalt alusdokumendile kui ka seal nimetamata kulusid, mis on vajalikud lepingu nõuetekohaseks täitmiseks. Toetuse saaja ei hüvita lepingu täitmisel pakkujale mingeid täiendavaid kulusid ega tee täiendavaid makseid.
+	•	Pakkujal võib olla vajadus esitada pakkumuse maksumus nii RHR-i vormil kui ka toetuse saaja poolt koostatud vormil. Juhul, kui pakkuja esitatud andmed on neil vormidel erinevad, siis lähtub toetuse saaja pakkumuse hindamisel toetuse saaja koostatud vormil esitatud maksumustest.
+	•	Kui pakkumuse maksumuses esineb ilmne arvutusviga, on toetuse saajal õigus lubada pakkujal viga parandada koheselt või parandada see ise, teavitades parandusest viivitamatult ka pakkujat läbi RHR-i.
+	•	Pakkumus ei tohi olla mis tahes viisil eksitav. Pakkuja ei saa omalt poolt teha muudatusi, reservatsioone ega seada omapoolseid tingimusi alusdokumentides esitatud nõuete kohta. Tingimusliku pakkumuse esitamine ei ole lubatud.
+	•	Alternatiivsete lahenduste esitamine ei ole lubatud.
+	•	Ühispakkujad peavad esitama ühispakkumuse volikirja. Volikirjas peab pakkuja märkima iga ühispakkuja poolt täidetava lepingu osa suuruse ja iseloomu. 
+	•	Juhul kui volikirja ei ole esitatud, tuleb pakkujal esitada see hiljemalt 10 kalendripäeva jooksul arvates vastava päringu saamisest toetuse saajalt või teda esindavalt isikult.
+	•	Ühispakkumuse korral sõlmivad ühispakkujad koos lepingu ja vastutavad selle täitmise eest solidaarselt kuni lepingus toodud kõigi kohustuste täitmiseni. Pakkujana käsitletakse iga ühispakkujat.
+	•	Ühispakkumuse esitanud ettevõtjad ei pea olema moodustanud juriidilist isikut ega olema ühinenud muus õiguslikus vormis.
+	•	Pakkumuse dokumendid tuleb esitada üldlevinud dokumendi formaadis (.pdf; .txt; .rtf; .odt ja MS Office formaadid). 
+	•	Ühe üleslaetava faili maht ei tohi RHR-is ületada 100 MB. Pakkumuse dokumentide kogumaht ei tohi ületada 300MB.
+	•	Huvitatud isik või pakkuja kannab ostumenetluses osalemisega seotud kogukulud ja -riski, kaasa arvatud vääramatu jõu (force majeure) toime võimalused. 
+	•	Kui pakkumuses sisaldub ärisaladus, märgib pakkuja, milline teave on pakkuja ärisaladus ning põhjendab teabe ärisaladuseks määramist. Juhul kui pakkuja ei ole ärisaladust märkinud, eeldab toetuse saaja, et pakkuja pakkumuses puudub ärisaladus.
+Pakkumuse esitamine
+	•	Pakkumus tuleb esitada elektrooniliselt RHR-i (https://riigihanked.riik.ee) vahendusel.
+	•	Pakkumus peab olema esitatud pakkuja seadusjärgse või volitatud esindaja poolt. Juhul, kui pakkumuse esitab isik, kes ei ole Eesti äriregistri registrikaardi väljatrükile kantud isikuna, kellel on pakkuja seadusjärgne esindamise õigus, siis peab pakkuja toetuse saaja nõudel esitama seadusjärgse esindaja(te) volikirja pakkuja esindamiseks.
+	•	Toetuse saaja ei vastuta võimalike viivituste, tõrgete või katkestuste eest, mille põhjustavad RHR-is toetuse saaja kontrolli alt väljas olevad asjaolud nagu force majeure, elektrikatkestused, häired pakkuja või toetuse saaja telefoni- või internetiühenduses või muude elektrooniliste seadmete ja vahendite, sealhulgas tarkvara töös. Toetuse saaja ei vastuta RHR-i kasutamisest või mittekasutamisest tekkinud kahjude või saamata jäänud tulu eest.
+	•	Toetuse saaja avab pakkumused elektrooniliselt RHR-is. Pakkumuste avamine ei ole avalik. 
+Pakkumuse vastavus
+	•	Vastavustingimused asuvad RHR-is hankemenetluse alusandmete all. 
+	•	Toetuse saaja tunnistab pakkumuse vastavaks, kui see vastab alusdokumentides sätestatud nõuetele. 
+	•	Kui toetuse saaja korterelamu rekonstrueerimisel on ehitusprojektis või projekteerimise lähteülesandes nähtud ette eeltoodetud elementide kasutamine, esitatakse elementide tootja kirjalik kinnitus, millest peab nähtuma elementide tootja valmidus osaleda lepingu täitmisel, juhul kui pakkuja pakkumus osutub edukaks pakkumuseks. Elementide tootja kirjaliku kinnituse esitamiseks annab toetuse saaja pakkujale kuni 10 kalendripäevase tähtaja juhul kui vastav kinnitus ei ole esitatud koos pakkumusega.
+Pakkuja kvalifitseerimine
+	•	Kvalifitseerimistingimused asuvad RHR-is hankemenetluse alusandmete all, alajaotises kõrvaldamise alused ja kvalifitseerimistingimused.
+	•	Juhul, kui pakkujal ei ole võimalik täita kõiki kvalifitseerimistingimusi üksinda, kaasab pakkuja pakkumuse esitamiseks teise ettevõtja, kes täidab vastava tingimuse, ühispakkujana. Kvalifitseerimistingimus loetakse täidetuks, kui vähemalt ühel ühispakkumuses osalevatest ettevõtjatest on vastav kvalifitseerimistingimus üksinda täidetud, tingimuse täitmiseks andmete summeerimine ei ole lubatav. 
+	•	Pakkuja pakkumuse esitamisele eelneva majandusaasta netokäive peab olema minimaalselt võrdne sõlmitava lepingu kahekordse eeldatava maksumusega (arvestatuna, et lepingu eeldatav maksumus esitatakse alati käibemaksuta summana).
+	•	Pakkuja peab olema ostumenetluse algamisele eelneva 60 kuu jooksul teostanud vähemalt ühe pakkumuses esitatuga samaväärse ehitustöö maksumusega määras, mis on võrdne vähemalt poolega sõlmitava lepingu eeldatavast maksumusest. Samaväärseks ehitustööks loetakse hoonete püstitamise, laiendamise ja/või kogu hoone mahus rekonstrueerimistööd ehitustööde peatöövõtjana, mille puhul on teostatud mh vähemalt järgnevad ehitustööd: hoone kande- ja välispiirete ehitamine või rekonstrueerimine, soojustagastusega sundventilatsiooni ehitamine või rekonstrueerimine, uue küttesüsteemi ehitamine või rekonstrueerimine.
+	•	Pakkuja meeskonnas peavad korterelamu terviklikul rekonstrueerimisel igakordselt olema järgmised pädevad või välismaise pakkuja puhul samaväärse pädevusega isikud, kelle tehnilise ja kutsealase pädevuse nõuetele vastavust tõendatakse järgnevate pädevustega:
+	•	projektijuht, kellel on vähemalt ehitusinseneri kutse, tase 6 spetsialiseerumisega hoonete ehitusele, valitava kompetentsiga ehitustegevuse juhtimine või ehitusjuhi kutse, tase 6, spetsialiseerumisega üldehituslikule ehitamisele;
+	•	objektijuht, kellel on vähemalt ehituse tööjuhi kutse, tase 5, tervikspetsialiseerumisega üldehitustööde tegemine;
+	•	ventilatsiooni- ja küttesüsteemide spetsialist, kellel on vähemalt kütte-, ventilatsiooni- ja jahutuseinseneri kutse, tase 6 kompetentsidega ehitustegevuse juhtimine küttesesüsteemide ehitamisel ja ehitustegevuse juhtimine ventilatsioonisüsteemide ehitamisel või ehitusjuhi kutse, tase 6, spetsialiseerumisega sisekliima tagamise süsteemide ehitamisele;
+	•	veevarustuse- ja kanalisatsioonisüsteemide spetsialist, kellel on vähemalt veevarustuse- ja kanalisatsiooniinseneri kutse, tase 6 kompetentsiga ehitustegevuse juhtimine või ehitusjuhi kutse, tase 6, spetsialiseerumisega hoonesisese või selle juurde kuuluva veevarustuse ja kanalisatsioonisüsteemi ehitamisele;
+	•	elektritööde teostamisel isik, kellel on vähemalt B-klassi pädevustunnistus või elektriinseneri kutse tarbija elektripaigaldiste alal, tase 6.
+	•	Pakkuja peab olema esitanud majandustegevuse registris tegevusalal „Ehitamine“ majandustegevusteate tegevusala liikidega: üldehituslik ehitamine, sisekliima tagamise süsteem, hoonesisene või selle juurde kuuluv veevarustuse või kanalisatsioonisüsteem.
+	•	Elektritööde teostamisel peab pakkuja olema esitanud majandustegevuse registris majandustegevusteate tegevusalal „Elektritööd“ tegevusala liigiga elektripaigaldise ehitamine, sealhulgas paigaldamine.
+	•	Punktides 3.24 ja 3.25 sätestatud majandustegevuse registri registreeringu nõuet ei kohaldata välismaisele pakkujale. Asjakohasel juhul tõendab pakkuja oma pädevust samaväärse tõendiga.
+	•	Pakkujal peab olema ehitustööde tegevusvaldkonnas rakendatud kvaliteedijuhtimissüsteem, mis vastab vähemalt EVS-EN ISO 9001 standardis, ja keskkonnajuhtimissüsteem, mis vastab vähemalt EVS-EN ISO 14001 standardis, või samaväärsetes dokumentides sätestatud tingimustele.
+	•	Kui pakkuja ei ole esitanud pakkumusega koos tõendeid kvalifitseerimistingimuse täitmise kohta ning vastava tingimuse täitmist ei ole toetuse saajal võimalik kontrollida avalikest registritest, annab toetuse saaja pakkujale 10-kalendripäevase tähtaja vastavate dokumentide ja andmete, mis tõendavad kvalifitseerimistingimuse täitmist, esitamiseks. Kui vastavaid andmeid ja dokumente ei esitata eelmises lauses määratud tähtaja jooksul, kuulub selline pakkuja kvalifitseerimata jätmisele.
+	•	Kui pakkuja soovib oma meeskonna pädevuse tõendamiseks kasutada meeskonna liikmetena isikuid, kes ei ole pakkuja töötajad või nad ei ole pakkuja pädevate isikutena märgitud avalikus registris, esitatakse iga sellise füüsilise isiku kirjalik kinnitus, millest nähtub nõusolek enda kaasamiseks ning lepingu täitmisel pakkuja meeskonna liikmena osalemiseks hiljemalt 10 kalendripäeva jooksul arvates vastavasisulise päringu saamisest toetuse saajalt või teda ostumenetluses esindavalt isikult.
+	•	Pakkuja kinnitab pakkumuse esitamisega, et hiljemalt ehituslepingu sõlmimise kuupäevaks on tal võimalus anda toetuse saajale krediidi- või finantseerimisasutuse poolt väljastatud esimesel nõudmisel garantiikiri viie protsendi ulatuses ehituslepingu käibemaksuta maksumusest. Juhul, kui pooled sõlmivad ehituslepingu enne toetuse saajale tagatise esitamist, peab pakkuja esitama toetuse saajale tagatise hiljemalt 10 kalendripäeva jooksul lepingu sõlmimisest. Kui pakkuja nimetatud tagatist ei anna, ei sõlmi toetuse saaja pakkujaga lepingut ning tunnistab vastavasisulise otsusega edukaks paremusjärjestuses järgmise pakkuja. Juhul, kui leping on juba sõlmitud, kuid pakkuja ei anna vastavat tagatist hiljemalt 10 kalendripäeva jooksul lepingu sõlmimisest, alustab toetuse saaja õiguskaitsevahendite kohaldamist. Ehitusaegne tagatis peab kehtima kogu ehitusperioodi vältel. Ehitusaegse tagatisena loetakse aktsepteeritavaks ka vastava rahasumma deponeerimine toetuse saaja arvelduskontole või deponeerimine notari kontole, tingimusel et õigustatud isikuks on kogu ehitusperioodi vältel toetuse saaja. Ühispakkujad võivad tagatise nõude täita ühiselt.
+	•	Punktis 3.18. nimetatud tootja peab olema ostumenetluse algamisele eelneva 60 kuu jooksul tootnud vähemalt kolmele ostu objektiks oleva korterelamuga samaväärsele olemasolevale või uuele hoonele fassaadi või katuse rekonstrueerimise elemendid ning peab omama viimasel kolmel järjestikusel kalendriaastal enne ostumenetluse teate avaldamist netokäivet summas, mis on võrdne vähemalt poolega ostu objektiks oleva korterelamu eeldatavast rekonstrueerimise maksumusest.
+Pakkuja kõrvaldamine
+	•	Pakkuja kõrvaldamise alused on avaldatud RHR-is ostumenetluse alusandmete all, alajaotises kõrvaldamise alused ja kvalifitseerimistingimused.
+	•	Toetuse saajal on õigus kõrvaldada pakkumus ning tunnistada edukaks esialgsel hindamisel leitud järjestuselt teine pakkumus uut ostumenetlust korraldamata, kui toetuse saaja soovib võtta omafinantseeringuks renoveerimislaenu ning laenuandja ei nõustu projekti elluviimiseks renoveerimislaenu väljastama pakkujaga seotud põhjustel. Nimetatud juhul teeb toetuse saaja asjakohase otsuse muutmise otsuse või vastava otsuse, milles märgitakse, mis kuupäeval on kõrvaldamise aluseks olev asjaolu teatavaks saanud. Toetuse saaja peab tagama, et laenu andmisest keeldumine on vähemalt kirjalikku taasesitamist võimaldavas vormis. 
+	•	Otsusest teavitatakse ostus vastavaks tunnistatud pakkumuste esitajaid hiljemalt 10 kalendripäevajooksul vastava otsuse tegemisest arvates.
+	•	Lisaks § 95 lõike 1 punktides 1–3 ja 5 (arvestades RHS § 95 lõikes 2 sätestatut) nimetatud kõrvaldamise alustele kõrvaldab toetuse saaja ka pakkuja (ühispakkumuse korral kõik vastava ühispakkumuse esitanud pakkujad kui vähemalt ühel ühispakkujatest esineb kõrvaldamise alus): 
+	•	kes on pankrotis või likvideerimisel, kelle suhtes on algatatud pankroti- või likvideerimismenetlus või kelle äritegevus on peatatud või kes on muus sellesarnases olukorras pakkuja asukohamaa õigusaktide kohaselt;
+	•	kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg või maksu- või sotsiaalkindlustusmaksete võlg tema asukohariigi õigusaktide kohaselt, välja arvatud juhul, kui pakkuja on võla ajatanud või tasunud või kui ta tasub või ajatab võla kümne kalendripäeva jooksul arvates toetuse saajalt vastava teate saamisest kõrvaldamise aluse esinemise kohta.  
+	•	Maksude või maksete võla puudumist kontrollitakse toetuse saaja poolt läbi Maksu- ja Tolliameti veebilehe või registri päringu kaudu. Kui toetuse saajal ei ole pakkuja kõrvaldamiste aluse kontrolli faasis võimalik kontrolli teostada eelmises lauses nimetatud kanalite kaudu, on toetuse saajal õigus küsida pakkujalt vastavaid tõendeid, mis tõendaks vastavate võlgnevuste puudumist ja mis on väljastatud kuni kaks nädalat enne pakkumuste esitamise tähtpäeva.
+	•	Pakkuja, kelle töötajate keskmine töötasu on võrdlusperioodi jooksul olnud väiksem kui 70 protsenti sama ajavahemiku keskmisest töötasust lepingu esemele vastavas valdkonnas. Nimetatud nõuet ei kohaldata, kui isikul puuduvad töötajad. Võrdlusperioodiks loetakse kuus kalendrikuud, mille viimaseks kuuks on ostumenetluse alustamise kalendrikuust üle- eelmine kalendrikuu. Kui pakkuja või üks ühispakkujatest on asutatud või alustanud äritegevust võrdlusperioodi algusest hiljem, on tema võrdlusperioodi alguseks asutamise või äritegevuse alustamise kalendrikuu ja lõpuks ostumenetluse alustamise kalendrikuust üle- eelmine kalendrikuu. Tõendada tuleb selle nõude täitmist Maksu- ja Tolliameti dokumentidega. Välismaine pakkuja esitab oma asukohariigis Maksu- ja Tolliametiga samaväärse pädeva asutuse tõendid.
+	•	Pakkuja, kes on seotud isikuks toetuse saaja korterelamu rekonstrueerimist nõustava tehnilise konsultandiga.
+	•	Kui pakkuja ei ole esitanud pakkumusega koos tõendeid kõrvaldamise aluste puudumise kohta ning vastavate kõrvaldamise aluste puudumist ei ole toetuse saajal võimalik kontrollida avalikest registritest, annab toetuse saaja pakkujale 10-kalendripäevase tähtaja vastavate dokumentide ja andmete, mis tõendavad kõrvaldamise aluste puudumist, esitamiseks. Kui vastavaid andmeid ja dokumente ei esitata eelmises lauses määratud tähtaja jooksul, kuulub selline pakkumus kõrvaldamisele
+	•	Pakkuja ostumenetlusest kõrvaldamisel teeb toetuse saaja sellekohase põhjendatud kirjalikku taasesitamist võimaldavas vormis otsuse. Kõrvaldatud pakkuja ei osale edasises ostumenetluses.
+Hindamine
+	•	Toetuse saaja hindab pakkumusi üksnes maksumuse alusel.
+	•	Edukaks tunnistatakse pakkumus, mis on käibemaksuta madalaima maksumusega.
+	•	Juhul, kui madalaima maksumusega pakkumuse on esitanud rohkem kui 1 pakkuja, valitakse edukas pakkumus liisuheitmise teel. Toetuse saaja määrab liisu heitmise korra, aja ja koha. Pakkuja poolt osalevad liisuheitmisel pakkuja seadusjärgne või volitatud esindaja. 
+	•	Läbirääkimised
+	•	Toetuse saajal  on õigus läbi rääkida üksnes esitatud hinna osas, kui algselt ettenähtud tööde maht või sisu muutub ja selleks esineb põhjendatud alus.
+	•	Toetuse saajal on õigus pidada läbirääkimisi tingimustele vastava pakkumuse esitanud kvalifitseeritud pakkujatega, kellel ei esine kõrvaldamise aluseid.
+	•	Toetuse saaja teavitab pakkujat läbirääkimiste ajast ja läbiviimise korrast. Läbirääkimised võivad olla suulised või kirjalikud. Suuliselt peetud läbirääkimised protokollitakse.
+	•	Läbirääkimised on konfidentsiaalsed. Toetuse saaja ei avalda läbirääkimiste käigus saadud pakkumusi puudutavat teavet diskrimineerival viisil, mis võiks anda ühele pakkujale eelise teiste ees. 
+	•	Toetuse saaja tagab läbirääkimiste ajal kõigi pakkujate võrdse kohtlemise. 
+	•	Vajadusel esitab pakkuja pärast läbirääkimiste toimumist uue kohandatud pakkumuse RHR-is, milleks antakse pakkujale vähemalt 5 tööpäeva. 
+	•	Kõikide pakkumuste tagasi lükkamine
+	•	Toetuse saaja võib kõik pakkumused tagasi lükata, kui kõigi pakkumuste või vastavaks tunnistatud pakkumuste maksumused ületavad lepingu eeldatavat maksumust.
+	•	Toetuse saaja võib kõik pakkumused tagasi lükata, kui ei ole tagatud piisav konkurents. See tähendab, et kui ostule laekub ainult kaks või vähem pakkumist või kui vastavaks tunnistatakse ainult üks pakkumus. 
+	•	Toetuse saaja lükkab kõik pakkumused tagasi kirjalikku taasesitamist võimaldavas vormis otsusega. Toetuse saaja peab oma otsust põhjendama.
+	•	Kui toetuse saaja on jaganud hanke osadeks, siis tal on õigus teha kõigi pakkumuste tagasilükkamise otsus iga osa suhtes eraldi.
+	•	Ostumenetluse kehtetuks tunnistamine
+	•	Toetuse saajal on õigus põhjendatud vajadusel ostumenetlus kehtetuks tunnistada. Toetuse saaja põhjendatud vajadus on näiteks, kui:
+	•	toetuse saajal tekib vajadus lepingu eset olulisel määral muuta;
+	•	tingimused, mis olid ostumenetluse aluseks, on oluliselt muutunud ning seetõttu on lepingu sõlmimine ebavajalik või võimatu;
+	•	on ilmnenud ebakõlad, mida ei ole võimalik kõrvaldada ega menetlust seetõttu õiguspäraselt lõpule viia. 
+	•	Toetuse saaja tunnistab ostumenetluse kehtetuks kirjalikku taasesitamist võimaldavas vormis otsusega. Otsus peab olema põhjendatud.
+	•	Leping
+	•	Leping sõlmitakse ühe edukaks tunnistatud pakkujaga või ühispakkujatega (edaspidi nimetatud ühiselt käesolevas peatükis „pakkuja“). Leping sõlmitakse lepingu projektis kindlaksmääratud tingimustel.
+	•	Juhul, kui hanke esemeks on naabruskonnapõhine rekonstrueerimine, siis sõlmitakse töövõtulepingud iga korteriühistu lõikes eraldi.
+	•	Leping allkirjastatakse digitaalselt. Pakkuja peab lepingu allkirjastama ning tagastama tema poolt allkirjastatuna toetuse saajale 5 tööpäeva jooksul. 
+	•	Juhul, kui lepingu allkirjastamine digitaalselt ei ole võimalik, saadab toetuse saaja edukaks tunnistatud pakkumuse esitanud pakkujale kaks toetuse saaja poolt allkirjastatud lepingu eksemplari. Leping loetakse kättesaaduks 3 kalendripäeva möödumisel selle postitamisest arvates. Edukaks tunnistatud pakkumuse esitanud pakkuja peab ühe lepingu eksemplari allkirjastatult tagastama toetuse saajale 10 kalendripäeva jooksul lepingu kättesaamisest arvates. Toetuse saaja võib vajaduse korral lepingu tagastamise tähtaega pikendada. 
+	•	Kui edukas pakkuja ei pea kinni allkirjastamise tähtajast ja ei tagasta tema poolt allkirjastatud lepingut tähtaegselt, siis on toetuse saajal õigus lugeda pakkumus tagasivõetuks ning alustada kõigi ülejäänud pakkumuste uuesti hindamist. Lisaks on toetuse saajal õigus allkirjastamise nõudest mitte kinni pidanud pakkujalt nõuda kahju hüvitamist. Samasugune õigus on toetuse saajal ka juhul, kui edukas pakkuja ei asu nõustumuse andmisega sõlmitud lepingut endast tulenevatel põhjustel täitma määratud tähtaja jooksul täitma. 
+	•	Juhul, kui hanke tingimustes seatud või muu tööde teostamiseks nõutava tegevusloa või registreeringu kehtivus lõpeb lepingu täitmise ajal peab töövõtja pikendama nimetatud tegevusluba või registreeringut kuni lepingu täitmise tähtpäevani.
+
+	•	Infovahetus
+Pakkuja poolne pöördumine
+	•	Hanketeate ja alusdokumentide sisu kohta saab selgitusi pöördudes toetuse saaja poole RHR-i kaudu. Pöördumise saab esitada RHR-i teabevahetuse töölehel. 
+	•	Toetuse saaja vastab küsimustele 3 tööpäeva jooksul selgituse saamise taotlusest arvates. Vastused lisatakse RHR-i teabevahetuse töölehele avalikuna. Toetuse saajal on võimalik vastata ainult selgitustaotluse esitajale, kui on selge, et vastuses sisalduv informatsioon ei tekita ühtegi eelist vastuse saajale.
+	•	Selgitustaotlusele vastamisel lähtutakse asjaolust, et selgitused või neid sisaldavad dokumendid ei tohi sisaldada uut teavet, mis muudaks juba avaldatud ostu alusdokumente või mille tulemusel muutuksid juba esitatud pakkumused mittevastavaks või muutuks nende sisu.
+	•	Oluline on selgitustaotlus esitada tähtaegselt ehk vähemalt 6 tööpäeva enne pakkumuste esitamise tähtaega. Kui selgitustaotlus laekub hiljem, siis seadusest tulenevalt ei ole toetuse saaja kohustatud taotlusele vastama. 
+Toetuse saaja poolne pöördumine
+	•	Toetuse saaja võib pakkujalt nõuda täiendavaid dokumente. Sellise päringu eesmärk on kontrollida kõrvaldamise aluste puudumist kvalifikatsiooni või pakkumuse vastavust.  Toetuse saaja esitab nõude RHR-i teabevahetuse lehe kaudu. 
+	•	Olenevalt küsimuse sisust on vastamise tähtaeg 3 või 5 tööpäeva.
+	•	Toetuse saaja võib vastamiseks antud tähtaega pikendada – seda kas omal algatusel või pakkuja põhjendatud avalduse alusel.
+
+
+
+=== 9718444_Pakkumusvorm_vajadusel_täiendad_konkreetsete_tegevustega__1_.xlsx ===
+[Sheet: Sheet1]
+HINNAPAKKUMUSTABEL | Pakkumise nr:
+KORTERIÜHISTU: 
+Tellija: 
+Töövõtja: 
+Korterelamu aadress: 
+Kuupäev: 
+Kood | Töö nimetus | Ühik | Kogus | Ühiku maksumus | Summa | Selgitus
+0 | TELLIJA KULUD | 0
+015 | Tellija reserv | % | 10
+016 | Projekteerimine
+16 | Põhiprojekt
+1 | VÄLISRAJATISED | 0
+11 | Ettevalmistus ja lammutus | 0
+117 | Hoonete ja rajatiste lammutamine
+118 | Raadamis- ja lammutusjäätmete vedu ja utiliseerimine
+…
+14 | Hoonevälised ehitised | 0
+141 | Estakaadid, kaldteed, pandused
+143 | Välistrepid
+144 | Varikatused
+…
+15 | Välisvõrgud | 0
+151 | Drenaaž ja truubid
+152 | Väliskanalisatsioon
+153 | Välisvalgustus
+…
+16 | Kaeved maa-alal | 0
+162 | Kaeved
+163 | Täited
+…
+17 | Maa-ala pinnakatted | 0
+171 | Haljastus
+175 | Aärekivid- ja sadeveerennid
+…
+2 | ALUSED JA VUNDAMENDID | 0
+22 | Vundamendid | 0
+227 | Alustarindite sooja- ja hüdroisolatsioon
+…
+23 | Aluspõrandad | 0
+236 | Aluspõrandate sooja- ja hüdroisolatsioon
+…
+3 | KANDETARINDID | 0
+31 | Metalltarindid | 0
+311 | Metallkarkass
+…
+32 | Kandvad ja välisseinad | 0
+324 | Müüritised
+325 | Seinte elemendid
+327 | Sooja-, heli-, hüdroisolatsioon
+328 | Seinte fassaadikatted
+…
+32 | Trepielemendid | 0
+342 | Betoontarindid
+343 | Metalltarindid
+…
+4 | FASSAADIELEMENDID JA KATUSED | 0
+41 | Klaasfassaadid, vitriinid ja eriaknad | 0
+415 | Suitsuluugid, katusaknad
+… | …
+42 | Aknad | 0
+421 | Aknalauad
+426 | Puit- ja alumiiniumaknad
+427 |  PVC aknad
+… | …
+43 | Välisuksed | 0
+433 | Terasuksed
+436 | Puituksed
+…
+46 | Rõdud ja terrassid | 0
+461 | Pinnakatted
+462 | Betoontarindid
+463 | Metalltarindid
+466 | Puittarindid
+467 | Sooja- ja hüdroisolatsioon
+… | …
+47 | Piirded ja käiguteed | 0
+472 | Klaasist piirded
+473 | Metallist piirded
+476 | Puidust piirded
+…
+48 | Katusetarindid | 0
+482 | Tasanduskihid
+483 | Metalltarindid
+484 | Müüritised
+485 | Elemendid
+486 | Puittarindid
+487 | Sooja- ja hüdroisolatsioon
+488 | Katusekatted
+… | …
+5 | RUUMITARINDID JA PINNAKATTED | 0
+52 | Siseuksed | 0
+523 | Terasuksed
+525 | Puituksed
+…
+53 | Siseseinte pinnakatted | 0
+531 | Värvkatted

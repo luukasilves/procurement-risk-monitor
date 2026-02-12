@@ -1,0 +1,3103 @@
+=== 9384784_300991_Maksumuse_vorm__30122025_.xlsx ===
+[Sheet: OSA 1]
+Seadmed | Viide tehnilise kirjelduse punktile | Tootja, mudel, tootekood | Ühiku maksumus ilma käibemaksuta, eur  | Lepinguperioodi eeldatav 
+tellitav kogus | Kokku lepinguperioodi eeldatava koguse maksumus ilma käibemaksuta, eur
+Seadmete hinnad raamlepingu 1 ja 2 aastal
+Konsool | Tabel 1 punkt 3 | 2 | 0
+Jalglüliti | Tabel 1 punkt 3.7 | 2 | 0
+Jalglüliti optikasüsteemi puhastamiseks | Tabel 1 punkt 3.10 | 2 | 0
+Steriliseerimisrest - Shaver | Tabel 1 punkt 1.7 | 3 | 0
+Steriliseerimisrest - ENT kiirpuur | Tabel 1 punkt 1.7 | 2 | 0
+Steriliseerimisrest - Neurokirurgia kiirpuur | Tabel 1 punkt 1.7 | 2 | 0
+Shaver | Tabel 1 punkt 4 | 3 | 0
+ENT kiirpuuri käepide | Tabel 1 punkt 5 | 2 | 0
+Sirge puuri otsik | Tabel 1 punkt 5.3.1 | 2 | 0
+Nurga all (Stapes) puuri otsik varieeruva otsaga | Tabel 1 punkt 5.3.2 | 2 | 0
+Neurokirurgia kiirpuur mis ühildub Medtronic navigatsioonisüsteemiga StealthStation  | Tabel 1 punkt 6.1 | 1 | 0
+Neurokirurgia kiirpuur mis ei ühildu Medtronic navigatsioonisüsteemiga StealthStation | Tabel 1 punkt 6.2 | 1 | 0
+Sirge puuri otsik, efektiivse osa pikkus on 10 cm | Tabel 1 punkt 6.4.1 | 2 | 0
+Nurgaga puuri otsik, efektiivse osa pikkus on 10 cm | Tabel 1 punkt 6.4.2 | 2 | 0
+Nurgaga puuri otsik, efektiivse osa pikkus on 15 cm | Tabel 1 punkt 6.4.3 | 2 | 0
+Sirge puuri otsik, efektiivse osa pikkus on 15 cm | Tabel 1 punkt 6.4.4 | 2 | 0
+Kraniotoomi otsik dura kaitsega, sobib teradele tööosa pikkusega 15±1 mm ja on roteeruva asendiga | Tabel 1 punkt 7.1 | 2 | 0
+Kraniotoomi otsik dura kaitsega, sobib teradele tööosa pikkusega 25±5 mm | Tabel 1 punkt 7.2 | 2 | 0
+Neurokirurgia trepaani otsik  | Tabel 1 punkt 8 | 2 | 0
+Seadmete hinnad raamlepingu 3 ja 4 aastal
+Konsool | Tabel 1 punkt 3 | 1 | 0
+Jalglüliti | Tabel 1 punkt 3.7 | 1 | 0
+Jalglüliti optikasüsteemi puhastamiseks | Tabel 1 punkt 3.10 | 1 | 0
+Steriliseerimis rest - Shaver | Tabel 1 punkt 1.7 | 1 | 0
+Steriliseerimis rest - ENT kiirpuur | Tabel 1 punkt 1.7 | 1 | 0
+Steriliseerimis rest - Neurokirurgia kiirpuur | Tabel 1 punkt 1.7 | 1 | 0
+Shaver | Tabel 1 punkt 4 | 1 | 0
+ENT kiirpuuri käepide | Tabel 1 punkt 5 | 1 | 0
+Sirge puuriotsik | Tabel 1 punkt 5.3.1 | 1 | 0
+Nurga all (Stapes) puuriotsik varieeruva otsaga | Tabel 1 punkt 5.3.2 | 1 | 0
+Neurokirurgia kiirpuur mis ühildub Medtronic navigatsioonisüsteemiga StealthStation  | Tabel 1 punkt 6.1 | 1 | 0
+Neurokirurgia kiirpuur mis ei ühildu Medtronic navigatsioonisüsteemiga StealthStation  | Tabel 1 punkt 6.2 | 1 | 0
+Sirge puuri otsik, efektiivse osa pikkus on 10 cm | Tabel 1 punkt 6.4.1 | 1 | 0
+Nurgaga puuri otsik, efektiivse osa pikkus on 10 cm | Tabel 1 punkt 6.4.2 | 1 | 0
+Nurgaga puuri otsik, efektiivse osa pikkus on 15 cm | Tabel 1 punkt 6.4.3 | 1 | 0
+Sirge puuri otsik, efektiivse osa pikkus on 15 cm | Tabel 1 punkt 6.4.4 | 1 | 0
+Kraniotoomi otsik dura kaitsega, sobib teradele tööosa pikkusega 15±1 mm ja on roteeruva asendiga | Tabel 1 punkt 7.1 | 1 | 0
+Kraniotoomi otsik dura kaitsega, sobib teradele tööosa pikkusega 25±5 mm | Tabel 1 punkt 7.2 | 1 | 0
+Neurokirurgia trepaani otsik  | Tabel 1 punkt 8 | 1 | 0
+KOKKU: | 0
+Kaup | Viide tehnilise kirjelduse punktile | tootekoodid | toote nimetus | Lisaparameetrid vastavalt toote iseloomule (pikkus, laius, sise- või välisdiameeter, tüüp, suurus vms) | EAN/GTIN kood müügiühikul | Säilivusaeg alates tootmisest (kuudes) | Tootja | Kogus müügipakendis     (TK) | Kogus transpordipakendis (TK) | eeldatav kogus (TK) | Ühik     (TK/ M/ L/ KG/ ...) | Ühiku hind (TK) | KM määr (0%, 9%  või 22%)  | summa km-ta (EUR)
+Shaveri siinusterad | Tabel 1 punkt 10.1
+Sirge, hambuline  pikkus 11,0 cm (± 1,0 cm), läbimõõt 4,0 mm (± 1,0 mm), 360° roteeruv | Tabel 1 punkt 10.1.1 | 150 | 0
+Teranurgaga 12° kõvera otsaga hambuline, pikkus 11,0 cm (± 1,0 cm), läbimõõt 4,0 mm 360° roteeruv | Tabel 1 punkt 10.1.2 | 60 | 0
+Teranurgaga 60° kõvera otsaga hambuline, pikkus 11,0 cm (± 1,0 cm), läbimõõt 4,0 mm 360° roteeruv  | Tabel 1 punkt 10.1.3 | 60 | 0
+Shaveri siinus roospuur | Tabel 1 punkt 10.2
+Teranurgaga 15°, pikkus 15 cm (± 1,0 cm), läbimõõt 4,0 mm  | Tabel 1 punkt 10.2.1 | 8 | 0
+Shaveri siinus kanüleeritud tipuga teemantpuur | Tabel 1 punkt 10.3
+Teranurgaga 15° Kõvera otsaga hambuline, pikkus 13 cm (± 1,0 cm), läbimõõt 4,0 mm, 360° roteeruv | Tabel 1 punkt 10.3.1 | 20 | 0
+Shaveri siinus teemantpuur | Tabel 1 punkt 10.4
+Teranurgaga 15°: pikkus 15 cm (± 1,0 cm), läbimõõt 3,2 mm  | Tabel 1 punkt 10.4.1 | 12 | 0
+Teranurgaga 40°: pikkus 15 cm (± 1,0 cm), läbimõõt 3,2 mm  | Tabel 1 punkt 10.4.2 | 12 | 0
+Teranurgaga 70°: pikkus 13 cm (± 1,0 cm), läbimõõt 5,0 mm  | Tabel 1 punkt 10.4.3 | 8 | 0
+Shaveri kõritera | Tabel 1 punkt 10.5
+Ots pindmine teranurgaga 15°, pikkus 22 cm (± 1,0 cm), läbimõõduga 2,9mm | Tabel 1 punkt 10.5.1 | 5 | 0
+Ots pindmine teranurgaga 15°, pikkus 22 cm (± 1,0 cm), läbimõõduga 4mm  | Tabel 1 punkt 10.5.2 | 5 | 0
+Shaveri puurid, maksimaalne töökiirus 30 000 p/min | Tabel 1 punkt 10.6
+Tagurpidi kitseneva koonuskujuga teemantpuur, teranurgaga 70°: pikkus 13 cm (± 1,0cm), läbimõõt 4,00 mm | Tabel 1 punkt 10.6.1 | 40 | 0
+Tagurpidi kitseneva koonuskujuga lõikav puur, teranurgaga 70°: pikkus 13 cm (± 1,0cm), läbimõõt 4,00 mm | Tabel 1 punkt 10.6.2 | 40 | 0
+Otsmikukoopa tünnikujuline lõikav puur, Teranurgaga 40°: pikkus 13 cm (± 1,0cm), läbimõõt 3,00 mm | Tabel 1 punkt 10.6.3 | 40 | 0
+ENT karbiidist roospuurid | Tabel 1 punkt 10.7
+Läbimõõt 1,0 mm | Tabel 1 punkt 10.7.1 | 1 | 0
+Läbimõõt 2,0 mm | Tabel 1 punkt 10.7.2 | 1 | 0
+Läbimõõt 5,0 mm | Tabel 1 punkt 10.7.3 | 1 | 0
+ENT terasest roospuurid | Tabel 1 punkt 10.8
+Läbimõõt 1,0 mm | Tabel 1 punkt 10.8.1 | 8 | 0
+Läbimõõt 1,5 mm | Tabel 1 punkt 10.8.2 | 8 | 0
+Läbimõõt 2,0 mm | Tabel 1 punkt 10.8.3 | 8 | 0
+Läbimõõt 2,5 mm | Tabel 1 punkt 10.8.4 | 8 | 0
+Läbimõõt 3,0 mm | Tabel 1 punkt 10.8.5 | 8 | 0
+Läbimõõt 3,5 mm | Tabel 1 punkt 10.8.6 | 8 | 0
+Läbimõõt 4,0 mm | Tabel 1 punkt 10.8.7 | 8 | 0
+Läbimõõt 5,0 mm | Tabel 1 punkt 10.8.8 | 8 | 0
+Läbimõõt 6,0 mm | Tabel 1 punkt 10.8.9 | 8 | 0
+ENT keskmise karedusega teemantpuurid | Tabel 1 punkt 10.9
+Läbimõõt 1,0 mm | Tabel 1 punkt 10.9.1 | 8 | 0
+Läbimõõt 1,5 mm | Tabel 1 punkt 10.9.2 | 8 | 0
+Läbimõõt 2,0 mm | Tabel 1 punkt 10.9.3 | 8 | 0
+Läbimõõt 2,5 mm | Tabel 1 punkt 10.9.4 | 8 | 0
+Läbimõõt 3,0 mm | Tabel 1 punkt 10.9.5 | 8 | 0
+Läbimõõt 3,5 mm | Tabel 1 punkt 10.9.6 | 8 | 0
+Läbimõõt 4,0 mm | Tabel 1 punkt 10.9.7 | 8 | 0
+Läbimõõt 5,0 mm | Tabel 1 punkt 10.9.8 | 8 | 0
+Läbimõõt 6,0 mm | Tabel 1 punkt 10.9.9 | 8 | 0
+ENT karedad teemantpuurid  | Tabel 1 punkt 10.10
+Läbimõõt 1,5 mm  | Tabel 1 punkt 10.10.1 | 1 | 0
+Läbimõõt 2,5 mm  | Tabel 1 punkt 10.10.2 | 1 | 0
+Läbimõõt 3,0 mm  | Tabel 1 punkt 10.10.3 | 1 | 0
+Läbimõõt 4,0 mm  | Tabel 1 punkt 10.10.4 | 1 | 0
+ENT pisarakanali puurid | Tabel 1 punkt 10.11
+Pisarakanali teemantpuur (DCR), pikkus 11 cm (± 1,0 cm), läbimõõduga 2,5 mm, teranurgaga 20° | Tabel 1 punkt 10.11.1 | 20 | 0
+Pisarakanali puur (DCR), pikkus 11 cm (± 1,0 cm), läbimõõduga 4,0 mm, teranurgaga 15° | Tabel 1 punkt 10.11.2 | 20 | 0
+Neurokirurgia puurid sirgele ja nurgaga puuriotsikule efektiivse osa pikkus 10 cm | Tabel 1 punkt 10.12
+[Sheet: OSA 2]
+Seadmed | Viide tehnilise kirjelduse punktile | Tootja, mudel, tootekood | Ühiku maksumus ilma käibemaksuta, eur  | Lepinguperioodi eeldatav 
+tellitav kogus | Kokku lepinguperioodi eeldatava koguse maksumus ilma käibemaksuta, eur
+Seadmete hinnad raamlepingu 1 ja 2 aastal
+Konsool | Tabel 2 punkt 2 | 1 | 0
+Jalglüliti | Tabel 2 punkt 2.6 | 1 | 0
+Steriliseerimisrest | Tabel 2 punkt 1.6 | 2 | 0
+Kiirpuuri universaalse mootor, kui käepide ja otsik on üks seade siis siia ei pea pakkuma | Tabel 2 punkt 3.4 | 2 | 0
+Nurgaga puuriotsik (või käepide), efektiivse osa pikkus on vahemikus 8-10 cm | Tabel 2 punkt 3.4.3 | 2 | 0
+Nurgaga puuriotsik (või käepide), efektiivse osa pikkus on vahemikus 13-15 cm | Tabel 2 punkt 3.4.4 | 2 | 0
+Kraniotoomi mootoriga käepide või otsik dura kaitsega, sobib teradele 15 ± 1 mm ja on roteeruva asendiga | Tabel 2 punkt 3.5.2 | 2 | 0
+Kraniotoomi otsik dura kaitsega või dura kaitse (kasutatav eelmise punkti kraniotoomi mootoriga käepidemega), sobib teradele pikkusega25 ± 5 mm | Tabel 2 punkt 3.5.3 | 2 | 0
+Trepaan  | Tabel 2 punkt 3.6 | 2 | 0
+Seadmete hinnad raamlepingu 3 ja 4 aastal
+Konsool | Tabel 2 punkt 2 | 0 | 0
+Jalglüliti | Tabel 2 punkt 2.6 | 1 | 0
+Steriliseerimisrest | Tabel 2 punkt 1.6 | 2 | 0
+Kiirpuuri universaalse mootor, kui käepide ja otsik on üks seade siis siia ei pea pakkuma | Tabel 2 punkt 3.4 | 2 | 0
+Nurgaga puuriotsik (või käepide), efektiivse osa pikkus on vahemikus 8-10 cm | Tabel 2 punkt 3.4.3 | 2 | 0
+Nurgaga puuriotsik (või käepide), efektiivse osa pikkus on vahemikus 13-16 cm | Tabel 2 punkt 3.4.4 | 2 | 0
+Kraniotoomi otsik (või käepide) dura kaitsega, sobib teradele tööosa pikkusega 15 ± 1 mm ja on roteeruva asendiga | Tabel 2 punkt 3.5.2 | 2 | 0
+Kraniotoomi otsik (või käepide) dura kaitsega, sobib teradele tööosa pikkusega 25 ± 5 mm | Tabel 2 punkt 3.5.3 | 2 | 0
+Trepaan (perforaator) | Tabel 2 punkt 3.6 | 2 | 0
+KOKKU: | 0
+Kaup | Viide tehnilise kirjelduse punktile | tootekoodid | toote nimetus | Lisaparameetrid vastavalt toote iseloomule (pikkus, laius, sise- või välisdiameeter, tüüp, suurus vms) | EAN/GTIN kood müügiühikul | Säilivusaeg alates tootmisest (kuudes) | Tootja | Kogus müügipakendis     (TK) | Kogus transpordipakendis (TK) | eeldatav kogus (TK) | Ühik     (TK/ M/ L/ KG/ ...) | Ühiku hind (TK) | KM määr (0%, 9%  või 22%)  | summa km-ta (EUR)
+Nurgaga puuriotsikule (või käepidemed) puurid efektiivse osa pikkusega 8–10 cm | Tabel 2 punkt 5.1
+Roospuur läbimõõt 2,0 ± 0,2 mm | Tabel 2 punkt 5.1.1 | 20 | 0
+Roospuur läbimõõt 3 mm | Tabel 2 punkt 5.1.2 | 20 | 0
+Roospuur läbimõõt 4 mm | Tabel 2 punkt 5.1.3 | 20 | 0
+Roospuur läbimõõt 5 mm | Tabel 2 punkt 5.1.4 | 20 | 0
+Roospuur läbimõõt 6 mm  | Tabel 2 punkt 5.1.5 | 20 | 0
+Teemantpuur läbimõõt 2,0 ± 0,2 mm | Tabel 2 punkt 5.1.6 | 20 | 0
+Teemantpuur läbimõõt 3 mm | Tabel 2 punkt 5.1.7 | 20 | 0
+Teemantpuur läbimõõt 4 mm | Tabel 2 punkt 5.1.8 | 20 | 0
+Teemantpuur läbimõõt 5 mm | Tabel 2 punkt 5.1.9 | 20 | 0
+Teemantpuur läbimõõt 6 mm | Tabel 2 punkt 5.1.10 | 20 | 0
+Roospuur ovaalne läbimõõt 4 mm  | Tabel 2 punkt 5.1.11 | 20 | 0
+Silinderpuur läbimõõt 5 mm | Tabel 2 punkt 5.1.12 | 20 | 0
+Tikupeapuur (Match head) läbimõõt 2,2-2,5 mm; 
+Aesculap GP209R või Medtronic MR8-10MH22 või samaväärne | Tabel 2 punkt 5.1.13 | 20 | 0
+Tikupeapuur (Match head) läbimõõt 3,0 mm;
+ või Aesculap GP210R või Medtronic MR8-10MH30 või samaväärne | Tabel 2 punkt 5.1.14 | 20 | 0
+Nurgaga puuriotsikule (või käepidemed) puurid efektiivse osa pikkusega 13–15 cm  | Tabel 2 punkt 5.2
+Roospuur läbimõõt 4 mm | Tabel 2 punkt 5.2.1 | 20 | 0
+Roospuur läbimõõt 5 mm | Tabel 2 punkt 5.2.2 | 20 | 0
+Roospuur läbimõõt 6 mm  | Tabel 2 punkt 5.2.3 | 20 | 0
+Teemantpuur läbimõõt 4 mm  | Tabel 2 punkt 5.2.4 | 20 | 0
+Teemantpuur läbimõõt 5 mm  | Tabel 2 punkt 5.2.5 | 20 | 0
+Teemantpuur läbimõõt 6 mm  | Tabel 2 punkt 5.2.6 | 20 | 0
+Kraniotoomi otsik (või käepide) dura kaitsega, tööosa pikkusega 15 ± 1 mm terad | Tabel 2 punkt 5.3
+Sirge tera tööosa pikkusega 15 ± 1 mm | Tabel 2 punkt 5.3.1 | 100 | 0
+Kraniotoomi otsik (või käepide) dura kaitsega, tööosa pikkusega 25 ± 5 mm terad | Tabel 2 punkt 5.4
+Sirge tera tööosa pikkusega 25 ± 5 mm | Tabel 2 punkt 5.4.1 | 100 | 0
+Trepaani terad | Tabel 2 punkt 5.5
+Trepaani tera, mis sobib luu paksusele 3,0 - 4,0 mm, väline läbimõõt on 9 ± 1 mm ja sisemine läbimõõt on 6 ± 1 mm  | Tabel 2 punkt 5.5.1 | 20 | 0
+Trepaani tera, mis sobib luu paksusele 3,0 - 5,0 mm, väline läbimõõt on 11 ± 1 mm ja sisemine läbimõõt on 7 ± 2 mm  | Tabel 2 punkt 5.5.2 | 20 | 0
+Trepaani tera, mis sobib luu paksusele 3,0 - 5,5 mm, väline läbimõõt on 14 ± 1 mm ja sisemine läbimõõt on 11 ± 1 mm  | Tabel 2 punkt 5.5.3 | 20 | 0
+Loputuspumba süsteemid | Tabel 2 punkt 5.6
+Kiirpuuri loputussüsteem | Tabel 2 punkt 5.6.1 | 60 | 0
+KOKKU: | 0
+Remondi-ja hooldustööd | Ühik | Ühiku maksumus ilma käibemaksuta, eur  | Lepinguperioodi eeldatav 
+tellitav kogus kokku | Kokku lepinguperioodi eeldatava koguse maksumus ilma käibemaksuta, eur
+Tarnija meditsiinitehnika spetsialisti remondi töötunni maksumus lepinguperioodil (7 aastat seadme vastu võtmisest) | tund (h)  | 10 | 0
+Tarnija meditsiinitehnika spetsialisti väljakutsetasu maksumus lepinguperioodil (7 aastat seadme vastu võtmisest) | tk | 30 | 0
+KOKKU: | 0
+Korralised hooldused (hooldusperiood 6 aastat garantiiperioodi järgselt) | Garantiiperioodi järgsete hooldustööde maksumus ühele korralisele hooldusele (töö+hoolduskomplekt) ilma käibemaksuta, eur  | Korraliste hoolduste arv 5 aasta jooksul | Ühe seadme korralise hoolduse maksumus kokku lepinguperioodiks (5 aastat) käibemaksuta, eur | Eeldatav tellitavate seadmete arv lepinguperioodil | Eeldatava tellitava koguse seadmete korralise hoolduse maksumus kokku hooldusperioodiks käibemaksuta, eur
+Konsool | 0 | 1 | 0
+Mootorid | 0 | 4 | 0
+KOKKU: | 0
+Eeldatav seadmete ja hoolduse summaarne kogumaksumus ilma käibemaksuta | 0 | Summeeritud kogumaksumus, mis esitatakse RHR "Hindamiskriteeriumid ja hinnatavad näitajad" dokumendis.
+Lisatooted, mida hankija ei ole loetlenud, kuid kuuluvad seadme kasutamise juurde, vajadusel lisada ridu*
+Jrk | Toote kategooria (seade, varuosa, kaup) | Tootja ja mudel | Toote kirjeldus, parameetrid | Tootekood(id) | Kogus müügipakendis (tk) / kogus transportpakendis (pk) | Müügipakendi hind eur km-ta
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+
+=== 9384784_300991_Tehniline_ettepanek__02012026_.docx ===
+300991 Tehniline kirjeldus – pakkumusvorm
+
+	•	Käesoleva hanke eesmärk on osta:
+	•	Hankida ENT- ja neurokirurgias kasutatavad kiirpuurid ning ENT shaver (edaspidi: seade või seadmed) koos remondiga, mis vastab Tabelis 1 toodud nõuetele ja neurokirurgia kiirpuurid (edaspidi: seade või seadmed) koos remondiga, mis vastab Tabelis 2 toodud nõuetele;
+	•	pakutava seadme kasutamiseks vajalikke seadmespetsiifilisi tarvikuid ning kulumaterjale 7 aasta jooksul (edaspidi kaup) alates kauba hankelepingu sõlmimisest arvestades tehnilises kirjelduses toodud nõudeid.
+	•	Pakkuja on kohustatud koos pakkumusega esitama:
+	•	pakutavate seadmete, kauba ning pakkuja spetsialisti väljakutse ja töötunni hinna hinnad dokumendis „300991 Maksumuse vorm.xlsx“ (edaspidi: maksumuse vorm).
+	•	pakkumuses sisalduvate seadmete (sh lisaseadmete) ning muude oluliste komponentide (sh tarkvara ja litsentsid) loetelu;
+	•	seadme (ja ka kõigi lisaseadmete) tehnilise kirjelduse ja tootja poolt välja antud tehnilise dokumentatsiooni (juhendid, ekraanipildid, sertifikaadid jmt), mille põhjal saab hankija kontrollida seadmete vastavust nõuetele;
+	•	Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule, tootmisviisile, märgisele või vastavushindamis asutuse väljastatud katsearuandele või tõendile, tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“.
+	•	Hange on jaotatud osadeks.
+	•	Pakkumuse koosseisus esitatud dokumentide faili(de) nimetus(ed), millele pakkuja viitab oma tehnilise ettepaneku tulbas „Tehniliste nõuete korral lisada viide tootja poolt väljastatud tehnilisele andmestikule, mis tõendab pakutav toote vastavust nõudele (dokumendi nimi ja lehekülje number)“ peavad kandma ühtset pealkirja dokumentidega, mille pakkuja esitab koos pakkumusega. Pakkuja on kohustatud märkima iga tehnilise tingimuse järel vastava tulba konkreetsesse lahtrisse viite, millisest pakkumuses esitatud dokumendi konkreetselt leheküljelt on vajalik informatsioon leitav.
+	•	Pakkumuses näidatud hinnad peavad olema arvestatud selliselt, et raamlepingu alusel tegelikult ostetavate seadmete, hoolduse ja kauba hulga vähenemine või suurenemine või nendevaheline proportsioonide muutus ei mõjuta poolte vahelist õiguste ja kohustuste tasakaalu.
+	•	„300991 pakkumuse maksumuse vormis“ on võimalik teha hinnapakkumine toodetele, mis on pakutud hankeobjekti osa, kuid hankija pole  neid nimetanud. Need esitatakse tabelisse pakkuja soovil “Lisatooted, mida hankija ei ole loetlenud, kuid kuuluvad seadme kasutamise juurde*“.
+OSA 1. ENT- ja neurokirurgias kasutatavad kiirpuurid ning ENT shaver
+Tabel 1. Nõuded seadmele ja selle kasutamiseks vajalikule kaubale
+
+Jrk.
+Funktsionaalne omadus
+Vastavus nõudele JAH/EI ja/või arvväärtus (arvväärtuse olemasolul on selle lisamine kohustuslik)
+Tehniliste nõuete korral lisada viide tootja poolt väljastatud tehnilisele andmestikule, mis tõendab pakutav toote vastavust nõudele (dokumendi nimi ja lehekülje number)
+	•	
+Üldnõuded
+
+
+	•	
+Seadmed peavad olema uued
+
+
+	•	
+Seade kasutab tööks nominaalset pinget 230 VAC ± 10%, sagedusega 50 Hz
+
+
+	•	
+Seade tarnitakse täiskomplektsuses, sh potentsiaaliühtlustuskaablid
+
+
+	•	
+Komplekti kuulub ENT- ja neurokirurgia konsool koos integreeritud loputuspumbaga ning ENT kiirpuuri, shaveri ja neurokirurgia kiirpuuri, kraniotoomi ja trepaani käepidemed ja tarvikud
+
+
+	•	
+Shaver peab olema ühilduvad haiglas kasutusel oleva navigatsioonisüsteemiga Medtronic StealthStation FlexENT.
+
+
+	•	
+Mootorseade ja kõik selle osad peavad olema pesurdesinfektoris pestavad ja aurusterilisaatoris steriliseeritavad. Seadme komplekti peavad kuuluma pesurdesinfektoris kasutamiseks vajalikud adapterid. Juhul kui seade vajab hoolduseks (kuivatamine, õlitamine) lisatarvikuid, peavad ka need olema komplektis
+
+
+	•	
+Perforeeritud instrumentide rest (alus), mis on varustatud spetsiaalsete instrumentide  hoidikutega (fiksaatoritega), tagamaks instrumentide õige asendi pesemiseks, steriliseerimiseks ja transpordiks.
+
+
+	•	
+Pakkumus peab sisaldama dokumentide koopiaid, mis tõendavad, et pakutavad seadmed omavad CE märgistust ja vastavad määrusele (EL) 2017/745 või on turul vastavalt määruse (EL) 2017/745 üleminekusätetele.
+
+
+	•	
+Tehnilised nõuded seadmetele
+
+
+	•	
+Konsool
+
+
+	•	
+Mõõdud ≤ sügavus 300 x kõrgus 365 x laius 300 mm
+
+
+	•	
+Kaal ≤ 10,5 kg
+
+
+	•	
+Vertikaalsele statiivile kinnitamise võimalus
+
+
+	•	
+Värviline puutetundlik ekraan seadistuste kuvamiseks ja muutmiseks
+
+
+	•	
+Rikke korral kuvatakse rikketeade ekraanil
+
+
+	•	
+Automaatne käsiinstrumentide tuvastus
+
+
+	•	
+Shaveri, kiirpuuri, kraniotoomi ja trepaani aktiveerimiseks kasutatakse jalglülitit
+
+
+	•	
+Lõiketera ja puuri kiirus on valitav automaatselt või manuaalselt
+
+
+	•	
+Konsoolil on integreeritud optika puhastussüsteem
+
+
+	•	
+Optika puhastussüsteemi saab kasutada koos shaveriga ning selle aktiveerimiseks kasutatakse eraldi jalgpedaali
+
+
+	•	
+Shaver
+
+
+	•	
+Shaveri käepideme kaal ≤ 210 g
+
+
+	•	
+Võimalik ühendada loputus- ja aspiratsioonisüsteem
+
+
+	•	
+Aspiratsioonitoru ja irrigatsioonitoru saab fikseerida klipside abil
+
+
+	•	
+Shaver peab ühilduma Medtronic StealthStation FlexENT navigatsioonisüsteemiga
+
+
+	•	
+Lõiketera või puuri kiirus valitakse automaatselt või manuaalselt vastavalt otsikule, vahemikus 500–30 000 p/min
+
+
+	•	
+ENT kiirpuuri käepide
+
+
+	•	
+Mootori kaal ilma lisaotsikuteta ning kaablita ≤ 90 g
+
+
+	•	
+Reguleeritav pöörlemiskiirus, maksimaalne kiirus ≥ 75 000 p/min, pöördemoment 40 Nm
+
+
+	•	
+Puuriotsikud, mis on seadmega komplektis:
+
+
+	•	
+Sirge puuriotsik 
+
+
+	•	
+Nurga all (Stapes) puuriotsik varieeruva otsaga
+
+
+	•	
+Neurokirurgia kiirpuuri käepidemed ja otsikud
+
+
+	•	
+Neurokirurgia kiirpuur, mis ühildub Medtronic navigatsioonisüsteemiga StealthStation 
+
+
+	•	
+Kiirpuuri mootori kaal (ilma kaabli ja otsikuta) ≤ 130 g
+
+
+	•	
+Neurokirurgia kiirpuur, mis ei ühildu Medtronic navigatsioonisüsteemiga StealthStation 
+
+
+	•	
+Kiirpuuri mootori kaal (ilma kaabli ja otsikuta) ≤ 90 g
+
+
+	•	
+Kiirpuuri reguleeritav pöörlemiskiirus, maksimaalne kiirus ≥ 75 000 p/min
+
+
+	•	
+Neurokirurgia kiirpuuri otsikud ühilduvad läbimõõduga 2,4 mm puuriteradega
+
+
+	•	
+Sirge puuri otsik efektiivse osa pikkus on 10 cm
+
+
+	•	
+Nurgaga puuri otsik efektiivse osa pikkus on 10 cm
+
+
+	•	
+Nurgaga puuri otsik efektiivse osa pikkus on 15 cm
+
+
+	•	
+Sirge puuri otsik efektiivse osa pikkus on 15 cm
+
+
+	•	
+Neurokirurgia kraniotoomi otsik 
+
+
+	•	
+Kraniotoomi otsik dura kaitsega, sobib teradele tööosa pikkusega 15±1 mm ja on roteeruva asendiga
+
+
+	•	
+Kraniotoomi otsik dura kaitsega, sobib teradele tööosa pikkusega 25±5 mm
+
+
+	•	
+Neurokirurgia trepaani otsik 
+
+
+	•	
+Trepaan (perforaator), mille kiirus on vahemikus 1000-1300 p/min ja on Hudsoni kiirühendusega
+
+
+	•	
+Seadmel on integreeritud loputuspump:
+
+
+	•	
+Irrigatsiooni kiiruse on muudetav vahemikus: kiirpuuridel 0–50 ml/min, shaveril 0–100 ml/min
+
+
+	•	
+Täitmise režiim
+
+
+	•	
+Kiirust on võimalik muuta juhtpaneelilt
+
+
+	•	
+Varustatud peristaltilise pumbaga loputusvedeliku juhtimiseks lõiketerani
+
+
+	•	
+Kaup
+
+
+	•	
+Shaveri siinusterad
+
+
+	•	
+Sirge, hambuline  pikkus 11,0 cm (± 1,0 cm), läbimõõt 4,0 mm (± 1,0 mm), 360° roteeruv
+
+
+	•	
+Teranurgaga 12° kõvera otsaga hambuline, pikkus 11,0 cm (± 1,0 cm), läbimõõt 4,0 mm 360° roteeruv
+
+
+	•	
+Teranurgaga 60° kõvera otsaga hambuline, pikkus 11,0 cm (± 1,0 cm), läbimõõt 4,0 mm 360° roteeruv 
+
+
+	•	
+Shaveri siinus roospuur
+
+
+	•	
+Teranurgaga 15°, pikkus 15 cm (± 1,0 cm), läbimõõt 4,0 mm 
+
+
+	•	
+Shaveri siinus kanüleeritud tipuga teemantpuur
+
+
+	•	
+Teranurgaga 15° Kõvera otsaga hambuline, pikkus 13 cm (± 1,0 cm), läbimõõt 4,0 mm, 360° roteeruv
+
+
+	•	
+Shaveri siinus teemantpuur
+
+
+	•	
+Teranurgaga 15°: pikkus 15 cm (± 1,0 cm), läbimõõt 3,2 mm 
+
+
+	•	
+Teranurgaga 40°: pikkus 15 cm (± 1,0 cm), läbimõõt 3,2 mm 
+
+
+	•	
+Teranurgaga 70°: pikkus 13 cm (± 1,0 cm), läbimõõt 5,0 mm 
+
+
+	•	
+Shaveri kõritera
+
+
+	•	
+Ots pindmine teranurgaga 15°, pikkus 22 cm (± 1,0 cm), läbimõõduga 2,9mm
+
+
+	•	
+Ots pindmine teranurgaga 15°, pikkus 22 cm (± 1,0 cm), läbimõõduga 4mm 
+
+
+	•	
+Shaveri puurid, maksimaalne töökiirus 30 000 p/min
+
+
+	•	
+Tagurpidi kitseneva koonuskujuga teemantpuur, teranurgaga 70°: pikkus 13 cm (± 1,0cm), läbimõõt 4,00 mm
+
+
+	•	
+Tagurpidi kitseneva koonuskujuga lõikav puur, teranurgaga 70°: pikkus 13 cm (± 1,0cm), läbimõõt 4,00 mm
+
+
+	•	
+Otsmikukoopa tünnikujuline lõikav puur, Teranurgaga 40°: pikkus 13 cm (± 1,0cm), läbimõõt 3,00 mm
+
+
+	•	
+ENT karbiidist roospuurid
+
+
+	•	
+Läbimõõt 1,0 mm
+
+
+	•	
+Läbimõõt 2,0 mm
+
+
+	•	
+Läbimõõt 5,0 mm
+
+
+	•	
+ENT terasest roospuurid
+
+
+	•	
+Läbimõõt 1,0 mm
+
+
+	•	
+Läbimõõt 1,5 mm
+
+
+	•	
+Läbimõõt 2,0 mm
+
+
+	•	
+Läbimõõt 2,5 mm
+
+
+	•	
+Läbimõõt 3,0 mm
+
+
+	•	
+Läbimõõt 3,5 mm
+
+
+	•	
+Läbimõõt 4,0 mm
+
+
+	•	
+Läbimõõt 5,0 mm
+
+
+	•	
+Läbimõõt 6,0 mm
+
+
+	•	
+ENT keskmise karedusega teemantpuurid
+
+
+	•	
+Läbimõõt 1,0 mm
+
+
+	•	
+Läbimõõt 1,5 mm
+
+
+	•	
+Läbimõõt 2,0 mm
+
+
+	•	
+Läbimõõt 2,5 mm
+
+
+	•	
+Läbimõõt 3,0 mm
+
+
+	•	
+Läbimõõt 3,5 mm
+
+
+	•	
+Läbimõõt 4,0 mm
+
+
+	•	
+Läbimõõt 5,0 mm
+
+
+	•	
+Läbimõõt 6,0 mm
+
+
+	•	
+ENT karedad teemantpuurid 
+
+
+	•	
+Läbimõõt 1,5 mm 
+
+
+	•	
+Läbimõõt 2,5 mm 
+
+
+	•	
+Läbimõõt 3,0 mm 
+
+
+	•	
+Läbimõõt 4,0 mm 
+
+
+	•	
+ENT pisarakanali puurid
+
+
+	•	
+Pisarakanali teemantpuur (DCR), pikkus 11 cm (± 1,0 cm), läbimõõduga 2,5 mm, teranurgaga 20°
+
+
+	•	
+Pisarakanali puur (DCR), pikkus 11 cm (± 1,0 cm), läbimõõduga 4,0 mm, teranurgaga 15°
+
+
+	•	
+Neurokirurgia puurid sirgele ja nurgaga puuriotsikule efektiivse osa pikkus 10 cm
+
+
+	•	
+Roospuur läbimõõt 2,0mm
+
+
+	•	
+Roospuur läbimõõt 3,0 mm
+
+
+	•	
+Roospuur läbimõõt 4,0 mm
+
+
+	•	
+Roospuur läbimõõt 5,0 mm
+
+
+	•	
+Roospuur läbimõõt 6,0 mm 
+
+
+	•	
+Teemantpuur läbimõõt 2,0 mm
+
+
+	•	
+Teemantpuur läbimõõt 3,0 mm
+
+
+	•	
+Teemantpuur läbimõõt 4,0 mm
+
+
+	•	
+Teemantpuur läbimõõt 5,0 mm
+
+
+	•	
+Teemantpuur läbimõõt 6,0 mm
+
+
+	•	
+Roospuur ovaalne läbimõõt 4,0 mm 
+
+
+	•	
+Silinderpuur läbimõõt 5,0 mm
+
+
+	•	
+Tikupeapuur (Match head) läbimõõt 2,2 mm
+
+
+	•	
+Tikupeapuur (Match head) läbimõõt 3,0 mm
+
+
+	•	
+Neurokirurgia puurid sirgele ja nurgaga puuriotsikule efektiivse osa pikkus 15 cm
+
+
+	•	
+Roospuur läbimõõt 4,0 mm
+
+
+	•	
+Roospuur läbimõõt 5,0 mm
+
+
+	•	
+Roospuur läbimõõt 6,0 mm 
+
+
+	•	
+Teemantpuur läbimõõt 4,0 mm 
+
+
+	•	
+Teemantpuur läbimõõt 5,0 mm 
+
+
+	•	
+Teemantpuur läbimõõt 6,0 mm 
+
+
+	•	
+Neurokirurgia kraniotoomi otsik dura kaitsega, tööosa pikkusega 15±1 mm terad
+
+
+	•	
+Sirge tera tööosa pikkusega 15±1 mm, läbimõõt 2,3 mm
+
+
+	•	
+Neurokirurgia kraniotoomi otsik dura kaitsega, tööosa pikkusega 25±1 mm terad
+
+
+	•	
+Sirge tera tööosa pikkusega 25±5 mm, läbimõõt 3 mm
+
+
+	•	
+Trepaani terad
+
+
+	•	
+Trepaani tera, mis sobib luu paksusele 3,0 mm, väline läbimõõt on 9±1 mm ja sisemine läbimõõt on 6±1 mm 
+
+
+	•	
+Trepaani tera, mis sobib luu paksusele 3,0 mm, väline läbimõõt on 11±1 mm ja sisemine läbimõõt on 7±1 mm 
+
+
+	•	
+Trepaani tera, mis sobib luu paksusele 3,0 mm, väline läbimõõt on 14±2 mm ja sisemine läbimõõt on 11±2 mm 
+
+
+	•	
+Loputuspumba süsteemid
+
+
+	•	
+ENT kiirpuuri loputussüsteem
+
+
+	•	
+Shaveri loputussüsteem
+
+
+	•	
+Optika loputussüsteem
+
+
+	•	
+Optika hülss 0° loputussüsteemiga
+
+
+	•	
+Optika hülss 30° ilma loputussüsteemita
+
+
+	•	
+Neurokirurgia kiirpuuri loputussüsteem
+
+
+
+
+
+OSA 2. Neurokirurgia kiirpuurid
+Tabel 2. Nõuded seadmele ja selle kasutamiseks vajalikule kaubale
+Jrk.
+Funktsionaalne omadus
+Vastavus nõudele JAH/EI ja/või arvväärtus (arvväärtuse olemasolul on selle lisamine kohustuslik)
+Tehniliste nõuete korral lisada viide tootja poolt väljastatud tehnilisele andmestikule, mis tõendab pakutav toote vastavust nõudele (dokumendi nimi ja lehekülje number)
+	•	
+Üldnõuded
+
+
+	•	
+Seadmed peavad olema uued
+
+
+	•	
+Seade kasutab tööks nominaalset pinget 230 VAC ± 10%, sagedus 50 Hz
+
+
+	•	
+Seade tarnitakse täiskomplektsuses, sh potentsiaaliühtlustuskaablid
+
+
+	•	
+Komplekti kuuluvad neurokirurgia kiirpuuri, kraniotoomi ja trepaani mootoriga käepidemed või otsikud ning mootor, kaabel konsooliga ühendamiseks ja loputuspumbaga konsool, mis on mõeldud kasutamiseks neurokirurgilistel protseduuridel
+
+
+	•	
+Mootorseade ja kõik selle osad peavad olema pesurdesinfektoris pestavad ja aurusterilisaatoris steriliseeritavad. Seadme komplekti peavad kuuluma  pesurdesinfektoris kasutamiseks vajalikud adapterid. Juhul kui seade vajab hoolduseks (nt kuivatamine, õlitamine) lisatarvikuid, peavad ka need olema komplektis
+
+
+	•	
+Perforeeritud instrumentide rest (alus), mis on varustatud spetsiaalsete instrumentide hoidikutega (fiksaatoritega), tagamaks instrumentide õige asendi pesemiseks, steriliseerimiseks ja transpordiks
+
+
+	•	
+Pakkumus peab sisaldama dokumentide koopiaid, mis tõendavad, et pakutavad seadmed omavad CE märgistust ja vastavad määrusele (EL) 2017/745 või on turul vastavalt määruse (EL) 2017/745 üleminekusätetele.
+
+
+	•	
+Konsool
+
+
+	•	
+Mõõdud ≤ sügavus 380 x kõrgus 465 x laius 330 mm	
+
+
+	•	
+Kaal ≤ 10,5 kg
+
+
+	•	
+Värviline puutetundlik ekraan seadistuste kuvamiseks ja muutmiseks
+
+
+	•	
+Rikke korral kuvatakse rikketeade ekraanil
+
+
+	•	
+Automaatne käsiinstrumentide tuvastus
+
+
+	•	
+Kiirpuuri, kraniotoomi ja trepaani aktiveerimiseks kasutatakse jalglülitit
+
+
+	•	
+Lõiketera ja puuri kiirus on valitav automaatselt või manuaalselt
+
+
+	•	
+Puuride valikus peavad olema erineva suuruse ja pikkusega puurid (roospuurid, erineva karedusega teemantpuurid, koonuspuurid, teleskooppuurid, silinderpuurid jm)
+
+
+	•	
+Tehnilised nõuded kiirpuurile, kraniotoomile ning trepaanile
+
+
+	•	
+Seadmel on elektrilise neuropuuri mootoriga käepidemed või eraldiseisev elektrimootor koos neuropuuri otsikutega
+
+
+	•	
+Kõik käepidemed, mootorid, otsikud ja kaablid on kiirühendusega ega vaja tööriistu
+
+
+	•	
+Kiirpuuri käepidemed ja otsikud
+
+
+	•	
+Kiirpuuri käepideme (ilma kaablita) või universaalse mootori kaal (ilma kaabli ja otsikuta) ≤ 100 g
+
+
+	•	
+Kiirpuuri reguleeritav pöörlemiskiirus, maksimaalne kiirus ≥ 75 000 p/min
+
+
+	•	
+Kiirpuuri otsikud või käepidemed:
+
+
+	•	
+Nurgaga puuri otsik (või käepide), efektiivse osa pikkus on vahemikus 8-10 cm
+
+
+	•	
+Nurgaga puuri otsik (või käepide), efektiivse osa pikkus on vahemikus 13-15 cm
+
+
+	•	
+Kraniotoom
+
+
+	•	
+Kraniotoom mootoriga käepideme (ilma kaabli ja otsikuta) või otsiku kaal ≤ 160 g
+
+
+	•	
+Kraniotoomi mootoriga käepide või otsik dura kaitsega, sobib teradele 15 ± 1mm ja on roteeruva asendiga
+
+
+	•	
+Kraniotoomi otsik dura kaitsega või dura kaitse (kasutatav eelmise punkti kraniotoomi mootoriga käepidemega), sobib teradele pikkusega 25 ± 5mm
+
+
+	•	
+Trepaan
+
+
+	•	
+Trepaan (perforaator) mootoriga käepide või otsik, mille kiirus on vahemikus 1000–1300 p/min ning on varustatud Hudsoni kiirühendusega
+
+
+	•	
+Seadmel on integreeritud peristaltiline loputuspump
+
+
+	•	
+Loputuspumba irrigatsiooni kiirus on muudetav juhtpaneelilt vähemalt vahemikus 0–50 ml/min
+
+
+	•	
+Kaup 
+
+
+	•	
+Nurgaga puuriotsikule (või käepidemed) puurid efektiivse osa pikkusega 8–10 cm
+
+
+	•	
+Roospuur läbimõõduga 2,0 ± 0,2 mm
+
+
+	•	
+Roospuur läbimõõduga 3 mm
+
+
+	•	
+Roospuur läbimõõduga 4 mm
+
+
+	•	
+Roospuur läbimõõduga 5 mm
+
+
+	•	
+Roospuur läbimõõduga 6 mm 
+
+
+	•	
+Teemantpuur läbimõõduga 2,0 ± 0,2 mm
+
+
+	•	
+Teemantpuur läbimõõduga 3 mm
+
+
+	•	
+Teemantpuur läbimõõduga 4 mm
+
+
+	•	
+Teemantpuur läbimõõduga 5 mm
+
+
+	•	
+Teemantpuur läbimõõduga 6 mm
+
+
+	•	
+Roospuur ovaalne läbimõõduga 4 mm 
+
+
+	•	
+Silinderpuur läbimõõduga 5 mm
+
+
+	•	
+Tikupeapuur (Match head) läbimõõduga 2,2-2,5 mm; 
+Aesculap GP209R või Medtronic MR8-10MH22 või samaväärne
+
+
+	•	
+Tikupeapuur (Match head) läbimõõduga 3,0 mm;
+ või Aesculap GP210R või Medtronic MR8-10MH30 või samaväärne
+
+
+	•	
+Nurgaga puuriotsikule (või käepidemed) puurid efektiivse osa pikkusega 13–15 cm 
+
+
+	•	
+Roospuur läbimõõduga 4 mm
+
+
+	•	
+Roospuur läbimõõduga 5 mm
+
+
+	•	
+Roospuur läbimõõduga 6 mm 
+
+
+	•	
+Teemantpuur läbimõõduga 4 mm 
+
+
+	•	
+Teemantpuur läbimõõduga 5 mm 
+
+
+	•	
+Teemantpuur läbimõõduga 6 mm 
+
+
+	•	
+Kraniotoomi otsik (või käepide) dura kaitsega, tööosa pikkusega 15 ± 1 mm terad
+
+
+	•	
+Sirge tera tööosa pikkusega 15 ± 1 mm
+
+
+	•	
+Kraniotoomi otsik (või käepide) dura kaitsega, tööosa pikkusega 25 ± 5 mm terad
+
+
+	•	
+Sirge tera tööosa pikkusega 25 ± 5 mm
+
+
+	•	
+Trepaani terad
+
+
+	•	
+Trepaani tera, mis sobib luu paksusele 3,0-4,0 mm, väline läbimõõt on 9 ± 1 mm ja sisemine läbimõõt on 6 ± 1 mm 
+
+
+	•	
+Trepaani tera, mis sobib luu paksusele 3,0-5,0 mm, väline läbimõõt on 11 ± 1 mm ja sisemine läbimõõt on 7 ± 2 mm 
+
+
+	•	
+Trepaani tera, mis sobib luu paksusele 3,0-5,5 mm, väline läbimõõt on 14 ± 1 mm ja sisemine läbimõõt on 11 ± 1 mm 
+
+
+	•	
+Loputuspumba süsteemid
+
+
+	•	
+Kiirpuuri loputussüsteem
+
+
+
+
+ 
+Nõuded lisapunktide saamiseks (esitatud täiendavad tehnilised nõuded ei ole kohustuslikud ja nende nõuete täitmise korral antakse pakkumusele lisapunkte.).
+Jrk.nr
+Osakaal
+Nõue
+Vastavus nõudele JAH/EI ja/või parameetri arvväärtus
+Viide tootja poolt väljastatud tehnilisele andmestikule, mis tõendab pakutav toote vastavust nõudele (dokumendi nimi ja lehekülje number)
+1
+5
+Pakutavad seadmed ühilduvad olemasoleva Medtronix EC300 või Aesculap GA800 süsteemiga
+
+
+2
+5
+Seadme trepaan on steriliseeritav ja teritatav
+
+
+
+
+
+
+
+=== 9384784_300991_hankepass_taiendavate_selgitustega.pdf ===
+1/20
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+Riigi ametlik teataja:
+300991
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+sihtasutus Põhja-Eesti Regionaalhaigla (90006399)
+Riik:
+Eesti
+Hankija aadress:
+J. Sütiste tee 19
+Hankija veebiaadress:
+http://www.regionaalhaigla.ee
+E-posti aadress:
+hanked@regionaalhaigla.ee
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+2/20
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Kiirpuur operatsioonikeskusele
+Lühikirjeldus:
+ENT- ja neurokirurgias kasutatavad kiirpuuride ost
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+300991
+Hanke liik:
+Asjad
+Hanke CPV-d:
+33162000-3 Operatsioonisaali seadmed ja instrumendid
+Hanke osad
+Hanke osade kohta kehtivad järgnevad nõuded:
+Tingimuse kirjeldus:
+Pakkumusi võib esitada: Maksimaalne osade arv
+Maksimaalne osade arv, mille kohta võib pakkumusi esitada: 2
+Maksimaalne osade arv, mille kohta võidakse sõlmida leping ühe pakkujaga: 2
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+3/20
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+4/20
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+5/20
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+6/20
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kuritegelikus ühenduses osalemise eest". Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud aususe kohustuse rikkumise või korruptiivse teo eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+7/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kelmuse eest kõige rohkem viimase viie aasta jooksul või kehtib
+süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kelmuse eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+8/20
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo
+või sellele kihutamise, kaasaaitamise või selle katse eest". Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud rahapesualase süüteo või terrorismi rahastamise eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+9/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 3 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud
+teo eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada
+tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise
+võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või
+hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+10/20
+maksukorralduse seaduse tähenduses või maksuvõlg /…/ tema asukohariigi õigusaktide kohaselt“
+Kehtib: Kõik osad
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul, kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku /…/ makse /…/ maksuvõlg maksukorralduse seaduse
+tähenduses või sotsiaalkindlustusemaksete võlg tema asukohariigi õigusaktide kohaselt
+Kehtib: Kõik osad
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+11/20
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+12/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt“,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, likvideerimisel või kelle suhtes on algatatud
+pankrotimenetlus või kes on muus sellesarnases olukorras tema asukohamaa õigusaktide
+kohaselt, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+13/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kelle äritegevus on peatatud, välja arvatud asjade ostmisel RHS § 49 lõikes 4
+sätestatud juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Viide seadusele:
+RHS § 95 lg 4 p 4 „kes on raskelt eksinud ametialaste käitumisreeglite vastu ja see muudab tema
+aususe küsitavaks“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+14/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Viide seadusele:
+RHS § 95 lg 4 p 5 „konkurentsi kahjustava kokkuleppe, ettevõtjate ühenduse otsuse või
+kooskõlastatud tegevuse tõttu“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Viide seadusele:
+RHS § 95 lg 4 p 6 „kui huvide konflikti ei ole muude vahenditega võimalik vältida“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+15/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Viide seadusele:
+RHS § 95 lg 4 p 7 „kelle pakkumuse või taotluse koostamisel on osalenud isik, kes on osalenud
+sama riigihanke ettevalmistamisel või on muul viisil hankijaga seotud, ja sellele isikule seetõttu
+teadaolev info annab talle eelise teiste riigihankes osalejate eest ning sellest tingitud konkurentsi
+moonutamist ei ole muude vahenditega võimalik vältida“. Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Viide seadusele:
+RHS § 95 lg 4 p 8 „kes on oluliselt või pidevalt rikkunud eelnevalt sõlmitud hankelepingu olulist
+tingimust või hankelepingute olulisi tingimusi nii, et rikkumise tulemusena on lepingust
+taganetud või leping üles öeldud, hinda alandatud, hüvitatud kahju või makstud leppetrahvi". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud. Alates 1.09.2017 alustatud hangete tulemusena sõlmitud
+riigihankelepingute kohta leiab infot riigihangete registrist.
+Kehtib: Kõik osad
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+16/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Viide seadusele:
+RHS § 95 lg 4 p 9 „kes on esitanud valeandmeid käesolevas paragrahvis sätestatud või RHS §-
+des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele vastavuse kohta“;
+RHS § 95 lg 4 p 9 „kes on jätnud andmed käesolevas paragrahvis sätestatud või käesoleva
+seaduse §-des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele
+vastavuse kohta esitamata“;
+RHS § 95 lg 4 p 9 „kes on jätnud käesoleva seaduse § 104 lõigete 7 ja 8 alusel hankija nõutud
+täiendavad dokumendid esitamata“;
+RHS § 95 lg 4 p 10 „kes on tegutsenud eesmärgiga mõjutada hankijat või esitanud hooletusest
+eksitavat teavet, mis on võinud mõjutada hankija otsuseid riigihankes, või on tegutsenud
+eesmärgiga saada konfidentsiaalset teavet, mis on võinud anda talle põhjendamatu eelise teiste
+riigihankes osalejate ees“.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+17/20
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+keskkonnaõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+sotsiaalõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+18/20
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid tööõiguse
+valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PANKROT
+Kas ettevõtja on pankrotis?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud
+juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Viide seadusele:
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+19/20
+RHS § 95 lg 4 p 3 „kes on likvideerimisel või kelle suhtes on algatatud pankrotimenetlus, välja
+arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 2 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud riigis ilma seadusliku aluseta viibivale välismaalasele töötamise
+võimaldamise või välismaalase Eestis töötamise tingimuste rikkumise võimaldamise, sealhulgas
+seaduses sätestatud töötasu määrast väiksema töötasu maksmise eest“. Kohustuslik kõrvaldamise
+alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+20/20
+Viide seadusele:
+RHS § 95 lg 1 p 5. Kellega hankelepingu sõlmimine rikuks rahvusvahelist või Vabariigi
+Valitsuse sanktsiooni rahvusvahelise sanktsiooni seaduse tähenduses. Hankija kontrollib
+käesoleva seaduse § 95 lõike 1 punktis 5 sätestatud kõrvaldamise alust pakkuja või taotleja
+kinnituse alusel. Hankija võib põhjendatud kahtluse korral nõuda pakkujalt või taotlejalt
+täiendavate andmete või tõendite esitamist, mis võimaldavad kõrvaldamise alust kontrollida.
+(RHS § 96 lg 2.1).
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 11 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku esindajat on karistatud maksualaste süütegude eest“. Vabatahtlik kõrvaldamise alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Kehtib: Kõik osad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 18.11.2025 10:24:58
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+
+=== 9384784_300991_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 300991
+Hankija:sihtasutus Põhja-Eesti Regionaalhaigla (90006399)
+Hange:Kiirpuur operatsioonikeskusele
+OSA1 – ENT- JA NEUROKIRURGIAS KASUTATAVAD KIIRPUURID NING ENT SHAVER
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Maksumus Pakkuja sisestab siia summeeritud Maksumus - 100 EUR jah
+kogumaksumuse, mis on välja toodud vähim on parim
+dokumendis "300991 Maksumuse vorm"
+lahtris "Eeldatav seadmete ja hoolduse
+summaarne kogumaksumus ilma
+käibemaksuta".
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Maksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Võrdsete maksumustega pakkumuste korral selgitab hankija eduka pakkuja liisuheitmise teel. Liisuheitmine toimub hankija ruumides eelnevalt kokkulepitud ajal. Kogu liisuheitmise protsess
+protokollitakse. Pakkujatel on õigus viibida liisuheitmise juures, kuid see ei ole kohustuslik.
+OSA2 – NEUROKIRURGIA KIIRPUURID
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Koostatud 18.11.2025 16:21:23 1/2 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9384784/general-info
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Maksumus Pakkuja sisestab siia summeeritud Maksumus - 90 EUR jah
+kogumaksumuse, mis on välja toodud vähim on parim
+dokumendis "300991 Maksumuse vorm"
+lahtris "Eeldatav seadmete ja hoolduse
+summaarne kogumaksumus ilma
+käibemaksuta".
+2 Seadmete ühilduvus Pakutavad seadmed ühilduvad Kvaliteet - hankija 5
+Medtronix EC300 või Aesculap GA800 hinnatav
+süsteemiga.
+3 Korduvkasutatav trepaan Pakutav trepaan on korduvkasutatav Kvaliteet - hankija 5
+(teritatav ja steriliseeritav). hinnatav
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Maksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Võrdsete pakkumuste korral tunnistatakse edukaks pakkumus, mis saavutas kriteeriumi "Maksumus" eest rohkem väärtuspunkte. Kui kriteeriumi eest antud punktid on samuti võrdsed selgitab
+hankija eduka pakkuja liisuheitmise teel. Liisuheitmine toimub hankija ruumides eelnevalt kokkulepitud ajal. Kogu liisuheitmise protsess protokollitakse. Pakkujatel on õigus viibida
+liisuheitmise juures, kuid see ei ole kohustuslik.
+2. Seadmete ühilduvus
+Pakutavate seadmete ühilduvuse korral Medtronix EC300 või Aesculap GA800 süsteemiga omistatakse pakkumusele 5 punkti. Pakutavate seadmete mitte ühildumise korral omistatakse
+pakkumusele 0 punkti.
+3. Korduvkasutatav trepaan
+Pakkumusele omistatakse 5 punkti, kui pakutav trepaan on korduvkasutatav. Kui pakutavat trepaan on mõeldud ühekordseks kasutamiseks, siis omistatakse pakkumusele 0 punkti.
+Koostatud 18.11.2025 16:21:23 2/2 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9384784/general-info
+
+=== 9384784_300991_vastavustingimused.pdf ===
+1/5
+VASTAVUSTINGIMUSED
+Viitenumber: 300991
+Hankija: sihtasutus Põhja-Eesti Regionaalhaigla (90006399)
+Hange: Kiirpuur operatsioonikeskusele
+OSA1: ENT- JA NEUROKIRURGIAS KASUTATAVAD KIIRPUURID
+NING ENT SHAVER
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+2. Pakkuja kinnitab, et täidab kõik hankemenetluse osalemise avalduses toodud tingimused.
+(Dokumendi vorm / Hankemenetluses osalemise avaldus.docx)
+PAKKUMUSE TEHNILINE ANDMESTIK
+Pakkumus peab sisaldama tehnilist andmestiku, mille põhjal saab hankija kontrollida seadme
+vastavust nõuetele. Tehnilises andmestikus on pakkuja kohustatud esitama detailse kirjelduse
+pakutavatest asjadest vastavalt tehnilises kirjelduses sätestatule. Pakkuja poolt koostatud tehniline
+andmestik peab võimaldama hankijal hõlpsasti (üheselt mõistetavalt ja optimaalse ajakuluga)
+kontrollida pakkumuse vastavust kõikidele riigihanke alusdokumentides ja selle lisades määratud
+tingimustele.
+Küsimused ettevõtjale:
+1. Pakkuja esitab täidetud dokumendi "300991 Tehniline kirjeldus - pakkumusvorm".
+(Dokumendi vorm / 300991 Tehniline ettepanek (02012026).docx)
+2. Pakkuja esitab pakkumuses sisalduvate seadmete (sh lisaseadmete) ning selle oluliste
+komponentide (sh tarkvara ja litsentsid) loetelu. (Vabas vormis dokument)
+3. Pakkumus peab sisaldama seadmete (ja ka kõigi lisaseadmete) ning kauba tehnilist kirjeldust ja
+tootja poolt välja antud tehnilist dokumentatsiooni (juhendid, ekraanipildid, sertifikaadid jmt),
+mille põhjal saab hankija kontrollida seadmete ja kauba vastavust nõuetele (Vabas vormis
+dokument)
+4. Pakkuja on kohustatud pakkumuses esitama kogu teabe pakutavate seadmete tootja poolt
+ettenähtud korralise tehnilise hoolduse sageduse, selle käigus tehtavate tööde ja hoolduseks
+kuluva aja kohta. (Vabas vormis dokument)
+5. Pakkumus peab sisaldama korralise tehnilise hoolduse käigus vahetavate hooldustarvikute ja
+varuosade ning kasutavate/vahetavate kulutarvikute loetelu ja maksumust. (Vabas vormis
+dokument)
+6. Pakkuja on kohustatud pakkumuses esitama tootjapoolse dokumendi või selle koopia, mis
+tõendab, et pakkuja on pakutavate toodete ametlik esindaja ja/või ametlik edasimüüja. (Vabas
+vormis dokument)
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Pakkuja esitab täidetud maksumuse vormi. Juhul kui pakkumuse maksumus tabelis "300991
+Maksumuse vorm" ning RHRi maksumusvormil erineb, lähtub hankija "300991 Maksumuse
+vorm" toodud maksumustest.
+Koostatud 02.01.2026 13:24:48
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+2/5
+Küsimused ettevõtjale:
+1. Kas ettevõtja kinnitab, et täidab pakkumuse lehe "Hindamiskriteeriumid ja hinnatavad
+näitajad" lehel ette antud struktuuri kohaselt? (Raadionupp valikutega "Jah/Ei")
+2. Pakkuja esitab täidetud maksumuse vormi. (Dokumendi vorm / 300991 Maksumuse vorm
+(30122025).xlsx)
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+Koostatud 02.01.2026 13:24:48
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+3/5
+RAHVUSVAHELISE SANKTSIOONI OBJEKT
+Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks või pärit
+sanktsiooni all olevatest piirkondadest. Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav
+hankeleping oleks RSanS § 7 lg 1 alusel tühine.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks ega pärit
+sanktsiooni all olevatest piirkondadest. (Raadionupp valikutega "Jah/Ei")
+EL NÕUKOGU SANKTSIOON. ALLTÖÖVÕTJAD JA TARNIJAD.
+Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on:
+1. Vene Föderatsiooni kodanik, resident või Vene Föderatsioonis asutatud ettevõtja, sh füüsilisest
+isikust ettevõtja, juriidiline isik, asutus või muu üksus;
+2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või muu
+üksuse omandis;
+3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või tegutseb sellise isiku
+juhiste alusel.
+Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav hankeleping oleks RSanS § 7 lg 1 alusel
+tühine.
+Määrust kohaldatakse riigihangetele alates rahvusvahelisest piirmäärast. NÕUKOGU MÄÄRUS
+(EL) 2022/576, 8. aprill 2022, millega muudetakse määrust (EL) nr 833/2014, mis käsitleb
+piiravaid meetmeid seoses Venemaa tegevusega, mis destabiliseerib olukorda Ukrainas.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on: 1. Vene Föderatsiooni kodanik, resident või Vene
+Föderatsioonis asutatud ettevõtja, sh füüsilisest isikust ettevõtja, juriidiline isik, asutus või muu
+üksus; 2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või
+muu üksuse omandis; 3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või
+tegutseb sellise isiku juhiste alusel. (Raadionupp valikutega "Jah/Ei")
+OSA2: NEUROKIRURGIA KIIRPUURID
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+2. Pakkuja kinnitab, et täidab kõik hankemenetluse osalemise avalduses toodud tingimused.
+(Dokumendi vorm / Hankemenetluses osalemise avaldus.docx)
+PAKKUMUSE TEHNILINE ANDMESTIK
+Pakkumus peab sisaldama tehnilist andmestiku, mille põhjal saab hankija kontrollida seadme
+vastavust nõuetele. Tehnilises andmestikus on pakkuja kohustatud esitama detailse kirjelduse
+pakutavatest asjadest vastavalt tehnilises kirjelduses sätestatule. Pakkuja poolt koostatud tehniline
+andmestik peab võimaldama hankijal hõlpsasti (üheselt mõistetavalt ja optimaalse ajakuluga)
+kontrollida pakkumuse vastavust kõikidele riigihanke alusdokumentides ja selle lisades määratud
+tingimustele.
+Koostatud 02.01.2026 13:24:48
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+4/5
+Küsimused ettevõtjale:
+1. Pakkuja esitab täidetud dokumendi "300991 Tehniline kirjeldus - pakkumusvorm".
+(Dokumendi vorm / 300991 Tehniline ettepanek (02012026).docx)
+2. Pakkuja esitab pakkumuses sisalduvate seadmete (sh lisaseadmete) ning selle oluliste
+komponentide (sh tarkvara ja litsentsid) loetelu. (Vabas vormis dokument)
+3. Pakkumus peab sisaldama seadmete (ja ka kõigi lisaseadmete) ning kauba tehnilist kirjeldust ja
+tootja poolt välja antud tehnilist dokumentatsiooni (juhendid, ekraanipildid, sertifikaadid jmt),
+mille põhjal saab hankija kontrollida seadmete ja kauba vastavust nõuetele (Vabas vormis
+dokument)
+4. Pakkuja on kohustatud pakkumuses esitama kogu teabe pakutavate seadmete tootja poolt
+ettenähtud korralise tehnilise hoolduse sageduse, selle käigus tehtavate tööde ja hoolduseks
+kuluva aja kohta. (Vabas vormis dokument)
+5. Pakkumus peab sisaldama korralise tehnilise hoolduse käigus vahetavate hooldustarvikute ja
+varuosade ning kasutavate/vahetavate kulutarvikute loetelu ja maksumust. (Vabas vormis
+dokument)
+6. Pakkuja on kohustatud pakkumuses esitama tootjapoolse dokumendi või selle koopia, mis
+tõendab, et pakkuja on pakutavate toodete ametlik esindaja ja/või ametlik edasimüüja. (Vabas
+vormis dokument)
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Pakkuja esitab täidetud maksumuse vormi. Juhul kui pakkumuse maksumus tabelis "300991
+Maksumuse vorm" ning RHRi maksumusvormil erineb, lähtub hankija "300991 Maksumuse
+vorm" toodud maksumustest.
+Küsimused ettevõtjale:
+1. Kas ettevõtja kinnitab, et täidab pakkumuse lehe "Hindamiskriteeriumid ja hinnatavad
+näitajad" lehel ette antud struktuuri kohaselt? (Raadionupp valikutega "Jah/Ei")
+2. Pakkuja esitab täidetud maksumuse vormi. (Dokumendi vorm / 300991 Maksumuse vorm
+(30122025).xlsx)
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Koostatud 02.01.2026 13:24:48
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+5/5
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+RAHVUSVAHELISE SANKTSIOONI OBJEKT
+Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks või pärit
+sanktsiooni all olevatest piirkondadest. Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav
+hankeleping oleks RSanS § 7 lg 1 alusel tühine.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks ega pärit
+sanktsiooni all olevatest piirkondadest. (Raadionupp valikutega "Jah/Ei")
+EL NÕUKOGU SANKTSIOON. ALLTÖÖVÕTJAD JA TARNIJAD.
+Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on:
+1. Vene Föderatsiooni kodanik, resident või Vene Föderatsioonis asutatud ettevõtja, sh füüsilisest
+isikust ettevõtja, juriidiline isik, asutus või muu üksus;
+2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või muu
+üksuse omandis;
+3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või tegutseb sellise isiku
+juhiste alusel.
+Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav hankeleping oleks RSanS § 7 lg 1 alusel
+tühine.
+Määrust kohaldatakse riigihangetele alates rahvusvahelisest piirmäärast. NÕUKOGU MÄÄRUS
+(EL) 2022/576, 8. aprill 2022, millega muudetakse määrust (EL) nr 833/2014, mis käsitleb
+piiravaid meetmeid seoses Venemaa tegevusega, mis destabiliseerib olukorda Ukrainas.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on: 1. Vene Föderatsiooni kodanik, resident või Vene
+Föderatsioonis asutatud ettevõtja, sh füüsilisest isikust ettevõtja, juriidiline isik, asutus või muu
+üksus; 2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või
+muu üksuse omandis; 3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või
+tegutseb sellise isiku juhiste alusel. (Raadionupp valikutega "Jah/Ei")
+Koostatud 02.01.2026 13:24:48
+https://riigihanked.riik.ee/rhr-web/#/procurement/9384784/general-info
+
+=== 9384784_Hankemenetluses_osalemise_avaldus.docx ===
+Hankemenetluses osalemise avaldus
+
+
+Pakkuja (ühispakkuja) nimi:
+Pakkuja (ühispakkuja) registrikood:
+
+
+	•	Kinnitame, et:
+	•	oleme saanud hankijalt kogu käesoleva pakkumuse koostamiseks vajaliku informatsiooni ning oleme tutvunud kõikide seonduvate asjaolude ning tingimustega;
+	•	oleme kontrollinud ning veendunud, et eelnimetatud dokumentides ei ole olulisi vigu ega puudusi, mis takistaks siduva pakkumuse esitamist;
+	•	nõustume riigihanke alusdokumentide ja nende lisade tingimustega ning anname endale täielikult aru pakkuja vastutuse ning kohustuste mahust.
+
+	•	Kinnitame, et meie pakkumuses ja selle maksumuses on igakülgselt arvesse võetud:
+	•	riigihanke alusdokumente ja selle lisasid;
+	•	kõiki riigihanke alusdokumentides ja selle lisades sätestatud ja nendest tulenevaid pakkuja kohustusi, ülesandeid, tegevusi ja toiminguid, kaasa arvatud need, mis ei ole otseselt kirjeldatud riigihanke alusdokumentides ja nende lisades, kuid mis on tavapäraselt vajalikud nõuetekohase tulemuse saavutamiseks arvestades lepingu eesmärki;
+	•	kõiki kulusid, riske ja asjaolusid ning kõiki tingimusi (üldiseid ja erilisi asjaolusid, seejuures midagi välja jätmata), mis võiks pakkumuse maksumust mõjutada.
+
+	•	Käesolev pakkumus on jõus 4 kuud arvates pakkumuste esitamise tähtpäevast.
+
+	•	Nõustume asjaoluga, et hankijal on õigus tagasi lükata kõik pakkumused enne raamlepingu sõlmimist juhul, kui kõikide vastavaks tunnistatud pakkumuste maksumused ületavad selleks otstarbeks ettenähtud ressursid.
+
+	•	Nõustume asjaoluga, et hankijal on õigus riigihangete seaduse § 73 lõike 3 punkti 6 alusel hankemenetlus kehtetuks tunnistada, muuhulgas:
+	•	juhul, kui hankemenetluse jätkamine on olukorra muutumise tõttu muutunud hankija jaoks ebaotstarbekaks; 
+	•	juhul, kui peale pakkumuste avamist selgub, et hankija on oma vajadusi tehnilises kirjelduses valesti kirjeldanud.
+
+	•	Raamlepingu sõlmimine ning ooteaeg
+Raamlepingut ei sõlmita enne ooteaja möödumist vastavalt riigihangete seaduse § 120 sätestatule. Kohustume edastatud hankelepingu allkirjastama ning tagastama allkirjastatud lepingu hiljemalt viie tööpäeva jooksul lepingu edastamisest arvates.
+
+	•	Korruptsioonivastased meetmed
+	•	Pakkuja kinnitab, et ei tema ega tema nimel tegutsevad isikud ei ole käesoleva hankemenetluse raames toime pannud korruptiivseid tegusid, sh pakkunud, lubanud, andnud, heaks kiitnud, vahendanud või nõustunud (või andnud mõista, et ta on valmis seda tulevikus tegema) lubamatu varalise või muu soodustusega ärisuhte loomiseks, suunamiseks või säilitamiseks või muul viisil sobimatu eelise saamiseks. 
+	•	Pakkuja kinnitab, et osutudes käesoleva hankemenetluse raames edukaks ning sõlmides raamlepingu, võtab ta endale alljärgnevad kohustused:
+	•	pakkuja ja tema nimel tegutsevad isikud peavad kinni pidama kõikidest Eesti Vabariigis ja rahvusvahelistest kehtivatest korruptsioonivastastest õigusaktidest ning järgima oma tegevuses kõrgeimaid eetikastandardeid;
+	•	pakkuja ei tohi hankija poolt raamlepingu täitmisega seotud isikutele või nende pereliikmetele teha kingitusi ega muul viisil luua suhteid, sõlmida kokkuleppeid või seada neid olukorda, mis võivad kaasa tuua tegeliku või näilise huvide konflikti raamlepingu täitmise ajal või pärast seda;
+	•	kui pakkuja korraldab oma äritegevuse raames üritusi oma klientidele, peab nimetatud üritusel võõrustamine, sealhulgas meelelahutus olema mõistlikul tasemel ja jääma ettevõtmise põhieesmärgi suhtes teisejärguliseks;
+	•	pakkuja peab kasutusele võtma mõistlikud meetmed, et vältida korruptsiooni oma alltöövõtjate, või muude pakkujaga seotud või pakkuja mõju all olevate kolmandate isikute poolt. Pakkuja ei tohi nõuda teistelt isikutelt selliste tegude tegemist, mis on tema jaoks korruptsioonivastaste meetmete p-de 7.1. ning 7.2. ja selle alapunktide alusel keelatud;
+	•	pakkuja äritegevuse raames tehtud tehingud peavad olema läbipaistvad, dokumenteeritud nõuetekohaselt ja kajastuma täpselt raamatupidamises. Pakkuja ei tohi riigiasutustele ning muudele ettevõtetele ja asutustele esitada oma äritegevusega seotud asjaolude kohta valeinformatsiooni;
+	•	pakkuja peab juurutama toimiva korruptsioonivastase programmi, mis vastab tema äriühingu ja -valdkonna vajadustele ja mis on võimeline efektiivselt ennetama ning avastama korruptsioonijuhtumeid ning edendama eetilist ärikultuuri. Pakkuja rakendab seda programmi vähemalt kogu hankijaga sõlmitava raamlepingu kehtivusaja jooksul ning informeerib korrapäraselt hankijat programmi sisust ja selle rakendamise tulemustest;
+	•	pakkuja ja hankija kohustuvad üksteist abistama korruptsioonivastaste meetmete rakendamisel, sh võimalusel informeerima viivitamatult üksteist kõigist raamlepingu täitmisega seotud korruptsioonijuhtumi kahtlustest.
+
+	•	Juhul kui kauba tarnimise ja/või teenuse osutamisega ja/või töö teostamisega seoses on vaja raamlepingu täitmisel osalevatel isikutel töödelda isikuandmeid või on nendel isikutel vajalik juurdepääsu hankija piiratud ligipääsuga alale, siis sõlmivad lepingupooled pärast lepingu jõustumist vastavalt kas isikuandmete töötlemise kokkuleppe ja/ või lepingu läbipääsukaartide saamiseks-väljastamiseks (välja arvatud vastava kehtiva lepingu olemasolul).
+
+	•	Pakkumuse edukaks tunnistamise korral on meie raamlepingusse esitatavad andmed järgmised:
+	•	Ettevõtte rekvisiidid: ____ (nimi), _____(aadress postiindeks), Registrikood:_____________, 
+telefon:_______________ , E-post:______________
+	•	Ettevõtte volitatud esindaja (kontaktisik) lepinguga seotud küsimustes  on: ______________, telefon _____, e-post ____ .
+	•	Lepingu allkirjastaja: ____(nimi), esindamise alus ____(põhikirja või volikirja alusel)
+	•	Müüja kontaktisikud:
+
+Funktsioon
+Üldine e-posti aadress/tellimiskeskkond
+Seadme hoolduse ja remondi tellimuste vastuvõtmine
+
+Uute seadmete tellimuste vastuvõtmine
+
+Arvetega seonduvad küsimused
+
+
+Nimi
+Amet (märkida volitus)
+Kontakttelefon ja e-posti aadress
+
+
+
+
+
+
+
+
+
+
+
+
+=== 9384784_Meditsiiniseadmete_hoolduse_ja_kauba_riigihanke_raamleping__30122025_.docx ===
+Meditsiiniseadmete, hoolduse ja kauba riigihanke raamleping nr 1.2-13/________
+
+*Vali lepingusse vastavalt allkirjastamise viisile (digitaalselt või paberkandjal):
+Leping on sõlmitud ____ __________ 20___. a. või /kuupäev digitaalallkirjas/
+
+SA Põhja-Eesti Regionaalhaigla (edaspidi ostja või Regionaalhaigla), mida esindab volikirja alusel ________, ning ________ (edaspidi müüja), mida esindab põhikirja/volikirja alusel ________, edaspidi nimetatuna ka lepingupool või koos lepingupooled, sõlmisid meditsiiniseadmete, hoolduse ja kauba riigihanke raamlepingu (edaspidi raamleping) alljärgnevas:
+
+Raamlepingu eritingimused
+
+	•	Raamlepingu eesmärk ja objekt 
+	•	Raamlepingu eesmärgiks on määrata kindlaks tingimused, mille alusel võib ostja raamlepingu alusel osta ostjale vajalikke ja eesmärgipäraseks kasutamiseks sobivaid seadmeid, tagada nende töövõime ning kauba tarnimise perioodi sisaldava raamlepingu puhul tarnida seadmete tööks vajalikku kaupa.
+	•	Raamlepingu objektiks on riigihanke „Kiirpuur operatsioonikeskusele“ viitenumbriga 300991 osa ___ (edaspidi riigihange) hanketeates nimetatud seadmete (edaspidi seade või seadmed) müük ja tarnimine vastavalt raamlepingu lisale 1, hooldus (sh varuosad) vastavalt raamlepingu lisale 2, reaktiivide, tarvikutega jms (edaspidi kaup) varustamine vastavalt raamlepingu lisale 3 ning remont vastavalt raamlepingu lisale 5.
+	•	Raamlepingu täitmine peab vastama eelkõige riigihanke alusdokumentides (edaspidi RHAD) sätestatud tingimustele ja seejärel müüja poolt esitatud pakkumusele.
+	•	
+	•	Raamlepingu kehtivus ning maksimaalne maksumus 
+	•	Raamleping kehtib 4 aastat raamlepingu jõustumisest. Raamleping kehtib kuni raamlepingu maksimaalse maksumuse täitumiseni või raamlepingu kehtivuse lõpukuupäeva saabumiseni, sõltuvalt asjaolust, kumb sündmus saabub varem. 
+	•	Seadme tarnimise tähtaeg 12 nädalat alates raamlepingu lisades 7a ja 7b toodud hankelepingu jõustumisest ning seadmetele kehtivad kõik raamlepingu eritingimuste p-des 2.3.-2.5. toodud tähtajad.
+	•	Seadme garantiiaeg 1 aasta alates seadme vastuvõtmisest.
+	•	Tehnilise toe periood on 7 aastat alates seadme vastuvõtmisest. 
+	•	Kauba tellimise periood on 7 aastat alates raamlepingu lisas 7c toodud hankelepingu jõustumisest.
+	•	Raamlepingu maksimaalne maksumus on ________ eurot (ilma käibemaksuta).
+	•	
+	•	Raamlepingu dokumendid
+	•	Raamlepingu dokumendid moodustuvad RHAD-ist, sh raamlepingu eritingimustest (edaspidi eritingimused) ja alltoodud raamlepingu lisadest:
+	•	Lisa 1 – Seadmete loetelu ja hind;
+	•	Lisa 2 – Teostatavate hooldustööde kirjeldus ja hind;
+	•	Lisa 3 – Kauba loetelu ja ühikuhinnad;
+	•	Lisa 4 – Lepingupoolte kontaktisikute nimekiri;
+	•	Lisa 5 – Mõisted. Hooldustellimuse esitamise ja täitmise kord;
+	•	Lisa 6 – Raamlepingu üldtingimused;
+	•	Lisa 7 – Hankelepingu vormid:
+	•	Hankelepingu vorm lisa 7a, meditsiiniseadmete ja/või nende hoolduse hankeleping;
+	•	Hankelepingu vorm lisa 7b, RHAD-is nimetamata seadmete, teenuste ja kauba ostmine;
+	•	Hankelepingu vorm lisa 7c, kauba hankeleping. 
+	•	Eritingimused täiendavad teistes raamlepingu dokumentides toodud tingimusi. Eritingimuste ja teiste raamlepingu dokumentide vastuolu korral loetakse ülimuslikuks eritingimustes sätestatu. 
+	•	
+	•	Hankelepingute sõlmimine raamlepingu alusel 
+	•	Hankelepingud sõlmitakse selliselt, et ostja esitab müüjale e-kirja teel seadme ja/või hoolduse ja/või kauba osas eeltäidetud hankelepingu, milles on toodud seadme ja/või hoolduse ja/või kauba kogus ning muud olulised tingimused, misjärel lepingupooled sõlmivad hankelepingu raamlepingu lisades 7a ja/või 7b ja/või 7c toodud hankelepingu vormil. Hankelepingu lisa 7b sõlmimise korral peavad lepingupooled järgima raamlepingu üldtingimuste p-s 4 toodud tingimusi.
+	•	
+	•	Seadme tarnimine, paigaldamine ja koolitus
+	•	Tarnimine ja paigaldamine
+	•	Seadme üleandmise koht ning seadme paigaldamise eritingimused on raamlepingu lisa 7a puhul toodud lisades 1 ja 3 ja raamlepingu lisa 7b puhul lisades 3 ja 6.
+	•	Müüja kohustub seadme tarnimise plaani (vt raamlepingu lisa 6 p 6.1.2.) ostjaga kirjalikult kooskõlastama hiljemalt 5 tööpäeva enne seadme planeeritavat saabumist.
+	•	
+	•	Koolitus
+	•	Müüja kohustub pärast seadme lõplikku installeerimist ja häälestamist oma kulul seadme üleandmise kohas läbi viima iga seadme kohta vähemalt ühe seadme kasutamisega seotud koolituse kestusega 1 tund ühe koolituse kohta ning igal koolitusel osaleb kuni 40 ostja töötaja(t). Koolitus toimub eesti keeles. 
+	•	
+	•	Seadme hooldus- ja remonttööde tingimused
+	•	Reaktsiooniaeg seadme rikke korral (vt raamlepingu lisa 6 p 8.4.2.) on 48 tundi tööpäevadel kell 8:00–17:00.
+	•	Müüja kohustub tagama seadme töökorras oleku ja kasutamisvalmiduse selliselt, et seadme hooldusest, puudulikust hooldusest või tehnilistest riketest tingitud summaarne seiskumine ei ületa 10 kalendripäeva ühe aasta kohta ning mitte rohkem kui 5 tööpäeva järjest ühe rikke korral.
+	•	Müüja kohustub tagama, et tal on meeskonnas vähemalt 1 tootjapoolse seadme hooldus- ja remondialase väljaõppega spetsialist(i).
+
+	•	Kauba tarne
+	•	Kauba tarne tingimused on toodud raamlepingu lisas 7c ning teistes RHAD-is.
+	•	Kauba ühikuhindade indekseerimine
+	•	Iga kolmandal lepingu kehtivuse aastal alates raamlepingu jõustumisest kuuluvad kauba ühikuhindade maksumused indekseerimisele. Muudatuse aluseks võetakse Statistikaameti poolt avaldatud tarbijahinnaindeksi muudatus võrreldes selle kalendriaasta kvartaliga, mil raamleping jõustus (s.o näiteks kui perioodil 01.01.2025-31.03.2025 kauba eest tasumisele kuuluvat hinda indekseeritakse lähtudes 2025 I kvartali indeksi muutusest võrreldes 2022 IV kvartaliga, eeldusel, et raamleping jõustub 2022 aasta IV kvartalis, edaspidi näide). Lepingupooled lepivad kokku, et Statistikaameti poolt avaldatud tarbijahinnaindeksi alusel saab kauba ühikuhind näite puhul tõusta võrreldes 2022 IV kvartaliga maksimaalselt 10%. 
+	•	Kui Statistikaameti poolt avaldatud tarbijahinnaindeksi alusel tekib olukord, kus kauba hinnatõus võrreldes näites toodud 2022 aasta IV kvartaliga on suurem kui 10%, arvestavad lepingupooled kauba ühikuhinna muutmisel raamlepingu eritingimuste p 7.2.1. alusel 10%-list hinnatõusu määra. Kui kauba hinnatõus võrreldes näites toodud 2022 aasta IV kvartaliga on väiksem kui 10%, arvestavad lepingupooled kauba ühikuhinna muutmisel raamlepingu eritingimuste p 7.2.1. alusel Statistikaameti poolt avaldatud tarbijahinnaindeksi hinnatõusu määra.  
+	•	Müüja esitab ostjale vähemalt 30 kalendripäeva enne ning hiljemalt 2 kuud pärast raamlepingu kolmanda kehtivuse aasta täitumist raamlepingu muutmise ettepaneku koos raamlepingu eritingimuste p-des 7.2.1. ja 7.2.2. kirjeldatud arvutuskäiguga kauba hinna muutuse fikseerimiseks. Juhul, kui müüja poolt esitatud kauba hindade muutmise arvutus vastab raamlepingu lepingu p-des 7.2.1. ja 7.2.2. sätestatule, sõlmivad lepingupooled kauba ühikuhindade maksumuse muutmise kohta raamlepingu lisa. Kui müüja ei esita ostjale raamlepingu muutmise ettepanekut raamlepingus määratud tähtaja jooksul ning tingimustel, kaotab müüja õiguse nõuda kauba hinna muutust ning järgmisel korral on müüjal õigus nõuda ostjalt kauba hinna muutust järgmise kolme raamlepingu kehtivuse aasta täitumisel raamlepingu jõustumisest vastavalt lepingu p 7.2.1. esimeses lauses sätestatule. 
+	•	Kauba ühikuhindade suurendamise kohta sõlmitav raamlepingu lisa ei tohi jõustuda varem kui 30 kalendripäeva pärast müüja poolt ostjale kauba ühikuhindade muutmise ettepaneku esitamist. 
+
+	•	Vastutus
+	•	Ostjal on õigus nõuda müüjalt leppetrahvi juhul, kui:
+	•	müüja spetsialist ei alusta seadme rikke põhjuse välja selgitamist raamlepingu eritingimuste p-s 6.1. nimetatud reaktsiooniaja jooksul, 50 eurot iga tähtaega ületava tunni eest;
+	•	seadme summaarne seiskumine või seiskumine ühe rikke korral ületab raamlepingu eritingimuste p-s 6.2. määratud päevade arvu, 150 eurot iga tähtaega ületava kalendripäeva eest.
+*Vali raamlepingusse vastavalt allkirjastamise viisile (digitaalselt või paberkandjal): 
+Raamleping on koostatud kahes identses võrdset juriidilist jõudu omavas eksemplaris, millest üks eksemplar jääb ostjale ja teine müüjale.
+või 
+Raamleping on digitaalselt allkirjastatud.
+
+Lepingupoolte andmed
+Ostja:
+sihtasutus Põhja-Eesti Regionaalhaigla
+Registrikood: 90006399
+J. Sütiste tee 19, 13419 Tallinn
+Tel: 617 1300
+E-post: info@regionaalhaigla.ee 
+www.regionaalhaigla.ee 
+Müüja:
+________
+Registrikood: ________
+________
+Tel: ________
+E-post: ________
+Meditsiiniseadmete riigihanke raamlepingu lisa 1
+
+Seadmete loetelu ja hind
+*Vali:
+Seadmete loetelu ja maksumus on toodud müüja poolt riigihankes esitatud pakkumuse maksumuse tabelis, mis on lisatud raamlepingu juurde.
+või
+Raamlepingu lisa kajastab infot seadme nime, tootja, mudeli ja ühikuhinna kohta.
+
+
+Seadmete hinnad:
+Jrk
+Seadme nimetus
+Tootja, mudel
+Ühiku hind
+(EUR KM-ta)
+	•	
+
+
+
+	•	
+
+
+
+	•	
+
+
+
+
+
+Meditsiiniseadmete riigihanke raamlepingu lisa 2
+
+Teostatavate hooldustööde kirjeldus ja hind
+
+Raamlepingu lisa kajastab infot hoolduse tüübi, iga seadme hooldussageduse, hoolduse hinna ja hooldustööde kirjelduse ning müüja spetsialisti töötasu kohta. Kui riigihankes on küsitud varuosade või hooldustarvikute hindu, siis on lisas toodud nende hinnakiri.
+
+Müüja spetsialisti töötasu raamlepingu ning selle alusel sõlmitavate hankelepingute kehtivuse perioodil on ___ eurot/tund, millele lisandub käibemaks. Lisaks töötasule on müüjal õigus iga Tallinnas asuva Regionaalhaigla üksuse poolt esitatud hooldustellimuse kohta ühekordselt küsida väljakutsetasu (vt lisa 6 p 5.3.5.) ___ eurot, millele lisandub käibemaks.
+
+Seadmele tootja poolt ette nähtud korralise hoolduse käigus viiakse läbi järgnevad tööd / ei ole tootja poolt ette nähtud läbi viia korralist hooldust.
+Jrk
+Seadme nimetus
+Kommentaar
+Hoolduse sagedus
+Ühe seadme ühe hoolduse hind
+(EUR KM-ta)
+	•	
+
+
+
+
+	•	
+Hooldustööde kirjeldus:
+
+
+Hoolduseks kuluv aeg ühe seadme kohta on… .
+	•	
+
+
+
+
+	•	
+Hooldustööde kirjeldus:
+
+Hoolduseks kuluv aeg ühe seadme kohta on… .
+	•	
+
+
+
+
+
+Hooldustööde kirjeldus:
+
+
+Hoolduseks kuluv aeg ühe seadme kohta on… .
+ 
+Korralise hoolduse hinnas sisalduvad kõik hoolduse teostamiseks vajalikud kulud, sh müüja spetsialisti töötasu ja väljakutsetasu ning varuosad ja hooldustarvikud.
+
+Garantiiajal kohustub müüja oma kulul tagama seadme täishoolduse, mis sisaldab seadme tootja poolt ette nähtud korralist hooldust (vt raamlepingu lisa 6 p 6.5.2.).
+
+Garantiiaja järgse hoolduse tüüp valitakse hankelepingu sõlmimisel allolevate variantide seast: 
+	•	Hankelepingus ei nähta ette hooldusperioodi kuid ostja võib tellida hooldust ja muid töid raamlepingu lisas 2 märgitud hinnaga hooldustellimuse alusel. 
+	•	Korraline hooldus (vt raamlepingu lisa 6 p 8.2.). Ostja tasub seadme korralise hoolduse eest pärast iga korralise hoolduse teostamist iga hooldusperioodi kuu / kvartali / aasta / poolaasta lõpus. Muid töid teostatakse raamlepingu lisas 2 märgitud hinnaga ostja hooldustellimuste alusel.
+
+
+
+Meditsiiniseadmete riigihanke raamlepingu lisa 3
+
+Kauba loetelu ja ühikuhinnad
+
+Kauba loetelu ja ühikuhinnad on toodud müüja poolt riigihankes esitatud pakkumuse maksumuse tabelis, mis on lisatud raamlepingu juurde.
+või 
+Raamlepingu lisa kajastab infot kauba koodide, nimetuste, ühikuhindade ja koguste kohta. 
+Jrk
+Tootekood
+Tollikood (kohaldub vajadusel)
+Toote nimetus
+Kogus pakendis
+Ühiku hind (EUR KM-ta)
+Kogus (tk)
+Hind kokku
+(EUR KM-ta)
+	•	
+
+
+
+
+
+
+
+	•	
+
+
+
+
+
+
+
+
+
+
+
+Meditsiiniseadmete riigihanke raamlepingu lisa 4
+
+Lepingupoolte kontaktisikute nimekiri
+Ostja kontaktisikud
+Funktsioon
+Üldine e-posti aadress
+Arvetega seonduvad ja muud üldised küsimused
+mtarved@regionaalhaigla.ee
+Ohujuhtumitest teavitamine
+medtehrike@regionaalhaigla.ee
+Kaubaga seotud küsimused
+ladu@regionaalhaigla.ee 
+
+
+Nimi
+Amet
+E-posti aadress
+Andrus Paats 1)2)3)
+meditsiinitehnika direktor
+Andrus.Paats@regionaalhaigla.ee 
+Annika Kaalep 1)2)3)
+biomeditsiinitehnika vaneminsener-talituse juhataja
+Annika.Kaalep@regionaalhaigla.ee 
+
+
+
+Kõik Regionaalhaigla laotalituse töötajad 4)
+Kõik Regionaalhaigla meditsiinitehnika teenistuse töötajad 5)
+
+Volitused:
+	•	esindaja lepingulistes küsimustes;
+	•	lepingu täitmisega seotud pretensioonide esitamine müüjale;
+	•	seadmega seotud dokumentide (kasutuselevõtu akt, ohujuhtumi teatis jne) allkirjastamine;
+	•	kauba tellimine ja vastuvõtmine;
+	•	seadmete hoolduse, remondi ja varuosade tellimine ning vastu võtmine.
+
+
+Müüja kontaktisikud
+Funktsioon
+Üldine e-posti aadress/tellimiskeskkond
+Seadme hoolduse ja remondi tellimuste vastuvõtmine
+
+Kauba tellimuste vastuvõtmine
+
+Uute seadmete tellimuste vastuvõtmine
+
+Arvetega seonduvad küsimused
+
+
+Nimi (lisada nime järele isikule antud volituse järjekorra number/numbrid)
+Amet
+Kontakttelefon ja e-posti aadress
+
+
+
+
+
+
+
+
+
+
+Volitused:
+	•	lepinguga seotud küsimustes info andmine;
+	•	seadme hoolduse ja remondi tellimuste vastuvõtmine;
+	•	kauba tellimuste vastuvõtmine;
+	•	uute seadmete tellimuste vastuvõtmine.
+
+
+Meditsiiniseadmete riigihanke raamlepingu lisa 5
+
+Mõisted. Hooldustellimuse esitamise ja täitmise kord
+
+	•	Mõisted
+	•	Müüja – meditsiiniseadmete varuosade või tarvikute müügi või meditsiiniseadmete hooldamisega tegelev lepingupool.
+	•	Volitatud kontaktisik – lisas 4 nimetatud ostja kontaktisik, kes on volitatud seadme hooldust ja remonti tellima ning töid vastu võtma.
+	•	Hooldustellimus – volitatud kontaktisiku poolt müüjale esitatav ühekordne tellimus meditsiiniseadme hoolduse tagamiseks vajaliku teenuse (nt remondi teostamine) või kauba (nt varuosa või hooldustarviku) ostmiseks. 
+	•	Remont – ilmnenud vea kõrvaldamine seadme seisukorra ja funktsionaalsuse taastamiseks.
+	•	Korraline hooldus – kokkulepitud sagedusega toimuv seadme profülaktiline ülevaatus tõrgete esinemisvõimaluste vähendamiseks ja seadme kvaliteedinäitajate languse ärahoidmiseks.
+	•	Diagnostika – vea põhjuse otsing ning remondiks vajalike varuosade ja tööde planeerimine.
+	•	Hinnapakkumine – müüja esindaja poolt volitatud kontaktisiku päringule vastuseks antud orienteeruv hind, mille eest müüja on valmis tarnima päringus nimetatud kaupa või teenust.
+	•	Visiidiaruanne – müüja poolt teostatud korralist hooldust või remonti kirjeldav dokument, mis:
+	•	võimaldab üheselt tuvastada hooldatud meditsiiniseadme;
+	•	võimaldab üheselt tuvastada töö teostanud müüja ja konkreetse isiku;
+	•	loetleb teostatud tegevused ning kasutatud varuosad;
+	•	sisaldab töö teostamiseks kulunud tundide arvu;
+	•	sisaldab töö teostamise kuupäeva ning alguse ja lõpu kellaaega, kui töö teostati ostja tegevuskohas;
+	•	sisaldab infot tehtud tööle ja kasutatud varuosadele antava garantii kohta;
+	•	sisaldab töö teostaja kinnitust seadme korrasoleku kohta;
+	•	võib olla vormistatud ostja vormil või müüja vormil, mis vastab ülaltoodud nõuetele.
+
+	•	Hooldustellimuse esitamise ja täitmise kord
+	•	Volitatud kontaktisik edastab hooldustellimuse müüja kontaktisikule e-posti teel. Kiireloomulise hooldustellimuse korral võib informatsiooni edastada ka telefoni teel, kuid sellisel juhul dokumenteeritakse edastatud info ka e-postiga. 
+	•	Müüja esindaja lepib enne hooldustellimuse täitmiseks kohale tulemist saabumise aja kokku hooldustellimuses määratud kontaktisikuga. Kui eraldi kontaktisikut ei ole nimetatud, on selleks hooldustellimuse esitaja.
+	•	Hooldustellimust täitma tulnud müüja esindaja teavitab telefoni teel kontaktisikut oma saabumisest ja lahkumisest hooldustellimusega seotud seadme juurest ning annab kiirülevaate teostatud töödest ja seadme seisundist. 
+	•	Remondi vajaduse korral teostab müüja esindaja esmalt seadme diagnostika ning annab volitatud kontaktisikule ülevaate vajalikest remonttöödest.
+	•	Hankelepinguga kokku leppimata tööde tellimiseks sõlmivad pooled uue hankelepingu raamlepingu lisa 7b vormil arvestades raamlepingu üldtingimuste p-s 4 toodud tingimusi. Kui leping on sõlmitud, edastab volitatud kontaktisik müüja esindajale hooldustellimuse numbri, mis on tööde teostamise aluseks. 
+	•	Hinnapakkumise koostamiseks ja esitamiseks kuluv aeg ei mõjuta müüja kohustust tagada seadme töökorras olek lepingus sätestatud aja jooksul.
+	•	Kõikide teostatud tööde kohta koostab müüja esindaja visiidiaruande. 
+	•	Hooldustellimus loetakse täidetuks peale visiidiaruande (varuosa tellimuse puhul saatelehe) esitamist ja volitatud kontaktisiku kirjaliku vastuväite puudumisel. 
+
+Meditsiiniseadmete riigihanke raamlepingu lisa 6
+
+Raamlepingu üldtingimused
+	•	Üldsätted
+	•	Lepingupoolte õiguste ning kohustuste aluseks on raamleping oma lisadega, Eesti Vabariigis kehtivad õigusaktid (edaspidi õigusaktid) ja hea tava. 
+	•	Lepingupooled kinnitavad, et oma kutsetegevuses tegutsemiseks vajalike parimate teadmiste kohaselt on nende poolt raamlepingu nõuetekohane täitmine võimalik ning nad suunavad oma parimad jõupingutused raamlepingust tulenevate kohustuste kohasele täitmisele, austades ja järgides teise lepingupoole seaduslikke ja raamlepingust tulenevaid õigusi ja huve. 
+	•	
+	•	Raamlepingu ning hankelepingu jõustumine
+	•	Raamleping jõustub pärast seda, kui lepingupooled on selle allkirjastanud. Hankeleping jõustub pärast seda, kui lepingupooled on selle allkirjastanud või lepingupoolte kokkuleppel hankelepingus nimetatud muul kuupäeval. 
+	•	
+	•	Hankelepingu sõlmimine ja eeldatavad kogused
+	•	Hankeleping sõlmitakse iga seadme ja/või kauba ja/või hoolduse (sh remondi) puhul hankelepingu vormil 7a, 7b või 7c (edaspidi ka hankeleping või hankelepingud). 
+	•	Ostjal on õigus vastavalt tegelikule vajadusele muuta seadme ja/või hoolduse ja/või kauba eeldatavaid koguseid, arvestades RHAD-is toodud maksimaalseid seadme ja/või hoolduse ja/või kauba koguseid või raamlepingu maksimaalset maksumust, kusjuures kehtivad raamlepingu lisas 1, lisas 2 ja lisas 3 toodud ühikuhinnad. Ostjal ei ole ühelgi juhul kohustust RHAD-is määratud seadme ja/või hoolduse ja/või kauba eeldatavaid või maksimaalseid koguseid müüjalt välja osta.
+	•	Kui RHAD ei näinud ette seadme hooldusperioodi ja/või kaubaga varustamist ja/või koolitust, ei kohaldu ja/või jäetakse tühjaks või märgistatakse vastavalt („0“, „puudub“ vmt) hankelepingus märgitud hooldusperioodi ja/või kaubaga ja/või koolitusega seonduvad tingimused. 
+	•	
+	•	RHAD-is nimetamata seadmete, teenuste ja kauba ostmine
+	•	Ostjal on õigus osta ka müüja tootevalikus olevaid raamlepingu objekti hulka kuuluvaid seadmeid, mida ei ole raamlepingu lisas 1 kirjeldatud, kuid mille järele on ostjal tekkinud raamlepingu kehtivuse ajal vajadus, arvestades, et üheaegselt on täidetud kõik alljärgnevad tingimused:
+	•	ostjal on tekkinud vajadus täiendava seadme järele või vajab mõni olemasolev seade väljavahetamist;
+	•	seade vastab oma kasutamise sihtotstarbelt osaliselt mõnele raamlepingu lisas 1 toodud seadmele, kuid on sellest oma funktsionaalsuses erinev;
+	•	ostja ostab sellisel viisil seadme, mille omadused vastavad kõige paremini soovitud rakendusvaldkonnale ja mis on ostja tegevuse eesmärgi saavutamiseks sobivaim. Tootja võib olla soetatava seadme turule toonud enne või pärast raamlepingu jõustumist.
+	•	
+	•	Ostjal on õigus raamlepingu kehtivuse perioodil tellida lepingu alusel ostetud seadme(te) sihtotstarbelise kasutamise võimaldamiseks raamlepingu lisas 1 nimetamata lisaseadmeid (sh tarkvaralitsentsid, lisamoodulid jne), lepingu lisas 2 nimetamata teenuseid ja lepingu lisas 3 nimetamata kaupa, kui üheaegselt on täidetud kõik alljärgnevad tingimused:
+	•	ostjal on tekkinud vajadus täiendavate lisaseadmete ja/või kauba ja/või teenuse järele (kas olemasoleva asendamiseks, töömahtude tõstmiseks, teenuse kvaliteedi tõstmiseks vms põhjusel);
+	•	seadme funktsionaalsuse tagab ainult konkreetne lisaseade ja/või kaup ja/või teenus.
+	•	
+	•	Ostmiseks esitab ostja müüjale pakkumuse esitamise ettepaneku, mis sisaldab soovitud seadme ja/või lisaseadmete ja/või kauba ja/või teenuse kirjeldust, vajadusel soovitud hoolduse kirjeldust, pakkumuse esitamise tähtaega ja ostjapoolset kontaktisikut. 
+	•	Müüja esitab pakkumuse, mille aktsepteerimise kinnituseks sõlmivad ostja ja müüja hankelepingu vormil 7b.
+
+	•	Raamlepingu hind ja tasumine
+	•	Raamlepingu hind
+	•	Seadme ja selle oluliste osade loetelu ning ühikuhinnad on toodud raamlepingu lisas 1.
+	•	Hooldustööde kirjeldus ja maksumus ning müüja spetsialisti töötasu hind on toodud raamlepingu lisas 2.
+	•	Kauba loetelu ja ühikuhinnad on toodud raamlepingu lisas 3.
+	•	Raamlepingu lõplik hind kujuneb raamlepingu kehtivuse ajal vastavalt sõlmitud hankelepingute mahule ning hankelepingute alusel faktiliselt tarnitud seadmetele, teostatud hooldustöödele, tarnitud kaubale ning varuosadele.
+	•	Eesti Vabariigis kehtiva käibemaksumäära muutmise jõustumisest arvates muutuvad raamlepingus toodud hinnad käibemaksumäära muutuse võrra ning selle kohta ei sõlmi lepingupooled eraldi raamlepingu ega hankelepingu lisasid.
+	•	
+	•	Seadme müügihinna tasumine
+	•	Seadme müügihinna tasumine toimub pärast lepingupoolte poolt allkirjastatud seadme kasutuselevõtu akti (edaspidi akt) vormistamist, mis on aluseks müüja poolt ostjale arve esitamisel.
+	•	Seadme eest arve esitamisel esitab müüja ostjale arve ainult lepingupoolte vahel sõlmitud hankelepingu alusel tarnitud seadme kohta, mitte teiste võimalike lepingute alusel või hankelepingu väliselt tarnitud seadmete kohta. Arvelt peab olema selgesti arusaadav, millise seadme eest on arve esitatud. Arvele peab olema märgitud raamlepingu lisas 4 nimetatud akti allkirjastamise volitusega ostja kontaktisik, kes seadme vastu võttis, ning märksõna „Meditsiinitehnika“. 
+	•	Kui seadme tarnimise hilinemine on põhjustatud ostjapoolsest viivitusest, on ostjal õigus teha müüjale müüja poolt sellekohase arve esitamisel ettemakse kuni 50% ulatuses seadme maksumusest ning ülejäänud seadme maksumuse tasub ostja pärast seadme kasutuselevõtu akti vormistamist müüja poolt esitatava arve alusel.
+	•	
+	•	Hoolduse ja remondi eest tasumine
+	•	Hooldus- ja remonttööd (edaspidi töö) loetakse teostatuks pärast müüja poolt töö nõuetekohast tegemist ja seadme töökorras olemist kinnitava dokumendi (visiidiaruanne vmt) edastamist raamlepingu lisas 4 nimetatud tööde vastuvõtmise volitusega ostja kontaktisikule. Töö eest tasutakse tingimusel, et töö on tehtud ja vormistatud vastavalt hankelepingus ja RHAD-is ette nähtud tingimustele. Arve esitatakse ainult koos tööd kirjeldava dokumendiga (visiidiaruanne vmt), vastasel juhul puudub alus arve tasumiseks.
+	•	Töö eest arve esitamisel esitab müüja ostjale arve ainult lepingupoolte vahel sõlmitud hankelepingu alusel teostatud töö kohta, mitte teiste võimalike lepingute alusel või hankelepingu väliselt teostatud tööde kohta. Arvelt peab olema selgesti arusaadav, millise töö eest on arve esitatud. Arvele peab olema märgitud raamlepingu lisas 4 nimetatud ostja kontaktisik, kes töö vastu võttis, ning märksõna „Meditsiinitehnika“. Hooldustellimuse alusel teostatud töö puhul märgib müüja arvele ostja poolt väljastatud hooldustellimuse numbri. Hankelepingus kokku lepitud hoolduse puhul peab olema arvele märgitud periood, mille eest arve esitatakse.
+	•	Müüja spetsialisti tööaega arvestatakse 15-minutilise täpsusega. Müüja spetsialisti poolt teenuse osutamiseks kulunud ajana arvestatakse vahetult meditsiiniseadme hooldamisele või remondile kulunud aega. 
+	•	Garantiiajal rakendatakse töötasu ainult ostja süül tekkinud rikete kõrvaldamisel. 
+	•	Väljakutsetasu katab kõik müüja spetsialisti kohaletulemisega seotud kulud (transport, parkimine jne). Väljakutsetasu ei rakendata juhul, kui hooldustellimuse sisuks on hooldustarviku, varuosa vms ostmine ilma müüjapoolse paigalduseta.
+	•	
+	•	Kauba eest tasumine
+	•	Kauba eest tasumine toimub müüja poolt esitatud arve alusel pärast ostja poolt tellitud kauba tarne teostamist vastavalt raamlepingus ning hankelepingus sätestatud tingimustele. Kauba eest arve esitamisel esitab müüja ostjale arve ainult lepingupoolte vahel sõlmitud hankelepingu alusel tarnitud kauba kohta, mitte teiste võimalike lepingute alusel või lepinguväliselt tarnitud kaupade kohta. Arvelt peab olema selgesti arusaadav, millise kauba eest on arve esitatud. Arvele peab olema märgitud kontaktina laotalitus või raamlepingu lisas 4 nimetatud kontaktisik. Hooldustellimuse alusel tarnitud kauba puhul märgib müüja arvele ostja poolt väljastatud hooldustellimuse numbri.  
+	•	Kauba eest esitatava e-arve väljadel peavad olema täidetud kõik juhendis „E-arve formaadi kirjeldus apteegi ja lao kaupadele" nimetatud väljad. Juhend on kättesaadav ostja veebilehel https://www.regionaalhaigla.ee/.
+	•	Tasumise üldtingimused
+	•	Arvel peab olema muu hulgas kajastatud arve esitamise aluseks oleva hankelepingu number ja riigihanke viitenumber.
+	•	Arve edastatakse e-arvena Äriregistri Teabesüsteemis ostja osas fikseeritud e-arve vastuvõtjale ning e-arve peab vastama ametlikule standardile EVS 923:2014/AC:2017 või muule õigusaktidega kehtestatud standardile. 
+	•	Juhul, kui müüja ei ole Eesti Vabariigi resident ning tal puudub e-arve esitamise valmidus, esitab müüja lepingutingimustele vastava arve e-posti aadressile invoice@regionaalhaigla.ee. 
+	•	Arvete juurde kuuluvad lisadokumendid (nt aktid ja visiidiaruanded) edastab müüja aadressile mtarved@regionaalhaigla.ee, kui raamlepingu lisas 4 ei ole märgitud teisiti, märkides saadetava e-kirja pealkirjas dokumentidega seotud arve numbri. 
+	•	Kui raamlepingu kehtivuse perioodil väheneb kauba, hoolduse või seadme hind, on müüjal õigus esitada ostjale arve, milles märgitud kauba, hoolduse või seadme hind on soodsam kui müüja poolt pakkumuses esitatud hinnad. 
+	•	Arvele märgitud arve koostamise kuupäev ning arve ostjale edastamise kuupäev võivad maksimaalselt erineda kuni 2 kalendripäeva. 
+	•	Kui ostjale müüja poolt edastatud arve ei vasta raamlepingus kirjeldatud nõuetele, on ostjal õigus arve müüjale tagastada ja nõuda nõuetekohase arve esitamist. 
+	•	Arve maksetähtaeg hakkab kulgema hetkest, mil ostja on saanud raamlepingus kirjeldatud nõuetele vastava arve.
+	•	Hankelepingu alusel esitatud arve kohustub ostja tasuma 30 kalendripäeva jooksul arve saamisest.
+	•	
+	•	Seadme tarnimine, paigaldamine, koolitus, üleandmine ja kasutuselevõtmine ning garantii
+	•	Seadme tarnimine
+	•	Tarneklausel – DDP (Incoterms 2020). 
+	•	Müüja kooskõlastab ostjaga seadme tarnimise plaani, mis sisaldab seadme (sh selle komponentide) saabumise kuupäeva ja orienteeruvat kellaaega, logistilisi lahendusi (mahalaadimise koht, aeg ja viis), seadme transpordi viisi ja aega mahalaadimise kohast ostja poolt määratud seadme lõplikku asukohta ning seadme ja selle komponentide paigaldamise ajagraafikut.
+	•	Seade peab olema tarnitud komplektsuses, mis tagab seadme ühildumise ostja poolt kirjeldatud võrkude ja seadmetega ning selle häireteta töö ostja poolt määratud seadme lõplikus asukohas (arvesse tuleb võtta nt vee puhtus, elektrivoolu parameetrid, õhuniiskus, temperatuur jne).
+	•	Müüja utiliseerib omal kulul kõik seadme juurde kuuluvad pakendid 2 tööpäeva jooksul ostja poolt vastavasisulise teate müüjale edastamisest.
+	•	
+	•	Seadme paigaldamine
+	•	Ostja ei taga müüjale seadme ladustamiseks muid pindasid peale seadme paigaldamiseks ette nähtud pindade.
+	•	Seadme transport ja paigaldamine ei tohi halvendada olemasolevate ruumide ja insenervõrkude olukorda. 
+	•	Kui seadme transpordi või paigaldamise käigus halveneb olemasolevate ruumide ja/või insenervõrkude olukord, kohustub müüja esialgse ruumide ja insenervõrkude olukorra taastama oma kulul viisil, mis välistaks kolmanda isiku poolt ostjale teostatud tööle antud garantii katkemise või tingimuste halvenemise vastavale tööle garantii andnud kolmanda isiku poolt. Müüja poolt põhjustatud eelnimetatud garantii katkemise ja/või tingimuste halvenemise korral kohustub müüja ostjale hüvitama kõik sellega seonduva kahju.
+	•	
+	•	Seadme koolitus
+	•	Müüja tagab seadme kasutajatele väljaõppe ulatuses, mis kindlustab seadme ohutu ja nõuetekohase kasutamise vastavalt hetkel kehtiva hea meditsiinipraktika tavadele. Koolituse ajagraafiku kooskõlastab müüja eelnevalt kirjalikult ostja esindajaga.
+	•	Seadme kasutamise väljaõpe viiakse läbi tootja või sellega võrdsustatud koolitusprogrammi alusel. Koolituse tulemusena oskab kasutaja kasutada kõiki seadme funktsioone ning mõistab seadme erinevate tööparameetrite mõju seadme tööst tekkivale lõppresultaadile.
+	•	Kui selgub, et kokku lepitud koolituse toimumise ajal ei ole seade töökorras, mistõttu on koolituse läbiviimine häiritud, lepivad lepingupooled kokku uue koolituse toimumise aja ning kõik sellega seonduvad kulutused kannab müüja.
+	•	Koolituse peab läbi viima vastava väljaõppe saanud müüja rakendusspetsialist. Ostjal on õigus müüjalt igal ajal nõuda tootja poolt väljastatud sertifikaati vmt dokumenti, mis kinnitab, et müüja poolt seadme kasutamise väljaõpet läbiviiv isik on pädev sellist väljaõpet läbi viima. 
+	•	Müüja tagab vähemalt kahele ostja meditsiinitehnika insenerile seadme remondi ja hooldusega seotud ülevaatliku tutvustuse, mis tagab võimaluse teostada kohapealset esmast diagnostikat ning vajadusel lihtsamaid remonttöid.
+	•	
+	•	Seadme üleandmine ja kasutuselevõtmine
+	•	Üleandmisel peab seade olema töökorras ja kasutusvalmis. Seade antakse üle müüja poolt paigaldatult pärast lepingus ette nähtud kasutajakoolituse läbiviimist ning pärast ostja ja müüja esindajate poolt ühiselt seadme töökorras oleku kontrollimist. 
+	•	Koos seadmega antakse ostjale seadme ingliskeelne kasutusjuhend, mis käsitleb kõiki seadme tööprotsesse, ekspluatatsioonieeskiri, hooldusjuhendid koos hooldusplaanidega ning muud olulised dokumendid (sh eestikeelne kasutusjuhend seadme ohutuks ja nõuetekohaseks käsitsemiseks). 
+	•	Müüja annab ostjale üle täies mahus seadme hoolduse ja remondiga seotud dokumentatsiooni (sh ingliskeelse service manual-i) ja tarkvara koos kasutamise võimalusega ning loob ostja esindajale müüja spetsialistiga samaväärse juurdepääsu seadmele (nt annab ostja esindajale vajalikud paroolid vmt).
+	•	Pärast hankelepingus määratud seadme tarnimise, paigaldamise, koolituse ja üleandmisega seotud kohustuste täitmist vormistab ostja seadme akti ostja vormil. Akti allkirjastab müüja esindaja ning ostja nimel raamlepingu lisas 4 nimetatud ostja kontaktisik. Akti allkirjastamisega kinnitab müüja, et seade on tarnitud, paigaldatud, töökorras ning vajalik(ud) koolitus(ed) on läbi viidud nõuetekohaselt.
+	•	
+	•	Seadme garantii
+	•	Seadme garantiiaega arvestatakse seadme aktil nimetatud kuupäevast.
+	•	Garantiiajal kohustub müüja oma kulul tagama seadme täishoolduse, mis sisaldab seadme tootja poolt ette nähtud korralist hooldust vastavalt raamlepingu lisale 2 ning vastavuses seadme tootja sätestatud tehniliste tingimustega (sh kõik hooldustarvikud ja varuosad), rikete kõrvaldamiseks teostatavaid remonttöid (sh kõik varuosad), vajadusel kasutaja konsultatsioone ja seadme ümberkonfigureerimist, tootja poolt välja antud seadme tarkvara uuendusi ja nende paigaldamist.
+	•	Garantiiaeg lõpeb ja müüja vabaneb vastutusest, kui seadme garantiitööd on ostja tellimuse alusel läbi viinud müüja kooskõlastuseta kolmandad isikud. Garantiiaeg ei lõpe ning müüja ei vabane vastutusest juhul, kui müüja ei teosta garantiitöid hankelepingus ettenähtud tähtaja jooksul ning ostjal on müüja tegevusetusest tulenevalt vajadus tellida vastav teenus kolmandatelt isikutelt. Nimetatud juhtumi korral kohustub müüja ostjale hüvitama kõikvõimalikud müüjapoolse viivitusega seoses tekkinud kulud.
+	•	
+	•	Kauba tarnimine, üleandmine, koolitus ja müügigarantii
+	•	Kauba tarnimine ja üleandmine
+	•	Kui müüja on kauba tarnimisega viivituses enam kui 5 tööpäeva, on ostjal õigus osta samalaadset kaupa (asenduskaup) kolmandatelt isikutelt.
+	•	Tarneklausel – DDP (Incoterms 2020).
+	•	Kaup antakse üle markeeritult, pakendatult ja saatedokumendiga. 
+	•	Ostja nõudmisel komplekteerib müüja kauba struktuuriüksuste kaupa eraldi saadetistena.
+	•	Kauba pakend peab olema terve, vastama pakendiseaduse nõuetele ning ei tohi kanda eksitavat informatsiooni.
+	•	Saatedokumendil peab olema märgitud iga selle saatedokumendiga tarnitava kaubaliigi nimetus ja kaubakood, tüüp/seeria, tootja ja kogus. 
+	•	Kauba tarnimisel kohustub müüja ostjale üle andma kõik kauba juurde kuuluvad olulised dokumendid, sertifikaadid jmt.
+	•	Kui kaubal on kindlaksmääratud säilivustähtaeg, peab kauba üleandmisel kauba säilivustähtajast olema järel vähemalt 50%, kui RHAD-is ei ole teisiti sätestatud. Kui kauba säilivustähtaeg on vähem kui 4 kuud, siis peab kauba üleandmisel kauba säilivustähtajast olema järel vähemalt 75%. 
+	•	Tellitud kauba ja saatelehel olevate kauba vastavuse kontrollimiseks on kauba vastuvõtjal õigus nõuda dokumenti, mille alusel tarne teostati. 
+	•	Kaup antakse üle saatedokumendi allkirjastamisega ostja ja müüja esindajate poolt.  
+	•	Ostjal on ka pärast kauba vastuvõtmist õigus esitada pretensioone tarnitud kauba nõuetekohasuse osas ja keelduda kauba eest esitatud arve tasumisest, kui kauba vastuvõtmisel ei olnud võimalik tuvastada kauba mittenõuetekohasust (nt kinnine pakend). 
+	•	Ostja esitab üksikud ostutellimused, lähtudes ostja vajadustest ja müüjaga varem kokku lepitud tarnegraafikutest. Tellimused edastatakse üldjuhul müüjale e-posti teel või elektroonse andmeedastuse (EDI) kaudu. 
+	•	Pärast raamlepingu jõustumist teeb müüja raamlepingu lisas 4 toodud ostja kontaktisikule ettepaneku tarnegraafikuks, näidates graafikus, millisel päeval alates tellimuse esitamisest jõuab kaup ostjani. Ostja esitab omapoolselt sobiva kellaaja, millal toimub kauba vastuvõtt müüjalt. Muudatusi tarnegraafikus võib müüja teha vaid ostjaga kooskõlastatult. Ostja võib muuta tarnegraafikuid, teavitades sellest müüjat 30 kalendripäeva ette.  
+	•	Ostja võtab kaupa vastu esmaspäevast reedeni kell 8.00 kuni 15.00. 
+	•	Kaup tarnitakse vastavalt ostja esitatud tellimustele, korrektselt pakendatult ja markeeritult ning varustatult kõigi asjakohaste saatedokumentidega. Kaubasaadetisega peavad olema kaasas saatedokumendid, mis sisaldavad vähemalt kauba saatja nimetust, toote nimetust, kogust, identifitseerimiseks vajalikke markeeringuid, säilitamise tingimusi, viiteid asjakohastele standarditele ja sertifikaatidele. Samuti peab saatedokumentides olema viide ostja ostutellimus(t)ele ja tarnitavate pakkeüksuste arv (transpordiüksustena). 
+	•	Kaup peab olema pakendatud viisil, mis tagab kauba nõuetekohase säilimise ja kaitseb kaupa piisavalt väliste mõjutuste eest. Müüja tagab kauba purunemise korral tekkiva võimaliku keskkonna saastamise keskkonna puhtuse taastamise. Kulud, mis kaasnevad keskkonnakahjulike pakendite utiliseerimisega, kannab müüja. 
+	•	Kauba markeering peab võimaldama kauba identifitseerimist ja vastavust saatedokumentidele, ostja ostutellimusele või tellimuse teinud töötajale. Samuti peab olema markeeringus kajastatud, mitmes pakkeüksus konkreetne pakend on (saadetises olevatest pakkeüksuste koguarvust) ning viide ohtlikule ja/või kergesti purunevale kaubale ja muule olulisele kauba käitlemist puudutavale infole. 
+	•	Müüja on kohustatud tagama tarnitava kauba kvaliteedi ning tarnete korrektsuse koguseliselt ja ajaliselt vastavalt esitatud üksiktellimustele. 
+	•	Kauba vastuvõtul kontrollitakse kauba pakkeüksuste arvu ja arvu vastavust saatedokumentidele. Puudulike saatedokumentide, markeeringute, pakendite või tarnegraafikust mitte kinni pidamise korral on ostjal õigus kauba vastuvõtmisest keelduda. 
+	•	Raamlepingu üldtingimuste punktides 7.1.13. kuni 7.1.19. nimetatud nõuetest kõrvalekaldumise korral on ostjal õigus keelduda kauba vastuvõtmisest ning müüja on kohustatud kandma kõik kulud ja/või kahju, mis võivad kaasneda ostjapoolse täiendava kaubakäitluse või müüjapoolse tingimuste mittetäitmisega.
+	•	
+	•	Kauba koolitus
+	•	Kui riigihange nägi ette ostja töötajate koolitamise kauba kasutamiseks, kohustub müüja tagama raamlepingu alusel müüdava kauba osas väljaõppe, mis võimaldab kauba nõuetekohast kasutamist ja sellega seotud uute töömeetodite omandamist.
+	•	Müüja kohustub kasutajakoolituse läbi viima 2 nädala jooksul ostja poolt koolituse saamise soovist teatamisest, kooskõlastades eelnevalt täpse koolituse ajakava raamlepingu lisas 4 nimetatud ostja kontaktisikuga, kui RHAD tehnilises kirjelduses ei ole sätestatud teisiti. 
+	•	Kauba kasutamise koolitus viiakse läbi tootja või sellega võrdsustatud koolitusprogrammi alusel ning peab erikokkuleppe puudumisel toimuma eesti keeles.
+	•	Ostjal on õigus müüjalt igal ajal nõuda tootja poolt väljastatud sertifikaati vmt dokumenti, mis kinnitab, et müüja poolt kauba kasutamise koolitamist läbiviiv isik on pädev sellist koolitust läbi viima.  
+	•	
+	•	Kauba müügigarantii
+	•	Müüja kohustub tagama, et kaup vastab õigusaktides ja RHAD-is nõutule ning pakkumuses lubatule, on kvaliteetne ning müüja parimate teadmiste kohaselt sobib ostjale kasutamiseks.
+	•	Müüja annab kaubale garantii kauba säilivustähtaja lõpuni, kui kaubal on kindlaksmääratud säilivustähtaeg. 
+	•	Mehaanilise vigastusega ja muul moel kõlbmatu kauba vahetab müüja oma kulul ringi 5 tööpäeva jooksul ostjalt vastava teate saamisest.
+	•	
+	•	Hooldus- ja remonttöödele kehtivad tingimused
+	•	Garantiiajal ja hooldusperioodil kehtivad tingimused
+	•	Müüja  kohustub raamlepingu lisas 4 nimetatud hoolduse tellimise volitusega ostja kontaktisikuga kirjalikult kooskõlastama vastavalt raamlepingu lisale 2 planeeritava korralise hoolduse aja vähemalt 2 nädalat enne planeeritud hoolduse teostamist.  
+	•	Vastavalt hankelepingus määratud hoolduse tüübile kehtivad hooldusperioodil tingimused, mis on määratud raamlepingu üldtingimuste p-s 8.2. (korralise hoolduse korral) või raamlepingu üldtingimuste p-s 8.3. (täishoolduse korral). 
+	•	
+	•	Hooldusperioodil kehtivad tingimused – korraline hooldus
+	•	Hooldusperioodil kohustub müüja seadme hoolduse hinna raames tagama seadme korralise hoolduse vastavalt raamlepingu lisale 2 ning vastavuses seadme tootja sätestatud tehniliste tingimustega (sh kõik korraliseks hoolduseks vajalikud hooldustarvikud ja varuosad), vajadusel kasutaja konsultatsioone ja seadme ümberkonfigureerimist, tootja poolt välja antud seadme tarkvara uuendusi ja nende paigaldamist.
+	•	Hooldusperioodil tekkinud seadme rikke korral kohustub müüja pärast seadme esialgse diagnostika teostamist edastama ostjale vastavate remonttööde hinnapakkumise 2 tööpäeva jooksul. Ostja poolt remonttööde hinnapakkumise aktsepteerimisele kuluvat aega ei arvestata seadme seisaku aja sisse.
+	•	
+	•	Hooldusperioodil kehtivad tingimused – täishooldus
+	•	Hooldusperioodil kohustub müüja seadme hoolduse hinna raames tagama seadme täishoolduse, mis sisaldab seadme tootja poolt ette nähtud korralist hooldust vastavalt raamlepingu lisale 2 ning vastavuses seadme tootja sätestatud tehniliste tingimustega (sh kõik hooldustarvikud ja varuosad), rikete kõrvaldamiseks teostatavaid remonttöid (sh kõik varuosad, kui raamlepingu lisas 2 ei ole välja toodud erisusi), vajadusel kasutaja konsultatsioone ja seadme ümberkonfigureerimist, tootja poolt välja antud seadme tarkvara uuendusi ja nende paigaldamist.
+	•	Hooldusperioodil rakendatakse töötasu ainult ostja süül tekkinud rikete kõrvaldamisel.
+	•	
+	•	Garantiiajal, hooldusperioodil ja tehnilise toe perioodil kehtivad tingimused
+	•	Müüja kohustub teostama seadme hooldus- ja remonttöid ning varuosade tarnet vastavalt raamlepingu lisale 5.
+	•	Seadme rikke korral kohustub alustama müüja spetsialist seadme rikke põhjuse välja selgitamist raamlepingu eritingimustes määratud reaktsiooniaja jooksul pärast väljakutse edastamist ostja poolt.
+	•	Seade loetakse töökorras ja kasutusvalmis olevaks, kui kõik selle funktsioonid toimivad laitmatult.
+	•	Seade loetakse töökorras ning kasutusvalmiduses olevaks ka perioodil, mil müüja tagab ostjale seadme tehnilise vmt rikke korral hankelepingu objektiga samaväärse töökorras asendusseadme. Asendusseadme tarnimisel lähtub müüja raamlepingus seadme tarnimisega seotud punktides sätestatust.
+	•	Kui müüja kinnitab, et ta on seadme tehnilise rikke kõrvaldanud ning vähem kui 24 tunni jooksul on seadmel taas tuvastatud samasisuline tehniline ja/või müüja poolt põhjustatud muu rike, mille tõttu ei saa seadet sihtotstarbeliselt kasutada või seadme kasutamine on raskendatud, kuna kõik selle funktsioonid ei tööta laitmatult, siis on ostjal õigus arvestada, et seade ei olnud töökorras ning kasutusvalmiduses terve päeva jooksul, s.o 24 tundi.
+	•	Müüja annab tehtud tööle ja vahetatud või tarnitud varuosadele garantii vähemalt 6 kuud alates töö tegemise ja/või varuosa vahetamise või tarnimise kuupäevast. Kui varuosa osutub defektseks varuosa garantiiaja jooksul, kohustub müüja vahetama varuosa ilma sellekohast arvet esitamata 5 kalendripäeva jooksul talle vastava teate esitamisest ostja poolt. Defektne varuosa kuulub garantiivahetuse korral müüjale. Varuosade vahetamine seadme garantiiaja jooksul ei lühenda seadme garantiiajast tulenevat garantiid vahetatud varuosadele.
+	•	Müüja kohustub vormistama kõik hankelepingu järgselt teostatud garantii-, hooldus- ja remonttööd kirjalikult ostja kehtestatud nõuete kohaselt. 
+	•	Ostjal on õigus kontrollida müüja tööde kvaliteeti vastavalt tootja ettekirjutustele seadme tehnilises passis.
+	•	Ostja informeerib mittekvaliteetselt hooldatud ja/või remonditud seadme avastamisel sellest müüjat.
+	•	Ostja võimaldab müüjale juurdepääsu seadmele vastavalt hoolduse teostamiseks ettenähtud ajale ja/või remonditellimusele ning tagab seadme hoolduseks/remondiks ettevalmistamise vastavalt müüjaga eelnevalt kokkulepitud tingimustele.
+	•	Müüja kohustub tarnima ostjale seadme tööks vajalikke tagavaraosi 14 kalendripäeva jooksul ostja poolt müüjale vastava teate edastamisest.
+	•	
+	•	Muud tingimused
+	•	Müüja kohustub raamlepingu lisas 4 nimetatud ostja kontaktisikule lepingulistes küsimustes viivitamatult teatama kõigist raamlepingu ja/või hankelepingu täitmist ohustavatest ja/või ohustada võivatest asjaoludest (sh võimalikest tarneraskustest). Nimetatud kohustuse täitmine ei vabasta müüjat leppetrahvi tasumise ja/või kahjuhüvitise tasumise kohustusest. 
+	•	Müüja tagab raamlepingu täitmiseks vajalike õiguslike eelduste (sh kehtivate tegevuslubade, registreeringute, müügilubade, sertifikaatide jms) olemasolu kogu raamlepingu ning hankelepingute kehtivuse perioodil.
+	•	Müüja teavitab meditsiiniseadme ohujuhtumist ja ohujuhtumi kahtlusest ning muudest seadme ohutuse ja turvalisusega (sh küberturbega) seotud asjaoludest 24 tunni jooksul nendest teadasaamisest ostja meditsiinitehnika teenistust e-posti aadressil medtehrike@regionaalhaigla.ee.
+	•	Müüjal on õigus saada ostjalt ostja kasutuses olevat raamlepingu ning selle alusel sõlmitavate hankelepingute täitmiseks vajalikku infot.
+	•	
+	•	Konfidentsiaalsus
+	•	Info, mida lepingupooled raamlepingu täitmise käigus teiselt lepingupoolelt saavad, sh andmed teise lepingupoole kohta, ei kuulu avaldamisele kolmandatele isikutele ilma teise lepingupoole eelneva kirjaliku nõusolekuta, v.a kui avaldamine on õigusaktide kohaselt lepingupoolele kohustuslik (edaspidi konfidentsiaalsuskohustus). 
+	•	Müüja vastutab kõigi oma töötajate, alltöövõtjate ja koostööpartnerite poolse konfidentsiaalsuskohustuse täitmise eest.
+	•	Lepingus mõistavad lepingupooled konfidentsiaalsete andmete all muu hulgas, kuid mitte ainult:
+	•	mistahes andmeid Regionaalhaigla gruppi kuuluvate haiglate (grupi moodustavad SA Põhja-Eesti Regionaalhaigla, SA Läänemaa Haigla, SA Raplamaa Haigla ning SA Hiiumaa Haigla) patsientide kohta (sh patsientide isikuandmeid ja eriliiki isikuandmeid – s.o andmeid nende terviseseisundi, neile osutatud või vajalike teenuste jmt kohta);
+	•	Regionaalhaigla gruppi kuuluvate haiglate  töötajate isikuandmeid ja andmeid nende töötasu kohta;
+	•	andmeid Regionaalhaigla gruppi kuuluvate haiglate struktuuriüksuste kulude, tulude, kasumi ja eelarve kohta;
+	•	Regionaalhaigla gruppi kuuluvate haiglate infosüsteemides olevat informatsiooni ja/või andmeid ja/või dokumente;
+	•	muid andmeid, mis ei ole mõeldud avalikuks kasutamiseks ning mille avalikustamine kahjustab või võib Regionaalhaigla gruppi kuuluvate haiglate huve kahjustada.
+	•	Konfidentsiaalse informatsiooni väljastamisel ja/või juurdepääsu võimaldamisel kolmandatele isikutele eelistatakse informatsiooni andmist väljavõttena. Enne mistahes konfidentsiaalsete andmete väljastamist ja/või juurdepääsu võimaldamist kolmandatele isikutele kohustub müüja saama kirjalikus vormis kinnituse raamlepingu lisas 4 nimetatud ostja kontaktisikult lepingulistes küsimustes, et kolmandatele isikutele võib konfidentsiaalseid andmeid edastada ja/või nendele juurdepääsu võimaldada. 
+	•	Ostjal on pärast raamlepingu ja/või hankelepingu(te) lõppemist õigus nõuda müüjalt temale raamlepingu ja/või hankelepingu(te) täitmiseks üle antud dokumentide ja informatsiooni tagastamist ja/või nende hävitamist/kustutamist. Müüja kohustub nimetatud nõude täitma 5 tööpäeva jooksul pärast vastavasisulise nõude saamist ostjalt. Müüja kohustub ostja nõudmisel esitama vastavad adekvaatsed tõendid dokumentide ja/või informatsiooni hävitamise ja/või kustutamise kohta.
+	•	Konfidentsiaalsuskohustus kehtib nii lepingu kehtivuse ajal kui ka pärast seda 10 aastat. Lepingu täitmise käigus lepingupoolele teatavaks saanud (sh eriliiki) isikuandmete osas kehtib konfidentsiaalsuskohustus tähtajatult.
+	•	
+	•	Vastutus
+	•	Kui seadme tarnimise hilinemine on põhjustatud müüja poolsest viivitusest, on ostjal õigus nõuda müüjalt iga seadme tarnetähtaega ületava kalendripäeva eest leppetrahvi 1% seadme müügihinnast, kuid kokku mitte rohkem kui 25% seadme müügihinnast.  
+	•	Iga kauba ja/või varuosa tarnega hilinetud kalendripäeva eest on ostjal õigus nõuda müüjalt leppetrahvi 1% tellitud kauba või varuosa müügihinnast, kuid kokku mitte rohkem kui 25% tellitud kauba või varuosa müügihinnast. 
+	•	Seadme hooldus- ja remonttööde reageerimisaja rikkumisest tulenevad leppetrahvid on määratud raamlepingu eritingimustes.
+	•	Kui müüja rikub üldtingimuste p-s 10.3.1.-10.3.5. kirjeldatud andmete osas konfidentsiaalsuskohustust, on ostjal õigus nõuda müüjalt leppetrahvi 3000 eurot iga rikkumise korral.
+	•	Muude, raamlepingu üldtingimustes ning eritingimustes nimetamata, kuid raamlepingus ja/või hankelepingus ja/või mujal RHAD-is sätestatud kohustuste rikkumise eest on ostjal õigus nõuda müüjalt leppetrahvi 200 eurot iga rikkumise eest või kui rikkumine on seotud tähtaja ületamisega, siis 50 eurot iga tähtaega ületava kalendripäeva eest.
+	•	Leppetrahvi tasumine müüja poolt ei vabasta müüjat raamlepingus ning hankelepingus sätestatud kohustuste täitmisest. Leppetrahv on kokku lepitud kohustuse rikkumise vältimiseks ja kohustuse täitmise tagamiseks, mitte kohustuse täitmise asendamiseks. Ostjal on õigus müüjalt täiendavalt nõuda raamlepingu ja/või hankelepingu rikkumise tulemusena tekkinud kahju hüvitamist osas, mida leppetrahv ei kata.
+	•	Ostjal on õigus raamlepingu ja/või hankelepingu alusel nõutav leppetrahv ning kahjuhüvitis nõue tasaarvestada raamlepingu ning selle alusel sõlmitavate hankelepingute ja/või lepingupoolte vahel sõlmitud muude kehtivate lepingute alusel tasumisele kuuluvatest summadest, kui ostja on leppetrahvi ja/või kahjuhüvitise nõude suurusest ja alusest müüjat teavitanud ning müüja ei ole sellele 5 tööpäeva jooksul esitanud põhjendatud, tegelikkusele vastavat ja leppetrahvi ja/või kahjuhüvitise nõuet välistavat vastuväidet. Vastuväide võib tugineda ainult vääramatu jõu või ostja poolse viivituse asjaolule. 
+	•	Kui müüja ei pea kinni kauba tarneajast ja viivitab kauba üleandmisega rohkem kui 5 tööpäeva, on ostjal õigus nõuda müüjalt kahju (nt hinnavahe, transport) hüvitamist, mis on tingitud samalaadse kauba ostmisest kolmandatelt isikutelt. 
+	•	Lepingu alusel esitatava arve tasumisega viivitamisel on müüjal õigus nõuda ostjalt viivist 0,1% tähtajaks tasumata summalt iga tasumisega viivitatud kalendripäeva eest.
+	•	
+	•	Raamlepingu ning hankelepingu muutmine ja lõpetamine
+	•	Kui raamlepingu osapoolteks on Regionaalhaigla ning müüja, siis toimub raamlepingu ning selle alusel sõlmitavate hankelepingute muutmine Regionaalhaigla ning müüja kirjalikul kokkuleppel. Selline kokkulepe on raamlepingu ja/või hankelepingu lahutamatu lisa.
+	•	Kui raamlepingu osapoolteks on Regionaalhaigla gruppi kuuluvad haiglad ning müüja, siis on raamlepingut  õigus muuta kõigil lepingupooltel ühiselt ning  hankelepinguid võib muuta iga ostja iseseisvalt kokkuleppel müüjaga. 
+	•	Lepingupool võib raamlepingust ja/või hankelepingust taganeda või need erakorraliselt üles öelda, kui teine lepingupool on olulisel määral rikkunud oma lepingujärgseid kohustusi või on need jätnud olulisel määral täitmata ning ei ole oma lepingulist kohustust täitnud 5 tööpäeva jooksul alates raamlepingu ja/või hankelepingu ennetähtaegse lõpetamise hoiatusteate saamisest. 
+	•	Ostjal on õigus raamlepingust ja/või hankelepingust taganeda ja/või raamleping ja/või hankeleping täielikult või osaliselt üles öelda muu hulgas juhtudel, kui:
+	•	seade ja/või hooldus ja/või kaup kas täielikult või osaliselt ei täida raamlepingu eesmärki ja/või tarnitava seadme ja/või kauba omadused muutuvad raamlepingu ja/või hankelepingu täitmise kestel; 
+	•	seadme ja/või kauba ja/või hoolduse hind väheneb üldtingimuste p-s 5.5.5. nimetatud alusel kauba ja/või seadme ja/hoolduse tellimise perioodil vähemalt 10% võrreldes müüja pakkumusega ning ostjale muutub raamlepingu ja/või hankelepingu täitmise jätkamine seetõttu ebaotstarbekaks;
+	•	müüja rikub korruptsioonivastaseid õigusakte ja/või riigihanke korral RHAD-is ettenähtud korruptsioonivastaseid meetmeid, kui need on RHAD-is ette nähtud. Nimetatud olukorra realiseerumisel võib ostja raamlepingu ja/või hankelepingu(d) erakorraliselt ilma ette teatamata üles öelda. 
+	•	Hankelepingust taganemise korral kohustub müüja tagastatava seadme ja/või kauba ostja ruumidest ära viima 5 tööpäeva jooksul alates hankelepingu lõpetamise avalduse saamisest.
+	•	
+	•	Lõppsätted
+	•	Lepingus reguleerimata küsimustes lähtuvad lepingupooled õigusaktides sätestatust.
+	•	Lepingupool ei tohi raamlepingust ja/või hankelepingust tulenevaid kohustusi üle anda kolmandatele isikutele teis(t)e lepingupoo(t)le kirjaliku nõusolekuta.
+	•	Lepingupooled teavitavad kontaktisikute ja -andmete muudatusest teist lepingupoolt kirjalikku taasesitamist võimaldavas vormis vähemalt 5 tööpäeva ette enne vastava muudatuse jõustumist ning selle kohta ei sõlmita eraldi raamlepingu lisa.
+	•	Lepinguga seotud teade loetakse kättetoimetatuks, kui teade on saadetud e-postiga, üle antud allkirja vastu või saadetud tähitud kirjaga ja postitamisest on möödunud 3 tööpäeva.
+	•	Lepingu täitmise käigus ette tulevad erimeelsused lahendatakse lepingupoolte vahel läbirääkimiste teel. Juhul, kui läbirääkimistel ei saavutata üksmeelt, lahendatakse erimeelsused ostja peamise tegevuskoha järgses kohtus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meditsiiniseadmete riigihanke raamlepingu lisa 7a, meditsiiniseadmete ja/või nende hoolduse hankeleping
+Hankeleping nr 1.2-1_/___ -
+
+*Vali lepingusse vastavalt allkirjastamise viisile (digitaalselt või paberkandjal): 
+Leping on sõlmitud ____ __________ 20___. a. või /kuupäev digitaalallkirjas/
+
+SA Põhja-Eesti Regionaalhaigla (edaspidi ostja), mida esindab volikirja alusel ________, ja ________ (edaspidi müüja), mida esindab põhikirja/volikirja  alusel ________ ________, edaspidi nimetatuna ka lepingupool või koos lepingupooled, sõlmisid hankelepingu (edaspidi leping) alljärgnevas:
+
+	•	Lepingu objekt
+	•	Lepingu objektiks on riigihanke __________ viitenumbriga ______ (edaspidi riigihange) tulemusena sõlmitud raamlepingu nr 1.2-13/________ (edaspidi raamleping) alusel seadme (edaspidi seade või seadmed) tarnimine ja hoolduse (edaspidi hooldus) ning remondi  teostamine.
+	•	Lepingu täitmine peab vastama eelkõige RHAD-is sätestatud tingimustele ja seejärel müüja poolt esitatud pakkumusele.
+	•	Seadme hooldusperiood / puudub / on ___ kuud/aastat alates seadme garantiiaja lõppemisest. 
+
+	•	Lepingu dokumendid
+	•	Lepingu dokumendid moodustuvad raamlepingust, raamlepingu lisadest 1, 2, 4, 5 ja 6 ning alltoodud lepingu lisadest:
+	•	Lisa 1 – Seadmete loetelu, hind ja tarnimise asukohad / puudub /;
+	•	Lisa 2 – Teostatavate hooldustööde kirjeldus ja hind / puudub /;
+	•	Lisa 3 – Seadme paigaldamise eritingimused / puudub /.
+
+	•	Lepingu hind 
+	•	Lepingu eeldatav hind on __________ eurot, millele lisandub käibemaks vastavalt kehtivatele õigusaktidele. 
+	•	Lepingu hind moodustub seadmete, hoolduse ja tehnilise toe fondi hinnast/hindadest:
+	•	Seadmete hind on toodud lepingu lisas 1 / puudub /. 
+	•	Teostatavate hooldustööde hind on toodud lepingu lisas 2 / puudub /.
+	•	Seadmete ostu korral lisandub lepingu p-s 3.2.1. nimetatud seadmete hinnale (ilma käibemaksuta) 50% tehnilise toe fond, mida ostjal on õigus kasutada seadme töövõime tagamiseks vastavalt ostja tegelikule vajadusele. 
+
+*Vali lepingusse vastavalt allkirjastamise viisile (digitaalselt või paberkandjal): 
+Leping on koostatud kahes identses võrdset juriidilist jõudu omavas eksemplaris, millest üks eksemplar jääb ostjale ja teine müüjale.
+või Leping on digitaalselt allkirjastatud.
+
+Lepingupoolte andmed
+Ostja:
+sihtasutus Põhja-Eesti Regionaalhaigla
+ Registrikood: 90006399
+J. Sütiste tee 19, 13419 Tallinn
+Tel: 617 1300
+E-post: info@regionaalhaigla.ee 
+www.regionaalhaigla.ee 
+Müüja:
+________
+Registrikood: ________
+________
+Tel: ________
+E-post: ________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lisa 1 – Seadmete loetelu, hind ja tarnimise asukohad
+
+Jrk
+Seadme nimetus
+Tootja, mudel
+Tarnimise asukoht
+Ühiku hind
+(EUR KM-ta)
+Kogus (tk)
+Hind kokku
+(EUR KM-ta)
+	•	
+
+
+
+
+
+
+	•	
+
+
+
+
+
+
+	•	
+
+
+
+
+
+
+Kokku (EUR KM-ta)
+
+
+Lisa 2 – Teostatavate hooldustööde kirjeldus ja hind
+
+Hankelepingu lisa kajastab infot hoolduse tüübi, iga seadme hooldussageduse, hoolduse hinna ja hooldustööde kirjelduse ning müüja spetsialisti töötasu kohta. Kui riigihankes on küsitud varuosade või hooldustarvikute hindu, siis on lisas toodud nende hinnakiri.
+
+Müüja spetsialisti töötasu hankelepingu kehtivuse perioodil on ___ eurot/tund, millele lisandub käibemaks. Lisaks töötasule on müüjal õigus iga Tallinnas asuva Regionaalhaigla üksuse poolt esitatud hooldustellimuse kohta ühekordselt küsida väljakutsetasu (vt raamlepingu lisa 6 p 5.3.5.) ___ eurot, millele lisandub käibemaks.
+Väljakutse korral teistesse Regionaalhaigla üksustesse või Regionaalhaigla gruppi kuuluvatesse haiglatesse kehtivad väljakutsetasud järgmiselt:
+	•	SA Raplamaa Haigla ___ eurot, millele lisandub käibemaks;
+	•	SA Läänemaa Haigla ___ eurot, millele lisandub käibemaks;
+	•	SA Hiiumaa Haigla ___ eurot, millele lisandub käibemaks.
+
+Seadmele tootja poolt ette nähtud korralise hoolduse käigus viiakse läbi järgnevad tööd / ei ole tootja poolt ette nähtud läbi viia korralist hooldust.
+Jrk
+Seadme nimetus
+Kommentaar
+Hoolduse sagedus
+Ühe seadme ühe hoolduse hind
+(EUR KM-ta)
+Ühe seadme hoolduste arv hooldus-perioodil
+Ühe seadme kogu hooldus-perioodi hoolduste hind 
+(EUR KM-ta)
+	•	
+
+
+
+
+
+
+	•	
+Hooldustööde kirjeldus:
+
+
+Hoolduseks kuluv aeg ühe seadme kohta on… .
+	•	
+
+
+
+
+
+
+	•	
+Hooldustööde kirjeldus:
+
+
+Hoolduseks kuluv aeg ühe seadme kohta on… .
+	•	
+
+
+
+
+
+
+
+Hooldustööde kirjeldus:
+
+Hoolduseks kuluv aeg ühe seadme kohta on… .
+
+Korralise hoolduse hinnas sisalduvad kõik hoolduse teostamiseks vajalikud kulud, sh müüja spetsialisti töötasu ja väljakutsetasu ning varuosad ja hooldustarvikud.
+
+Hoolduse tüüp pärast garantiiaja lõppu: 
+	•	Hankelepingus ei nähta ette hooldusperioodi kuid ostja võib tellida hooldust ja muid töid raamlepingu lisas 2 märgitud hinnaga hooldustellimuse alusel.  
+	•	Korraline hooldus (vt raamlepingu lisa 6 p 8.2.). Ostja tasub seadme korralise hoolduse eest pärast iga korralise hoolduse teostamist / alates hooldusperioodi algusest ___ kord(a) kuus / kvartalis / aastas / poolaastas iga hooldusperioodi kuu / kvartali / aasta / poolaasta lõpus. Muid töid teostatakse raamlepingu lisas 2 märgitud hinnaga ostja hooldustellimuste alusel.
+	•	Täishooldus (vt raamlepingu lisa 6 p 8.3.) Ostja tasub seadme hoolduse eest alates hooldusperioodi algusest ___ kord(a) kuus / kvartalis / aastas / poolaastas iga hooldusperioodi kuu / kvartali / aasta / poolaasta lõpus. Ühe makse suurus ühe seadme kohta on ___ eurot, millele lisandub käibemaks. Täishoolduse hinnas ei sisaldu järgmised varuosad: varuosa 1- hind € km-ta; varuosa 2- hind €-km-ta; jne 
+
+Kogu hooldusperioodi maksete summa kõigi seadmete peale kokku on ___ eurot, millele lisandub käibemaks. 
+
+Lisa 3 – Seadme paigaldamise eritingimused
+
+Meditsiiniseadmete riigihanke raamlepingu lisa 7b, RHAD-is nimetamata seadmete, teenuste ja kauba 
+ostmine
+
+Hankeleping nr 1.2-1_/___ -
+
+*Vali lepingusse vastavalt allkirjastamise viisile (digitaalselt või paberkandjal): 
+Leping on sõlmitud ____ __________ 20___. a. või /kuupäev digitaalallkirjas/
+
+SA Põhja-Eesti Regionaalhaigla (edaspidi ostja), mida esindab volikirja alusel ________, ja ________ (edaspidi müüja), mida esindab põhikirja/volikirja  alusel ________, edaspidi nimetatuna ka lepingupool või koos lepingupooled, sõlmisid hankelepingu (edaspidi leping) alljärgnevas:
+
+	•	Lepingu objekt
+	•	Lepingu objektiks on riigihanke __________ viitenumbriga ______ (edaspidi riigihange) tulemusena sõlmitud raamlepingu nr 1.2-13/________ (edaspidi raamleping) alusel ostja poolt esitatud pakkumuse esitamise ettepanekus ja müüja poolt esitatud pakkumuses nimetatud seadmete või lisaseadmete (edaspidi seade või seadmed) tarnimine, hoolduse  ja remondi teostamine (edaspidi hooldus) ning seadme reaktiivide, tarvikutega jms (edaspidi kaup) varustamine. 
+	•	Lepingu täitmine peab vastama eelkõige RHAD-is ja pakkumuse esitamise ettepanekus sätestatud tingimustele ja seejärel müüja poolt esitatud pakkumusele.
+	•	Seadme hooldusperiood / puudub / on ___ kuud/aastat alates seadme garantiiaja lõppemisest. 
+	•	Seadme garantiiaeg / puudub / on ___ kuud/aastat alates seadme vastuvõtmisest.
+	•	Tehnilise toe periood / puudub / on ___ aastat alates seadme vastuvõtmisest. 
+	•	
+	•	Lepingu dokumendid
+	•	Lepingu dokumendid moodustuvad raamlepingust, raamlepingu lisadest 1, 2, 3, 4, 5 ja 6 ning alltoodud lepingu lisadest:
+	•	Lisa 1 – Pakkumuse esitamise ettepanek (eraldi dokument);
+	•	Lisa 2 – Pakkumus (eraldi dokument);
+	•	Lisa 3 – Seadmete loetelu, hind ja tarnimise asukohad / puudub /;
+	•	Lisa 4 – Teostatavate hooldustööde kirjeldus ja hind / puudub /;
+	•	Lisa 5 – Kauba loetelu ja hind / puudub /;
+	•	Lisa 6 – Seadme paigaldamise eritingimused / puudub /.
+	•	
+	•	Lepingu hind 
+	•	Lepingu eeldatav hind on __________ eurot, millele lisandub käibemaks vastavalt kehtivatele õigusaktidele. 
+	•	Lepingu hind moodustub seadmete, hoolduse, kauba ja  tehnilise toe fondi hinnast/hindadest:
+	•	Seadme hind on toodud lepingu lisas 3.
+	•	Hoolduse hind on toodud lepingu lisas 4.
+	•	Kauba hind on toodud lepingu lisas 5.
+	•	Seadme ostu korral lisandub lepingu p-s 3.2.1. nimetatud seadme hinnale (ilma käibemaksuta) 50% tehnilise toe fond, mida ostjal on õigus kasutada seadme remondiks ja/või erakorraliseks hoolduseks vastavalt tegelikule vajadusele. 
+
+*Vali lepingusse vastavalt allkirjastamise viisile (digitaalselt või paberkandjal): 
+Leping on koostatud kahes identses võrdset juriidilist jõudu omavas eksemplaris, millest üks eksemplar jääb ostjale ja teine müüjale.
+või 
+Leping on digitaalselt allkirjastatud.
+
+Lepingupoolte andmed
+Ostja:
+sihtasutus Põhja-Eesti Regionaalhaigla
+Registrikood: 90006399
+J. Sütiste tee 19, 13419 Tallinn
+Tel: 617 1300
+E-post: info@regionaalhaigla.ee 
+www.regionaalhaigla.ee 
+Müüja:
+________
+Registrikood: ________
+________
+Tel: ________
+E-post: ________
+
+
+Meditsiiniseadmete riigihanke raamlepingu lisa 7c, kauba hankeleping
+
+Kauba hankeleping nr 1.2-14/___ -
+
+*Vali lepingusse vastavalt allkirjastamise viisile (digitaalselt või paberkandjal): 
+Leping on sõlmitud ____ __________ 20___. a. või /kuupäev digitaalallkirjas/
+
+SA Põhja-Eesti Regionaalhaigla (edaspidi ostja), mida esindab volikirja alusel ________, ja ________ (edaspidi müüja), mida esindab põhikirja või volikirja  alusel ________, edaspidi nimetatuna ka lepingupool või koos lepingupooled, sõlmisid kauba hankelepingu (edaspidi leping) alljärgnevas:
+
+	•	Lepingu objekt
+	•	Lepingu objektiks on riigihanke __________ viitenumbriga ______ (edaspidi riigihange) tulemusena sõlmitud raamlepingu nr 1.2-13/________ (edaspidi raamleping) alusel reaktiivide, tarvikute jms (edaspidi kaup) tarnimine. 
+	•	Lepingu täitmine peab vastama eelkõige RHAD-is sätestatud tingimustele ja seejärel müüja poolt esitatud pakkumusele.
+	•	
+	•	Lepingu dokumendid
+	•	Lepingu dokumendid moodustuvad raamlepingust, raamlepingu lisadest 3, 4 ning 6 ning alltoodud lepingu lisast:
+	•	Lisa 1 - kauba loetelu ja hind.
+	•	
+	•	Lepingu hind 
+	•	Lepingu eeldatav hind on __________ eurot, millele lisandub käibemaks vastavalt kehtivatele õigusaktidele. Lepingu hind moodustub lepingu lisas 1 toodud kauba loetelust ning hinnast.
+	•	
+	•	Kauba tarne
+	•	Kauba tellimise periood on ___ kuud/aastat alates lepingu jõustumisest.
+	•	Kauba üleandmise koht on ostja ________ korpuse ________ osakond/keskus aadressil J. Sütiste tee 19, 13419 Tallinn, või Punane tänav 73, 13619 Tallinn. Ostjal on lepingu kehtivuse perioodil õigus nõuda kauba tarnet ka muudele Harju maakonnas asuvatele aadressidele. Tellimust esitav isik annab müüjale tellimust tehes teada, millisele aadressile tuleb kaup tarnida. 
+	•	Müüja tarnib ostjale kauba 5 tööpäeva jooksul ostja poolt kauba tellimuse esitamisest.
+
+*Vali lepingusse vastavalt allkirjastamise viisile (digitaalselt või paberkandjal): 
+Leping on koostatud kahes identses võrdset juriidilist jõudu omavas eksemplaris, millest üks eksemplar jääb ostjale ja teine müüjale.
+või 
+Leping on digitaalselt allkirjastatud.
+
+Lepingupoolte andmed
+Ostja:
+sihtasutus Põhja-Eesti Regionaalhaigla
+Registrikood: 90006399
+J. Sütiste tee 19, 13419 Tallinn
+Tel: 617 1300
+E-post: info@regionaalhaigla.ee 
+www.regionaalhaigla.ee 
+Müüja:
+________
+________
+Registrikood: ________
+Tel: ________
+E-post: ________
+
+
+
+

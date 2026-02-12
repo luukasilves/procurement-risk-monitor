@@ -1,0 +1,2576 @@
+=== 1767153_221508_hankepass_taiendavate_selgitustega.pdf ===
+1/19
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+Riigi ametlik teataja:
+221508
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+Tartu Vallavalitsus (75006486)
+Riik:
+Eesti
+Hankija aadress:
+Haava tn 6
+Hankija veebiaadress:
+http://www.tartuvald.ee
+E-posti aadress:
+tartuvv@tartuvv.ee
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+2/19
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Kõrveküla Põhikooli köögisisustus
+Lühikirjeldus:
+Suuköögiseadmete tarne ja paigaldus Kõrveküla Põhikoolile
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+221508
+Hanke liik:
+Asjad
+Hanke CPV-d:
+39711000-9 Elektrilised köögimasinad
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+3/19
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+4/19
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+5/19
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+6/19
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+7/19
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kelmuse eest kõige rohkem viimase viie aasta jooksul või kehtib
+süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+8/19
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Kehtib: Kogu hanke kohta
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+9/19
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Kehtib: Kogu hanke kohta
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+10/19
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+11/19
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+12/19
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+13/19
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+14/19
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+15/19
+PANKROT
+Kas ettevõtja on pankrotis?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+16/19
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: HANKIJA ASUKOHAJÄRGSE KOHALIKU MAKSU MAKSUVÕLG
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 1 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+IV OSA: KVALIFITSEERIMISTINGIMUSED
+B: Majanduslik ja finantsseisund
+ÜLDINE AASTAKÄIVE
+Ettevõtja üldine aastakäive on asjaomases teates, hankedokumentides või hankepassis nõutud
+majandusaastate jooksul järgmine:
+Viide seadusele:
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+17/19
+RHS § 100 lg 1 p 4 „andmed pakkuja või taotleja kogu majandustegevuse netokäibe kohta kuni
+viimase kolme riigihanke algamise ajaks lõppenud majandusaasta jooksul, sõltuvalt pakkuja või
+taotleja asutamise või äritegevuse alguse kuupäevast“
+Tingimuse selgitus:
+Pakkuja viimase kolme riigihanke algamise ajaks lõppenud majandusaasta netokäive peab olema
+vähemalt 150 000 eurot aastas. Ühispakkujad võivad vastavad näitajad summeerida. Andmed
+netokäibe kohta esitab pakkuja hankepassis. Edukas pakkuja esitab kolme viimase lõppenud
+majandusaasta aruande väljavõtte, millest selgub pakkuja majandusaasta netokäive (juriidilisest
+isikust Eestis registreeritud pakkuja puhul ei kohaldu, kui andmed või dokumendid on hankijale
+andmekogust avalikult ja tasuta kättesaadavad). Kui pakkuja tugineb kvalifitseerimistingimusele
+vastavuse tõendamisel teisele isikule, peab ta esitama ka selle teise isiku hankepassi.
+Kehtib: Kogu hanke kohta
+Tingimuse kirjeldus:
+Miinimumnõue: 150000
+Valuuta: EUR
+Ettevõtjalt oodatavad vastused:
+1. Ajavahemik (Periood)
+2. Käive (Summa)
+3. Valuuta (Vääring)
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÜLDINE AASTAKÄIVE
+Ettevõtja üldine aastakäive on asjaomases teates, hankedokumentides või hankepassis nõutud
+majandusaastate jooksul järgmine:
+Viide seadusele:
+RHS § 100 lg 1 p 4 „andmed pakkuja või taotleja kogu majandustegevuse netokäibe kohta kuni
+viimase kolme riigihanke algamise ajaks lõppenud majandusaasta jooksul, sõltuvalt pakkuja või
+taotleja asutamise või äritegevuse alguse kuupäevast“
+Tingimuse selgitus:
+Pakkuja viimase kolme riigihanke algamise ajaks lõppenud majandusaasta netokäive peab olema
+vähemalt 150 000 eurot aastas. Ühispakkujad võivad vastavad näitajad summeerida. Andmed
+netokäibe kohta esitab pakkuja hankepassis. Edukas pakkuja esitab kolme viimase lõppenud
+majandusaasta aruande väljavõtte, millest selgub pakkuja majandusaasta netokäive (juriidilisest
+isikust Eestis registreeritud pakkuja puhul ei kohaldu, kui andmed või dokumendid on hankijale
+andmekogust avalikult ja tasuta kättesaadavad). Kui pakkuja tugineb kvalifitseerimistingimusele
+vastavuse tõendamisel teisele isikule, peab ta esitama ka selle teise isiku hankepassi.
+Kehtib: Kogu hanke kohta
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+18/19
+Tingimuse kirjeldus:
+Miinimumnõue: 150000
+Valuuta: EUR
+Ettevõtjalt oodatavad vastused:
+1. Ajavahemik (Periood)
+2. Käive (Summa)
+3. Valuuta (Vääring)
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Tehniline ja kutsealane suutlikkus
+ASJADE HANKELEPINGUTE PUHUL: TÄPSUSTATUD LIIKI TARNETE TEOSTAMINE
+Ainult asjade riigihankelepingute puhul: Ettevõtja on arvestusperioodi jooksul kohale toimetanud
+täpsustatud liiki asjade puhul järgmised peamised tarned. Avaliku sektori hankijad võivad nõuda
+kuni kolme aasta kogemuse tõendamist ja võtta arvesse rohkem kui kolme aasta vanuseid
+kogemusi.
+Viide seadusele:
+RHS § 101 lg 1 p 2 „nimekiri hankija kindlaks määratud tunnustele vastavate asjade müügi
+lepingutest, mis on täidetud riigihanke algamisele eelneva 36 kuu jooksul, koos teabega nende
+maksumuse, kuupäevade ja teiste lepingupoolte kohta“
+RHS § 101 lg 2 „hankija võib piisava konkurentsi tagamiseks arvesse võtta andmeid rohkem kui
+36 kuu eest täidetud asjade müügi lepingute kohta“
+Tingimuse selgitus:
+Pakkuja peab olema täitnud hankemenetluse algusele eelneva 36 kuu jooksul vähemalt kaks
+suurköögi sisustuse tarne ja paigalduse lepingut, kumbki maksumusega vähemalt 55000 eurot
+(ilma käibemaksuta). Edukaks tunnistatud pakkuja esitab tingimusele vastava kinnituse täidetud
+lepingu objekti nimetuse, selle maksumuse, tellija ja tellija kontaktisiku andmetega (nimi, tel nr,
+e-mail).
+Kehtib: Kogu hanke kohta
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+19/19
+Tingimuse kirjeldus:
+Minimaalne teostatud tööde arv: 2
+Kirjeldus: Suurköögi sisustuse tarne ja paigaldus
+Ettevõtjalt oodatavad vastused:
+1. Kirjeldus (Suur sisestusala (max pikkus 4000 tähemärki))
+2. Kogusumma (Summa)
+3. Valuuta (Vääring)
+4. Ettevõtja vastutusala (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Summa (Summa)
+6. Valuuta (Vääring)
+7. Ajavahemik (Periood)
+8. Kas info on konfidentsiaalne? (Raadionupp valikutega "Jah/Ei")
+9. Tellija nimi (Sisestusväli (max pikkus 250 tähemärki))
+10. Kontaktisiku nimi (Sisestusväli (max pikkus 250 tähemärki))
+11. E-mail (Sisestusväli (max pikkus 250 tähemärki))
+12. Telefon (Sisestusväli (max pikkus 250 tähemärki))
+13. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+14. URL (Url)
+15. Kood (Sisestusväli (max pikkus 250 tähemärki))
+16. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 27.04.2020 17:59:42
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+
+=== 1767153_221508_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 221508
+Hankija:Tartu Vallavalitsus (75006486)
+Hange:Kõrveküla Põhikooli köögisisustus
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Hind Maksumus - 100 1 EUR jah
+vähim on parim
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Hind
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte proportsionaalselt vähem ja arvutatakse valemiga: "madalaim väärtus" / "pakkumuse
+väärtus" * "osakaal".
+Koostatud 24.03.2020 16:05:27 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+1767153/general-info
+
+=== 1767153_221508_vastavustingimused.pdf ===
+1/1
+VASTAVUSTINGIMUSED
+Viitenumber: 221508
+Hankija: Tartu Vallavalitsus (75006486)
+Hange: Kõrveküla Põhikooli köögisisustus
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Ühispakkuja esitab volikirja HD vorm 1
+Küsimused ettevõtjale:
+1. Kui tegemist on ühispakkumusega, kas olete pakkumuse dokumentide hulka lisanud
+ühispakkujate volikirja? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud. Pakkuja esitab hankes osalemise taotluse HD
+vorm 2
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Pakkuja esitab pakkumuse maksumuse esildise HD vorm 3
+Küsimused ettevõtjale:
+1. Kas pakkuja on täitnud pakkumuse maksumuse RHRi töölehel "Hindamiskriteeriumid ja
+hinnatavad näitajad"? (Raadionupp valikutega "Jah/Ei")
+Koostatud 27.04.2020 17:11:25
+https://riigihanked.riik.ee/rhr-web/#/procurement/1767153/general-info
+
+=== 1767153_KPKKS_HD_Lisa_1_Hankelepingu_projekt.doc ===
+Kõrveküla Põhikooli köögisisustus 							Lisa 1
+Hankelepingu projekt
+Müügileping
+/kuupäev digitaalallkirjas/
+Tartu Vallavalitsus, esindaja Jarno Laur (edaspidi “ostja”) isikus ja ................., esindaja .................. isikus (edaspidi “müüja”),
+edaspidi ka eraldi Pool või koos Pooled, sõlmisid alljärgneva lepingu (edaspidi Leping):
+Üldsätted
+
+Lepingu dokumendid koosnevad käesolevast Lepingust, Lepingu lahutamatutest osadest ja lisadest ning Lepingu muudatustest ja kokkulepetest, milles lepitakse vajadusel kokku pärast Lepingu sõlmimist.
+Hankelepingu lahutamatuteks osadeks on lihthanke „Kõrveküla Põhikooli köögisisustus“ alusdokumendid ning müüja poolt samas hankemenetluses esitatud pakkumus. Hankeleping sõlmitakse kooskõlas Eesti Vabariigis kehtivate õigusaktidega.
+Lepingu objektile rakenduvad kõik hanke alusdokumentides ja parimas pakkumuses olevad nõuded. Hankedokument ja hankemenetluses edukaks tunnistatud pakkumus on käesoleva lepingu lahutamatud osad.
+
+Lepingu jõustumine ja tähtaeg
+
+Käesolev Leping jõustub Lepingu allakirjutamise momendist.
+Käesoleva Lepingu täitmise tähtaeg on 23.10.2020.
+
+Tasu ja Müüjale tasumise kord
+
+Müüjale makstava tasu (edaspidi Tasu) suurus ilma käibemaksuta on ……… eurot, lisatav käibemaks ………. eurot ja hind koos käibemaksuga ………… eurot vastavalt Müüja poolt esitatud ja ostja poolt hankemenetluses edukaks tunnistatud pakkumusele.
+Tasu kuulub 100% maksmisele peale Lepingu objekti üleandmist-vastuvõtmist.
+Müüja esitab arve peale üleandmise-vastuvõtmisakti allkirjastamist poolte poolt.
+Arve maksetähtaeg on 14 kalendripäeva alates Müüja poolt nõuetekohase arve kättesaamisest.
+Lepinguga sätestatud maksete tasumisega viivitamisel on Müüjal õigus nõuda Ostjalt viivist 0.05% tähtaegselt tasumata summast iga viivitatud kalendripäeva eest. Võlgnevuse tasumisel loetakse esmajärjekorras tasutuks võlgnetav viivis ning seejärel tasumisele kuuluv makse.
+
+Lepingu ese
+
+Lepingu esemeks on köögisisustuse tarne ja paigaldus riigihanke „Kõrveküla Põhikooli köögisisustus“ alusdokumentides ning nende lisades toodud mahus ja tingimustel.
+
+Müüja kohustused
+
+5.1. Lisaks muudele Lepingus ja hankedokumendis sätestatud kohustustele Müüja kohustub:
+
+5.1.1. tarnima, paigaldama ja andma lepingu eseme Ostjale üle esimesel võimalusel,
+aga mitte hiljem kui käesoleva lepingu punktis 2.2 sätestatud tähtajal;
+
+5.1.2. teavitama Ostjat koheselt lepingu eseme tarnimist ja paigaldamist takistavatest asjaoludest;
+
+5.1.3. kooskõlastama vastavalt lepingu täitmise ajakavale Ostjaga aja, mil Ostja soovib lepingu eset paigaldada;
+
+5.1.4. esitama Ostjale nõuetekohased arved lepingu eseme eest tasumiseks;
+5.1.5 viima läbi Ostja personali koolituse ning esitama seadmete eestikeelsed kasutus- ja hooldusjuhendid.
+
+Ostja kohustused
+
+6.1. Lisaks muudele Lepingus sätestatud kohustustele Ostja kohustub:
+6.1.1. maksma Müüjale Tasu tähtaegselt kooskõlas Lepingu punktiga 3;
+
+6.1.2. võimaldama Müüjal lepingu ese paigaldada. Paigalduse täpne aeg kooskõlastatakse Poolte vahel;
+
+6.1.3. võtma lepingu eseme vastu, kui see on vastavuses riigihanke tehnilise kirjeldusega.
+
+Lepingu eseme tarnimise ja Ostjale üleandmise tingimused
+
+7.1. Lepingu eseme transpordi eest Ostjani vastutab Müüja. 
+7.2 Peale lepingu eseme tarnimist ja paigaldamist toimub lepingu eseme üleandmine Ostjale. Lepingu eseme üleandmisel Ostjale vormistavad Pooled sellekohase üleandmise-vastuvõtmise akti. Nimetatud akti allkirjastamisega läheb lepingu eseme juhusliku hävimise ja kahjustumise risk üle Müüjalt Ostjale.
+
+7.3. Lepingu ese antake Ostjale Müüja poolt üle kirjalikult kokkulepitud ajal.
+7.4 Müüja annab Ostjale koos üleandmis-vastuvõtmisaktiga üle lepingu eseme juurde kuulua tehnilise ja muu lepingu eseme kasutamiseks ja haldamiseks vajaliku dokumentatsiooni paberil ja/või elektroonilisel andmekandjal.
+
+7.4. Käesolevaga lepivad Pooled kokku, et omand lepingu esemele läheb Ostjalt üle Müüjale vastava paigaldatud eseme eest makstava Tasu täieliku tasumise järel.
+
+7.5. Juhul, kui Ostja ei tasu Müüjale Lepingu punktis 3.3 fikseeritud tähtajaks, on Müüjal õigus Lepingust taganeda.
+
+7.6. Lepingu eseme mittetähtaegsel üleandmisel on Ostjal õigus nõuda Müüjalt leppetrahvi 0.05% lepingu maksumusest iga lepingu eseme üleandmisega viivitatud kalendripäeva eest. Lepingu täitmata jätmisel üle 40 kalendripäeva lepingutähtaja saabumisest on Ostjal õigus Lepingust taganeda.
+
+Kauba kvaliteet ja garantii
+
+8.1. Lepingu eseme kvaliteet fikseeritakse lepingu eseme üleandmise-vastuvõtmise aktis.
+
+8.2. Ostjal on õigus kontrollida lepingu eseme vastavust lepingutingimustele 5 tööpäeva jooksul.
+       Mittekvaliteetsete või Tellimusele mittevastava lepingu eseme avastamisel informeerib
+
+Ostja sellest kirjalikult hiljemalt 5 (viie) päeva jooksul Müüjat ning taotleb Müüja esindaja kohalekutsumist. Poolte esindajate juuresolekul fikseeritakse lepingu eseme tegelik seisukord ja nõuetelevastavus, koostatud akt allkirjastatakse Poolte poolt.
+
+8.3. Ostjal on õigus mittekvaliteetse või Tellimusele mittevastava lepingu eseme avastamise korral omal valikul nõuda lepingu eseme asendamist või selle parandamist, v.a Lepingu punktis 8.2 märgitud etteteatamistähtaja järgimata jätmisel.
+8.4. Ostja annab lepingu esemele 24 (kahekümne nelja) kuu pikkuse garantii (edaspidi: Garantiiaeg). Garantiiaeg algab Poolte poolt üleandmise-vastuvõtmise akti allkirjastamisest.
+8.5. Müüja on kohustatud tagama Garantiiajal lepingu esemel ilmnenud kõikide puuduste tasuta kõrvaldamise või asendama puudustega lepingu eseme Lepingu tingimustele vastavaga. 
+8.6. Garantiiprobleemidele reageerimise aeg tööajal ei või ületada kuus tundi Müüja teate esitamisest arvates. Juhul kui garantii objektiks olevat eset ei ole võimalik kasutada üle ühe tööpäeva, peab töövõtja sellise seadme ajutiselt asendama vähemalt samaväärsega. 
+8.7.	Täitja on kohustatud Lepingu objektiks oleva eseme tasuta välja vahetama, kui vastaval Lepingu objektiks oleval esemel tekib sama puudus enam kui kolm korda Garantiiaja jooksul.
+
+Lepingu muutmine
+
+9.1. Käesolevat lepingut võib muuta Poolte kirjalikul kokkuleppel kooskõlas riigihangete seaduse § 123.
+
+9.2. Pool, kes soovib muuta käesolevat Lepingut, esitab kooskõlas Lepingu punktiga 14 vastavasisulise kirjaliku ettepaneku, millele teine Pool on kohustatud vastama kirjalikus taasesitatavas vormis 5 (viie) kalendripäeva jooksul arvates ettepaneku saamisest. Kui teine Pool ei järgi eelnimetatud vastamistähtaega, loetakse esitatud muutmise ettepanek tagasi lükatuks.
+
+9.3. Lepingu  muudatused  jõustuvad  pärast  muudatuse  allkirjastamist  selleks  volitatud
+Poolte esindajate poolt.
+
+Lepingu lõppemine
+
+10.1.Pooled võivad Lepingu lõpetada Poolte kirjalikul kokkuleppel.
+
+10.2.Ostja võib Lepingu lõpetada 10 päevase etteteatamisega järgmistel põhjustel: lepingu eseme tarne viibimine rohkem kui 20 päeva, lepingu eseme mittevastavus riigihanke tingimustele. Lepingu eseme mittevastavuse peab fikseerima Ostja ja Müüja esindajatest koosnev komisjon ja mittevastavuse korral ei ole Ostja kohustatud lepingu eseme eest tasuma.
+10.3 Käesoleva Lepingu lõppemisel või lõpetamisel mistahes põhjusel, kaasa arvatud lepingu kehtetuse korral, kohaldatakse ka pärast Lepingu lõppemist või lõpetamist neid Lepingu sätteid, mis oma olemuse tõttu sätestavad Poolte õigusi ja kohustusi pärast Lepingu lõppemist või lõpetamist, eelkõige Poolte vahel tekkida võivate vaidluste lahendamise korra, Lepinguga ette nähtud tasude maksmise kohustuse ning nendega arvestamise ja maksmise korra, Lepingu sätete tõlgendamise viisi ning Poolte vastutuse.
+
+Vastutus
+
+11.1.Pooled kannavad vastastikku täielikku varalist vastutust Lepingu mittetäitmisega või mittekohase täitmisega teisele Poolele tekitatud kahju eest. Pooled vastutavad oma töötajate ja esindajate tegevuse või tegevusetusega teisele Poolele tekitatud kahju eest.
+
+
+Vääramatu jõud
+12.1. Vääramatu jõu all mõeldakse mistahes ettenägematut sündmust, mille üle Poolel puudub kontroll, sealhulgas tulekahju, plahvatus, loodusõnnetus ja muud sellise iseloomuga sündmused. Kolmandate isikute tegevus või tegevusetus ei ole Vääramatu jõud käesoleva Lepingu tähenduses.
+
+12.2. Lepingu mittetäitmine põhjusel, mida on tekitanud Vääramatu jõud, loetakse vastutust välistavaks asjaoluks eeldusel, et vastav Pool rakendab reaalseid ja vajalikke jõupingutusi sellise olukorra vältimiseks ning tingimusel, et võetakse tarvitusele kõik meetmed Lepingu nõuetekohaseks täitmiseks.
+
+12.3. Pool, kelle tegevus Lepingu järgsete kohustuste täitmisel on takistatud Vääramatu jõu tõttu, on kohustatud sellest viivitamatult teatama teisele Poolele.
+
+12.4. Lepingu punkt 12.2 ei vabasta Pooli kohustustest rakendada kõiki võimalikke jõupingutusi vältimaks ja/või vähendamaks Vääramatu jõu tõttu Lepingu mitte täitmisest tulenevat kahju.
+
+Konfidentsiaalsus
+
+13.1.Pooled kohustuvad hoidma konfidentsiaalsena Lepingu tingimusi ning Lepingu sõlmimise tulemusena teatavaks saanud informatsiooni teise Poole majandustegevuse ja finantsseisundi kohta.
+
+13.2.Lepingu punktis 13.1 märgitud informatsioon ei kuulu kolmandatele isikutele avalikustamisele teise Poole nõusolekuta, v.a. juhul, kui tulenevalt seadusest on sellise informatsiooni avaldamine kohustuslik või kui tegemist on selle avaldamisega isikutele, kelle suhtes kehtib nende kutsetegevusest tingitud vaikimiskohustus.
+
+Informatsiooni vahetamine
+Pooltevahelised Lepinguga seoses olevad teated esitatakse Lepingus toodud või Poole poolt teisele Poolele kirjalikult teatatud aadressil, välja arvatud juhtudel, kui sellised teated on informatsioonilise iseloomuga, mille edastamisel teisele Poolele ei ole õiguslikke tagajärgi.
+
+14.2.Teade loetakse kätte antuks, kui:
+14.2.1.teade on üle antud allkirja vastu;
+14.2.2.teade on saadetud e-posti teel ja saaja on kinnitatud kirja kättesaamist;
+
+14.2.3.teade on saadetud postiasutuse poolt tähitud kirjaga teise Poole poolt näidatud aadressil ja postitamisest on möödunud 5 kalendripäeva.
+
+Muud tingimused
+
+15.1.Lepingu täitmisest tulenevad Pooltevahelised vaidlused ja erimeelsused lahendatakse läbirääkimiste teel. Kokkuleppe mittesaavutamisel lahendatakse kõik Lepingust tulenevad vaidlusküsimused õigusaktidega ettenähtud korras.
+
+15.2.Kõik Lepingu muudatused jõustuvad pärast nende allakirjutamist Poolte poolt allakirjutamise momendist või Poolte poolt kirjalikult määratud tähtajal. Kirjaliku vormi mittejärgimisel on muudatused tühised.
+
+15.3. Käesolev Leping on koostatud eesti keeles 2 eksemplaris, millest mõlemad Lepingu pooled saavad ühe eksemplari.
+
+Lisad 
+Lisa 1. Hanke alusdokumendid
+Lisa 2. Pakkumus
+
+
+17. Poolte kontaktid
+
+
+
+
+
+Müüja
+Ostja
+
+
+Tartu Vallavalitsus
+
+Reg. Nr: 
+Reg. Nr: 75006486
+
+Aadress: 
+       Aadress:
+
+Tel: 
+Tel: 
+
+E-mail: 
+E-mail: 
+
+Kontaktisik: 
+Kontaktisik: 
+
+Allkirjastaja nimi
+Allkirjastaja nimi
+
+/allkirjastatud digitaalselt/
+/allkirjastatud digitaalselt/
+
+
+
+
+
+
+
+
+
+
+=== 1767153_KPKKS_HD_Lisa_2_Spetsifikatsioon_vrs2.xlsx ===
+[Sheet: Sheet1]
+Kõrveküla Põhikooli köögisiustus | Lisa 2
+Spetsifikatsioon
+Pos nr | Kogus tk | Nimetus | Toote kirjeldus
+1 | 1 | Kallutatav keedukatel 200 L
+mõõdud 1360 x 940 x 1040mm,
+elektriühendus 30 kW, 400/230 V
+sooja- ja külma vee ühendus |  paariskatel pos 2-ga
+- valmistatud roostevabast terasest 
+- paariskateldel peab olema kokku 3 jalga (tugijalg, juhtjalg, juhtjalg)
+-  netomaht 200 l, brutomaht 219 l,  ülekeemise varu 19 liitrit
+- elektriline kallutus,mis toimib turvalisuse nõuetele vastavalt ainult siis, kui kasutaja hoiab nuppu
+- hingel ülestõstetav r/v terasest kaas kinnitub juhtjalale
+- juhtpaneel on kaitstud katlast eralduva auru eest
+- suurim kasutatav surve 1,0 bar, mis vastab katla sisepinna temperatuurile +120°C)
+- 6 astmeline temperatuuri reguleerimine, max. +120 °C 
+- isoleeritud aurusärk
+- aurusärk ulatub katla ülemise servani (tõhusus) ja elektriline kallutus hõlbustab katla tühjendamist.
+- üleni roostevabast terasest konstruktsioon
+- katla välispõhi happekindlast terasest (AISI 316)
+- katla sisepind  happekindlast terasest (EN 1.4432)
+- häda-stop nupp
+KOMPLEKTIS:
+- pinnapaigaldusraam
+- pesudušš
+- sõelaplaat
+- automaatne katla toiduveega täitmine
+- automaatne katla aurusärgi veega täitmine
+- veeliitumise seadmed (külm vesi), 
+- mõõtetikk
+- riputuskonks lisavarustusele
+ - eemaldatav hingedel turvarestiga roostevaba terasest kaas 
+ 
+Seade on mõeldud kasutamiseks põrandasse kinnitatult.
+Seade kinnitatakse põrandasse ankrutega.
+Seadme kinnituskohtade all ei ole põrandakütet, elektrikaableid,
+veetorusi ja kanalisatsiooni. Minimaalne ankrute kinnitamiseks vajalik
+puurimise sügavus on 80mm on tagatud.
+
+2 | 1 | Kallutatav kombikatel segajaga 150 ltr
+mõõdud 1360 × 940 × 1040 mm,
+elektriühendus 22,5kW, 400V
+sooja- ja külma vee ühendus | ´- paariskatel pos 1-ga 
+- valmistatud roostevabast terasest
+- paariskateldel peab olema kokku 3 jalga (tugijalg, juhtjalg, juhtjalg)
+-  netomaht 150 l, brutomaht 169 l,  ülekeemise varu 19 liitrit
+- segajaga keedukatel
+- elektriline kallutus,mis toimib turvalisuse nõuetele vastavalt ainult siis, kui kasutaja hoiab nuppu
+- hingel ülestõstetav r/v terasest kaas kinnitub juhtjalale
+- juhtpaneel on kaitstud katlast eralduva auru eest
+- suurim kasutatav surve 1,0 bar, mis vastab katla sisepinna temperatuurile +120°C)
+- 6 astmeline temperatuuri reguleerimine, max. +120 °C 
+- isoleeritud aurusärk
+- aurusärk ulatub katla ülemise servani (tõhusus) ja elektriline kallutus hõlbustab katla tühjendamist.
+- üleni roostevabast terasest konstruktsioon
+- katla välispõhi happekindlast terasest (AISI 316)
+- katla sisepind  happekindlast terasest (EN 1.4432)
+- häda-stop nupp
+- segajal sujuv segamiskiiruse valimine 20-110 pööret/min
+ - segamisprogrammide valikud: 
+   1) segamine ainult ühes suunas vastavalt enda poolt valitud kiirusega (20-110 pööret/min)
+   2) segamine mõlemas suunas, automaatse suunavahetuse funktsiooniga (6 sek päripäeva ja 6 sek vastupäeva)
+   3) tehase poolt väljatöötatud valmis segamisprogramm (kerge keeduprogramm), programmi lõppedes kõlab ca 10 sek üks pikk helisignaal
+   4) tehase poolt väljatöötatud valmis segamisprogramm (tugev püreestamise programm), programmi lõppedes kõlab ca 10 sek üks pikk helisignaal
+ - segamismõla, millel on kergesti eemaldatavad nõudepesumasinas pestavad kaabitsad
+KOMPLEKTIS:
+- pinnapaigaldusraam
+- pesudušš
+- sõelaplaat
+- vahustamisrest
+- pesuhari,segaja raamile kiirühendusega kinnitatav hari katla sisepinna puhastamiseks
+- automaatne katla toiduveega täitmine
+- automaatne katla aurusärgi veega täitmine
+- automaatne jahutus keedukatlale, jahutus toimub külma vee liikumisega katla seintes 
+- veeliitumise seadmed (külm vesi), 
+- mõõtetikk
+- riputuskonks lisavarustusele
+ - põhjasegaja eemaldatavate kaabitsate ja mõlaga
+ - eemaldatav hingedel turvarestiga roostevaba terasest kaas 
+ 
+Seade on mõeldud kasutamiseks põrandasse kinnitatult.
+Seade kinnitatakse põrandasse ankrutega, puurimise sügavus on 80mm.
+3 | 1 | Praepann elektrikallutusega, 75 L,
+mõõdud 850 × 820 × 960 mm,
+elektriühendus 10,5 kW, 400 V  | - elektriline kallutus
+- panni kaanel on tugevad hinged, esiservas käepide, eest üles tõstetav 
+- kaant peab olema võimalik stabiliseerida püstises asendis 
+- kaane avades valgub alapinnale kogunenud kondenseerunud vesi tagasi küpsetuspinnale
+- juhtpaneeli asukoht panni esipaneelil
+- juhtpaneelil märgutuled 
+- kallutus peab vastama ohutusnõuetele st toiming ei aktiveeru suletud kaanega ega samaaegselt veega täitmise ajal
+- kallutamise ajal küttekehade töö peatub, et vältida küpsetuspinna kõrbemist. Taastub, kui pann on tagasi algasendis
+- GN mõõdus panni võib kasutada ka marmiidina
+- sügavus max 200 mm, maht ca 75 L
+- küpsetuspind r/v teraset, ilma keevituskohtadeta, sisenurgad ümardatud
+- sujuv temperatuuri reguleerimine vahemikus +50°...+250°C
+- ülekuumenemiskaitse
+- väliskorpus, kaas, tugijalg roostevaba teras 18/8
+- puhastamine on lihtsustunud tänu suurtele ühtsetele pindadele
+- põrandasse kinnitatav üks tugijalg lihtsustab põranda puhastamist 
+-tugijala esipaneel on hooldustöödeks ja küttekehade vahetamiseks eemaldatav
+
+KOMPLEKTIS  juhtpaneelist käivitatav veekraan panni veega täitmiseks
+- võimaldab külma vee lisamist pannile
+- elektrooniline reguleerimine toimub esipaneelilt
+
+3A | 1 | Töölaud alusriiuliga
+mõõdud: 400 x 800 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+4 | 1 | Kombiahi, käruga täidetav
+mõõdud:  990 x 830 x 1800mm
+gaas 48kW/ 41280Kcal
+elekter 1,8 kw, 230V
+
+
+
+ | - maht  ahjukäru, millel juhikud 20xGN1/1 nõule  (325x530mm)
+-  boiler (aurugeneraator)
+- programmeeritav
+- aurus küpsetus +30°...+130°C
+- konvektsioonküpsetus +30°...+300°C
+- kombiküpsetus +30°...+300°C
+- käsitsi seadistamise funktsioon 
+- madala temperatuuriga küpsetus
+- viimistlustoiming kolme erineva pruunistusvariandiga
+- AT-Clima funktsioon niiskuse protsendi reguleerimiseks ja kontrollimiseks küpsetamise ajal
+- juhtpaneel paremal
+- LED näidikud
+- pöördnupud valikute kinnitamiseks
+- manuaalne eelsoojendusfunktsioon
+- automaatne niiskuse ärajuhtimise funktsioon
+- valgustus (taimeriga)
+- IPX5 veekaitse
+- karastatud klaasist soojustpeegeldav topelklaasiga uks, sisemine klaas  puhastamiseks eemaldatav
+- ukse hinged vasakul
+- USB liides tarkvara uuendamiseks, retseptide ja andmete siirdamiseks jms
+- CALOUT automaatne katlakivieemaldussüsteem , mis takistab katlakivi teket boileris
+
+KOMPLEKTIS:
+- käru 20xGN1/1, juhikute vahe 60-65mm, tilkvee alus raami alaosas
+- toote sisetemperatuuri andur
+- käsidušš
+- automaatne pesusüsteem, milles 7 valmis programmi
+- ventilaatori kiiruse regulaator
+- GN 1/1-150 perforeeritud, r/v terasest 3 tk
+
+4.1 | 1 | Ahjukäru kombiahjule pos 4 | - valmistatud  roostevabast terasest
+- mahutab GN 1/1-65 nõusid 15tk
+- juhikupaaride vahe 80-85mm
+- GN 1/1 nõud asetatakse ahjukärule lühike külg ees
+- lukustus GN-nõudele siinide otstes
+- 4 ratast, millest 2 on lukustatavad
+- eemaldatav käepide
+- raami alaosas tilkvee alus
+7 | 1 | Ühtse tasapinnaga elektripliit
+mõõdud: (700-900) x (700-900) x 900mm
+elekter: 14 kW, 400 V, 50 Hz  | - ühtne kroomitud terasest keeduplaat
+- ühtsel keeduplaadil on neli keedukohta
+ - sujuvalt reguleeritav temperatuur
+- igal keedukohal märgutuli
+- keeduplaadi kroomkate vähendab soojuse kiirguskadusid
+- siledat keeduplaadi pinda on hõlbus puhastada
+ -pliidi äär ja keeduplaat on ühel kõrgusel
+- keeduplaati ümbritseb süvend, mis on vajalik üle keenud vedelike ja pesuvee äravooluks
+- pliidi tagaservas on kõrgendus, mis takistab vedeliku voolamist pliidi taha.
+- allosas alusraam koos sileda alusriiuliga
+- konstruktsioon, alusraam ja alusriiul  roostevabast terasest
+- jalad reguleeritava kõrgusega
+8 | 1 | Kiirjahutus- ja külmutuskapp
+mõõdud: 800 x 820 x 1620 mm
+elekter: 1,3 kW, 230 V
+ | - mahutab 10 x GN 1/1 nõud
+- kambri sisekõrgus 870-900 mm
+- kambri siseküljel paiknevad juhikud sobivad GN nõudele ja pagariplaatidele
+- GN nõud asetatakse juhikutele pikem külg ees
+- kambri tagaseinas vähemalt kaks jahutusventilaatorit
+- konstruktsioon, sise- ja väliskorpus roostevaba teras AISI304
+- komplektis toote sisetemperatuuri andur
+- temperatuuri näidik 
+- 4 eelseadistatud programmi 
+- automaatne sulatus ja sulatusvee aurustamine
+- ümardatud sisenurgad
+- hingedel paremakäeline isesulguv uks, käelisus muudetav
+- külmaaine R290
+- temp. -18 ...+70 / +3 ... +70
+- tootlikkus jahutamisprotsessil 40kg/90min/+70°...+3°; 
+- tootlikkus külmutamisprotsessil  28kg/240min/+70°.... -18°C
+- jalad reguleeritava kõrgusega
+- müratase 49dB
+´ 8.1 | 1 | Toidu transpordikäru
+mõõdud: 550 x 910 x 1500mm
+elekter 230 V | - sooja toidu säilitamiseks ja transpordiks 
+- konstruktsioon roostevabast terasest
+-  soojusisolatsiooniga kapp
+- maht 14 x GN1/1-65
+- siinide vahe 75-80 mm
+- kapis eemaldatavad siinid, sobivad GN1/1, GN1/2, GN2/3 ja GN1/3 nõudele
+- kapi siseventilaator tagab soojuse ühtlase jaotuse
+ - temperatuuri reguleerimise vahemik +20 °....+90 °
+- uksel temperatuurinäidik
+- lukustatav uks silikoonist tihendiga, mida saab vahetada tööriistu kasutamata
+- uks avaneb küljele ja püsib magneti abil avatuna
+- uksel kiirlukustusega kuumaelement
+- kuumaelemendi eemaldamise järel tohib käru kärupesumasinas pesta
+- puhastatav siseosa, eemaldatavad traatsiinid ja ümardatud sisenurgad
+- suur tõukekäepide
+- kõigis nurkades põrkepuhvrid
+- käru rattad on roostevabad , kaetud kummikattega
+-  kergelt veerevate rataste läbimõõt 125 mm
+- 2 pöörlevat ratast on lukustatavad ja 2 ratast on fikseeritud
+- rattad ja põrkepuhvrid on mitte-määrivast materjalist
+- 1,5 m elektrijuhe koos pistikuga
+10.1. | 1 | Alus ol.olevale juurviljatükeldajale
+mõõdud: 600 x 650 x 500mm | - valmistatud tervikuna roostevabast terasest  AISI304
+- aluse esiossa saab paigaldada GN 1/1 nõu 
+
+12 | 1 | Töölaud alusriiuli ja valamuga 
+mõõdud: 1200 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega
+- tagaserva kõrgus 50mm
+- valamu asub vasakul, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                
+12.1. | 1 | Seinariiul r/v terasest, 2 tasapinnaga
+mõõdud: 1200 x 300mm | - valmistatud tervikuna roostevabast terasest AISI304
+- materjali paksus min 1mm
+- maksim.kandevõime 50 kg
+- 2 siledat tasapinda, mille kõrgust saab reguleerida seinale kinnitatavate lattide peal
+- seinalattide mõõdud 300 x 650mm
+- riiuli kandurid
+12.2 | 1 | Töölaud alusriiuliga
+mõõdud: 1800 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega 
+- tagaserva kõrgus 50mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+13 | 1 | Töölaud alusriiuli ja valamuga 
+mõõdud: 2000 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega 
+- tagaserva kõrgus 50mm
+- valamu asub paremal, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                
+14 | 1 | Töölaud alusriiuli ja valamuga 
+mõõdud: 1200 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- valamu asub vasakul, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                
+14.1 | 1 | Lauariiul r/v terasest, 2 tasapinnaga
+mõõdud: 1200 x 300 x 700mm |  - kinnitub pos 14 valamulaua tööpinna peale
+- hügieeniliselt tagatud peitekinnitus otse tööpinnale 
+- valmistatud roostevabast terasest AISI304
+- 4 tugijalga
+- jalad on r/v nelikanttorust mõõtudega 25*25mm
+- riiuli maksim. kandevõime 30kg/m
+- tööpinna ja esimese riiuli vahe 400mm, esimese ja teise riiuli vahe 300mm
+15 | 1 | Külmsahtlitega töölaud
+mõõdud: 1600 x 650 x 900mm
+elekter: 0,6 kW, 230 V | -külmlaud on valmistatud roostevabast terasest
+- temperatuur +3°C....+5°C.
+- esipaneelil juhtpaneel digitaalse termostaadiga 
+- külmaagregaat on kiirvahetatav
+- külmaaine R290
+- automaatne sulatus
+- kümme sahtlit mahutavad GN1/1-150
+- sahtlid avanevad 110 protsendiliselt 
+- sahtlite liugurid on varustatud tagasitõmbelukustussüsteemiga ja on kiirvahetatavad
+- sahtlite teleskoopjuhikud on valmistatud r/v terasest
+- reguleeritava kõrgusega jalad (+/- 15mm)
+
+15.1 | 1 | Lauariiul r/v terasest, 2 tasapinnaga
+mõõdud: 1600 x 300 x 700mm |  - kinnitub pos 14 valamulaua tööpinna peale
+- hügieeniliselt tagatud peitekinnitus otse tööpinnale 
+- valmistatud roostevabast terasest AISI304
+- 4 tugijalga
+- jalad on r/v nelikanttorust mõõtudega 25*25mm
+- riiuli maksim. kandevõime 30kg/m
+- tööpinna ja esimese riiuli vahe 400mm, esimese ja teise riiuli vahe 300mm
+16 | 1 | Töölaud alusriiuliga
+mõõdud: 1000 x 800 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+17 | 1 | Töölaud alusriiuli ja valamuga 
+mõõdud: 1600 x 700 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- valamu asub paremal, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                
+18 | 1 | Töölaud alusriiuli ja valamuga 
+mõõdud: 1200 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- valamu asub vasakul, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                
+19 | 1 | Külmsahtlitega töölaud
+mõõdud: 1200 x 650 x 900mm
+elekter: 0,42 kW, 230 V | -külmlaud on valmistatud roostevabast terasest
+- temperatuur +3°C....+5°C.
+- esipaneelil juhtpaneel digitaalse termostaadiga 
+- külmaagregaat on kiirvahetatav
+- külmaaine R290
+- automaatne sulatus
+- seitse sahtlit GN nõude mõõdus (GN1/1 150 - 6tk ja GN1/1 200 - 1tk)
+- sahtlid avanevad 110 protsendiliselt 
+- sahtlite liugurid on varustatud tagasitõmbelukustussüsteemiga ja on kiirvahetatavad
+- sahtlite teleskoopjuhikud on valmistatud r/v terasest 
+- reguleeritava kõrgusega jalad (+/- 15mm)
+
+20 | 1 | Töölaud alusriiuliga
+mõõdud: 1200 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+21 | 3 | Serveerimiskäru 
+mõõdud 750 x 600 x 930mm | - valmistatud tervikuna roostevabast terasest AISI304
+- raamile keevitatud kaks riiulitasapinda
+- riiuli tasapinnad on valtsitud äärtega, et vältida vedelike maha voolamist
+- tasapindade vahe 580 mm
+- tasapindade all müra summutav materjal
+- tasapinna maksim. kandevõime 50 kg
+- varustatud 4 rattaga, millest 2 piduritega
+- rataste diam.100 mm
+- käru kummaski otsas ergonoomiliseks kasutamiseks r/v ümartorust käepide
+30 | 1 | Potipesumasin
+mõõdud: 650 x 750 x 1690/2070mm
+elekter: 8 kW, 400 V | - luugil soojus- ja heliisolatsioon, mis tagavad madala pinnatemperatuuri ja mürataseme
+ - luuk on poolitatud kaheks, luuki avades moodustab alumine pool töötasapinna, ülemine pool tõuseb üles
+- 5 pesu pesuprogrammi: 2, 4, 6 ja 12 min ning kasutaja enda poolt programmeeritav 1 pesuprogramm
+- roostevabast terasest pesukorv 550x660 mm
+- sööteava vaba kõrgus 810 mm
+- vanni maht 25 L
+- eemaldatavad pesuvarred roostevabast terasest, loputusotsikud mitteummistuvad
+- jalad reguleeritava kõrgusega
+- müratase 71 dB(A)
+- kasutuspaneel puutenuppude ja suure näidikuga
+Standardvarustuses:
+- survetõstepump, tagab loputusfaasis ühtlase veesurve
+- loputusaine dosaator
+- nõuderest roostevabast terasest
+- söögiriistakorv roostevabast terasest
+- kaante / küpsetusplaatide raam roostevabast terasest
+- settenõu roostevabast terasest
+- vannil on ümardatud sisenurgad puhastamise hõlbustamiseks
+31 | 1 | Potipesulaud kahe valamuga 
+mõõdud 1400 x 700 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus min 50mm
+- ühe valamu mõõdud  600 x 500 x 300mm
+- 2 settenõud koos jäätmesõelaga on valmistatud r/v terasest
+- jäätmesõel on tühjendamiseks eemaldatav
+- 2 sulgventiili
+- laua alaosas toruraam eest avatud
+KOMPLEKTIS eelpesudušš (lauamudel)
+Lauakinnitusega dušš, nuppudega segisti ja jooksutoruga
+- käepidemega pritspüstol (käepidet alla vajutades hakkab dušš tööle ning vedru taastab käepideme algasendi)
+- dušši ülemine osa on toestatud seinakinnitusega
+32 | 1 | Jäätmekäru
+mõõdud: 290 x 560 x 660mm | `-raam ja põhi roostevabast terasest 
+- käepide eemaldatav
+- kuullaagritega rattad, Ø 75 mm, kahel rattal pidurid
+- jäätmenõu ja kaas plastikust, kaanes ava Ø150 mm
+- jäätmenõu maht 60 ltr
+33 | 1 | Riiulkäru
+mõõdud: 970 x 480 x 1600mm | `-korpus roostevabast terasest
+ - plastmassist restriiulid, saab pesta nõudepesumasinas
+ - rataste läbimõõt 125 mm, kahel rattal pidurid 
+ - neli riiulit, nende vahe 370 mm
+ - riiulite suurus 450 x 900 mm
+ - riiuli maksim. kandevõime 120 kg
+34 | 1 | Põrandariiul
+mõõdud: 1300 x 500 x 1800mm |  - valmistatud roostevabast terasest AISI304
+- 4 raami külge keevitatud riiulitasapinda
+- tugevad jalad on r/v nelikanttorust mõõtudega 25*25mm
+- jalad reguleeritava kõrgusega, amplituud 30 mm (+25/-5mm)
+- riiuli maksim. kandevõime 120kg/tasapind
+40 | 1 | Nõude tagastussektsioon ülariiuli ja kandikurajaga
+mõõdud: 2800 x 1500 x 900/ 1940mm | ´-valmistatud tervikuna roostevabast terasest AISI304
+- avatud alusraam
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- suur valamu  on varustatud r/v terasest valmistatud settenõu ja jäätmesõelaga
+- jäätmesõel on tühjendamiseks eemaldatav
+- personali poolsel osal valamu kohal puhastamiseks eemaldatav r/v terasest raam koos vabalt pöörlevate plastrullikutega
+- kliendi poolsel osal valamu kohal puhastamiseks eemaldatav  r/v terasest raam nõudepesukorvide toestamiseks
+- nõudepesukorvid saab takistuseta tõmmata kliendi poolselt alalt personali poolsele alale ja lükata mööda rullikuid üle eelpesulaua tunnelnõudepesumasinasse
+- toidujäätmete loputussüsteem, vee temp. reguleeritav 
+- settenõu 2tk 
+- 1 ülariiul tühjade pesukorvide hoiustamiseks koos otsa ja vahetugedega vältimaks korvide ümberkukkumist
+- iga vahe mahutab kolm korvi, vahe laius ca 330mm
+- kandikurada on kinnitatud tagastussektsioonile täies pikkuses kliendipoolsel osal 4000 mm (2800 ja 1200 mm)
+- kandikurada  valmistatud r/v terasest plekist, sile pind
+KOMPLEKTIS:
+Pesupüstol koos voolikuhoidikuga
+ - vooliku pikkus 8 m
+- vooliku automaatne tagasi kerimine
+- pesupüstolil veejoa reguleerimise võimalus
+Segisti pesupüstolile
+Sifoon 2 tk
+42 | 2 | Biojäätmekapp 2-le nõule
+mõõdud: 800 x 650 x 900 mm |  - valmistatud roostevabast terasest AISI304
+- Kapi kere 1,0mm paksusest roostevabast lehtmaterjalist
+- tugevad jalad on r/v nelikanttorust
+- jalad on reguleeritava kõrgusega
+- jäätmeava koos eemaldatava rõngaga Ø 200mm
+- kaks hingedel ust, mis avanevad üle 90°
+- uksed magnettihendiga
+- KOMPLEKTIS  kaks 30 ltr jäätmenõud
+
+43 | 1 | Eelloputuslaud 
+mõõdud: 1000 x 700 x 900mm
+
+
+
+
+ |  - eelloputus asub mustade toidunõude tagastussektsiooni ja nõudepesumasina etteande-sööte laua vahel
+- laua mõlema otsa liiteühendused lihtsustavad korvi sujuvat liikumist nõudepesumasinasse
+- kogu pinna ulatuses uks suur valamu
+- valamu sügavus min 250 mm
+- kogu valamu ulatuses lühikesed rullikud
+- valamu põhjas settenõu ja sulgventiil
+- settenõu koos jäätmesõelaga on valmistatud r/v terasest
+- jäätmesõel on tühjendamiseks eemaldatav
+- liides tagastussektsiooni- ja nõudepesumasina etteandelauaga
+- tagaserv
+- valmistatud roostevabast terasest AISI304
+- tugevad jalad on r/v nelikanttorust mõõtudega 40x40mm
+- jalad on reguleeritava kõrgusega
+ 
+KOMPLEKTIS
+Eelpesudušš nuppudega segisti ja jooksutoruga
+- käepidemega pritspüstol (käepidet alla vajutades hakkab dušš tööle ning vedru taastab käepideme algasendi)
+Sifoon 1tk
+44 | 1 | Tunnelnõudepesumasin
+mõõdud: peab mahtuma projekteeritud asukohta
+elektrivõimsus 20 kW 400V  |  - kahe kiirusega tunnelnõudepesumasin 83/107 korvi/h 
+- vastab DIN10510 nõuetele nii pesuaegade kui ka temperatuuri poolest
+- elektrooniline juhtpaneel
+- loputusvee temperatuur +85°C
+- masina korpus r/v terasest AISI 304
+- pesupaagid ja boilerid happekindlast r/v terasest AISI 316
+- pesupaak ümardatud nurkadega parima hügieeni tagamiseks
+- isepuhastuvad pesupumbad
+- r/v terasest pesu- ja loputusvarred
+- r/v terasest pesupaagisõelad
+- r/v terasest reguleeritavad jalad
+- suured sööteavad
+- kahekordse isolatsiooniga seinad
+- häda/stopp lüliti
+- veetaseme ja temperatuuri kontroll
+- sobib nõudepesukorvidele 500*500 mm, GN nõudele 530*325 mm ja
+taldrikutele diam. kuni 450 mm
+- r/v terasest filtrid hoiavad pesuvee puhtamana, lisaks erifilter suurema sodi eraldamiseks
+- spetsiaalsed "kardinad" nõudepesukorvi tunnelisse sisenemisel ja väljumisel ning  erinevate tsoonide vahel takistavad erinevate veevannide saastumist ja vee pritsimist masinast välja
+- säästev süsteem igas tsoonis, st masin töötab vaid siis kui nõudekorv on vastavas tsoonis. Vee ja energia kokkuhoid 
+KOMPLEKTIS:
+taldrikute pesukorv 500x500mm 12 tk
+söögiriistade pesukorv 1 tk
+tassikorv 500x500mm  10 tk
+
+
+44.1 | 1 | Konveierpöörang
+tunnelnõudepesumasinasse
+mõõdud: peab mahtuma projekteeritud asukohta | -seade asub eelpesulaua ja tunnelnõudepesumasina vahel
+- nurgamudel
+- söötemehanism ühendatakse tunnelnõudepesumasina korvitransportööriga 
+- töötab sünkroonis tunnelnõudepesumasinaga
+- seadmele mahub korraga 1 nõudepesukorv mõõdus 500x500mm
+- valmistatud roostevabast terasest AISI304
+- tugevad jalad on r/v nelikanttorust 
+- jalad on reguleeritava kõrgusega
+45 | 1 | Kuivatusrada alusriiuli ja pikkade rullidega
+mõõdud: 1600 x 600 x 900mm |  - valmistatud roostevabast terasest AISI304
+- tugevad jalad on r/v nelikanttorust mõõtudega 40x40mm
+- jalad on reguleeritava kõrgusega, amplituud 30 mm (+25/-5mm)
+- kuivatusraja all täies pikkuses valamu, mille põhjas äravool
+- valamu kohal kohu ulatuses mustust hülgavast tugevast plastikust pikad rullid
+- raja all on vann äravooluga
+- raja lõpus vasakul lõpulüliti, mis seiskab nõudepesumasina raja täitumisel nõudepesukorvidega
+- liides tunnelnõudepesumasinale paremal
+- allosas sile riiul, maksim kandevõime 120 kg
+KOMPLEKTIS:
+Lõpulüliti
+46 | 1 | Korvikäru nõudepesukorvidele
+mõõdud: 570 x 500 x 1700mm |  - valmistatud roostevabast terasest AISI304
+- tugevad jalad on r/v nelikanttorust mõõtudega 25*25mm
+- tugiraamile keevitatud 6 paari juhikuid
+- juhikute vahe 240-250 mm
+- juhikutel üks ots üles keeratud
+- maht 6 nõudepesukorvi 500x500mm
+- neljast rattast kahel on pidurid
+- kergelt liikuvad rattad
+
+47 | 3 | Põrandariiul
+mõõdud: 1200 x 500 x 1800mm |  - valmistatud roostevabast terasest AISI304
+- 4 raami külge keevitatud riiulitasapinda
+- tugevad jalad on r/v nelikanttorust mõõtudega 25*25mm
+- jalad on reguleeritava kõrgusega, amplituud 30 mm (+25/-5mm)
+- riiuli maksim. kandevõime 120kg/tasapind
+50 | 1 | Kartulikoorimismasin
+mõõdud 530 x 650 x 950 mm
+elekter 0,9 kW 400V  | - ühekordne täitmine kuni 18 kg
+- põrandamudel
+- tootlikkus 500 kg/h
+- kiirus 320 pööret/min
+- korpus roostevabast  terasest 
+- läbipaistev polükarbonaadist kaas
+- tühjendusluuk
+- turvalüliti täitmiskaanel ja tühjendusluugil
+- digitaalne  taimer
+- digitaalne paneels
+- abrasiivsein ja abrasiivpõhjaplaat on vahetatavad
+- alusraam ehk jalad roostevaba terasest
+- seadme all puhastamiseks eemaldatav roostevabast terasest jäätmekast
+- tööks vajalik vajalik veesurve 0,2-10 bar
+- tööks vajalik vee temperatuur +5°...+20°C
+Seade kinnitatakse põrandasse 
+
+51 | 2 | Valamukäru
+mõõdud: 600 x 600 x 700mm |  - valmistatud roostevabast terasest AISI304
+- valamu sügavus 300mm
+- valamu põhjas äravool ja sulgkraan
+- rataste läbimõõt 100 mm, kahel rattal pidurid
+
+KOMPLEKTIS eelpesudušš (seinamudel) joonisel pos 52
+Seinakinnitusega dušš, kangiga segisti ja jooksutoruga
+- käepidemega pritspüstol (käepidet alla vajutades hakkab dušš tööle ning vedru taastab käepideme algasendi)
+- dušši ülemine osa on toestatud seinakinnitusega
+
+53 | 1 | Töölaud alusriiuli ja kahe valamuga 
+mõõdud: 2000 x 700 x 900mm
+
+
+
+
+
+
+
+ | - valmistatud tervikuna roostevabast terasest AISI304
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus min 50mm
+- ühe valamu mõõdud  600 x 450 x 250mm
+- 2 settenõud koos jäätmesõelaga on valmistatud r/v terasest
+- jäätmesõel on tühjendamiseks eemaldatav
+- 2 sulgventiili
+- paremal, valamute all  toruraam eest avatud, 
+- vasakul roostevabast terasest plaatriiul, kõrgus põrandast 200mm
+KOMPLEKTIS eelpesudušš (lauamudel) 
+Lauakinnitusega dušš, nuppudega segisti ja jooksutoruga
+- käepidemega pritspüstol (käepidet alla vajutades hakkab dušš tööle ning vedru taastab käepideme algasendi)
+- dušši ülemine osa on toestatud seinakinnitusega
+60 | 2 | Külmkapp,
+mõõdud 740 x 870 x 2100 mm
+elekter 230V 
+ |  - valmistatud roostevabast terasest AISI304
+- tugevad reguleeritavad jalad roostevabast terasest
+- maht ca 550 l
+- säilitustemperatuur 0..+10°C
+- elektrooniline termostaat, ülemine ja alumine temperatuur reguleeritavad
+- sise- ja välispinnad on roostevabast terasest 
+- seinaäärse asukoha tõttu võib välimine tagasein olla galvaniseeritud terasest
+- külmaaine R290
+- hermeetiline, õhkventileeritav külmaseade kapi ülaosas
+- ventilaatoraurusti automaatse sulatamise ja sulamisvee aurustamisega
+- manuaalse sulatamise nupp
+- kapi põhjas asub pesemise hõlbustamiseks äravool
+- ümarad sisenurgad
+- polüuretaanisolatsiooni paksus 70mm
+- r/v terasest restriiulid lihtsalt eemaldatavad, siinide reguleerimise vahemik 55 mm
+- ukse hinged vasakul, lukustatav uks
+- ukse käepide ukse täies ulatuses
+- ukse käelisust saab muuta 
+- ukse tihendid lihtsalt eemaldatavad
+KOMPLEKTIS
+- 4 tk r/v terasest restriiulit GN 2/1 nõudele
+- 4 paari r/v terasest riiulikandurid
+62 | 2 | Külmkamber, mõõdud 1700 x 2300 x 2200 mm, välisagregaadiga hoone katusel, kaugus kambritest ca 12 m,
+elekter 0,98 kW 230V |  - temp. +2...+4ºC 
+- sandwich paneel 80 mm, 
+- isolatsioonimaterjal polüuretaan
+- 1 tk tavakambri uks, ukse hinged vasakul
+- kambris valgusti
+- elektrooniline kontroll
+- digitaalne näidik
+- automaatne sulatus
+- ventilaatorjahutus
+KOMPLEKTIS
+Külmkambri viimistlusplekid, paigaldusmaterjalid
+Põrandariiulid kahes seinas, 4 tasapinda, pikkus 1200, kõrgus 1800, sügavus 400mm
+
+64 | 2 | Põrandariiul
+mõõdud: 1800 x 400 x 1800mm |  - valmistatud roostevabast terasest AISI304
+- 4 raami külge keevitatud riiulitasapinda
+- tugevad jalad on r/v nelikanttorust mõõtudega 25*25mm
+- jalad on reguleeritava kõrgusega
+- riiuli maksim. kandevõime 120kg/tasapind
+65 | 1 | Koristusvahendite kapp 
+mõõdud 600x600x1850mm | ´- valmistatud tervikuna roostevabast terasest AISI304
+- materjali paksus min 1mm
+- tugevad laua jalad on r/v nelikanttorust 
+- jalad reguleeritava kõrgusega
+- kapi uksel magnet
+- kapis valamu  
+- valamu äravool 1½ ″
+- valamu kohal kaks siledat plaatriiulit
+- riiulite kõrgus toetuslattide peal reguleeritav
+- riiuli tasapindade reguleerimisvahemik 25 mm
+- harjahoidja
+- käterätihoidja
+- kapi põhi ja lagi perforeeritud
+KOMPLEKTIS segisti ja sifoon
+65.1 | 1 | Kapp riiulitega 600x600x1850mm |  valmistatud tervikuna roostevabast terasest AISI304
+- materjali paksus min 1mm
+- tugevad laua jalad on r/v nelikanttorust
+- jalad reguleeritava kõrgusega
+- kapi uksel magnet
+- kapis viis siledat plaatriiulit
+- riiulite kõrgus toetuslattide peal reguleeritav
+- riiuli tasapindade reguleerimisvahemik 25 mm
+67 | 2 | Kaubakaal
+elektriühendus 230V | - põrandamudel
+- roostevaba kaaluplatvorm 420 x 540 mm
+- reguleeritavad jalad
+- LCD näidik kinnitatud ca 70 cm posti külge 
+- LCD näidik on taustavalgustusega ja selgelt loetav min 52 mm suuruste numbritega
+- taadeldav
+- taara funktsioon
+- pritsmekindel klahvistik
+- taara-, nullimise- ja on/off -nupud
+ - teavitab kui aku tühjeneb/ laadib
+- täpsus 50 g
+- max. koormus 150kg
+- sobilik kasutamiseks kui ruumi temperatuur -10°C...40°C, niiskuse tase <85%
+KOMPLEKTIS:
+- võrguseade
+- laetav aku
+68 | 5 | Kätepesuvalamu
+mõõdud: 432x368x140mm | - valmistatud roostevabast terasest
+- seinakinnitus
+KOMPLEKTIS:
+- lühikese jooksutoru ja lühikese kangiga segisti
+- sifoon
+69 | 1 | Puhastusseade  | - puhastus- ja desinfitseerimisseade tugevalt määrdunud pindade
+- seade annustab puhastusainet täpsetes kogustes
+- loputamine veega
+- reguleeritav dušš
+- tagaslöögiklapp
+- vaakum klapp
+- 15 m voolik
+
+75 | 1 | Klaasi- ja tassikorvide käru vedrusüsteemiga | - mahutab klaasi/tassikorve mõõdus  500x500mm 5 tk
+- valmistatud roostevabast terasest AISI304
+- varustatud tasapinda tõstva vedrusüsteemiga, mis on reguleeritav vastavalt korvide raskusele
+- maksimaalne kandevõime 50 kg
+- vedrusüsteem on vastavalt ohutusnõuetele peidetud karkassi sisse
+- vedrude pingutamiseks tagapaneel eemaldatav
+- kärul ülaosas kogu laiuses tõukekäepide
+- välisnurkades põrkekaitse
+- neljast rattast kahel on pidurid
+- kergelt liikuvad rattad
+
+=== 1767153_KPKKS_HD_Lisa_3_Tehniline_kirjeldus.docx ===
+Kõrveküla Põhikooli köögisisustus							Lisa 3
+
+TEHNILINE KIRJELDUS
+
+Iga viidet, mida hankija on teinud spetsifikatsioonis kindlale ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule ja tootmisviisile, palume lugeda täiendatuks märkega „või sellega samaväärne“.
+Pakkujal on õigus pakkuda nimetatuga samaväärseid tooteid. Samaväärse toote pakkumise puhul peab toode olema tehnilistelt parameetritelt, mõõtudelt, materjalide tüübilt ja omadustelt, värvilt, välimuselt jne hankija tingimustele vastav. Samaväärsete toodete pakkumise puhul võivad toote mõõdud erineda spetsifikatsioonis toodud mõõtudest kuni +/-5 % kui ei ole märgitud teisiti, eeldusel, et esemed mahuvad ruumidesse ja tagatud on nende koostoimivus ning funktsionaalsus. Esemete ruumidesse sobitumise ja seal ühildumise eest vastutab pakkuja. Toote kaalu erinevus võib olla kuni +/-10 %, kui ei ole märgitud teisiti.
+
+SEADMED
+1. Kõik seadmed peavad vastama spetsifikatsioonis toodud kirjeldusele.
+2. Kõik seadmed peavad olema varustatud CE märgisega, olema ohutud ning vastama hügieeninõuetele.
+3. Kõik põrandal asetsevad seadmed ja roostevaba mööbel peavad olema põrandapealsed, ilma kinnitusteta põrandasse (välja arvatud katlad ja praepann).
+4. Külmkambritel pos 62 on ette nähtud välisagregaat hoone katusel, kaugus kambritest ca 12 m.
+
+MÖÖBEL
+1. Roostevaba plekk peab olema AISI304 (kroomi sisaldus 18,1%, nikli sisaldus 8,3%).
+2. Pleki paksus peab olema minimaalselt 1 mm.
+3. Töölaudade raamid ja jalad peavad olema valmistatud roostevabast nelikanttorust min mõõtudega 30*30mm
+4. Töötasapinnad peavad olema alt tugevdatud kas r/v nelikanttorudega või galvaniseeritud terasplaadiga või niiskuskindla vineeriga (paksus väh 20mm).
+5. Mööbli alaosas peavad olema reguleeritavad jalad + /- 40 mm ja töötasapinna tagaosas vajadusel pritsmekaitsed 60 .. 300 mm. Köögi keskel olevatel laudadel pritsmekaitsmeid ei ole. Üle 1500mm pikkadel töö- ja valamulaudadel peab olema vähemalt kolm jalapaari.
+6. Valamud peavad olema ümarate nurkadega.
+7. Töölaudadel ja mööblil ei tohi olla teravaid nurki.
+8. Kõik töö- ja valamulauade tasapinnad peavad olema süvendusega 5 mm.
+
+
+Elektriühendusega seadmete puhul märkida pakkumuse maksumuse esildisel toote kirjelduse lahtrisse pakutava seadme mark, tootja ning link tootele tootja kodulehel.
+ 
+Köögiseadmete ja –mööbli paigutus on näidatud tehnoloogia plaanil.
+
+Positsioonide numbrid tehnoloogia plaanil vastavad positsioonide numbritele spetsifikatsioonis ja pakkumuse maksumuse esildisel.
+Tehnoloogia plaanil märgitud positsioonid 5 (kombiahi), 6 (kombiahi), 9 (universaalsegaja), 10 (juurviljatükeldaja), 61 (sügavkülmkapp) ja 61.1 (sügavkülmkirst) on olemasolevad seadmed ning ei sisaldu spetsifikatsioonis ja pakkumuse maksumuse esildises.
+
+
+
+
+=== 1767153_KPKKS_HD_Lisa_3_Tehniline_kirjeldus_vrs3.docx ===
+Kõrveküla Põhikooli köögisisustus							Lisa 3
+
+TEHNILINE KIRJELDUS
+
+Iga viidet, mida hankija on teinud spetsifikatsioonis kindlale ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule ja tootmisviisile, palume lugeda täiendatuks märkega „või sellega samaväärne“.
+Pakkujal on õigus pakkuda nimetatuga samaväärseid tooteid. Samaväärse toote pakkumise puhul peab toode olema tehnilistelt parameetritelt, mõõtudelt, materjalide tüübilt ja omadustelt, värvilt, välimuselt jne hankija tingimustele vastav. Samaväärsete toodete pakkumise puhul võivad toote mõõdud erineda spetsifikatsioonis toodud mõõtudest kuni +/-10 % kui ei ole märgitud teisiti, tingimusel, et esemed mahuvad ruumidesse ja tagatud on nende koostoimivus ning funktsionaalsus. Toodete energiatarbe, mahutavuse ja kaalu erinevus võib olla kuni +/- 10 % kui ei ole märgitud teisiti. 
+Esemete ruumidesse sobitumise ja seal ühildumise eest vastutab pakkuja.
+
+SEADMED
+1. Kõik seadmed peavad vastama spetsifikatsioonis toodud kirjeldusele.
+2. Kõik seadmed peavad olema varustatud CE märgisega, olema ohutud ning vastama hügieeninõuetele.
+3. Kõik põrandal asetsevad seadmed ja roostevaba mööbel peavad olema põrandapealsed, ilma kinnitusteta põrandasse (välja arvatud katlad ja praepann).
+4. Külmkambritel pos 62 on ette nähtud välisagregaat hoone katusel, kaugus kambritest ca 12 m.
+
+MÖÖBEL
+1. Roostevaba plekk peab olema AISI304 (kroomi sisaldus 18,1%, nikli sisaldus 8,3%).
+2. Pleki paksus peab olema minimaalselt 1 mm.
+3. Töölaudade raamid ja jalad peavad olema valmistatud roostevabast nelikanttorust min mõõtudega 30*30mm
+4. Töötasapinnad peavad olema alt tugevdatud kas r/v nelikanttorudega või galvaniseeritud terasplaadiga või niiskuskindla vineeriga (paksus väh 20mm).
+5. Mööbli alaosas peavad olema reguleeritavad jalad + /- 40 mm ja töötasapinna tagaosas vajadusel pritsmekaitsed 60 .. 300 mm. Köögi keskel olevatel laudadel pritsmekaitsmeid ei ole. Üle 1500mm pikkadel töö- ja valamulaudadel peab olema vähemalt kolm jalapaari.
+6. Valamud peavad olema ümarate nurkadega.
+7. Töölaudadel ja mööblil ei tohi olla teravaid nurki.
+8. Kõik töö- ja valamulaudade tasapinnad peavad olema süvendusega 5 mm.
+
+
+Elektriühendusega seadmete puhul märkida pakkumuse maksumuse esildisel toote kirjelduse lahtrisse pakutava seadme mark, tootja ning link tootele tootja kodulehel.
+ 
+Köögiseadmete ja –mööbli paigutus on näidatud tehnoloogia plaanil.
+
+Positsioonide numbrid tehnoloogia plaanil vastavad positsioonide numbritele spetsifikatsioonis ja pakkumuse maksumuse esildisel.
+Tehnoloogia plaanil märgitud positsioonid 5 (kombiahi), 6 (kombiahi), 9 (universaalsegaja), 10 (juurviljatükeldaja), 61 (sügavkülmkapp) ja 61.1 (sügavkülmkirst) on olemasolevad seadmed ning ei sisaldu spetsifikatsioonis ja pakkumuse maksumuse esildises.
+
+
+
+
+=== 1767153_KPKKS_HD_Lisa_4_Tehnoloogia_plaan.pdf ===
+(EI30)
+EI60
+(EI30)
+)03IE(
+)03IE(
+(EI30)
+)03IE(
+
+=== 1767153_KPKKS_HD_vorm_1_Ühispakkuja_volikiri_.doc ===
+Vorm 1 – ÜHISPAKKUJA VOLIKIRI
+Hankija nimi: Tartu Vallavalitsus
+Hanke nimetus: Kõrveküal Põhikooli köögisisustus
+
+pakkuja nimi
+			
+Kuupäev: XX.XX.2020
+
+Käesolevaga volitab/volitavad pakkuja/ühispakkujate nimi/nimed volitaja/volitajate nimi/nimed ja ametikoht/ametikohad isikus volitatava nimi ja ametikoht olema pakkuja ametlik esindaja ja tegema hankelepingu sõlmimise ja täitmisega seotud toiminguid.
+Ühispakkujad määravad ühispakkujate volitatud esindajaks ühispakkuja nimi.
+Volikiri on antud edasivolitamise õiguseta.
+
+Volikiri kehtib kuni: XX.XX.XXXX
+
+………………………………… 
+(volitaja nimi ja ametikoht)
+
+………………………………… 
+ (volitaja allkiri)
+
+
+ Täita juhul, kui tegemist on ühispakkumusega. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== 1767153_KPKKS_HD_vorm_2_Osalemise_taotlus.docx ===
+Vorm 2 – HANKES OSALEMISE TAOTLUS
+Hankija nimi: Tartu Vallavalitsus
+Hanke nimetus: Kõrveküla Põhikooli köögisisustus
+Kuupäev: XX.XX.2020
+Oleme tutvunud riigihanke „Kõrveküla Põhikooli köögisisustus“ hankedokumentide ja selle lisadega, kinnitame esitatud tingimuste ülevõtmist ja esitame pakkumuse üksnes kõigi nende asjaolude kohta, mille kohta hankija soovib võistlevaid pakkumusi. Pakkuja andmed on esitatud allpool.
+Pakkuja andmed
+
+Pakkuja nimi / Ühispakkuja nimi
+
+Registrikood
+
+Aadress
+
+Kontaktisik ja tema andmed
+
+Telefon
+
+Elektronposti aadress
+
+Kodulehekülje aadress (kui on olemas)
+
+Kinnitame, et juhul, kui meie ja hankija vahel sõlmitakse hankeleping, tagame hankedokumentides ja selle lisades esitatud nõuetele vastavate hankelepingu täitmise meie pakkumuses esitatud hinnaga.
+Kinnitame, et me ei esita valeandmeid ning meil on olemas kõik hankelepingu täitmiseks vajalikud intellektuaalse omandi õigused.
+Võtame endale kohustuse, et meie pakkumuse aktsepteerimisel on pakkumus meile siduv kuni hankelepingu sõlmimiseni.
+Kinnitame, et meie pakkumus on jõus 3 kuud pakkumuse esitamise tähtpäevast arvates.
+………………………………… 
+/volitatud isiku nimi ja allkiri/
+
+
+=== 1767153_KPKKS_HD_vorm_3_Pakkumuse_maksumuse_esildis.xlsx ===
+[Sheet: Sheet1]
+Kõrveküla Põhikooli köögisiustus | Vorm 3
+Pakkumuse maksumuse esildis
+Pos nr | Nimetus | Toote kirjeldus | Kogus | Ühiku maksumus | Maksumus kokku | Toote kirjeldus
+1 | Kallutatav keedukatel 200 L
+mõõdud 1360 x 940 x 1040mm,
+elektriühendus 30 kW, 400/230 V
+sooja- ja külma vee ühendus |  paariskatel pos 2-ga
+- valmistatud roostevabast terasest 
+- paariskateldel peab olema kokku 3 jalga (tugijalg, juhtjalg, juhtjalg)
+-  netomaht 200 l, brutomaht 219 l,  ülekeemise varu 19 liitrit
+- elektriline kallutus,mis toimib turvalisuse nõuetele vastavalt ainult siis, kui kasutaja hoiab nuppu
+- hingel ülestõstetav r/v terasest kaas kinnitub juhtjalale
+- juhtpaneel on kaitstud katlast eralduva auru eest
+- suurim kasutatav surve 1,0 bar, mis vastab katla sisepinna temperatuurile +120°C)
+- 6 astmeline temperatuuri reguleerimine, max. +120 °C 
+- isoleeritud aurusärk
+- aurusärk ulatub katla ülemise servani (tõhusus) ja elektriline kallutus hõlbustab katla tühjendamist.
+- üleni roostevabast terasest konstruktsioon
+- katla välispõhi happekindlast terasest (AISI 316)
+- katla sisepind  happekindlast terasest (EN 1.4432)
+- häda-stop nupp
+KOMPLEKTIS:
+- pinnapaigaldusraam
+- pesudušš
+- sõelaplaat
+- automaatne katla toiduveega täitmine
+- automaatne katla aurusärgi veega täitmine
+- veeliitumise seadmed (külm vesi), 
+- mõõtetikk
+- riputuskonks lisavarustusele
+ - eemaldatav hingedel turvarestiga roostevaba terasest kaas 
+ 
+Seade on mõeldud kasutamiseks põrandasse kinnitatult.
+Seade kinnitatakse põrandasse ankrutega.
+Seadme kinnituskohtade all ei ole põrandakütet, elektrikaableid,
+veetorusi ja kanalisatsiooni. Minimaalne ankrute kinnitamiseks vajalik
+puurimise sügavus on 80mm on tagatud.
+ | 1
+2 | Kallutatav kombikatel segajaga 150 L
+mõõdud 1360 × 940 × 1040 mm,
+elektriühendus 22,5kW, 400V
+sooja- ja külma vee ühendus | ´- paariskatel pos 1-ga 
+- valmistatud roostevabast terasest
+- paariskateldel peab olema kokku 3 jalga (tugijalg, juhtjalg, juhtjalg)
+-  netomaht 150 l, brutomaht 169 l,  ülekeemise varu 19 liitrit
+- segajaga keedukatel
+- elektriline kallutus,mis toimib turvalisuse nõuetele vastavalt ainult siis, kui kasutaja hoiab nuppu
+- hingel ülestõstetav r/v terasest kaas kinnitub juhtjalale
+- juhtpaneel on kaitstud katlast eralduva auru eest
+- suurim kasutatav surve 1,0 bar, mis vastab katla sisepinna temperatuurile +120°C)
+- 6 astmeline temperatuuri reguleerimine, max. +120 °C 
+- isoleeritud aurusärk
+- aurusärk ulatub katla ülemise servani (tõhusus) ja elektriline kallutus hõlbustab katla tühjendamist.
+- üleni roostevabast terasest konstruktsioon
+- katla välispõhi happekindlast terasest (AISI 316)
+- katla sisepind  happekindlast terasest (EN 1.4432)
+- häda-stop nupp
+- segajal sujuv segamiskiiruse valimine 20-110 pööret/min
+ - segamisprogrammide valikud: 
+   1) segamine ainult ühes suunas vastavalt enda poolt valitud kiirusega (20-110 pööret/min)
+   2) segamine mõlemas suunas, automaatse suunavahetuse funktsiooniga (6 sek päripäeva ja 6 sek vastupäeva)
+   3) tehase poolt väljatöötatud valmis segamisprogramm (kerge keeduprogramm), programmi lõppedes kõlab ca 10 sek üks pikk helisignaal
+   4) tehase poolt väljatöötatud valmis segamisprogramm (tugev püreestamise programm), programmi lõppedes kõlab ca 10 sek üks pikk helisignaal
+ - segamismõla, millel on kergesti eemaldatavad nõudepesumasinas pestavad kaabitsad | 1
+KOMPLEKTIS:
+- pinnapaigaldusraam
+- pesudušš
+- sõelaplaat
+- vahustamisrest
+- pesuhari,segaja raamile kiirühendusega kinnitatav hari katla sisepinna puhastamiseks
+- automaatne katla toiduveega täitmine
+- automaatne katla aurusärgi veega täitmine
+- automaatne jahutus keedukatlale, jahutus toimub külma vee liikumisega katla seintes 
+- veeliitumise seadmed (külm vesi), 
+- mõõtetikk
+- riputuskonks lisavarustusele
+ - põhjasegaja eemaldatavate kaabitsate ja mõlaga
+ - eemaldatav hingedel turvarestiga roostevaba terasest kaas 
+ 
+Seade on mõeldud kasutamiseks põrandasse kinnitatult.
+Seade kinnitatakse põrandasse ankrutega, puurimise sügavus on 80mm.
+3 | Praepann elektrikallutusega, 75 L,
+mõõdud 850 × 820 × 960 mm,
+elektriühendus 10,5 kW, 400 V  | - elektriline kallutus
+- panni kaanel on tugevad hinged, esiservas käepide, eest üles tõstetav 
+- kaant peab olema võimalik stabiliseerida püstises asendis 
+- kaane avades valgub alapinnale kogunenud kondenseerunud vesi tagasi küpsetuspinnale
+- juhtpaneeli asukoht panni esipaneelil
+- juhtpaneelil märgutuled 
+- kallutus peab vastama ohutusnõuetele st toiming ei aktiveeru suletud kaanega ega samaaegselt veega täitmise ajal
+- kallutamise ajal küttekehade töö peatub, et vältida küpsetuspinna kõrbemist. Taastub, kui pann on tagasi algasendis
+- GN mõõdus panni võib kasutada ka marmiidina
+- sügavus max 200 mm, maht ca 75 liitrit 
+- küpsetuspind r/v teraset, ilma keevituskohtadeta, sisenurgad ümardatud
+- sujuv temperatuuri reguleerimine vahemikus +50°...+250°C
+- ülekuumenemiskaitse
+- väliskorpus, kaas, tugijalg roostevaba teras 18/8
+- puhastamine on lihtsustunud tänu suurtele ühtsetele pindadele
+- põrandasse kinnitatav üks tugijalg lihtsustab põranda puhastamist 
+-tugijala esipaneel on hooldustöödeks ja küttekehade vahetamiseks eemaldatav
+
+KOMPLEKTIS  juhtpaneelist käivitatav veekraan panni veega täitmiseks
+- võimaldab külma vee lisamist pannile
+- elektrooniline reguleerimine toimub esipaneelilt
+ | 1
+3A | Töölaud alusriiuliga
+mõõdud: 400 x 800 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg | 1
+4 | Kombiahi, käruga täidetav
+mõõdud:  990 x 830 x 1800mm
+gaas 48kW/ 41280Kcal
+elekter 1,8 kw, 230V
+
+
+
+ | - maht  ahjukäru, millel juhikud 20xGN1/1 nõule  (325x530mm)
+-  boiler (aurugeneraator)
+- programmeeritav
+- aurus küpsetus +30°...+130°C
+- konvektsioonküpsetus +30°...+300°C
+- kombiküpsetus +30°...+300°C
+- käsitsi seadistamise funktsioon 
+- madala temperatuuriga küpsetus
+- viimistlustoiming kolme erineva pruunistusvariandiga
+- AT-Clima funktsioon niiskuse protsendi reguleerimiseks ja kontrollimiseks küpsetamise ajal
+- juhtpaneel paremal
+- LED näidikud
+- pöördnupud valikute kinnitamiseks
+- manuaalne eelsoojendusfunktsioon
+- automaatne niiskuse ärajuhtimise funktsioon
+- valgustus (taimeriga)
+- IPX5 veekaitse
+- karastatud klaasist soojustpeegeldav topelklaasiga uks, sisemine klaas  puhastamiseks eemaldatav
+- ukse hinged vasakul
+- USB liides tarkvara uuendamiseks, retseptide ja andmete siirdamiseks jms
+- CALOUT automaatne katlakivieemaldussüsteem , mis takistab katlakivi teket boileris
+
+KOMPLEKTIS:
+- käru 20xGN1/1, juhikute vahe 60-65mm, tilkvee alus raami alaosas
+- toote sisetemperatuuri andur
+- käsidušš
+- automaatne pesusüsteem, milles 7 valmis programmi
+- ventilaatori kiiruse regulaator
+- GN 1/1-150 perforeeritud, r/v terasest 3 tk
+ | 1
+4.1 | Ahjukäru kombiahjule pos 4 | - valmistatud  roostevabast terasest
+- mahutab GN 1/1-65 nõusid 15tk
+- juhikupaaride vahe 80-85mm
+- GN 1/1 nõud asetatakse ahjukärule lühike külg ees
+- lukustus GN-nõudele siinide otstes
+- 4 ratast, millest 2 on lukustatavad
+- eemaldatav käepide
+- raami alaosas tilkvee alus
+7 | Ühtse tasapinnaga elektripliit
+mõõdud: (700-900) x (700-900) x 900mm
+elekter: 14 kW, 400 V, 50 Hz  | - ühtne kroomitud terasest keeduplaat
+- ühtsel keeduplaadil on neli keedukohta
+ - sujuvalt reguleeritav temperatuur
+- igal keedukohal märgutuli
+- keeduplaadi kroomkate vähendab soojuse kiirguskadusid
+- siledat keeduplaadi pinda on hõlbus puhastada
+ -pliidi äär ja keeduplaat on ühel kõrgusel
+- keeduplaati ümbritseb süvend, mis on vajalik üle keenud vedelike ja pesuvee äravooluks
+- pliidi tagaservas on kõrgendus, mis takistab vedeliku voolamist pliidi taha.
+- allosas alusraam koos sileda alusriiuliga
+- konstruktsioon, alusraam ja alusriiul  roostevabast terasest
+- jalad reguleeritava kõrgusega | 1
+8 | Kiirjahutus- ja külmutuskapp
+mõõdud: 800 x 820 x 1620 mm
+elekter: 1,3 kW, 230 V
+ | - mahutab 10 x GN 1/1 nõud
+- kambri sisekõrgus 870-900 mm
+- kambri siseküljel paiknevad juhikud sobivad GN nõudele ja pagariplaatidele
+- GN nõud asetatakse juhikutele pikem külg ees
+- kambri tagaseinas vähemalt kaks jahutusventilaatorit
+- konstruktsioon, sise- ja väliskorpus roostevaba teras AISI304
+- komplektis toote sisetemperatuuri andur
+- temperatuuri näidik 
+- 4 eelseadistatud programmi 
+- automaatne sulatus ja sulatusvee aurustamine
+- ümardatud sisenurgad
+- hingedel paremakäeline isesulguv uks, käelisus muudetav
+- külmaaine R290
+- temp. -18 ...+70 / +3 ... +70
+- tootlikkus jahutamisprotsessil 40kg/90min/+70°...+3°; 
+- tootlikkus külmutamisprotsessil  28kg/240min/+70°.... -18°C
+- jalad reguleeritava kõrgusega
+- müratase 49dB | 1
+´ 8.1 | Toidu transpordikäru
+mõõdud: 550 x 910 x 1500mm
+elekter 230 V | - sooja toidu säilitamiseks ja transpordiks 
+- konstruktsioon roostevabast terasest
+-  soojusisolatsiooniga kapp
+- maht 14 x GN1/1-65
+- siinide vahe 75-80 mm
+- kapis eemaldatavad siinid, sobivad GN1/1, GN1/2, GN2/3 ja GN1/3 nõudele
+- kapi siseventilaator tagab soojuse ühtlase jaotuse
+ - temperatuuri reguleerimise vahemik +20 °....+90 °
+- uksel temperatuurinäidik
+- lukustatav uks silikoonist tihendiga, mida saab vahetada tööriistu kasutamata
+- uks avaneb küljele ja püsib magneti abil avatuna
+- uksel kiirlukustusega kuumaelement
+- kuumaelemendi eemaldamise järel tohib käru kärupesumasinas pesta
+- puhastatav siseosa, eemaldatavad traatsiinid ja ümardatud sisenurgad
+- suur tõukekäepide
+- kõigis nurkades põrkepuhvrid
+- käru rattad on roostevabad , kaetud kummikattega
+-  kergelt veerevate rataste läbimõõt 125 mm
+- 2 pöörlevat ratast on lukustatavad ja 2 ratast on fikseeritud
+- rattad ja põrkepuhvrid on mitte-määrivast materjalist
+- 1,5 m elektrijuhe koos pistikuga | 1
+10.1. | Alus ol.olevale juurviljatükeldajale
+mõõdud: 600 x 650 x 500mm | - valmistatud tervikuna roostevabast terasest  AISI304
+- aluse esiossa saab paigaldada GN 1/1 nõu 
+ | 1
+12 | Töölaud alusriiuli ja valamuga 
+mõõdud: 1200 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega
+- tagaserva kõrgus 50mm
+- valamu asub vasakul, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                 | 1
+12.1. | Seinariiul r/v terasest, 2 tasapinnaga
+mõõdud: 1200 x 300mm | - valmistatud tervikuna roostevabast terasest AISI304
+- materjali paksus min 1mm
+- maksim.kandevõime 50 kg
+- 2 siledat tasapinda, mille kõrgust saab reguleerida seinale kinnitatavate lattide peal
+- seinalattide mõõdud 300 x 650mm
+- riiuli kandurid | 1
+12.2 | Töölaud alusriiuliga
+mõõdud: 1800 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega 
+- tagaserva kõrgus 50mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg | 1
+13 | Töölaud alusriiuli ja valamuga 
+mõõdud: 2000 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega 
+- tagaserva kõrgus 50mm
+- valamu asub paremal, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                 | 1
+14 | Töölaud alusriiuli ja valamuga 
+mõõdud: 1200 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- valamu asub vasakul, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                 | 1
+14.1 | Lauariiul r/v terasest, 2 tasapinnaga
+mõõdud: 1200 x 300 x 700mm |  - kinnitub pos 14 valamulaua tööpinna peale
+- hügieeniliselt tagatud peitekinnitus otse tööpinnale 
+- valmistatud roostevabast terasest AISI304
+- 4 tugijalga
+- jalad on r/v nelikanttorust mõõtudega 25*25mm
+- riiuli maksim. kandevõime 30kg/m
+- tööpinna ja esimese riiuli vahe 400mm, esimese ja teise riiuli vahe 300mm
+15 | Külmsahtlitega töölaud
+mõõdud: 1600 x 650 x 900mm
+elekter: 0,6 kW, 230 V | -külmlaud on valmistatud roostevabast terasest
+- temperatuur +3°C....+5°C.
+- esipaneelil juhtpaneel digitaalse termostaadiga 
+- külmaagregaat on kiirvahetatav
+- külmaaine R290
+- automaatne sulatus
+- kümme sahtlit mahutavad GN1/1-150
+- sahtlid avanevad 110 protsendiliselt 
+- sahtlite liugurid on varustatud tagasitõmbelukustussüsteemiga ja on kiirvahetatavad
+- sahtlite teleskoopjuhikud on valmistatud r/v terasest
+- reguleeritava kõrgusega jalad (+/- 15mm)
+ | 1
+15.1 | Lauariiul r/v terasest, 2 tasapinnaga
+mõõdud: 1600 x 300 x 700mm |  - kinnitub pos 14 valamulaua tööpinna peale
+- hügieeniliselt tagatud peitekinnitus otse tööpinnale 
+- valmistatud roostevabast terasest AISI304
+- 4 tugijalga
+- jalad on r/v nelikanttorust mõõtudega 25*25mm
+- riiuli maksim. kandevõime 30kg/m
+- tööpinna ja esimese riiuli vahe 400mm, esimese ja teise riiuli vahe 300mm | 1
+16 | Töölaud alusriiuliga
+mõõdud: 1000 x 800 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg | 1
+17 | Töölaud alusriiuli ja valamuga 
+mõõdud: 1600 x 700 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- valamu asub paremal, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                 | 1
+18 | Töölaud alusriiuli ja valamuga 
+mõõdud: 1200 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- valamu asub vasakul, mõõdud 400 x 500 x 250 mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg
+KOMPLEKTIS:
+- pika tila ja pika kangiga segisti ning sifoon                                                                                                                                                                 | 1
+19 | Külmsahtlitega töölaud
+mõõdud: 1200 x 650 x 900mm
+elekter: 0,42 kW, 230 V | -külmlaud on valmistatud roostevabast terasest
+- temperatuur +3°C....+5°C.
+- esipaneelil juhtpaneel digitaalse termostaadiga 
+- külmaagregaat on kiirvahetatav
+- külmaaine R290
+- automaatne sulatus
+- seitse sahtlit GN nõude mõõdus (GN1/1 150 - 6tk ja GN1/1 200 - 1tk)
+- sahtlid avanevad 110 protsendiliselt 
+- sahtlite liugurid on varustatud tagasitõmbelukustussüsteemiga ja on kiirvahetatavad
+- sahtlite teleskoopjuhikud on valmistatud r/v terasest 
+- reguleeritava kõrgusega jalad (+/- 15mm)
+ | 1
+20 | Töölaud alusriiuliga
+mõõdud: 1200 x 650 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tööpind on 4-kihiline pressitud "sandwich" tüüpi, mis on tugev ja müra summutav
+- tööpind koosneb: min 1mm r/v lehtmaterjal, kuumuskindel komposiit, puitlaastplaat, veekindel melamiin
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus 50mm
+- laua alaosas raami külge keevitatud roostevabast terasest sile plaatriiul
+- alusriiuli kõrgus põrandast 200mm
+- alusriiuli maksim. kandevõime 120kg | 1
+21 | Serveerimiskäru 
+mõõdud 750 x 600 x 930mm | - valmistatud tervikuna roostevabast terasest AISI304
+- raamile keevitatud kaks riiulitasapinda
+- riiuli tasapinnad on valtsitud äärtega, et vältida vedelike maha voolamist
+- tasapindade vahe 580 mm
+- tasapindade all müra summutav materjal
+- tasapinna maksim. kandevõime 50 kg
+- varustatud 4 rattaga, millest 2 piduritega
+- rataste diam.100 mm
+- käru kummaski otsas ergonoomiliseks kasutamiseks r/v ümartorust käepide | 3
+30 | Potipesumasin
+mõõdud: 650 x 750 x 1690/2070mm
+elekter: 8 kW, 400 V | - luugil soojus- ja heliisolatsioon, mis tagavad madala pinnatemperatuuri ja mürataseme
+ - luuk on poolitatud kaheks, luuki avades moodustab alumine pool töötasapinna, ülemine pool tõuseb üles
+- 5 pesu pesuprogrammi: 2, 4, 6 ja 12 min ning kasutaja enda poolt programmeeritav 1 pesuprogramm
+- roostevabast terasest pesukorv 550x660 mm
+- sööteava vaba kõrgus 810 mm
+- vanni maht 25 L
+- eemaldatavad pesuvarred roostevabast terasest, loputusotsikud mitteummistuvad
+- jalad reguleeritava kõrgusega
+- müratase 71 dB(A)
+- kasutuspaneel puutenuppude ja suure näidikuga
+Standardvarustuses:
+- survetõstepump, tagab loputusfaasis ühtlase veesurve
+- loputusaine dosaator
+- nõuderest roostevabast terasest
+- söögiriistakorv roostevabast terasest
+- kaante / küpsetusplaatide raam roostevabast terasest
+- settenõu roostevabast terasest
+- vannil on ümardatud sisenurgad puhastamise hõlbustamiseks | 1
+31 | Potipesulaud kahe valamuga 
+mõõdud 1400 x 700 x 900mm | - valmistatud tervikuna roostevabast terasest AISI304
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus min 50mm
+- ühe valamu mõõdud  600 x 500 x 300mm
+- 2 settenõud koos jäätmesõelaga on valmistatud r/v terasest
+- jäätmesõel on tühjendamiseks eemaldatav
+- 2 sulgventiili
+- laua alaosas toruraam eest avatud
+KOMPLEKTIS eelpesudušš (lauamudel)
+Lauakinnitusega dušš, nuppudega segisti ja jooksutoruga
+- käepidemega pritspüstol (käepidet alla vajutades hakkab dušš tööle ning vedru taastab käepideme algasendi)
+- dušši ülemine osa on toestatud seinakinnitusega | 1
+32 | Jäätmekäru
+mõõdud: 290 x 560 x 660mm | `-raam ja põhi roostevabast terasest 
+- käepide eemaldatav
+- kuullaagritega rattad, Ø 75 mm, kahel rattal pidurid
+- jäätmenõu ja kaas plastikust, kaanes ava Ø150 mm
+- jäätmenõu maht 60 ltr | 1
+33 | Riiulkäru
+mõõdud: 970 x 480 x 1600mm | `-korpus roostevabast terasest
+ - plastmassist restriiulid, saab pesta nõudepesumasinas
+ - rataste läbimõõt 125 mm, kahel rattal pidurid 
+ - neli riiulit, nende vahe 370 mm
+ - riiulite suurus 450 x 900 mm
+ - riiuli maksim. kandevõime 120 kg | 1
+34 | Põrandariiul
+mõõdud: 1300 x 500 x 1800mm |  - valmistatud roostevabast terasest AISI304
+- 4 raami külge keevitatud riiulitasapinda
+- tugevad jalad on r/v nelikanttorust mõõtudega 25*25mm
+- jalad reguleeritava kõrgusega, amplituud 30 mm (+25/-5mm)
+- riiuli maksim. kandevõime 120kg/tasapind | 1
+40 | Nõude tagastussektsioon ülariiuli ja kandikurajaga
+mõõdud: 2800 x 1500 x 900/ 1940mm | ´-valmistatud tervikuna roostevabast terasest AISI304
+- avatud alusraam
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- suur valamu  on varustatud r/v terasest valmistatud settenõu ja jäätmesõelaga
+- jäätmesõel on tühjendamiseks eemaldatav
+- personali poolsel osal valamu kohal puhastamiseks eemaldatav r/v terasest raam koos vabalt pöörlevate plastrullikutega
+- kliendi poolsel osal valamu kohal puhastamiseks eemaldatav  r/v terasest raam nõudepesukorvide toestamiseks
+- nõudepesukorvid saab takistuseta tõmmata kliendi poolselt alalt personali poolsele alale ja lükata mööda rullikuid üle eelpesulaua tunnelnõudepesumasinasse
+- toidujäätmete loputussüsteem, vee temp. reguleeritav 
+- settenõu 2tk 
+- 1 ülariiul tühjade pesukorvide hoiustamiseks koos otsa ja vahetugedega vältimaks korvide ümberkukkumist
+- iga vahe mahutab kolm korvi, vahe laius ca 330mm
+- kandikurada on kinnitatud tagastussektsioonile täies pikkuses kliendipoolsel osal 4000 mm (2800 ja 1200 mm)
+- kandikurada  valmistatud r/v terasest plekist, sile pind
+KOMPLEKTIS:
+Pesupüstol koos voolikuhoidikuga
+ - vooliku pikkus 8 m
+- vooliku automaatne tagasi kerimine
+- pesupüstolil veejoa reguleerimise võimalus
+Segisti pesupüstolile
+Sifoon 2 tk | 1
+42 | Biojäätmekapp 2-le nõule
+mõõdud: 800 x 650 x 900 mm |  - valmistatud roostevabast terasest AISI304
+- Kapi kere 1,0mm paksusest roostevabast lehtmaterjalist
+- tugevad jalad on r/v nelikanttorust
+- jalad on reguleeritava kõrgusega
+- jäätmeava koos eemaldatava rõngaga Ø 200mm
+- kaks hingedel ust, mis avanevad üle 90°
+- uksed magnettihendiga
+- KOMPLEKTIS  kaks 30 ltr jäätmenõud
+ | 2
+43 | Eelloputuslaud 
+mõõdud: 1000 x 700 x 900mm
+
+
+
+
+ |  - eelloputus asub mustade toidunõude tagastussektsiooni ja nõudepesumasina etteande-sööte laua vahel
+- laua mõlema otsa liiteühendused lihtsustavad korvi sujuvat liikumist nõudepesumasinasse
+- kogu pinna ulatuses uks suur valamu
+- valamu sügavus min 250 mm
+- kogu valamu ulatuses lühikesed rullikud
+- valamu põhjas settenõu ja sulgventiil
+- settenõu koos jäätmesõelaga on valmistatud r/v terasest
+- jäätmesõel on tühjendamiseks eemaldatav
+- liides tagastussektsiooni- ja nõudepesumasina etteandelauaga
+- tagaserv
+- valmistatud roostevabast terasest AISI304
+- tugevad jalad on r/v nelikanttorust mõõtudega 40x40mm
+- jalad on reguleeritava kõrgusega
+ 
+KOMPLEKTIS
+Eelpesudušš nuppudega segisti ja jooksutoruga
+- käepidemega pritspüstol (käepidet alla vajutades hakkab dušš tööle ning vedru taastab käepideme algasendi)
+Sifoon 1tk | 1
+44 | Tunnelnõudepesumasin
+mõõdud: peab mahtuma projekteeritud asukohta
+elektrivõimsus 20 kW 400V  |  - kahe kiirusega tunnelnõudepesumasin 83/107 korvi/h 
+- vastab DIN10510 nõuetele nii pesuaegade kui ka temperatuuri poolest
+- elektrooniline juhtpaneel
+- loputusvee temperatuur +85°C
+- masina korpus r/v terasest AISI 304
+- pesupaagid ja boilerid happekindlast r/v terasest AISI 316
+- pesupaak ümardatud nurkadega parima hügieeni tagamiseks
+- isepuhastuvad pesupumbad
+- r/v terasest pesu- ja loputusvarred
+- r/v terasest pesupaagisõelad
+- r/v terasest reguleeritavad jalad
+- suured sööteavad
+- kahekordse isolatsiooniga seinad
+- häda/stopp lüliti
+- veetaseme ja temperatuuri kontroll
+- sobib nõudepesukorvidele 500*500 mm, GN nõudele 530*325 mm ja
+taldrikutele diam. kuni 450 mm
+- r/v terasest filtrid hoiavad pesuvee puhtamana, lisaks erifilter suurema sodi eraldamiseks
+- spetsiaalsed "kardinad" nõudepesukorvi tunnelisse sisenemisel ja väljumisel ning  erinevate tsoonide vahel takistavad erinevate veevannide saastumist ja vee pritsimist masinast välja
+- säästev süsteem igas tsoonis, st masin töötab vaid siis kui nõudekorv on vastavas tsoonis. Vee ja energia kokkuhoid 
+KOMPLEKTIS:
+taldrikute pesukorv 500x500mm 12 tk
+söögiriistade pesukorv 1 tk
+tassikorv 500x500mm  10 tk
+
+ | 1
+44.1 | Konveierpöörang
+tunnelnõudepesumasinasse
+mõõdud: peab mahtuma projekteeritud asukohta | -seade asub eelpesulaua ja tunnelnõudepesumasina vahel
+- nurgamudel
+- söötemehanism ühendatakse tunnelnõudepesumasina korvitransportööriga 
+- töötab sünkroonis tunnelnõudepesumasinaga
+- seadmele mahub korraga 1 nõudepesukorv mõõdus 500x500mm
+- valmistatud roostevabast terasest AISI304
+- tugevad jalad on r/v nelikanttorust 
+- jalad on reguleeritava kõrgusega
+45 | Kuivatusrada alusriiuli ja pikkade rullidega
+mõõdud: 1600 x 600 x 900mm |  - valmistatud roostevabast terasest AISI304
+- tugevad jalad on r/v nelikanttorust mõõtudega 40x40mm
+- jalad on reguleeritava kõrgusega, amplituud 30 mm (+25/-5mm)
+- kuivatusraja all täies pikkuses valamu, mille põhjas äravool
+- valamu kohal kohu ulatuses mustust hülgavast tugevast plastikust pikad rullid
+- raja all on vann äravooluga
+- raja lõpus vasakul lõpulüliti, mis seiskab nõudepesumasina raja täitumisel nõudepesukorvidega
+- liides tunnelnõudepesumasinale paremal
+- allosas sile riiul, maksim kandevõime 120 kg
+KOMPLEKTIS:
+Lõpulüliti | 1
+46 | Korvikäru nõudepesukorvidele
+mõõdud: 570 x 500 x 1700mm |  - valmistatud roostevabast terasest AISI304
+- tugevad jalad on r/v nelikanttorust mõõtudega 25*25mm
+- tugiraamile keevitatud 6 paari juhikuid
+- juhikute vahe 240-250 mm
+- juhikutel üks ots üles keeratud
+- maht 6 nõudepesukorvi 500x500mm
+- neljast rattast kahel on pidurid
+- kergelt liikuvad rattad
+ | 1
+47 | Põrandariiul
+mõõdud: 1200 x 500 x 1800mm |  - valmistatud roostevabast terasest AISI304
+- 4 raami külge keevitatud riiulitasapinda
+- tugevad jalad on r/v nelikanttorust mõõtudega 25*25mm
+- jalad on reguleeritava kõrgusega, amplituud 30 mm (+25/-5mm)
+- riiuli maksim. kandevõime 120kg/tasapind | 3
+50 | Kartulikoorimismasin
+mõõdud 530 x 650 x 950 mm
+elekter 0,9 kW 400V  | - ühekordne täitmine 18 kg
+- põrandamudel
+- tootlikkus 500 kg/h
+- kiirus 320 pööret/min
+- korpus roostevabast  terasest 
+- läbipaistev polükarbonaadist kaas
+- tühjendusluuk
+- turvalüliti täitmiskaanel ja tühjendusluugil
+- digitaalne  taimer
+- digitaalne paneels
+- abrasiivsein ja abrasiivpõhjaplaat on vahetatavad
+- alusraam ehk jalad roostevaba terasest
+- seadme all puhastamiseks eemaldatav roostevabast terasest jäätmekast
+- tööks vajalik vajalik veesurve 0,2-10 bar
+- tööks vajalik vee temperatuur +5°...+20°C
+Seade kinnitatakse põrandasse 
+ | 1
+51 | Valamukäru
+mõõdud: 600 x 600 x 700mm |  - valmistatud roostevabast terasest AISI304
+- valamu sügavus 300mm
+- valamu põhjas äravool ja sulgkraan
+- rataste läbimõõt 100 mm, kahel rattal pidurid
+
+KOMPLEKTIS eelpesudušš (seinamudel) joonisel pos 52
+Seinakinnitusega dušš, kangiga segisti ja jooksutoruga
+- käepidemega pritspüstol (käepidet alla vajutades hakkab dušš tööle ning vedru taastab käepideme algasendi)
+- dušši ülemine osa on toestatud seinakinnitusega
+ | 2
+53 | Töölaud alusriiuli ja kahe valamuga 
+mõõdud: 2000 x 700 x 900mm
+
+
+
+
+
+
+
+ | - valmistatud tervikuna roostevabast terasest AISI304
+- tugevad laua jalad on r/v nelikanttorust mõõtudega 40*40mm
+- jalad reguleeritava kõrgusega +30/- 35 mm
+- tagaserva kõrgus min 50mm
+- ühe valamu mõõdud  600 x 450 x 250mm
+- 2 settenõud koos jäätmesõelaga on valmistatud r/v terasest
+- jäätmesõel on tühjendamiseks eemaldatav
+- 2 sulgventiili
+- paremal, valamute all  toruraam eest avatud, 
+- vasakul roostevabast terasest plaatriiul, kõrgus põrandast 200mm
+KOMPLEKTIS eelpesudušš (lauamudel) 
+Lauakinnitusega dušš, nuppudega segisti ja jooksutoruga
+- käepidemega pritspüstol (käepidet alla vajutades hakkab dušš tööle ning vedru taastab käepideme algasendi)
+- dušši ülemine osa on toestatud seinakinnitusega | 1
+60 | Külmkapp,
+mõõdud 740 x 870 x 2100 mm
+elekter 230V 
+ |  - valmistatud roostevabast terasest AISI304
+- tugevad reguleeritavad jalad roostevabast terasest
+- maht ca 550 l
+- säilitustemperatuur 0..+10°C
+- elektrooniline termostaat, ülemine ja alumine temperatuur reguleeritavad
+- sise- ja välispinnad on roostevabast terasest 
+- seinaäärse asukoha tõttu võib välimine tagasein olla galvaniseeritud terasest
+- külmaaine R290
+- hermeetiline, õhkventileeritav külmaseade kapi ülaosas
+- ventilaatoraurusti automaatse sulatamise ja sulamisvee aurustamisega
+- manuaalse sulatamise nupp
+- kapi põhjas asub pesemise hõlbustamiseks äravool
+- ümarad sisenurgad
+- polüuretaanisolatsiooni paksus 70mm
+- r/v terasest restriiulid lihtsalt eemaldatavad, siinide reguleerimise vahemik 55 mm
+- ukse hinged vasakul, lukustatav uks
+- ukse käepide ukse täies ulatuses
+- ukse käelisust saab muuta 
+- ukse tihendid lihtsalt eemaldatavad
+KOMPLEKTIS
+- 4 tk r/v terasest restriiulit GN 2/1 nõudele
+- 4 paari r/v terasest riiulikandurid | 2
+62 | Külmkamber, mõõdud 1700 x 2300 x 2200 mm, välisagregaadiga hoone katusel, kaugus kambritest ca 12 m,
+elekter 0,98 kW 230V |  - temp. +2...+4ºC 
+- sandwich paneel 80 mm, 
+- isolatsioonimaterjal polüuretaan
+- 1 tk tavakambri uks, ukse hinged vasakul
+- kambris valgusti
+- elektrooniline kontroll
+- digitaalne näidik
+- automaatne sulatus
+- ventilaatorjahutus
+KOMPLEKTIS
+Külmkambri viimistlusplekid, paigaldusmaterjalid
+Põrandariiulid kahes seinas, 4 tasapinda, pikkus 1200, kõrgus 1800, sügavus 400mm
+ | 2
+64 | Põrandariiul
+mõõdud: 1800 x 400 x 1800mm |  - valmistatud roostevabast terasest AISI304
+- 4 raami külge keevitatud riiulitasapinda
+- tugevad jalad on r/v nelikanttorust mõõtudega 25*25mm
+- jalad on reguleeritava kõrgusega
+- riiuli maksim. kandevõime 120kg/tasapind | 2
+65 | Koristusvahendite kapp 
+mõõdud 600x600x1850mm | ´- valmistatud tervikuna roostevabast terasest AISI304
+- materjali paksus min 1mm
+- tugevad laua jalad on r/v nelikanttorust 
+- jalad reguleeritava kõrgusega
+- kapi uksel magnet
+- kapis valamu  
+- valamu äravool 1½ ″
+- valamu kohal kaks siledat plaatriiulit
+- riiulite kõrgus toetuslattide peal reguleeritav
+- riiuli tasapindade reguleerimisvahemik 25 mm
+- harjahoidja
+- käterätihoidja
+- kapi põhi ja lagi perforeeritud
+KOMPLEKTIS segisti ja sifoon | 1
+65.1 | Kapp riiulitega 600x600x1850mm |  valmistatud tervikuna roostevabast terasest AISI304
+- materjali paksus min 1mm
+- tugevad laua jalad on r/v nelikanttorust
+- jalad reguleeritava kõrgusega
+- kapi uksel magnet
+- kapis viis siledat plaatriiulit
+- riiulite kõrgus toetuslattide peal reguleeritav
+- riiuli tasapindade reguleerimisvahemik 25 mm | 1
+67 | Kaubakaal
+elektriühendus 230V | - põrandamudel
+- roostevaba kaaluplatvorm 420 x 540 mm
+- reguleeritavad jalad
+- LCD näidik kinnitatud ca 70 cm posti külge 
+- LCD näidik on taustavalgustusega ja selgelt loetav min 52 mm suuruste numbritega
+- taadeldav
+- taara funktsioon
+- pritsmekindel klahvistik
+- taara-, nullimise- ja on/off -nupud
+ - teavitab kui aku tühjeneb/ laadib
+- täpsus 50 g
+- max. koormus 150kg
+- sobilik kasutamiseks kui ruumi temperatuur -10°C...40°C, niiskuse tase <85%
+KOMPLEKTIS:
+- võrguseade
+- laetav aku | 2
+68 | Kätepesuvalamu
+mõõdud: 432x368x140mm | - valmistatud roostevabast terasest
+- seinakinnitus
+KOMPLEKTIS:
+- lühikese jooksutoru ja lühikese kangiga segisti
+- sifoon
+69 | Puhastusseade  | - puhastus- ja desinfitseerimisseade tugevalt määrdunud pindade
+- seade annustab puhastusainet täpsetes kogustes
+- loputamine veega
+- reguleeritav dušš
+- tagaslöögiklapp
+- vaakum klapp
+- 15 m voolik
+ | 1
+75 | Klaasi- ja tassikorvide käru vedrusüsteemiga | - mahutab klaasi/tassikorve mõõdus  500x500mm 5 tk
+- valmistatud roostevabast terasest AISI304
+- varustatud tasapinda tõstva vedrusüsteemiga, mis on reguleeritav vastavalt korvide raskusele
+- maksimaalne kandevõime 50 kg
+- vedrusüsteem on vastavalt ohutusnõuetele peidetud karkassi sisse
+- vedrude pingutamiseks tagapaneel eemaldatav
+- kärul ülaosas kogu laiuses tõukekäepide
+- välisnurkades põrkekaitse
+- neljast rattast kahel on pidurid
+- kergelt liikuvad rattad | 1
+Kokku
+Käibemaks 20%
+Kokku koos käibemaksuga

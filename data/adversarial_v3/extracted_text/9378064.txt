@@ -1,0 +1,661 @@
+=== 9378064_300919_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 300919
+Hankija:Siseministeeriumi infotehnoloogia- ja arenduskeskus (70008440)
+Hange:Kriminalistikaline multimeedia failide uurimise tarkvara või tarkvarapere litsentsi ostmine
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Pakkumuse kogumaksumus Palun märkida litsentsi kogumaksumus Maksumus - 100 jah
+vastavalt lisale 2 Tehniline kirjeldus. vähim on parim
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Pakkumuse kogumaksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 08.01.2026 10:21:55 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9378064/general-info
+
+=== 9378064_300919_korvaldamise_alused_ja_kvalifitseerimistingimused.pdf ===
+1/1
+KÕRVALDAMISE ALUSED JA
+KVALIFITSEERIMISTINGIMUSED
+Viitenumber: 300919
+Hankija: Siseministeeriumi infotehnoloogia- ja arenduskeskus (70008440)
+Hange: Kriminalistikaline multimeedia failide uurimise tarkvara või tarkvarapere
+litsentsi ostmine
+KÕRVALDAMISE ALUSED
+KÕRVALDAMISE ALUSTE PUUDUMINE / HEASTAMISMEETMETE ESITAMINE
+Hankija kontrollib edukal pakkujal vastavalt RHS § 125 toodule RHS § 95 lg 1 kõrvaldamise
+aluseid enne lepingu sõlmimist. RHS § 95 lg 1 nimetatud kõrvaldamise aluste kontroll toimub
+riigihangete registri liidese ja sanctionsmap.eu abil. Kui andmed ei ole hankijale päringute
+kaudu kättesaadavad, siis nõuab hankija edukalt pakkujalt enne hankelepingu sõlmimist kõikide
+asjakohaste andmete või dokumentide esitamist. Ühispakkujate kohta antakse kinnitus kõikide
+ühispakkujate kohta. Juhul, kui pakkujaks on filiaal, siis kõrvaldamise aluste puudumist kinnitab
+filiaal ning hankija nõudmisel esitatakse enne lepingu sõlmimist tõendid välisriigi äriühingu
+kohta, mis tõendavad kõrvaldamise aluste puudumist.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Kas pakkuja kinnitab, et tema suhtes puuduvad RHS § 95 lg 1 nimetatud kõrvaldamise alused?
+(Raadionupp valikutega "Jah/Ei")
+2) Kui pakkujal esineb vähemalt üks RHS § 95 lõike 1 punktides 1-3 ja 5 nimetatud alus, peab pakkuja
+esitama hankija nõudmisel RHS § 97 kohased ja põhjendatud heastamismeetmed iga sellise esineva
+asjaolu kohta. Kas kinnitate tingimuse ülevõtmist? (Raadionupp valikutega "Jah/Ei")
+Koostatud 18.12.2025 10:40:39
+https://riigihanked.riik.ee/rhr-web/#/procurement/9378064/general-info
+
+=== 9378064_300919_vastavustingimused.pdf ===
+1/3
+VASTAVUSTINGIMUSED
+Viitenumber: 300919
+Hankija: Siseministeeriumi infotehnoloogia- ja arenduskeskus (70008440)
+Hange: Kriminalistikaline multimeedia failide uurimise tarkvara või tarkvarapere
+litsentsi ostmine
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+2. Pakkumuste jõusoleku tähtaeg on 3 kuud. Kas pakkuja kinnitab, et on pakkumus on jõus 3
+kuud? (Raadionupp valikutega "Jah/Ei")
+3. Pakkuja esitab hankelepingu täitmise alustamise ajaks iga oma alltöövõtja nime, registrikoodi,
+kontaktandmed, teabe nende seaduslike esindajate kohta ning alltöövõtulepingu nimetuse,
+kuupäeva, numbri ja summa. Samad andmed esitab täitja iga hankelepingu täitmisel lisanduva
+alltöövõtja kohta. (Raadionupp valikutega "Jah/Ei")
+4. Riigihankes saavad osaleda ainult pakkujad või taotlejad, kelle elu- või asukoht on Eestis,
+mõnes muus Euroopa Liidu liikmesriigis, muus Euroopa Majanduspiirkonna lepinguriigis või
+Maailma Kaubandusorganisatsiooni riigihankelepinguga ühinenud riigis. Nõuet rakendatakse ka
+ühispakkujate ja alltöövõtjate suhtes. Pakkuja kinnitab, et tema (samuti ühispakkujate ja
+võimalike alltöövõtjate) elu- või asukoht on Eestis, mõnes muus Euroopa Liidu liikmesriigis,
+muus Euroopa Majanduspiirkonna lepinguriigis või Maailma Kaubandusorganisatsiooni
+riigihankelepinguga ühinenud riigis. (Raadionupp valikutega "Jah/Ei")
+ANDMED LEPINGU SÕLMIMISEKS
+Pakkuja esitab andmed lepingu sõlmimiseks, mida kasutatakse juhul, kui pakkumus tunnistatakse
+edukaks.
+Küsimused ettevõtjale:
+1. Pakkuja esitab andmetena: 1. ettevõtte aadress; 2. lepingu allkirjastaja nimi; 3. alus lepingu
+allkirjastamiseks (juhatuse liige, volikiri vm); 4. lepingu allkirjastaja ametinimetus; 5. pakkuja
+kontaktisik lepingu täitmisel (nimi, ametinimetus, telefoni number ja e-posti aadress); 6. ettevõtja
+arvelduskonto number. (Suur sisestusala (max pikkus 4000 tähemärki))
+PAKKUJA ESINDAJAD
+Pakkuja esitab isikute andmed, kellel on volitus ettevõtjat esindada, tema nimel otsuseid teha või
+teda kontrollida ning kelle olemasolu ei ajastu äriregistris. Pakkuja esitab nende isikute ees- ja
+perekonnanime, isikukoodi ning esinduse alusel, et hankija saaks nende suhtes läbi viia
+kõrvaldamise aluste kontrolli vastavalt RHS § 95 lg 1 p-dele 1-3.
+Küsimused ettevõtjale:
+1. Kas pakkujal on isikuid, kellel on volitus ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, ning kelle olemasolu ei kajastu äriregistris. Pakkuja esitab eelpool nimetatud isikute
+ees- ja perekonnanime, isikukoodi ning esinduse aluse. (Suur sisestusala (max pikkus 4000
+tähemärki))
+Koostatud 07.01.2026 14:34:39
+https://riigihanked.riik.ee/rhr-web/#/procurement/9378064/general-info
+2/3
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+EL NÕUKOGU SANKTSIOON. ALLTÖÖVÕTJAD JA TARNIJAD.
+Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on:
+1. Vene Föderatsiooni kodanik, resident või Vene Föderatsioonis asutatud ettevõtja, sh füüsilisest
+isikust ettevõtja, juriidiline isik, asutus või muu üksus;
+2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või muu
+üksuse omandis;
+3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või tegutseb sellise isiku
+juhiste alusel.
+Koostatud 07.01.2026 14:34:39
+https://riigihanked.riik.ee/rhr-web/#/procurement/9378064/general-info
+3/3
+Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav hankeleping oleks RSanS § 7 lg 1 alusel
+tühine.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on: 1. Vene Föderatsiooni kodanik, resident või Vene
+Föderatsioonis asutatud ettevõtja, sh füüsilisest isikust ettevõtja, juriidiline isik, asutus või muu
+üksus; 2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või
+muu üksuse omandis; 3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või
+tegutseb sellise isiku juhiste alusel. (Raadionupp valikutega "Jah/Ei")
+RAHVUSVAHELISE SANKTSIOONI OBJEKT
+Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks või pärit
+sanktsiooni all olevatest piirkondadest. Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav
+hankeleping oleks RSanS § 7 lg 1 alusel tühine.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks ega pärit
+sanktsiooni all olevatest piirkondadest. (Raadionupp valikutega "Jah/Ei")
+LITSENTSI MÜÜMISE ÕIGUS
+Pakkuja peab omama tootjapoolset hankelepingu eseme müügi õigust Eesti Vabariigi
+territooriumil. Pakkuja esitab vastava õiguse olemasolu tõendamiseks dokumendi koopia või viite
+tootja või koostööpartneri veebilehele.
+Eesti Vabariigis tootja esindamise õiguse olemasolu loetakse tõendatuks ka juhul, kui see on
+antud tootja esindamiseks Euroopa Liidus ja/ või on tõendatud pakkuja koostööpartneri kaudu.
+Koostööpartneri kaudu esindusõiguse tõendamisel tuleb esitada:
+1. koostööpartnerile tootja poolt antud esindusõiguse olemasolu kinnitus või viide tootja
+veebilehele (vabas vormis dokument), JA LISAKS
+2. koostööpartneri kinnitus või viide koostööpartneri kodulehele koostöö kohta pakkujaga (vabas
+vormis dokument).
+Küsimused ettevõtjale:
+1. Tõend/viide veebilehele, mis tõendab litsentsi müügi õigust. (Vabas vormis dokument)
+Koostatud 07.01.2026 14:34:39
+https://riigihanked.riik.ee/rhr-web/#/procurement/9378064/general-info
+
+=== 9378064_Lihthankemenetluse_kord_ja_riigihanke_alusdokumendid_lihthankemenetluses_Kriminalistikaline_multimeedia_failide_uurimise_tarkvara_voi_tarkvarapere_litsentsi_ostmine__300919_.pdf ===
+16.01.2026 nr 3-14/1
+Lihthankemenetluse kord ja riigihanke alusdokumendid lihthankemenetluses
+"Kriminalistikaline multimeedia failide uurimise tarkvara või tarkvarapere litsentsi
+ostmine" (300919)
+1. Lihthankemenetluse kord ja riigihanke alusdokumendid (RHAD) koosnevad põhitekstist ja
+järgmistest lisadest:
+Lisa 1 – Hankelepingu projekt;
+Lisa 1.1 – SMIT töövõtu-, käsundus- ja müügilepingute üldtingimused (kättesaadavad
+aadressil https://www.smit.ee/files/2025-11/smiti-kaesundus-toeoevotu-ja-
+mueuegilepingute-ueldtingimused-17.11.2025-.pdf?0e5a56c3e2);
+Lisa 2 – Tehniline kirjeldus;
+Lisa 3 – Kinnitus pakkuja(te) kõrvaldamise aluste puudumise kohta (eRHR vorm);
+Lisa 4 – Vastavustingimused (eRHR vorm);
+Lisa 4.1 – Ühispakkujate volikirja vorm;
+Lisa 5 – Hindamiskriteeriumid ja hinnatavad näitajad (eRHR vorm);
+Lisa 6 – Hanketeade (eRHR vorm).
+2. Lihthanke tingimused
+2.1. Lihthankemenetluse läbiviimisel lähtutakse RHADst.
+2.2. Hankija kohaldab RHS § 125 lõike 5 kolmandas lauses sätestatud paragrahve niivõrd, kui
+need on käesolevas dokumendis toodud, muus osas hankija nimetatud paragrahve ei
+kohaldata.
+2.3. Hankija ootus huvitatud isikutele on, et pakkujad teavitaks hankijat aegsasti RHR kaudu
+RHADs avastatud vigade, ebatäpsuste ja ebaselguste parandamiseks.
+2.4. Lihthankel saavad osaleda ainult pakkujad või taotlejad, kelle elu- või asukoht on Eestis,
+mõnes muus Euroopa Liidu liikmesriigis, muus Euroopa Majanduspiirkonna
+lepinguriigis või Maailma Kaubandusorganisatsiooni riigihankelepinguga ühinenud
+riigis.
+2.5. RHR üldandmetesse/hanketeate lahtris "hankelepingu eeldatav kestus" määratud
+kuupäev tähendab lepingu kehtivust, mitte üksnes täitja kohustuste täitmise tähtaega ning
+lähtub seetõttu nii täitja kui tellija/maksja kohustuste nõuetekohase täitmise tähtaegadest,
+sh hankija arve tasumiseks kuluvat aega. Pakkujal tuleb lepingu sõlmimise korral lähtuda
+enda kohustuste tähtaegsel täitmisel lepingu projektis või tehnilises kirjelduses määratud
+täitmise/lepingu eseme tarnimise tähtajast.
+2.6. Täitja esitab hankelepingu täitmise alustamise ajaks iga oma alltöövõtja nime,
+registrikoodi, kontaktandmed, teabe nende seaduslike esindajate kohta ning
+Siseministeeriumi infotehnoloogia- ja arenduskeskus Telefon 612 6200 Reg. kood 70008440
+Mäealuse 2/2, Tallinn 12618 E-post smit@smit.ee www.smit.ee
+2(5)
+alltöövõtulepingu nimetuse, kuupäeva, numbri ja summa. Samad andmed esitab täitja iga
+hankelepingu täitmisel lisanduva alltöövõtja kohta.
+3. Lepingu eseme tehnilise kirjelduse lugemine
+3.1. Iga viidet, mille hankija teeb käesoleva hankega seotud RHADs ostuallikale, protsessile,
+kaubamärgile, patendile, tüübile, päritolule, märgisele või tootmisviisile, tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“.
+3.2. Samaväärsuse pakkumisel peab pakutav lahendus ühtima hankija olemasolevate
+süsteemidega ning toote ja/või teenuse hind peab sisaldama kõiki migreerimisega seotud
+lisatasusid. Pakkumus peab vastama esitatud nõuetele või olema sellega vähemalt
+samaväärne, kuid ühilduma olemasoleva lahendusega. Pakkuja esitab samaväärsust
+tõendavad tõendid või andmed. Pakkumuse samaväärsust kontrollivad ja hindavad
+hankija vastavate erialateadmistega töötajad.
+4. Pakkumus
+4.1. Kui esitatavate dokumentide koosseisus on kolmanda osapoole poolt kirjalikult
+allkirjastatud dokumente, võib esitada dokumendi skaneeritud kujul ning
+originaaldokument esitada ainult juhul, kui hankijal on tekkinud kahtlus dokumendi osas.
+4.2. Pakkumus on pakkuja tahteavaldus lepingu sõlmimiseks, mis on pakkujale siduv alates
+pakkumuste esitamise tähtpäevast vähemalt kuni RHADs määratud pakkumuse jõusoleku
+minimaalse tähtaja lõppemiseni. Pakkumuse esitamisega kinnitab pakkuja kõigi RHADs
+esitatud tingimuste üle võtmist.
+4.3. Kui pakkuja esitab pakkumuste esitamise tähtaja jooksul uue pakkumuse, ei muutu tema
+eelnevalt esitatud pakkumus seetõttu kehtetuks. Pakkuja võib pakkumuse enne
+pakkumuste esitamise tähtpäeva tagasi võtta. Kui pakkumus või selle osa ei ole esitatud
+elektrooniliselt, esitab pakkuja pakkumuse tagasivõtmiseks hankijale pakkumusega
+samas vormis sellekohase teate.
+4.4. Pakkumus peab vastama RHADs sätestatud tingimustele.
+Tingimusliku pakkumuse esitamine ei ole lubatud. Hankija ei käsitle läbiräägitavaid
+tingimusi sisaldavat pakkumust tingimusliku pakkumusena.
+4.5. Alternatiivseid lahendusi ei ole lubatud pakkuda.
+4.6. Pakkumuse maksumused tuleb esitada eurodes täpsusega kuni kaks kohta pärast koma.
+4.7. Pakkumuse maksumuses kajastatud summad on hankijale lõplikud, sh sisaldavad tasusid
+või muid makse, v.a käibemaksu, mis kajastatakse eraldi, ning selles toodud summadele
+ei lisandu täiendavaid väljamakseid ega kulutusi. 0 või negatiivse väärtusega maksumusi
+ei ole lubatud kasutada ja sellised pakkumused on hankijal õigus tunnistada
+mittevastavaks ning tagasi lükata.
+4.8. Hankija avab pakkumused RHADs näidatud ajal. Pakkumuste avamise protokolli ei
+koostata.
+4.9. Pakkumuste jõusoleku tähtaja pikendamisele kohaldatakse RHS § 112 sätestatut.
+5. Ühispakkumuse esitamine ja teise isiku vahenditele tuginemine
+5.1. Teise isiku vahenditele tuginemisel tuleb pakkumuses esitada kinnitused kohustuslike
+kõrvaldamise aluste puudumise (§ 95 lg 1) ja nendele kvalifitseerimise tingimustele
+vastamise kohta, mille osas isiku näitajatele tuginetakse.
+5.2. Juhul, kui pakkujaks on filiaal, siis kõrvaldamise aluste puudumist kinnitab filiaal ning
+hankija nõudmisel esitatakse enne lepingu sõlmimist tõendid välisriigi äriühingu kohta,
+mis tõendavad kõrvaldamise aluste puudumist.
+3(5)
+6. Pakkuja kõrvaldamine ja kõrvaldamise aluste kontrollimine
+6.1. Hankija kontrollib pakkuja kõrvaldamise aluste puudumist ja kvalifikatsiooni vastavust
+RHADs toodud tingimustele.
+6.2. Hankija võib hinnata pakkumusi enne pakkumuste vastavuse või pakkujate suhtes
+kõrvaldamise aluste puudumise ja kvalifikatsiooni kontrollimist. Sellisel juhul kontrollib
+hankija pakkumuse vastavust, pakkuja kvalifikatsiooni nende tingimuste olemasolul ja
+RHS § 95 lõikes 1 sätestatud kõrvaldamise aluste puudumist vaid edukal pakkujal pärast
+tähtaegselt laekunud pakkumuste hindamist.
+6.3. Juhul, kui hankija ei rakenda punktis 6.2 menetlust, siis kontrollib hankija esmalt
+tähtaegselt laekunud pakkumuste vastavust ning seejärel hindab neid. Pärast hindamise
+tulemusel eduka pakkuja väljaselgitamist ning enne lepingu sõlmimist kontrollib hankija
+eduka pakkuja kvalifikatsiooni nende tingimuste olemasolul ning RHS § 95 lõikes 1
+sätestatud kõrvaldamise aluste puudumist. Juhul, kui pakkujal esineb vähemalt üks RHS
+§ 95 lõike 1 punktides 1–3 ja 5 nimetatud alustest, peab pakkuja esitama hankija
+nõudmisel RHS § 97 kohased ja põhjendatud heastamismeetmed iga sellise esinenud
+asjaolu kohta.
+6.4. Hankijal on õigus sisuliselt kontrollida pakkuja kõrvaldamise aluste puudumist ja tema
+kvalifikatsiooni kogu riigihanke vältel.
+6.5. Hankija võib pakkujalt nõuda kõrvaldamise aluste kontrollimiseks vajalikke dokumente
+või esitatud dokumentide sisu kohta selgitust või selgitamist võimaldavaid andmete või
+dokumentide esitamist hiljemalt 5 (viie) tööpäeva jooksul, kui need andmed ei ole
+hankijale andmekogus olevate avalike andmete põhjal oluliste kulutusteta kättesaadavad.
+6.6. Kui pakkuja või taotleja ei esita hankija antud tähtajaks kõrvaldamise aluste
+kontrollimiseks vajalikke dokumente või selgitusi esitatud dokumentide sisu kohta või
+selgitamist võimaldavaid andmeid või dokumente ja need andmed või dokumendid ei ole
+hankijale andmekogus olevate avalike andmete põhjal oluliste kulutusteta kättesaadavad,
+kõrvaldab hankija pakkuja riigihankest põhjendatud otsusega.
+6.7. Kui pakkujal esinevad kõrvaldamise alused, kõrvaldab hankija pakkuja riigihankest ja
+teeb sellekohase põhjendatud kirjaliku otsuse.
+6.8. Juhul, kui eduka pakkuja pakkumus on mittevastav või tema kvalifikatsioon ei vasta
+tingimustele või esineb RHS § 95 lg 1 toodud kõrvaldamise alus, teeb hankija otsuse
+tuvastatu kohta ning hindab pakkumusi uuesti eduka pakkuja väljaselgitamiseks ja teostab
+eduka pakkuja kvalifikatsiooni ja kõrvaldamise aluste kontrolli.
+6.9. Eduka pakkuja osas teeb hankija kõrvaldamise või kõrvaldamata jätmise otsuse ja
+tingimuste olemasolul kvalifitseerimise või kvalifitseerimata jätmise otsuse.
+6.10. Ühispakkujate kõrvaldamise aluste kontrollimisel kohaldatakse käesolevat peatükki iga
+ühispakkuja suhtes.
+7. Pakkumuste vastavuse kontrollimine
+7.1. Hankija kontrollib esitatud pakkumuste vastavust RHADs esitatud tingimustele,
+arvestades p 6.2 ja 6.3 toodut.
+7.2. Pakkumus tunnistatakse vastavaks, kui see on kooskõlas kõikide RHADs esitatud
+tingimustega või kui pakkumuses ei esine sisulisi kõrvalekaldumisi esitatud tingimustest.
+Hankija teeb pakkumuse vastavaks tunnistamise kohta sellekohase põhjendatud kirjaliku
+otsuse.
+7.3. Hankija nõudel peab pakkuja pakkumuses esitatud teavet selgitama vastavalt RHS § 46
+lõikele 4.
+8. Pakkumuste tagasilükkamine ja riigihanke kehtetuks tunnistamine
+4(5)
+8.1. Hankija lükkab pakkumuse tagasi, kui hankelepingu sõlmimine selle pakkumuse alusel
+rikuks rahvusvahelist sanktsiooni rahvusvahelise sanktsiooni seaduse tähenduses
+(RSansS).
+8.2. Hankijal on õigus lükata pakkumus tagasi, kui see ei vasta RHADs esitatud tingimustele,
+pakkuja ei esita hankija poolt nõutud selgitusi või kui pakkuja selgituste põhjal ei ole
+võimalik üheselt hinnata pakkumuse vastavust RHADs esitatud tingimustele või juhul,
+kui pakkuja on esitanud lisatingimusi või tingimusliku pakkumuse, mis ei ole kooskõlas
+RHADga. Hankija jätab endale õiguse lükata pakkumus tagasi ka siis, kui on esitatud 0
+või negatiivse väärtusega maksumusi. Hankija teeb pakkumuse tagasilükkamise kohta
+põhjendatud kirjaliku otsuse.
+8.3. Pakkuja, kelle pakkumus on tagasi lükatud, ei osale edasises lihthankemenetluses.
+8.4. Hankija jätab endale õiguse lükata tagasi kõik pakkumused, kui:
+8.4.1. hindamisele kuuluvaid pakkumusi on esitatud vähem kui kaks;
+8.4.2. objektiivsetel põhjustel, kui riigihanke hankemenetluse toimumise ajal on
+hankijale saanud teatavaks uued asjaolud, mis välistavad või muudavad hankijale
+ebaotstarbekaks hankemenetluse lõpuleviimise RHADs esitatud tingimustel (sh
+muudatused õigusaktides).
+8.5. Hankija võib põhjendatud vajaduse korral omal algatusel lihthanke kehtetuks tunnistada.
+Põhjendatud vajaduseks võib olla eelkõige, kuid mitte ainult:
+8.5.1. kui ilmneb vajadus lepingu eset või selle kirjeldust olulisel määral muuta;
+8.5.2. kui riigihanke läbiviimise aluseks olevad tingimused on oluliselt muutunud ja
+seetõttu osutub lepingu sõlmimine mittevajalikuks või võimatuks;
+8.5.3. kui menetluses ilmnenud ebakõlasid ei ole võimalik kõrvaldada ega
+lihthankemenetlust seetõttu ka õiguspäraselt lõpule viia;
+8.5.4. hankija projektile ei anta rahastust.
+9. Pakkumuste hindamine ja pakkumuse edukaks tunnistamine
+9.1. Hankija hindab pakkumusi hindamiskriteeriumi majanduslikult soodsaim pakkumus
+alusel, milleks on madalaim hind. Hindamiskriteeriumid ja metoodika on toodud PEE
+lisas 5.
+9.2. Kui riigihankes on esitatud ainult üks pakkumus, siis omistatakse pakkumusele
+automaatselt maksimaalsed väärtuspunktid ning pakkumuse sisulist hindamist ei toimu.
+9.3. Kui maksimaalsed punktid antakse kahele või enamale pakkujale võrdselt, tõmmatakse
+pakkujate vahel liisku. Liisuheitmise korra määrab hankija.
+10. Läbirääkimised
+10.1. Hankijal on õigus otsustada pärast pakkumuste esitamist pidada läbirääkimisi. Hankija
+võib pidada pakkujaga läbirääkimisi pakkumuste ja hankelepingu tingimuste üle (v.a
+maksetähtaeg), sh pakkumuse maksumuse ning hankelepingu esemeks olevate teenuste,
+litsentsilepingu ja/või tootetoe tingimuste üle, tingimusel, et hankelepingu ese jääb oma
+põhiomaduselt samaks.
+10.2. Läbirääkimistel järgib hankija riigihanke korraldamise üldpõhimõtteid, sh tagab kõigi
+pakkujate võrdse kohtlemise, ning ei avalda läbirääkimistel saadud teavet
+diskrimineerival viisil, mis võiks anda pakkujale eelise teiste ees.
+10.3. Hankija teavitab elektrooniliselt pakkujat läbirääkimiste alustamisest ja lepib pakkujaga
+kokku läbirääkimiste tingimused, viisi, koha ja aja.
+5(5)
+10.4. Läbirääkimised võivad toimuda kas hankija büroos või elektrooniliselt (e-post, Skype,
+eRHR).
+10.5. Suulised läbirääkimised protokollitakse, e-posti teel või e-RHRis peetud läbirääkimisi ei
+protokollita.
+10.6. Läbirääkimiste lõppedes võib hankija pakkujale esitada kohandatud pakkumuse esitamise
+ettepaneku, mis on pakkujale aluseks kohandatud pakkumuse koostamiseks. Kohandatud
+pakkumus peab olema jõus RHADs märgitud pakkumuse jõusoleku aja.
+11. Hankelepingu sõlmimine
+11.1. Leping sõlmitakse RHADs ja edukaks tunnistatud pakkumuses esitatud tingimustel.
+11.2. Pakkuja peab talle allkirjastamiseks edastatud lepingu allkirjastama ja hankijale välja
+saatma hiljemalt 5 tööpäeva jooksul alates päevast, mil hankija selle pakkujale välja
+saatis. Mõjuval põhjusel võib hankija allkirjastamise tähtaega pikendada, andes edukale
+pakkujale sellest kirjalikku taasesitamist võimaldavas vormis teada. Antud tähtaja jooksul
+lepingu allkirjastamisest keeldumist või lepingu täitmisele mitte asumist on hankijal õigus
+käsitleda, kui edukaks tunnistatud pakkumuse esitanud pakkuja poolset lepingu
+sõlmimisest keeldumist ja pakkumuse tagasi võtmist RHS § 119 lg 1 mõttes ning sel juhul
+tegutseb hankija edasi vastavalt RHS-s sätestatule.
+Lugupidamisega
+(allkirjastatud digitaalselt)
+Mait Vaiksaar
+peadirektori asetäitja baasteenuste valdkonnas
+Teele Sõber, teele.sober@smit.ee
+
+=== 9378064_Lisa_1_Hankelepingu_projekt.docx ===
+Lisa 1. Hankeleping projekt
+		
+Poolte andmed
+Tellija
+Siseministeeriumi infotehnoloogia- ja arenduskeskus
+Registrikood
+70008440
+Aadress
+Mäealuse 2/2, 12618 Tallinn
+Tellija esindaja
+
+Esinduse alus
+Põhimäärus/volikiri
+Kontaktisikud
+	•	Silver Metsatsirk, tarkvarahaldur, Silver.metsatsirk@smit.ee, 5194 9707, või tema asendaja;
+	•	Tarvo Kesküla, juhataja, tarvo.keskyla@smit.ee, 5348 8008, või tema asendaja; 
+	•	…
+
+Maksja
+Politsei- ja Piirivalveamet
+Registrikood
+70008747
+Aadress
+Pärnu mnt 139, 15060 Tallinn
+Maksja esindaja
+Roger Kumm, ennetuse ja süüteomenetluse büroo juht
+Esinduse alus
+Politsei- ja Piirivalveameti hankekord (kinnitatud 09.10.2025, käskkirjaga nr 1.1-1/251) ja Politsei- ja Piirivalveameti välissuhtlemise kord (kinnitatud 28.04.2025 käskkirjaga nr 1.1-1/62)
+Kontaktisikud
+	•	
+
+Täitja
+OÜ/AS
+Registrikood
+
+Aadress
+
+Täitja esindaja
+
+Esinduse alus
+Põhikiri/volikiri
+Kontaktisikud
+1.Nimi, ametinimetus, e-post, telefon.
+
+Arvelduskonto number
+
+
+1. Lepingu sõlmimise alus
+Riigihangete seaduse § 125 alusel lihthanke „Kriminalistikaline multimeedia failide uurimise tarkvara või tarkvarapere litsentsi ostmine“ (300919) alusdokumendid ning täitja poolt … esitatud pakkumus.
+2. Lepingu ese
+Hankelepingu esemeks on kriminalistikaline multimeedia failide uurimise tarkvara või tarkvarapere litsents vastavalt lisale 2.
+3. Rahastamisallikas
+Euroopa Liidu poolt kaasrahastatud Sisejulgeoleku fondi projekt „Digikriminalistika võimekuse suurendamine“  ISF.1.01.23-0008 vahendid
+
+	•	Lepingu täitmine, lepingu eseme üleandmine-vastuvõtmine
+	•	Hankelepingu alusel täitja annab üle ning tellija võtab vastu lepingu lisas 2 sätestatud spetsifikatsioonile vastava lepingu eseme. Hankelepingu eritingimustes kokku leppimata küsimustes lähtutakse SMITi töövõtu-, käsundus- ja müügilepingu üldtingimustest. 
+	•	Täitja aktiveerib litsentsi ja võimaldab maksjal tarkvara kasutada 5 päeva jooksul alates lepingu sõlmimisest. Lepingu esemeks olev litsents kehtib 12 kuud.
+	•	Lepingu täitmise keel on eesti või inglise keel. 
+	•	Lepingu eseme vastuvõtmine toimub arve heakskiitmise teel. Kui arve on suunatud maksmisele, loetakse, et arve on heakskiidetud ning lepingu ese on vastu võetud.
+	•	Tellijal on õigus viie tööpäeva jooksul kontrollida lepingu eseme vastavust lepingutingimustele.
+	•	Juhul kui tellija avastab lepingu esemes vigu, puudusi või muu lepingutingimustele mittevastavuse, on tellijal õigus teavitada täitjat lepingu eseme lepingutingimustele mittevastavusest ning määrata täitjale täiendav tähtaeg kestusega mitte rohkem kui 10 tööpäeva lepingu eseme lepingutingimustega vastavusse viimiseks.
+	•	Juhul, kui täitja ei tarni lepingu punktis 4.6 sätestatud täiendava tähtaja jooksul tellijale lepingu eset või kui tellija avastab lepingu esemes jätkuvalt vigu, puudusi või muu lepingutingimustele mittevastavuse, on tellijal õigus leping täitjapoolse lepingu olulise rikkumise tõttu üles öelda.
+	•	Kui täitja ei teosta lepingutingimustele vastavat tarnet lepingus kokkulepitud tähtajal, on tellijal õigus kohaldada täitja suhtes leppetrahvi. Leppetrahvi tasumise kohustus algab algselt kokkulepitud tarne teostamise päevale järgnevast päevast ning kestab kuni lepingutingimustele vastava lepingu eseme üleandmiseni. 
+	•	Täitja on kohustatud tagama, et üle antav lepingu ese vastab tootja litsentseerimistingimustele. Täitja peab võimaldama maksjal toote õiguspärast kasutamist.
+	•	Täitja annab lepingu esemega koos tellijale ja maksjale üle selle olemasolul lepingu eseme kasutamiseks ja haldamiseks vajaliku dokumentatsiooni.
+	•	Hankelepingu täitmisega seotud suhtlus toimub hankelepingus sätestatud vastavate kontaktisikute poolt telefoni või e-posti teel esitatud teadete alusel. Telefoni teel edastatud teated tuleb kinnitada e-posti teel.
+	•	Täitja kinnitab, et on tootja või tootja poolt volitatud edasimüüja (esindusõigus) ning vastutab esindusõiguse olemasolu eest kogu lepingu kehtivuse vältel.
+	•	Tellijal on õigus igal ajal kontrollida lepingu eseme vastavust lepingule ning täitja kinnitustele ning nõuda täitjalt informatsiooni lepingu täitmise kohta, sh esindusõigust tõendavate dokumentide esitamist.
+
+	•	Välisvahendite kasutamisest tulenevad nõuded
+	•	Välisvahendite kasutamise lõpptähtpäev on 31.08.2029.
+	•	Lepingu täitja esitab auditeerimis- ja kontrollasutustele nõudmisel kogu vajaliku teabe lepinguga seotud tegevuste kohta.
+
+	•	Lepingu maksumus ja arveldamise kord
+	•	Lepingu kogumaksumus on …. eurot, lisandub käibemaks. Nimetatud hind on lõplik hind, mis kuulub maksja poolt lepingu eseme eest tasumisele, sisaldades ka intellektuaalomandi õiguse tasusid, kui need kohalduvad. Lepingu eseme maksumus on toodud lisas 3.
+	•	Arveldamine toimub pärast lisas 2 toodud lepingu eseme vastuvõtmist ja täitja esitatud arve alusel. Lepingu eseme eest tasutakse ühes osas kogu litsentsi perioodi ette.
+	•	Täitja saadab maksjale Eesti e-arve standardile vastava e-arve e-arvete operaatori kaudu. Earves peab lisaks standardis nimetatud andmetele olema toodud maksja kontaktisiku perekonnanimi ning riigihanke viitenumber, hankelepingu number, hankelepingu osa 15-kohaline viitenumber ja projekti kood ISF.1.01.23-0008. E-arve loetakse laekunuks selle laekumise kuupäevast. Eestis mitteregistreeritud ettevõtted edastavad arved maksjale pdf-formaadis e-posti aadressile finantsinfo@politsei.ee. Arvel peavad olema märgitud tellija kontaktisiku perekonnanimi, riigihanke viitenumber, hankelepingu number, hankelepingu osa 15-kohaline viitenumber ja projekti kood ISF.1.01.23-0008.
+	•	Arve maksetähtaeg on 21 kalendripäeva.
+	•	Lepingu kehtivus ja tõlgendamine
+	•	Leping jõustub alates hetkest, mil pooled on lepingu allkirjastanud.
+	•	Leping kehtib kuni lepinguliste kohustuste täitmiseni. Õigused ja kohustused, mis oma olemusest tulenevalt ei sõltu lepingu kehtivusest, jäävad kehtima peale lepingu lõppu.
+	•	Lepingu tõlgendamisel lähtutakse järgnevast dokumentide prioriteetsusest:
+	•	käesolev leping;
+	•	SMITi töövõtu-, käsundus- ja müügilepingu üldtingimused;
+	•	…
+
+	•	Täitja kinnitused
+	•	Täitja avaldab ja kinnitab, et:
+	•	ta on lepinguga, selle lisadega ja riigihanke alusdokumentidega tutvunud ning mõistab täielikult enesele võetavate kohustuste sisu ja tagajärgi ning on nõus nendes toodud tingimustega;
+	•	lepingu täitmisega ei kahjustata kolmandate isikute õigusi ja huve ning puuduvad mistahes asjaolud, mis välistaksid tema õigusi sõlmida leping ja seda nõuetekohaselt täita;
+	•	on tutvunud lepingu lahutamatuks osaks olevate SMITi töövõtu-, käsundus- ja müügilepingu üldtingimustega, mis on kättesaadavad: https://www.smit.ee/files/2025-11/smiti-kaesundus-toeoevotu-ja-mueuegilepingute-ueldtingimused-17.11.2025-.pdf?0e5a56c3e2; 
+	•	esitab hankelepingu täitmise alustamise ajaks iga oma alltöövõtja nime, registrikoodi, kontaktandmed, teabe nende seaduslike esindajate kohta ning alltöövõtulepingu nimetuse, kuupäeva, numbri ja summa. Samad andmed esitab täitja iga hankelepingu täitmisel lisanduva alltöövõtja kohta.
+
+	•	Lepingu lisad
+	•	Lisa 1 – tellija tehniline kirjeldus;
+	•	Lisa 2 – täitja pakkumus;
+	•	... .
+
+Leping on koostatud ja allkirjastatud digitaalselt
+
+
+=== 9378064_Lisa_2_Tehniline_kirjeldus.docx ===
+Lisa 2. Tehniline kirjeldus
+
+Hankelepingu ese on kriminalistikaline multimeedia failide uurimise tarkvara või tarkvarapere kasutusõigus (litsents/litsentsid) kolmele kasutajale, mis võimaldab heli-, foto- ja videofailide analüüsimist, parendamist, konverteerimist, autentimist, manipuleerimise tuvastamist ja aruande/raporti esitamist. Tarkvara või tarkvara pere jälgib tõenduslike metoodikate põhimõtteid (täpsus, korratavus, reprodutseeritavus). 
+Tarkvara või tarkvarapere peab vastama järgmistele tabelis loetletud nõuetele.
+The subject of the procurement contract is forensic multimedia file investigation software or a software suite (license/licenses) for three users that enables the analysis, enhancement, conversion, authentication, manipulation detection, and reporting of audio, photo, and video files. The software or software suite follows the principles of evidence-based methodologies (accuracy, repeatability, reproducibility).
+It must meet the requirements listed in the following table.
+No
+Tarkvarale esitatavad tehnilised nõuded
+Software requirements
+Pakkuja kirjeldus, kuidas nende pakutav tarkvara vastab kehtestatud nõudele. 
+
+The Tenderers description how software offered by them fulfills the established requirement
+	•	
+
+Automaatselt genereeritud üksikasjalik aruanne/raport, mis dokumenteerib kõik töötlemisetapid, parameetrid ja kasutatud algoritmid.
+– Võimalik eksportida HTML-, PDF- ja DOC-vormingus.
+– Kõik kasutaja tehtud toimingud logitakse tekstifaili.
+Automatically generated detailed report that documents all processing steps, parameters, and algorithms used.
+Export in HTML, PDF, and DOC formats is possible.
+All user actions are logged to a text file.
+
+	•	
+„Peab toetama patenteeritud CCTV/DVR-vorminguid” – võimalus integreeritud teisendusmootori abil vastu võtta ja/või teisendada enamikku valvesalvestite patenteeritud vorminguid ilma kvaliteedi kaota.
+– Toetab automaatset konverteerimist rohkem kui 400 videoformaadist.
+– Integreeritud Milestone XProtect serveri tugi – ühendus serveriga ja eksporditud piltide taasesitus ilma eelneva konverteerimiseta.
+“Support for proprietary CCTV/DVR formats” – ability to ingest and/or convert the majority of surveillance recorder proprietary formats without quality loss via an integrated conversion engine.
+	•	Supports automatic conversion from more than 400 video formats.
+	•	Integrated support for Milestone XProtect server – enables connection to the server and playback of exported images without prior conversion.
+
+	•	
+Täielik töövoog ühes rakenduses: import/teisenda → analüüsi → vali → taasta ja täiusta → redigeeri/märkmete lisamine ja esitamine → eksport → aruanne.
+End‑to‑end workflow within a single application: import/convert → analyze → select → restore & enhance → redact/annotate & present → export → report. 
+
+	•	
+Suudab kuvada videofailide kaadritüüpi 
+(I, P, B).
+Can display the frame type of video files (I, P, B).
+
+	•	
+Võimalus töötada piltide, videote ja pildijadadega, sh RAW-failid.
+Ability to work with images, videos, and image sequences, including RAW files.
+
+	•	
+Toetab JPEG-kujutiste automaatset eraldamist dokumentidest (PDF, DOC, PPT, ketta tõmmised).
+Supports automatic extraction of JPEG images from documents (PDF, DOC, PPT, disk images).
+
+	•	
+Integreeritud teisendusmootor (nt Amped Conversion Engine klass või samaväärne) patenteeritud failide partii teisendamiseks koos logide ja tõendusliku jälgitavusega.
+– Võimalus muuta video kaadrisagedust, formaati ja koodekit (sh H.264 kvaliteediparameetrid). – Toetus CUDA ja Intel Quick Sync kiirendusele.
+– Võimaldab eksportida originaalfaili või töödeldud faili standard formaatidesse.
+Integrated conversion engine (e.g., Amped Conversion Engine class or comparable ) for batch conversion of proprietary files, with logs and evidential traceability.
+	•	Ability to change video frame rate, format, and codec (including H.264 quality parameters).
+	•	Support for CUDA and Intel Quick Sync acceleration.
+	•	Allows exporting either the original file or the processed file in standard formats.
+
+	•	
+Vähemalt 130 filtrit ja tööriista piltide taastamiseks ja täiustamiseks (nt stabiliseerimine, hägususe vähendamine, müra vähendamine, valgustuse korrigeerimine, superresolutsioon, perspektiivi korrigeerimine, objektide jälgimine jne).
+At least 130 filters and tools for restoration and enhancement (e.g., stabilization, deblurring, denoising, illumination correction, super‑resolution, perspective correction, object tracking, etc.).
+
+	•	
+Geomeetriliste moonutuste korrigeerimine (tünn-, nõelapadi-, kalasilm).
+Correction of geometric distortions (barrel, pincushion, fisheye).
+
+	•	
+Perspektiivide joondamine sama objekti puhul erinevatest vaatenurkadest.
+Alignment of perspectives of the same object from different viewpoints.
+
+	•	
+Heli ja video redigeerimine (nt hääle/ala/objekti redigeerimine) ja mitmest allikast koosnev kompositsioon esitluste jaoks. Helitempo kohandamine vastavalt kaadrisagedusele.
+Audio and video redaction (e.g., voice/area/object redaction) and multi‑source composition for presentations. Adjusting the audio tempo according to the frame rate.
+
+	•	
+Võimaldab muuta väljundvideo kaadrisagedust ja formaati.
+Allows changing the output video’s frame rate and format.
+
+	•	
+Töötlemine peab olema kriminalistikaliselt usaldusväärne: originaalfailid jäävad muutmata; kõik sammud ja parameetrid logitakse; aruanded peavad olema eksporditavad kaitstud vormingutes (nt kaitstud PDF).
+Processing must be forensically sound: original files remain unaltered; all steps and parameters are logged; reports exportable in protected formats (e.g., protected PDF).
+
+	•	
+„Kopeeri ja kontrolli“ või samaväärne võimekus kopeerida tõendeid ja kontrollida räsisid, luues terviklikkuse logi (tõendusmaterjali jälgitavus).
+“Copy and Verify” or equivalent capability to copy evidence and verify hashes, creating an integrity log (chain‑of‑custody traceability).
+
+	•	
+Standardsete meediakirjelduste (koodekid, värvigamma, kaadri struktuur jne) tugi koos metaandmete analüüsiga (nt EXIF, koodeki funktsioonid, makroblokid).
+Support for standard media descriptors (codecs, color range, frame structure, etc.) with metadata analysis (e.g., EXIF, codec features, macroblocks).
+
+	•	
+Suudab visualiseerida MPEG-põhise video makroplokkide tüüpe ja liikumisvektoreid.
+Can visualize MPEG-based video macroblock types and motion vectors.
+
+	•	
+Võimalus integreerida teisendusmootori funktsioone kolmandate osapoolte süsteemidega (nt DEMS) käsurea/konfiguratsioonifailide kaudu; masinloetavad logid.
+Ability to integrate conversion engine features with third‑party systems (e.g., DEMS) via command‑line/config files; machine‑readable logs.
+
+	•	
+Litsentsi kasutamine peab olema võimalik võrguühenduseta arvutis. Litsents peab võimaldama 3 kasutajat
+License usage must be possible in offline workstations. License must support 3 users.
+
+	•	
+Tarkvara lahendus peab täielikult töötama lokaalselt tööjaamas nii, et uuritavat materjali ei ole vaja pilveteenustesse üles laadida.
+Tõendite terviklikkuse säilitamine: originaalfailid säilitatakse; logid ja aruanded kogu töötlemisahela kohta.
+Solution must operate fully on‑premises; no requirement to upload evidence to cloud services.
+Preservation of evidence integrity: original files preserved; logs and reports for the entire processing chain.
+
+	•	
+Operatsioonisüsteem: Microsoft Windows 10/11 64-bitine.
+Operating System: Microsoft Windows 10/11 64‑bit.
+
+	•	
+Toetab mis tahes standardset digitaalset 
+pildiformaati (st jpeg, tiff, png, bmp, targa, tiff, jpeg2000, heif...) ning vähemalt ühte järgmistest variantidest: 
+ico, gif, dcm, emf, 
+eps, pcd, psd, xpm, 3fr, ari, arw, srf, sr2, bay, 
+cr2, cr2, cap, iiq, eip, dcs, drf, k25, kdc, dng, 
+erf, fff, mef, mos, mrw, nef, orf, ptx, pxn, 
+R3D, raf, raw, rw2, rwl, dng, rwz, x3f, wbmp
+Supports any standard digital 
+image format (i.e. jpeg, tiff, png, bmp, targa, tiff, jpeg2000, heif...) and
+at least one of the following: 
+ico, gif, dcm, emf, 
+eps, pcd, psd, xpm, 3fr, ari, arw, srf, sr2, bay, 
+cr2, cr2, cap, iiq, eip, dcs, drf, k25, kdc, dng, 
+erf, fff, mef, mos, mrw, nef, orf, ptx, pxn, 
+R3D, raf, raw, rw2, rwl, dng, rwz, x3f, wbmp
+
+	•	
+Toetab järgmised laienditega videoformaat: 
+000, 001… kuni 099, 2, 264, 264001, 400, 600, 787, acsm, aira, ajp, ami, amv, aov, arv, ary, asf, asx, av, av3, avc, avv, av, ave, av bdb, bes, bfs, bin, bix, blk, bms, keha, kast, bpv, bu, bvr, bwm, bwv, cam, cbf, cme, cx3, d, da, dar, dat, andmed, dav, db, dbx, dce, dcr, dga, djp, km drv, dv4, dv5, dvr, dvs, dvt, dxa, e, edr, eds, ethe, evf, exe, exp, silm, ezvp,, fl4, flm, g64, g64a, g64x, gbf, gop, h263, h25,h,4, he2, h25, h,6 hgd, hik, hkv, hme, hvs, icf, ifs, igd, ifv, pilt, imf, img, imp, irf, iva, ivf, jdr, kvf, jv, k26, l64, lvf, lwx, lxf, m2t, m2ts, meediumi, max, m2, 5 mv, mv mjp, mjpg, mkv, mod, mov, mp4, mpc, mpg, mpg2, mrd, mts, mul, mva, mxg, noext, nov, n3r, nr3, nvf, nvr, omv, par, pef, pic, pns, ps, psf, psx, pvf, pw3, qbx, toores, re4, rec, rgm,vrm,srmrs sdc, sdr, sdv, sec, shv, ssf, strg, stw, svs, synav, tav, teb, tmp, ts, tvr, ubv, umv, v, v264, vcr, vdd, vdx, vfs4, vid, video, vmdl,p6, video, vfs4, video. vmhrcd, vsr, webm, wmv, wnm, wsb, xba, xpa.
+Supports the following video formats with extensions: 
+000, 001… to 099, 2, 264, 264001, 400, 600, 787, acsm, aira, ajp, ami, amv, aov, arv, ary, asf, asx, av, av3, avc, avv, av, ave, av bdb, bes, bfs, bin, bix, blk, bms, body, box, bpv, bu, bvr, bwm, bwv, cam, cbf, cme, cx3, d, da, dar, dat, data, dav, db, dbx, dce, dcr, dga, djp, km drv, dv4, dv5, dvr, dvs, dvt, dxa, e, edr, eds, ethe, evf, exe, exp, silm, ezvp, fl4, flm, g64, g64a, g64x, gbf, gop, h263, h25,h,4, he2, h25, h,6 hgd, hik, hkv, hme, hvs, icf, ifs, igd, ifv, image, imf, img, imp, irf, iva, ivf, jdr, kvf, jv, k26, l64, lvf, lwx, lxf, m2t, m2ts, media, max, m2, 5 mv, mv mjp, mjpg, mkv, mod, mov, mp4, mpc, mpg, mpg2, mrd, mts, mul, mva, mxg, noext, nov, n3r, nr3, nvf, nvr, omv, par, pef, pic, pns, ps, psf, psx, pvf, pw3, qbx, raw, re4, rec, rgm, vrm, srmrs sdc, sdr, sdv, sec, shv, ssf, strg, stw, svs, synav, tav, teb, tmp, ts, tvr, ubv, umv, v, v264, vcr, vdd, vdx, vfs4, vid, video, vmdl,p6, video, vfs4, video. vmhrcd, vsr, webm, wmv, wnm, wsb, xba, xpa.
+
+
+
+
+
+=== 9378064_Lisa_41_Uhispakkujate_volikirja_vorm.docx ===
+Lisa 4.1 Ühispakkujate volikirja vorm
+
+Hankija nimi: SMIT
+Riigihanke nimetus: 
+Riigihanke viitenumber: 
+
+Käesolevaga kinnitame, et alljärgnevalt loetletud isikud esitavad ühise pakkumuse:
+Ühispakkumuses osaleva ettevõtja nimi
+Registrikood
+Roll hankelepingu täitmises
+1.
+
+
+2…
+
+
+
+Käesolevaga volitame (ühispakkujate nimed) (volitajate nimed ja ametikohad) isikus (volitatava nimi, ametikoht) olema käesoleva ühispakkumuse esitanud pakkujate ametlik esindaja riigihankes ja hankelepingu sõlmimisega seotud toimingute tegemisel. 
+
+Käesolevaga kinnitame, et vastutame ühispakkujatena hankelepingu täitmise eest solidaarselt. 
+
+Volitatava allkirja näidis : 
+
+Volikiri on ilma edasivolitamise õiguseta. 
+
+Volikiri kehtib kuni: 
+
+Kuupäev: 
+
+(volitaja allkiri) 
+
+(volitaja nimi ja ametikoht) 
+
+(volitaja nimi ja ametikoht) 
+
+(volitaja allkirjastanud digitaalselt) 
+
+
+
+

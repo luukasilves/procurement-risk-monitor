@@ -1,0 +1,1605 @@
+=== 9763465_304575_Hanke_alusdokumendid.docx ===
+								
+
+
+
+
+
+Hanke alusdokumendid
+
+Hankija:
+Tallinna Tehnikaülikool, asukohaga Ehitajate tee 5, 19086, reg kood 74000323
+Riigihanke nimetus 
+Video-heledusmõõturi ostmine
+Riigihanke viitenumber
+304575
+Hankemenetluse liik
+Avatud hankemenetlus
+Riigihanke eest vastutav isik 
+Ami Timm tel 620 3408, e-post: ami.timm@taltech.ee
+Pakkumuse esitamise ja avamise aeg
+Pakkumuse esitamise ja avamise aeg on sätestatud hanketeates
+Pakkumuse esitamise viis
+Elektrooniline - riigihangete registri vahendusel aadressil https://riigihanked.riik.ee. 
+
+Tallinna Tehnikaülikool kutsub Teid osalema riigihankes ja esitama pakkumust vastavalt riigihangete seadusele ja hankija esitatud riigihanke alusdokumentidele (edaspidi alusdokumendid). 
+
+	•	Üldine teave
+	•	 Alusdokumendid koosnevad järgnevatest osadest: 
+	•	Käesolev juhis ja selle lisad:
+	•	Lisa 1 Hankelepingu kavand;
+	•	Lisa 2 Tehniline kirjeldus;
+	•	Lisa 3 Vormid;
+	•	Hanketeade;
+	•	Hankepass;
+	•	Kõrvaldamise alused ja kvalifitseerimistingimused (eRHR vorm);
+	•	Vastavustingimused (eRHR vormil).
+	•	Hindamiskriteeriumid ja hinnatavad näitajad (eRHR vormil).
+	•	Alusdokumentide osad täiendavad üksteist ning moodustavad tervikliku aluse pakkumuse koostamiseks. 
+	•	Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule, tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile, tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6, § 89 lg 2, 114 lg-d 5-7). 
+	•	Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+	•	Täpsem hanke kirjeldus ja tehnilised nõuded on esitatud tehnilises kirjelduses.
+	•	Hange ei ole osadeks jaotatud, kuna selle osadest moodustub tervikliku süsteemi komplekt ning süsteemi ja osade ühilduvuse tagamiseks ei ole otstarbekas hanget osadeks jaotada.
+	•	Kogu hankega seotud teabevahetus toimub elektroonselt riigihangete registri kaudu. 
+	•	 Hanketeate ja alusdokumentide sisu kohta selgituste saamiseks tuleb pöörduda hanke eest vastutava isiku poole e-riigihangete keskkonna kaudu. 
+	•	Kui eesti- ja ingliskeelsete dokumentide vahel on erinevusi, siis lähtutakse eestikeelsetest dokumentidest.
+	•	Üldised nõuded
+	•	Pakkuja peab märkima pakkumuses, milline teave on pakkuja ärisaladus ning põhjendama teabe ärisaladuseks määramist. Ärisaladuseks ei tohi olla pakkumuse maksumus ega osamaksumus, kui neid arvestatakse pakkumuste hindamisel ega muu pakkumuste hindamise kriteeriumidele vastav pakkumust iseloomustav numbriline näitaja. Juhul kui pakkuja seda pakkumuses ei märgi, on kogu pakkumus avalik.
+	•	 Pakkuja kannab kõik pakkumuse ettevalmistamisega ning esitamisega seotud kulud.
+	•	 Pakkumust, mis laekub pakkumuste esitamise tähtajast hiljem, arvesse ei võeta. 
+	•	 Pakkuja esitab hankepassi.
+	•	 Vastavalt RHS § 110 lõikele 3 kinnitab pakkuja pakkumuse esitamisega kõigi alusdokumentides esitatud tingimuste ülevõtmist. 
+	•	 Pakkumus peab vastama alusdokumentides sätestatud tingimustele ja ei tohi sisaldada täiendavaid tingimusi lisaks nõutule ega olla mis tahes viisil eksitav. 
+	•	 Tingimusliku pakkumuse ega alternatiivsete lahenduste esitamine ei ole lubatud.
+	•	Vastavalt riigihangete seaduse § 119 lõikele 1 - kui pakkuja ei allkirjasta hankelepingut 7 tööpäeva jooksul alates selle hankija poolt temale saatmisest, on hankijal õigus tunnistada edukaks hindamiskriteeriumite järgi soodsuselt järgmine pakkumus ja nõuda kahju hüvitamist esialgu edukaks tunnistatud pakkumuse ja järgmise edukaks tunnistatud pakkumuse maksumuse vahe ulatuses. 
+	•	ELi ühtekuuluvus- ja siseturvalisuspoliitika fondide rakenduskavade vahendite kasutamisel 2021–27 tuleb edukal pakkujal nende riigihangete puhul, mille maksumus ületab rahvusvahelist piirmäära, esitada pärast lepingu sõlmimist lepingu töölehel "Alltöövõtjad" järgmine info:
+• alltöövõtja nimi ja registrikood
+• alltöövõtulepingu nimetus, kuupäev, number ja lepingu summa. 
+See info tuleb esitada hankelepingu täitmisel iga oma alltöövõtja kohta, kellega on sõlmitud alltöövõtuleping maksumusega üle 50 000 euro (käibemaksuta). Vt VV 12.05.2022 määrus nr 55 https://www.riigiteataja.ee/akt/117052022013?leiaKehtiv.
+
+	•	Pakkumuse maksumus ja hindamine
+	•	Pakkumuse maksumus esitatakse riigihangete registris ettenähtud vormil. Pakkumuse maksumus esitatakse eurodes kuni kaks kohta pärast koma.
+	•	 Pakkumuse maksumus peab sisaldama kõiki kulusid (sh transporti hankija asukohta) kuni lepingu täieliku täitmiseni. 
+	•	 Juhul, kui kaks või enam pakkujat on esitanud hanke raames täpselt sama maksumusega pakkumuse, siis selgitatakse edukas pakkumus välja liisu heitmise teel.
+
+	•	Kõikide pakkumuste tagasilükkamine
+	•	 Hankija jätab enesele õiguse lükata tagasi kõik pakkumused järgmistel juhtudel:
+	•	kõigi vastavaks tunnistatud pakkumuste maksumused ületavad lepingu eeldatavat maksumust (RHS § 116 lg1 p 1);
+	•	riigihanke korraldamise asjaolud on oluliselt muutunud ja muudavad hanke teostamise võimatuks või hankijale ebamõistlikuks või ebavajalikuks;
+	•	aset on leidnud sündmus, mida saab pidada vääramatuks jõuks vastavalt VÕS § 103 lõikele 2.
+
+	•	Lepingu tingimused
+Hankeleping sõlmitakse ühe edukaks tunnistatud pakkujaga lisas 1 sätestatud hankelepingu kavandis kindlaksmääratud tingimustel.  
+
+Lisa 1 Hankelepingu projekt
+
+Hankeleping nr ___________
+
+Tallinna Tehnikaülikool (edaspidi ostja), registrikoodiga 74000323, asukohaga Ehitajate tee 5, 19086 Tallinn, mida esindab ___________________________________ , kes tegutseb volikirja alusel 
+ja 
+__________________, registrikood _________, asukoht ___________________, mida esindab juhatuse liige/ volituse alusel ___________________________ (edaspidi müüja)
+ edaspidi koos pooled või eraldi pool, sõlmisid käesoleva müügilepingu (edaspidi leping) alljärgnevas: 
+
+	•	Üldsätted
+	•	Leping on sõlmitud riigihanke „Video-heledusmõõturi ostmine“ (viitenumber 304575) (edaspidi riigihange) tulemusena.
+	•	Lepingu lahutamatuteks osadeks on riigihanke alusdokumendid (edaspidi hanke alusdokumendid), müüja pakkumus, pooltevahelised kirjalikud teated ning lepingu muudatused ja lisad.
+
+	•	Lepingu ese
+	•	Lepingu esemeks on ühe video-heledusmõõturi ostmine koos transpordiga hankija asukohta Ehitajate tee 5, Tallinn (edaspidi asi). 
+	•	Asja täpsem kirjeldus ja asjale esitatavad nõuded on toodud riigihanke alusdokumentides ja müüja pakkumuses.
+
+	•	Lepingu hind ja tasumise tingimused
+	•	Ostja tasub müüjale asja eest vastavalt pakkumuses fikseeritud hinnale _____ eurot (edaspidi lepingu hind). Hinnale lisandub käibemaks/Hinnale ei lisandu käibemaks.
+	•	Lepingu hind sisaldab asja kohale toimetamist hankija asukohta, paigaldamist, asja kasutamise koolitust ja müügilepingu täitmisega seotud kulutusi mh kauba maksumus ja kauba sertifitseerimise, tolliprotseduuride, transportimise, üleandmise ning garantiikohustuse täitmisega seotud kulud. 
+	•	Müüjal ei ole lepingu kehtivuse ajal õigust asja hinda tõsta. Hinna alandamine on lubatud.
+	•	Ostja tasub asja eest pärast üleandmise-vastuvõtmise akti allkirjastamist ja selle alusel esitatud arve saamist.
+	•	Müüja esitab ostjale arve e-arvena. Arvele tuleb märkida riigihanke viitenumber, asja tellinud üksuse nimi ja ülikooli kontaktisiku nimi. 
+	•	Müüja, kes ei ole registreeritud Eestis, saab arve esitada e-arvena üle-Euroopalise elektrooniliste dokumentide ja e-arvelduse võrgustiku PEPPOL kaudu või PDF-vormingus. Ostja PEPPOL-i kood/aadress on 9931:EE100224841. E-arvele ei tohi lisada akti.
+	•	Arve maksetähtaeg peab olema vähemalt 21 (kakskümmend üks) päeva arve esitamisest.
+	•	Nõuetele mittevastavat arvet ei tasuta kuni puuduste kõrvaldamiseni.
+	•	Leping on rahastatud „ASTRA +“ vahenditest.
+
+	•	Üleandmine
+	•	Müüja annab ostjale üle asja, mille kvaliteet, kogus ja omadused vastavad hanke alusdokumentides ja pakkumuses sätestatule. Hanke alusdokumentides määratlemata omaduste osas peab asi olema vähemalt keskmise kvaliteediga ja vastama sarnastele asjadele tavaliselt esitatavatele nõuetele.
+	•	Asi peab vastama hanke alusdokumentides esitatud tehnilistele nõuetele ja müüjal peavad olemas olema intellektuaalse omandi õigused lepingu täitmiseks
+	•	Müüja tarnib asja ostja asukohta hiljemalt 4 kuu jooksul pärast lepingu sõlmimist. Asja täpne üleandmise aeg lepitakse kokku poolte volitatud esindajate vahel nii, et müüja tarnib asja ostja asukohta ja viib vajadusel läbi kasutajakoolituse hiljemalt 4 kuu jooksul peale lepingu sõlmimist. Ostja kohustub hanketingimustele vastavad asjad vastu võtma.
+	•	Müüja peab asja kohale toimetamisel tagama asja kvaliteedi säilimise ja järgima lepingu objektiks olevatele asjadele tavaliselt esitatavaid transportimise tingimusi.
+	•	Asja üleandmine toimub peale asja tarnimist. Asja üleandmisel koostatakse üleandmise-vastuvõtmise akt.  
+	•	Üleandmise-vastuvõtmise aktis fikseeritakse vajadusel asja vastuvõtmisel ilmnenud puudused ja määratakse tähtaeg puuduste kõrvaldamiseks. Kui müüja rikub lepingust tulenevat kohustust, mille heastamine ei ole võimalik või kui ostjal ei ole heastamise vastu huvi, tähtaega puuduste kõrvaldamiseks ei määrata.
+	•	Kui asjal on üleandmisel olulised puudused, on ostjal õigus keelduda asja vastuvõtmisest. Sellisel juhul on müüja kohustatud ostja nõudmisel, kas asja parandama või vahetama ümber puudusteta asja vastu või alandama asja maksumust.
+	•	Kui ostja keeldub asja vastu võtmast, on müüjal õigus tellida asja vastavuse hindamiseks ekspertiis mõlema poole poolt aktsepteeritud sõltumatult eksperdilt. Kui asja vastuvõtmisest keeldumine osutub ekspertiisi tulemusel põhjendamatuks, hüvitab ostja müüjale ekspertiisikulud. Kui ekspertiis kinnitab asja mittevastavust, jäävad ekspertiisikulud müüja kanda.
+	•	Koos üleandmise-vastuvõtmise aktiga antakse ostjale üle asjadega seotud dokumendid (nt kvaliteeditunnistus, sertifikaat, asja tehniline dokumentatsioon, kasutusjuhend, paigaldusjuhend, hooldusjuhend, kasutusluba vms).
+	•	Juhul kui üleantaval asjal esineb kahel korral samalaadseid puudusi, on ostjal õigus nõuda müüjalt tarnitava asja vahetamist. Seejuures peab uus tarnitav asi vastama riigihanke alusdokumentidele ega tohi kaasa tuua ostja jaoks lepingus fikseeritud hinna suurenemist.
+	•	Asi peab vastama valmistajatehase poolt kinnitatud tingimustele, standarditele ja kvaliteedinõuetele ning olema varustatud kõigi vajalike dokumentide, sertifikaatide ja juhenditega
+	•	Asja omandiõigus ja juhusliku hävimise ning kahjustumise riisiko läheb müüjalt ostjale üle üleandmise-vastuvõtmise akti allkirjastamisega.
+	•	Ostjal on vajadusel õigus pikendada asja üleandmise tähtaega, kui ilmnevad tarneraskused mis takistavad lepingu täitmist. Tarneraskuste esinemisel esitab täitja ostjale sellekohase avalduse vähemalt 2 nädalat ette. Avaldusega koos esitatakse asja(de) tootja või valmistajatehase poolne kinnitus tarneraskuste esinemise kohta.
+	•	Pärast asja paigaldamist ja seadistamist viib müüja vajadusel läbi asja kasutamise instrueerimise ostja määratud inimestele. Instrueerimise toimumise aja lepivad pooled kokku enne asja paigaldamist ja seadistamist. Müüja peab tagama, et instrueerimise viib läbi asja müüja või asja tootja esindaja vastavalt oma erialastele teadmistele, oskustele ja võimetele.
+
+	•	Garantii
+	•	Müüja annab asjale hanke alusdokumentides sätestatud kehtivusajaga garantii minimaalselt 24 kuud, mis hakkab kehtima pärast asja omandiõiguse ja otsese valduse üleminekut ostjale, kui garantiikirjas või muus dokumendis ei ole ette nähtud ostjale soodsamat garantiitähtaega.
+	•	Garantii katab kõiki selle kehtivuse ajal asjal ilmnenud mittevastavusi, sealhulgas asendust ja remonti.
+	•	Ostja esitab nõude garantii alusel müüja lepingus määratud volitatud esindajale 7 (seitsme) päeva  jooksul puuduse avastamisest. Müüja on kohustatud ostja nõudele vastama esimesel võimalusel, kuid mitte hiljem kui 3 (kolme) tööpäeva jooksul arvates teate saamisest.
+	•	Juhul kui asi vajab garantiihooldust, siis vastutab garantiihoolduse jälgimise, kontrollimise ning läbiviimise eest müüja.
+	•	Garantiiajal asendatud asjale antakse algse garantiiga sama kestusega uus garantii. Asja parandamise korral pikeneb garantii parandamise aja kestuse võrra.
+	•	Garantii ei välista ega piira ostja õigust kasutada muid seadusest ja lepingust tulenevaid õiguskaitsevahendeid.
+
+	•	Poolte vastutus ja vääramatu jõud 
+	•	Lepingust tulenevate kohustuste täitmata jätmise või mittekohase täitmisega teisele poolele tekitatud otsese varalise kahju eest kannavad pooled täielikku vastutust selle kahju ulatuses. Poole koguvastutus on piiratud lepingu hinnaga, välja arvatud juhul, kui lepingurikkumine oli tahtlik.
+	•	Müüja vastutab igasuguse lepingurikkumise eest eelkõige, kui müüja ei ole lepingut täitnud, asi ei vasta lepingus sätestatud nõuetele, asi ei ole tähtaegselt üle antud või müüja ei esita asja üleandmisel selle kohta nõuetekohast dokumentatsiooni vms. Müüja ei vastuta asja puuduste eest, kui need on tingitud asja ebaõigest kasutamisest või hooldamisest ostja poolt.
+	•	Kui sama rikkumise eest on võimalik nõuda leppetrahvi mitme sätte alusel või sama rikkumise eest on võimalik kohaldada erinevaid õiguskaitsevahendeid, valib õiguskaitsevahendi ostja. Leppetrahvi nõudmine ei mõjuta õigust nõuda täiendavalt ka kohustuste täitmist ja kahju hüvitamist. 
+	•	Ostja esitab pretensiooni 5 tööpäeva jooksul asja mittevastavusest teada saamisest arvates.
+	•	Pretensioonis fikseeritakse asjas ilmnenud puudused ja määratakse tähtaeg puuduste kõrvaldamiseks. Ostja võib nõuda puudustega asja parandamist või puudusteta asja vastu ümber vahetamist, kui sellega ei põhjustata müüjale ebamõistlikke kulusid või põhjendamatuid ebamugavusi. 
+	•	Ostjal on õigus puuduste kõrvaldamise nõude asemel alandada lepingu hinda.
+	•	Lisaks lepingu täitmise nõudele või täitmisnõude asemel on ostjal õigus nõuda leppetrahvi kuni 1 % (üks protsenti) lepingu hinnast, kui müüja ei ole asja üle andnud või ei vasta müüja poolt üle antud asi lepingutingimustele. 
+	•	Lepingus sätestatud lepingu alusel määratud tähtajast mittekinnipidamise korral on ostjal õigus nõuda müüjalt leppetrahvi 0,10 % lepingu hinnast iga viivitatud päeva eest. 
+	•	 Kui müüja ei täida lepinguga võetud kohustusi, ei paranda või ei vaheta ümber puudustega asja ja müüja viivitust saab lugeda oluliseks lepingurikkumiseks, on ostjal õigus osta mittetäidetud või mittenõuetekohaselt täidetud mahus asjad kolmandatelt isikutelt ning nõuda lisaks leppetrahvile kolmandatelt isikutelt ostetud asjadele kulunud summa ning lepingu hinna vahe hüvitamist müüja poolt ja/või leping erakorraliselt ühepoolselt lõpetada.
+	•	Kui ostja viivitab lepingus sätestatud rahaliste kohustuste täitmisega, on müüjal õigus nõuda ostjalt viivist 0,05 % (null koma null viis protsenti) tähtaegselt tasumata summalt päevas, kuid mitte rohkem kui 5 % (viis protsenti) lepingu hinnast. 
+	•	Lepingu punktis 8 sätestatud konfidentsiaalsuskohustuse rikkumisel müüja või  lepingu punktis 8.4. nimetatud isikute poolt on ostjal õigus nõuda müüjalt leppetrahvi kuni 10 (kümme) protsenti lepingu hinnast ja/või leping erakorraliselt ühepoolselt üles öelda.
+	•	Lepingus sätestatud kohustuste mittetäitmise või mittenõuetekohase täitmise korral, kui neid saab lugeda oluliseks lepingurikkumiseks, on ostjal õigus leping erakorraliselt ühepoolselt lõpetada, teatades sellest müüjale kirjalikus vormis avaldusega. Lepingu rikkumist loetakse oluliseks eelkõige VÕS § 116 lg 2 kirjeldatud asjaoludel.
+	•	Leppetrahvid ja viivised tuleb tasuda 14 (neljateist) päeva jooksul vastava nõude saamisest. Ostjal on õigus asja eest tasumisel vähendada lepingu hinda leppetrahvi summa võrra. Leppetrahvi nõudmine ei mõjuta õigust nõuda teiselt poolelt täiendavalt ka kohustuste täitmist ja kahju hüvitamist. 
+	•	Kui müüja ei täida lepingut nõuetekohaselt ja selle alusel teeb rakendusasutus toetuse vähendamise või tagasinõude otsuse, on ostjal õigus müüjalt tagasi nõuda mitteabikõlbulikud kulud tagasimakse nõude ulatuses. 
+	•	Lepingust tulenevate kohustuste mittetäitmist või mittenõuetekohast täitmist ei loeta lepingu rikkumiseks, kui selle põhjuseks oli vääramatu jõud. Vääramatuks jõuks loevad pooled võlaõigusseaduse § 103 lg 2 kirjeldatud ettenägematuid olukordi ja sündmusi, mis ei olene nende tahtest või muid sündmuseid, mida Eestis kehtiv kohtupraktika tunnistab vääramatu jõuna. 
+
+	•	Teadete edastamine ja volitatud esindajad 
+	•	Teadete edastamine toimub üldjuhul kirjalikku taasesitamist võimaldavas vormis. Juhul kui teate edastamisel on olulised õiguslikud tagajärjed, peavad teisele poolele edastatavad teated olema edastatud kirjalikus vormis, muuhulgas näiteks poolte lepingu lõpetamise avaldused, samuti poole nõue teisele poolele, mis esitatakse tulenevalt lepingu rikkumisest jms. Kirjaliku vormiga on võrdsustatud digitaalselt allkirjastatud vorm. 
+	•	Lepinguga seotud teated edastatakse teisele poolele lepingus märgitud kontaktandmetel. Kontaktandmete muutusest on pool kohustatud koheselt informeerima teist poolt. Kuni kontaktandmete muutusest teavitamiseni loetakse teade nõuetekohaselt edastatuks, kui see on saadetud poolele lepingus märgitud kontaktandmetel.
+	•	Kirjalik teade loetakse poole poolt kättesaaduks, kui see on üle antud allkirja vastu või kui teade on saadetud postiasutuse poolt tähitud kirjaga poole poolt teatatud aadressil ja postitamisest on möödunud 5 (viis) kalendripäeva. E-posti teel, sh digitaalselt allkirjastatud dokumentide, saatmise korral loetakse teade kättesaaduks e-kirjas näidatud saatmise kellaajal. 
+	•	Poolte volitatud esindajad on:
+	•	Ostja volitatud esindaja ____________ nimi _________________,  telefon _______, e-post ____________. Ostja volitatud esindajal on õigus esindada ostjat kõikides lepingu täitmisega seotud küsimustes, v.a lepingu muutmine, lepingu ühepoolne erakorraline lõpetamine ning leppetrahvi, viivise või kahjude hüvitamise nõude esitamine. 
+	•	 Müüja volitatud esindaja ____________ nimi _________________, telefon ______, e-post ____________.
+
+	•	Konfidentsiaalsus 
+	•	Müüja kohustub lepingu kehtivuse ajal ning pärast lepingu lõppemist määramata tähtaja jooksul hoidma konfidentsiaalsena kõiki talle seoses lepingu täitmisega teatavaks saanud andmeid, mille konfidentsiaalsena hoidmise vastu on ostjal eeldatavalt õigustatud huvi.
+	•	Konfidentsiaalse informatsiooni avaldamine kolmandatele isikutele on lubatud vaid ostja eelneval kirjalikku taasesitamist võimaldavas vormis antud nõusolekul. Lepingus sätestatud konfidentsiaalsuse nõue ei laiene informatsiooni avaldamisele poolte audiitoritele, advokaatidele, pankadele, kindlustusandjatele, teistele käsundisaaja ülemaailmsesse võrgustikku kuuluvale juriidilisele isikule või seltsingutele, allhankijatele või teenusepakkujatele, kes on seotud konfidentsiaalsuskohustusega, ning juhtudel, kui pool on õigusaktidest tulenevalt kohustatud informatsiooni avaldama. 
+	•	Müüja kohustub mitte kasutama konfidentsiaalset teavet isikliku kasu saamise eesmärgil või kolmandate isikute huvides.
+	•	Müüja kohustub tagama, et tema esindaja(d), töötajad, lepingupartnerid ning muud isikud, keda ta oma kohustuste täitmisel kasutab, oleksid käesolevas lepingus sätestatud konfidentsiaalsuse kohustusest teadlikud ning nõudma nimetatud isikutelt selle kohustuse tingimusteta ja tähtajatut täitmist. 
+	•	Müüja kohustub tagama lepingu täitmise käigus isikuandmete töötlemise õiguspärasuse ning vastavuse isikuandmete kaitse üldmääruses (EL 2016/679) ja teistes andmekaitse õigusaktides sätestatud nõuetele, sh täitma organisatsioonilisi, füüsilisi ja infotehnoloogilisi turvameetmeid konfidentsiaalsete andmete kaitseks juhusliku või tahtliku volitamata muutmise, juhusliku hävimise, tahtliku hävitamise, avalikustamise jms eest.
+
+	•	Lepingu kehtivus, muutmine ja lõpetamine
+	•	Leping jõustub allkirjastamisest poolte poolt ja kehtib lepingust tulenevate kohustuste täitmiseni. Lepingu lõppemine ei mõjuta selliste kohustuste täitmist, mis oma olemuse tõttu kehtivad ka pärast lepingu lõppemist. 
+	•	Kumbki pool ei tohi lepingust tulenevaid õigusi ega kohustusi üle anda ega muul viisil loovutada kolmandale isikule ilma teise poole eelneva kirjaliku nõusolekuta.
+	•	Pooled võivad lepingut muuta RHS § 123 lg 1 sätestatud tingimustel.
+
+	•	Lõppsätted 
+	•	Pooled juhinduvad lepingu täitmisel Eesti Vabariigis kehtivatest õigusaktidest, eelkõige kohaldatakse lepingus reguleerimata küsimustes võlaõigusseaduses vastava lepinguliigi kohta sätestatut.
+	•	Juhul kui lepingu mõni säte osutub vastuolus olevaks Eestis kehtivate õigusaktidega, ei mõjuta see ülejäänud sätete kehtivust.  
+	•	Müüja on teadlik, et leping on avaliku teabe seaduses sätestatud ulatuses avalik. 
+	•	Lepinguga seotud vaidlused, mida pooled ei ole suutnud läbirääkimiste teel lahendada, antakse lahendamiseks Harju maakohtule. 
+	•	Leping on allkirjastatud digitaalselt või paberkandjal. Paberkandjal olev leping allkirjastatakse kahes eksemplaris, millest kummalegi poolele jääb üks eksemplar.
+
+
+Ostja								Müüja
+
+Lisa 2 Tehniline kirjeldus ja tingimused 
+Standarditele (CIE 244:2021, EN 12464-1, EN 12464-2, EN EN13201-4) vastav ja kohanduv video-heledusmõõtur vastava tarkvaraga 
+
+Käesolev tehniline kirjeldus on koostatud Tallinna Tehnikülikooli inseneriteaduskonna elektroenergeetika- ja mehhatroonika instituudis asuva valgustehnika laborile vajaliku mõõteriista, standarditele vastava video-heledusmõõturi ning juurdekuuluva tarkvara soetamiseks. 
+
+I Standardite kohane video-heledusmõõtur
+(en image luminance measuring device, ILMD) digitaalne elektronseadis, mis on varustatud läätse(de)ga, fotomeetrilise korrigeeriva filtriga ja detektorite (pikslite) maatriksist koosneva sensoriga ning mis on kalibreeritud heledusjaotuse mõõtmiseks raamitletud mõõteväljal.
+
+Tagamaks metroloogiline seostatus, peab video-heledusmõõtur olema kasutatavates mõõtepiirkondades kalibreeritud. Ostetav heledusmõõtekaamera peab olema uus mõõteseade. Seade peab vastama allpool esitatud tehnilistele kirjeldustele ja olema samaväärsete või paremate tehniliste andmetega.
+
+Heledusmõõturit ja vastavat tarkvara kasutatakse sise- ja välisvalgustusega keskkondades heleduse ja muude valgustehniliste parameetrite määramiseks. Seadet koos lisavarustusega on plaanis  kasutada õppe-, teadus- ja uurimistöös. 
+Hangitav seade peab vastama Euroopa Liidus kehtivatele standarditele ja olema varustatud CE märgisega.
+
+II Tehnilised nõuded 
+Standardite (CIE 244:2021, EN 12464-1, EN 12464-2, EN EN13201-4) kohane video-heledusmõõtur (en image luminance measuring device, ILMD).
+
+Komponent
+Kirjeldus
+1
+Heleduse mõõtekaamera
+ILMD tüüpi kaamera
+2
+Sensori eraldusvõime
+12 Mpikslit
+3
+Sensori suurus
+2/3" või 1.1" diagonaaliga
+4
+Andmestiku formaat
+12 bit A/D-muundur
+5
+Arvuti liides, ühilduvus
+Vähemalt Gigabit Ethernet Interface,  GigE network card ja andmekaabel
+6
+Dünaamiline eraldusvõime
+Vähemalt Üksikmõõtmisel 1:1100;  High-Dyn v. Kõrgdünaamiline mõõtmine (seeria särikahvel) 1:10 000 000 
+7
+Mõõdetav suurus
+Heledus: L (cd/m²)
+Räigus väärtused (UGR, DGP, GR)
+8
+Spektraalne sobivus Spectral matching
+Sobitatakse V(λ) heledusfunktsiooniga heleduse mõõtmiseks täisklaasfiltriga. Matched to the V(λ) luminance function for luminance measurement with a full-glass filter
+9
+Valitav mõõteala
+Valitav ava väärtus, säriaeg ja võttekiirus
+10
+Teravustamine
+Automaatne  või käsitsi
+11
+Mõõteulatus
+0,001 to 100 000 000 cd/m² (sis. ND filterite kasutusel)
+
+
+Komponent
+Kirjeldus
+12
+Kalibreerimise määramatus 
+vastavalt standardile CIE 244:2021, jälgitavat heledusstandardit 
+fiks. fokusseerimisega objektiivid ∆L [ < 2% ] fokuseeritavad objektiivid ∆L [ < 2,5% ] 
+13
+Korratavus (Repeatability)
+∆L [ < 0,1% ]  (vastavalt standardile CIE 244:2021)
+14
+Mõõtmistäpsus (Measuring accuracy)
+∆L [ < 3% ] standardvalgusallika A korral (vastavalt standardile CIE 244:2021)
+15
+Ühtlus (Uniformity)
+
+𝑓21 [ < 2% ] Määratlus ja mõõtmine vastavalt standardile CIE 244:2021
+16
+Metroloogiline spetsifikatsioon
+V(λ) [ 𝑓1′ < 3% ]
+Spektraalne mittevastavus f‘1 vastavalt standardile ISO/CIE 19476:2014
+17
+Optika/optilised läätsed mis tagavad standarditele kohase mõõteala valiku
+Fikseeritud/ autofookusega objektiiviga lahendused
+Standardiga (EN 12464-1; EN 12464-2; EN EN13201-4) vastava mõõteala valikutega; 
+Kalasilm objektiiv (fisheye) min 160° või suurem (circular)   mõõtealas heledusandmetest räigus UGR andmestiku analüüsimiseks
+18
+Filtrid
+Soovituslikud kalibreeritud filtrid mõõteulatuse laiendamiseks
+19
+Ühilduvus operatsioonisüsteemiga
+Windows 10/11
+20
+Tarkvara
+Monokroomse heledusväärtuse analüüsi tarkvara Kaamera kontrolli tarkvara
+20
+Kandekohver
+Transpordikohver komplekti hoiustamsieks ja transpordiks
+21
+Juhendid
+Kaamera juhend ;
+Heledusmõõtekaamera käsitlusjuhis;
+Heledusmõõte tarkvara juhend;
+Kalibreerimissertifikaat
+22
+Toide
+Töötab akutoitel (akupakett) ja võrgupingel 230 V
+
+III Lisatarvikud ja tarkvara
+
+	•	Lisatarvikud ja tarkvara peavad ühilduma ostetava, standardile (CIE 244:2021, EN 12464-1, EN 12464-2, EN EN13201-4) vastava video-heledusmõõturiga. 
+	•	Tarvikud peavad ühilduma standardile (EN 12464-1, EN 12464-2, EN EN13201-4) vastava video-heledusmõõturiga räiguse mõõdistamiseks. 
+	•	Tagamaks metroloogiline seostatus, peavad tarvikud (lisa objektiivid) olema koos video-heledusmõõturiga kasutatavates mõõtepiirkondades kalibreeritud.
+	•	Kaasasolev tarkvara peab võimaldama kaamera täielikku konfigureerimist.
+
+
+
+
+
+Lisa 3 Vormid
+Vorm I  -  Volikiri (vajadusel)
+ 
+
+Käesolevaga volitab ___________ (pakkuja nimi) ____________________ (volitaja nimi ja ametikoht) isikus _________________ (volitatava nimi, ametikoht) olema pakkuja ametlik esindaja ja allkirjastama ülalnimetatud riigihanke pakkumust. 
+ 
+Volitatava allkirja näidis: ________________________ 
+ 
+Volikiri on ilma edasivolitamise õiguseta. 
+ 
+Volikiri kehtib kuni: ________________ 
+ 
+Kuupäev: _________________ 
+ 
+____________________ (volitaja allkiri) 
+ 
+____________________ (volitaja nimi ja ametikoht) 
+ 
+ 
+
+Vorm II – Ühispakkujate volikiri  (vajadusel kui esitatakse ühispakkumus)
+ 
+ 
+
+Käesolevaga volitame ___________ (ühispakkujate nimed) ____________________ (volitajate nimed ja ametikohad) isikus _________________ (volitatava nimi, ametikoht) olema käesoleva ühispakkumuse esitanud pakkujate ametlik esindaja hankemenetlusega ja hankelepingu sõlmimisega ning hankelepingu täitmisega seotud toimingute tegemisel. 
+ 
+Käesolevaga kinnitame, et vastutame ühispakkujatena hankelepingu täitmise eest solidaarselt. 
+  
+Volitatava allkirja näidis: ________________________ 
+ 
+Volikiri on ilma edasivolitamise õiguseta. 
+ 
+Volikiri kehtib kuni: ________________ 
+ 
+Kuupäev: _________________ 
+ 
+____________________ (volitaja allkiri) 
+ 
+____________________ (volitaja nimi ja ametikoht) 
+ 
+____________________ (volitaja allkiri) 
+
+
+
+
+
+
+=== 9763465_304575_Hanke_alusdokumendid_ENG.docx ===
+
+
+
+
+Procurement documents
+
+Contracting authority:
+Tallinn University of Technology, address Ehitajate tee 5, 19086, registry code 74000323
+Procurement title 
+The purchase of an image luminance measuring device (ILMD)
+Procurement reference number
+304575
+Type of procurement procedure
+Open procurement
+Person responsible for the public procurement 
+Ami Timm, phone +372 620 3408, e-mail address:  ami.timm@taltech.ee
+Tender submission deadline and time of opening the tenders
+The tender submission deadline and the time of opening the tenders are set out in the contract notice.
+Manner of submitting tenders
+Electronic - via the Public Procurement Register at https://riigihanked.riik.ee. 
+
+Tallinn University of Technology is pleased to invite you to participate in public procurement and to submit a tender in compliance with the Public Procurement Act and the public procurement documents submitted by the contracting authority (hereinafter referred to as "procurement documents"). 
+
+	•	General information
+	•	The procurement documents include the following parts: 
+	•	this guide and annexes thereto:
+	•	Annex 1 Draft public contract;
+	•	Annex 2 Technical specification;
+	•	Annex 3  Forms;
+	•	the contract notice;
+	•	the European Single Procurement Document;
+	•	grounds for elimination and qualification terms (on the form of the Public Procurement Register);
+	•	compliance terms (on the form of the Public Procurement Register);
+	•	Evaluation criteria and evaluated indicators (on the form of the Public Procurement Register).
+	•	The parts of the procurement documents complement each other and form a comprehensive basis for drawing up a tender.  
+	•	Every reference that the procurer makes in the basic documents of the public procurement to any of the bases specified in § 88 subsection 2 of the PPA (standard, technical recognition, technical control system, etc.) must be read in such a way that it is supplemented with the notation "or its equivalent". Every reference that the procurer makes in the basic documents of the public procurement to the purchase source, process, brand, patent, type, origin, production method, label or test report or certificate issued by the conformity assessment body must be read in such a way that it is supplemented with the sign "or equivalent" (PPA § 88 par- d 5-6, § 89 subsection 2, 114 subsections 5-7).
+	•	The procuring entity accepts other relevant evidence for objective reasons if the offeror proves in a manner acceptable to the procuring entity that the offered thing, service or construction work meets the requirements specified by a specific label or the procuring entity, unless the procuring entity's required label, an equivalent label or a test report issued by a specific or equivalent conformity assessment body or other According to the law, the certificate is a prerequisite for offering a thing, service or construction work on the market (PPA § 114 (7)).
+	•	A detailed description of the procurement and the technical requirements are provided in the technical specification.    
+	•	The procurement is not divided into lots, because the device is a complete system. The procurement cannot be divided into lots in order to ensure the compatibility of the system and the parts.  
+	•	All communication related to the procurement shall take place electronically via the Public Procurement Register. 
+	•	For information on the content of the contract notice and the procurement documents please contact the person responsible for the public procurement via the e-Procurement environment. 
+	•	If there are differences between Estonian and English documents, the Estonian documents shall prevail.
+
+	•	General requirements
+	•	The tenderer shall indicate in the tender what information is the tenderer’s trade secret and justify the designation of the information as a trade secret. The tenderer cannot designate the following as a trade secret: the value of the tender or a part thereof, where these are taken account of upon assessment of the tenders, or other numerical indicators characterising a tender meeting the award criteria.  If the tenderer does not indicate this in the tender, the whole tender is public.
+	•	The tenderer shall bear all the expenses relating to the preparation and submission of the tender.
+	•	Tenders received after the tender submission deadline will not be taken into account. 
+	•	The tenderer shall submit a Single Procurement Document.
+	•	According to subsection 110 (3) of the Public Procurement Act, by submitting a tender, the tenderer declares acceptance of all the terms and conditions set out in the procurement documents. 
+	•	A tender must be in conformity with the terms and conditions provided for in the procurement documents and must not contain additional conditions in addition to the requirements set out or be misleading in any way. 
+	•	Submission of a conditional tender or provision of alternative solutions is not permitted  
+	•	According to subsection 119 (1) of the Public Procurement Act, if the tenderer does not sign the public contract within 7 working days from the date on which it was sent to the tenderer by the contracting authority, the contracting authority has the right to  declare the tender ranked second according to the award criteria successful and claim damages to the extent of the difference between the value of the tender that was initially declared successful and the value of the next-ranking successful tender. 
+	•	When using the funds of the EU Cohesion and Internal Security Policy Funds Operational Programmes 2021–27, the successful tenderer must, in the case of public procurements whose value exceeds the international threshold, provide the following information in the contract worksheet "Subcontractors" after the conclusion of the contract:
+• name and registry code of the subcontractor
+• name, date, number and amount of the subcontract. 
+This information must be provided during the performance of the procurement contract for each of its subcontractors with whom a subcontract with a value exceeding 50,000 euros (excluding VAT) has been concluded. See Regulation No. 55 of 12.05.2022 https://www.riigiteataja.ee/akt/117052022013?leiaKehtiv.
+
+	•	Tender value and evaluation of tender
+	•	The tender value shall be indicated on the form of the Public Procurement Register. The tender value shall be indicated in euros accurate to up to two decimal places. 
+	•	The tender value must include all the costs incurred (including transport to the contracting authority) until the contract has been fully performed. 
+	•	If two or more tenderers have submitted a tender with exactly the same value for one lot, a decision on the successful tender shall be made by drawing lots.
+	•	Rejection of all tenders
+	•	The contracting authority reserves the right to reject all of the tenders, if:
+	•	the values of all the tenders which have been declared suitable exceed the estimated value of the public contract (clause 116 (1) 1) of the Public Procurement Act);
+	•	the circumstances required for organisation of a public procurement have substantially changed and make it impossible or unreasonable or unnecessary for the contracting authority to carry out the public procurement;
+	•	an event has occurred, which can be deemed to be force majeure in accordance with subsection 103 (2) of the Law of Obligations Act.
+
+	•	Terms and conditions of the contract
+The public contract shall be awarded to the successful tenderer on the terms and conditions specified in the draft public contract set out in Annex 1 to the procurement documents.  
+Annex 1 Draft public contract
+Public contract no __________________
+
+Tallinn University of Technology, registry code 74000323, address Ehitajate tee 5, 19086 Tallinn (hereinafter referred to as "contracting authority"), represented by ____________ acting under _____________
+
+and 
+
+__________________, registry code _________, address ___________________ (hereinafter referred to as "supplier/seller"), represented by Board Member/ under a letter of authorization by ____________  
+ 
+hereinafter referred to separately as "party" and together as "parties", have entered into this sales contract as follows: 
+
+	•	General provisions
+	•	The contract has been awarded as a result of the public procurement ” The purchase of an image luminance measuring device (ILMD)" (reference number 304575) (hereinafter public procurement). 
+	•	The public procurement documents (hereinafter referred to as "procurement documents"), the supplier's tender, the written notifications exchanged between the parties and the amendments and annexes to the contract form an integral part of the contract.
+
+	•	Object of the contract
+	•	The object of the contract is the purchase of one image luminance measuring device (ILMD) (hereinafter product) together with transportation to contracting authorities location Ehitajate tee 5, Tallinn.
+	•	A more detailed description of the product and the requirements for the product are laid down in the procurement documents and the supplier's tender.
+
+	•	Contract price and terms of payment
+	•	The contracting authority shall pay the supplier for the product _____ euros in accordance with the price set out in the tender (hereinafter referred to as "contract price"). VAT will be added to the price/VAT will not be added to the price.
+	•	The contract price shall cover shipping costs and delivery to the location specified by the contracting authority, setup, training and instructing the use of the product including the cost of the goods and the costs related to the certification of the goods, customs procedures, transportation, handover and fulfillment of the warranty obligation.
+	•	The supplier is not entitled to increase the price of the product during the term of the contract. It is allowed to reduce the price.
+	•	The contracting authority shall pay for the product after signing the instrument of delivery and receipt and after receiving the relevant invoice. 
+	•	The supplier shall submit an electronic invoice to the contracting authority. The invoice shall include the number of the public procurement, the name of the contracting authority's unit and contact person name.
+	•	A supplier, who is not registered in Estonia, can submit an invoice in the form of an electronic invoice through the European-wide network for exchanging e-invoices and electronic documents PEPPOL or in PDF format to the e-mail address of the contracting authority's authorised representative. The PEPPOL code/address of Tallinn University of Technology is 9931:EE100224841.
+	•	The due date for the invoice shall be not less than 21 (twenty one) days from the date of submission of the invoice.
+	•	An invoice that does not meet the requirements shall be deemed not to have been received until the deficiencies are rectified.
+	•	The contract is funded from „ASTRA +“.
+
+	•	Delivery
+	•	The supplier shall deliver to the contracting authority a product, the quality, amount and characteristics of which comply with the ones laid down in the procurement documents and the tender. The product characteristics not defined in the procurement documents shall be of at least average quality and meet the requirements normally set for similar products. 
+	•	The product must comply with the technical specification laid down in the procurement documents and the supplier must have all the intellectual property rights required for performance of the contract.
+	•	The supplier shall deliver the product to the contracting authority's address no later than 4 months after concluding the contract. The implementation schedule indicates the beginning and end of the respective activities and the implementation period may not exceed 4 months from the conclusion of the contract. The buyer undertakes to accept the goods that comply with the terms of the procurement.
+	•	When delivering the product, the supplier must make sure that the product maintains its quality and complies with the conditions of transportation normally applied to the products that are the object of the contract.
+	•	The delivery of the product takes place by signing the instrument of delivery and receipt. 
+	•	The instrument of delivery and receipt shall, if necessary, set out the deficiencies discovered upon receipt of the product and a deadline for the elimination of the deficiencies. If the supplier violates a contractual obligation, which cannot be rectified or if the contracting authority is not interested in rectification, no deadline shall be set for elimination of the deficiencies.
+	•	If the product has substantial deficiencies upon delivery, the contracting authority has the right to refuse to accept the product. In this case the supplier shall, at the contracting authority's request, repair the product or replace the product by a non-defective product within 7 days or reduce the product's price.
+	•	If the contracting authority refuses to accept the product, the supplier has the right to order an assessment of the conformity of the product from an independent expert accepted by both parties. If the refusal to accept the product proves unjustified as a result the expert assessment, the contracting authority shall reimburse the supplier for the costs of the expert assessment. If the expert assessment confirms non-conformity of the product, the costs of the expert assessment shall be borne by the supplier.
+	•	The instrument of delivery and receipt handed over to the contracting authority shall be accompanied with the documentation related to the product (e.g. quality certificate, certificate, technical documentation, operating instructions, installation instructions, maintenance instructions, authorization of use etc.).
+	•	If the delivered products/goods have similar deficiencies on at least two (2) occasions, the contracting authority is entitled to request that the supplier replace the delivered product/model. The new model/product to be delivered must comply with the public procurement documents and must not increase the price set out in the contract.
+	•	The product/goods must meet the conditions, standards and quality requirements approved by the manufacturer and be equipped with all the necessary documents, certificates and instructions
+	•	The right of ownership and risk of accidental loss of or damage to the product shall pass from the supplier to the contracting authority upon signing of the corresponding instrument of delivery and receipt.
+	•	In case of supply difficulties which prevent the performance of the contract, the contracting authority has the right to postpone the deadline of the product transfer if necessary. If there are supply difficulties, the supplier will submit a related statement to the contracting authority at least 2 weeks in advance. An endorsement of the supply difficulties by the manufacturer or the production plant of the product(s) will be submitted with the statement. 
+	•	After installing and setting up the item, the seller instructs the persons designated by the buyer to use the item (If requested). The time of the instruction shall be agreed upon by the parties before the installation and adjustment of the product. The seller must ensure that the instruction is carried out by the seller's representative or the manufacturer's representative in accordance with his professional knowledge, skills and abilities.
+
+	•	Warranty
+	•	The supplier shall provide a warranty for the product for a minimum period of 24 months or a longer period specified in the tender, as laid down in the procurement documents, which shall commence after transfer of the right of ownership and direct possession to the contracting authority unless a more favorable date of commencement of the warranty period has been set out for the warranty buyer in the warranty letter or any other document.
+	•	The warranty shall cover all the non-compliances that occur during the warranty period, including replacement and repair of the equipment.
+	•	The contracting authority shall file a warranty claim to the supplier's authorized representative indicated in the contract within 7 days after discovering a defect. The supplier shall reply to the claim at the earliest opportunity but no later than within 3 (days) from receipt of the notice.
+	•	If the product requires warranty maintenance, the supplier shall be responsible for monitoring, inspection and performing of the warranty maintenance. 
+	•	A product replaced during the warranty period is warranted for the duration of the original warranty. If the product is repaired, the warranty will extend for the duration of the repair. 
+	•	The warranty does not exclude or hinder the contracting authority's right to exercise any other legal or contractual remedy. 
+
+	•	Liability of the parties and force majeure 
+	•	The parties shall bear full liability for direct proprietary damage caused to the other party by failure to fulfil or inadequate fulfilment of the contractual obligations to the extent of the damage caused. A party's total liability is limited to the contract price unless the breach of the contract was intentional.
+	•	The supplier is liable for any breach of the contract, in particular if the supplier has failed to perform the contract, the product does not meet the requirements set out in the contract, the product has not been delivered on time or the supplier fails to submit proper documentation upon delivery of the product, etc. The supplier shall not be liable for defects caused by improper use or maintenance of the product by the contracting authority.
+	•	If an infringement is subject to contractual penalty based on several provisions or different legal remedies can be applied for the same infringement, the contracting authority shall choose the legal remedies to be applied. Claiming contractual penalty shall not affect the right to require also fulfilment of contractual obligations and compensation for damage. 
+	•	The contracting authority shall submit a claim within 5 working days as of becoming aware of the non-conformity of the thing.
+	•	The claim shall set out the deficiencies discovered and a deadline for the elimination of the deficiencies. The contracting authority may demand repair of the defective product or replacement of the product by a non-defective product if this does not cause the supplier unreasonable costs or unreasonable inconvenience. 
+	•	The contracting authority has the right to request a reduction of the price instead of elimination of the deficiencies.
+	•	In addition to or instead of the request to perform the contract, the contracting authority has the right to request contractual penalty in the amount of up to 1% of the contract price for each infringement if the supplier fails to deliver the product or the product delivered by the supplier does not meet the requirements set out in the contract. 
+	•	In case of failure to comply with the deadline for delivery of the product or the deadline laid down in the contract, the contracting authority has the right to request from the supplier fine for delay in the amount of 0,10% (percent) of the contract price for each day of delay, but not more than 5% (five percent) of the contract price. 
+	•	If the supplier fails to fulfil the obligations arising from the contract or repair or replace a defective product and the delay caused by the supplier can be deemed to be a fundamental breach of the contract, the contracting authority has the right to purchase the products in the unfulfilled or improperly fulfilled volume of the contract from third persons and to request, in addition to contractual penalty, reimbursement of the difference between the cost of the products purchased from third parties and the contract price and/or to terminate the contract unilaterally prematurely.
+	•	If the contracting authority delays with fulfilment of its financial obligations, the supplier has the right to request fine for delay from the contracting authority in the amount of 0.05% (zero point zero five percent) of the overdue amount for each day, but not more than 5% (five percent) of the contract price. 
+	•	If the supplier or a person specified in clause 8.4 of the contract violates the confidentiality obligation laid down in clause 8 of the contract, the contracting authority has the right to claim contractual penalty from the supplier in the amount of up to 10 (ten) percent of the contract price and/or to terminate the contract unilaterally prematurely.
+	•	In the case of non-performance of improper performance of the contract, which can be deemed to be fundamental breach of the contract, the contracting authority has the right to terminate the contract unilaterally prematurely by notifying the supplier thereof in writing. A breach of the contract is deemed to be fundamental in particular in the circumstances set out in subsection 116 (2) of the Law of Obligations Act.
+	•	Contractual penalties and fines for delay shall be paid within 14 (fourteen) days from the receipt of the relevant claim. Upon paying for the product, the contracting authority has the right to reduce the contract price by the amount of the contractual penalty. Claiming contractual penalty shall not affect the right to require from the other party also fulfilment of contractual obligations and compensation for damage. 
+	•	If the supplier fails to properly perform the contract and due to this, the implementing authority decides to reduce or recover the grant, the contracting authority has the right to recover the ineligible costs from the supplier in the amount of the repayment claim. 
+	•	Non-fulfilment or improper fulfilment of contractual obligations shall not be deemed to be breach of the contract if it was due to force majeure. The parties consider that force majeure are unforeseen circumstances and events described in subsection 103 (2) of the Law of Obligations Act, which are beyond their control, and other events recognized as force majeure by Estonian case law. 
+
+	•	Communication of notices and authorised representatives 
+	•	As a rule, notices shall be presented in a format that can be reproduced in writing. The notifications submitted to the other party that have important legal consequences, e.g. applications for termination of the contract, claims to the other party arising from breach of the contract, etc., must be presented in writing. A digitally signed form is equivalent to a written form. 
+	•	Notices relating to the contract shall be submitted to the other party to the contact address indicated in the contract. A party shall immediately notify the other party in writing of any changes in the contact details. Until the other party is notified of changes in the contact details, a notice is deemed to be communicated correctly to the other party if it has been sent to the contact address indicated in the contract.
+	•	A written notice is deemed to be received by the other party if the notice has been delivered against signature or if the notice has been sent by registered mail to the address indicated by the other party and 5 (five) calendar days have passed from posting. Documents, including digitally signed documents, sent by e-mail shall be deemed to be received at the time of sending indicated in the e-mail. 
+	•	The authorised representatives of the parties are:
+	•	The contracting authority's authorised representative ____________ name _________________, phone ______, e-mail ____________. The authorised representative of the contracting authority is entitled to represent the contracting authority in all matters relating to the performance of the contract, except amendment of the contract, unilateral premature termination of the contract and filing a claim for contractual penalty, fine for delay or compensation for damage. 
+	•	 The supplier's authorised representative ____________ name _________________, phone ______, e-mail ____________.
+
+	•	Confidentiality 
+	•	During the term of validity of the contract and unlimited period after expiry of the contract, the supplier shall keep secret all confidential information received in connection with performance of the contract, in maintenance of confidentiality of which the contracting authority is presumed to have a legitimate interest.
+	•	Confidential information can be disclosed to third persons only with the contracting authority's prior consent presented in a format that can be reproduced in writing. The confidentiality requirement laid down in the contract shall not extend to disclosure of information to the auditors, lawyers, banks, insurance undertakings, other legal entities or partners, subcontractors or service providers belonging to the global network of the contractor who are bound by the obligation of confidentiality and in the event the party is required to provide information by law. 
+	•	The supplier undertakes not to use confidential information for personal gain or for the benefit of third parties.
+	•	The supplier undertakes to ensure that its representative(s), employees, contracting partners and other persons involved in the performance of the contractual obligations are aware of the obligation of confidentiality laid down in this contract and to require these persons to comply with that obligation unconditionally and for an indefinite period of time. 
+	•	Upon performing the contract, the supplier shall ensure that the personal data are processed legitimately and in compliance with the requirements set out in the General Data Protection Regulation (EU) 2016/679 and other legislation relating to data protection, incl. take organisational, physical and technical information security measures in order to protect confidential information from accidental or intentional unauthorised alteration, accidental or intentional destruction, disclosure, etc.
+
+	•	Validity, amendment and termination of the contract
+	•	The contract shall enter into force upon signature thereof by the parties and shall be valid until the parties have fulfilled all their contractual obligations. Expiry of the contract shall not affect the performance of obligations which, due to their nature, apply also after expiry of the contract. 
+	•	A party shall not transfer the contractual rights and obligations to a third party without a written consent of the other party.
+	•	The parties may amend the contract under the conditions laid down in subsection 123 (1) of the Public Procurement Act.
+
+	•	Final provisions 
+	•	The Parties shall make resolutions in compliance with the legislation of the Republic of Estonia; in particular, in matters not covered by the contract, the provisions of the Law of Obligations Act concerning the relevant types of contract apply.
+	•	If a provision of the contract proves to be inconsistent with the legislation in force in Estonia, it shall not affect the validity of other provisions of the contract.  
+	•	The supplier is aware that the contract is public to the extent provided by the Public Information Act. 
+	•	The disputes arising from the contract that the parties have failed to resolve by negotiations shall be settled in Harju County Court. 
+	•	The contract shall be signed digitally or on paper (if the tenderer is a foreign company). The paper agreement shall be signed in duplicate, one copy being for each party.
+
+
+
+Contracting authority								Supplier
+
+
+
+
+
+Annex 2 TECHNICAL DESCRIPTION
+Tallinn University of Technology announces a tender for the purchase of IMAGE LUMINANCE MEASURING DEVICE CAMERA (ILMD).
+The ILMD camera is Intended for the measurement of outdoor lighting, indoor lighting, roadway and tunnel lighting, and glare evaluation. The purchased luminance measuring camera must be a new measuring device. The device must meet the technical specifications below and have equivalent or better technical data.
+Used for determining glare values in outdoor lighting. Software must support glare assessments according to standards (UGR, DGP, GR).
+
+I TECHNICAL DESCRIPTION
+An image luminance meter that complies with and follows the standards (CIE 244:2021, EN 12464-1, EN 12464-2, EN 13201-4), along with the corresponding software.
+This technical description has been prepared for the procurement of a measurement device and software required by a laboratory.
+Standard-Compliant Luminance Meter A digital electronic device (ILMD – Image Luminance Measuring Device) equipped with lens(es), a photometric correction filter, and a sensor consisting of a matrix of detectors (pixels), calibrated for luminance distribution measurement within a framed measurement field.
+To ensure metrological traceability, the image luminance meter must be calibrated within its applicable measurement ranges.
+The luminance meter and associated software are used for determining luminance and other photometric parameters in indoor and outdoor lighting environments. The device, along with accessories, is intended for use in educational, scientific, and research work.
+The procured device must comply with applicable European Union standards and bear the CE marking.
+
+II Technical Requirements 
+
+
+Component
+Specification
+
+1
+Luminance Camera
+ILMD camera
+
+2
+Sensor Resolution
+12 Mpix
+
+3
+Sensor Size
+2/3" or 1.1" diagonal
+
+4
+Data Format
+12-bit A/D conversion
+
+5
+Computer Interface
+At least: Gigabit Ethernet Interface , GigaBit network card and data cable
+
+6
+Dynamic Range
+At least:  Single picture: 1:1100  Using exposure bracketing: 1:10 000 000
+
+7
+Measurable Quantities
+At least:  a) Luminance L (cd/m²)  b) Glare values (UGR, DGP, GR)
+
+8
+Spectral Matching
+Matched to the V(λ) luminance function using a full-glass filter
+
+9
+Adjustable Measurement Area
+Selectable aperture, exposure time, and capture rate
+
+10
+Focusing
+Automatic or Manual
+
+11
+Measurement Range
+0,001 to 100 000 000 cd/m² (Including ND filter use)
+
+12
+Calibration Uncertainty
+According to CIE 244:2021:  Fixed focus lens ∆L [ < 2% ]  Focusing lens ∆L [ < 2.5% ]
+
+13
+Repeatability
+∆L [ < 0.1% ] (According to CIE 244:2021)?
+
+14
+Measuring Accuracy
+∆L [ < 3% ] with standard light source A (According to CIE 244:2021)?
+
+15
+Uniformity
+f21 [ < 2% ]  Defined/measured per CIE 244:2021
+
+16
+Metrological Specification
+V(λ) function: f1′ < 3%  Spectral mismatch f′1 as per ISO/CIE 19476:2014
+
+17
+Optics / Lenses
+Fixed or autofocus lens options with standard-compliant measurement areas (EN 12464-1; EN 12464-2; EN 13201-4)  Fisheye lens ≥ 160° (circular) f. UGR/GR
+
+18
+Filters
+Recommended calibrated filters to extend the measurement range
+
+19
+Operating System Compatibility
+At least: Windows 10, Windows 11
+
+20
+Software
+Monochrome luminance analysis software  Camera control software
+
+21
+Transport Case
+Carrying case for storage and transportation
+
+22
+Documentation
+Camera manual; Luminance camera handling instructions; Software user manual; Calibration certificate
+
+23
+Power Supply
+Operates on battery power (Battery Pack) and mains voltage 230V
+
+III Accessories and Software
+	•	Accessories and software must be compatible with the procured luminance meter that complies with standards (CIE 244:2021, EN 12464-1, EN 12464-2, EN 13201-4). 
+	•	Accessories intended for glare measurement must be compatible with glare evaluation standards (UGR, DGP, GR).
+	•	To ensure metrological traceability, accessories (e.g., additional lenses) must be calibrated within the applicable measurement ranges alongside the luminance meter. The accompanying software must allow full configuration of the camera.
+
+
+Annex 3 Forms
+
+Form I – Letter of authorisation (if applicable)   
+Name of the contracting authority: Tallinn University of Technology
+Procurement title: …………………….. 
+
+
+
+
+___________ (name of the tenderer) represented by ____________________  (name and position of the authoriser) does hereby authorise _________________ (name and position of the authorised person) to act as the official representative of the tenderer and sign the abovementioned public procurement tender.   
+Specimen signature of the authorised person: ________________________   
+This letter of authorisation has been granted without the right of delegation.   
+The letter of authorisation is valid until: ________________   
+Date: _________________   
+____________________ (signature of the authoriser)   
+____________________ (name and position of the authoriser) 
+   
+
+Form II – Letter of authorisation of joint tenderers (if applicable, when a joint tender is submitted)   
+
+Name of the contracting authority: Tallinn University of Technology
+Procurement title: ………………………………………………………………
+We___________ (names of the joint tenderers) represented by ____________________  (names and positions of the authorisers) do hereby authorise _________________ (name and position of the authorised person) to act as the official representative of the tenderers, who have submitted this joint tender, and carry out operations related to the procurement procedure, entry into the public contract and performance of the public contract.  
+We confirm hereby that being the joint tenderers we bear joint and several liability for the performance of the public contract.     
+Specimen signature of the authorised person: ________________________   
+This letter of authorisation has been granted without the right of delegation.   
+The letter of authorisation is valid until: ________________   
+Date: _________________   
+____________________ (signature of the authoriser)   
+____________________ (name and position of the authoriser)   
+____________________ (signature of the authoriser) 
+
+
+
+
+=== 9763465_304575_hankepass_taiendavate_selgitustega.pdf ===
+1/20
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+-
+ELT URL:
+Riigi ametlik teataja:
+304575
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+Tallinna Tehnikaülikool (74000323)
+Riik:
+Eesti
+Hankija aadress:
+Ehitajate tee 5
+Hankija veebiaadress:
+http://www.taltech.ee
+E-posti aadress:
+hanked@taltech.ee
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+2/20
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Video-heledusmõõturi ostmine
+Lühikirjeldus:
+Video-heledusmõõturi ostmine
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+304575
+Hanke liik:
+Asjad
+Hanke CPV-d:
+38410000-2 Mõõturid
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+3/20
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+4/20
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+5/20
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+6/20
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kuritegelikus ühenduses osalemise eest". Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud aususe kohustuse rikkumise või korruptiivse teo eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+7/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kelmuse eest kõige rohkem viimase viie aasta jooksul või kehtib
+süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud kelmuse eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+8/20
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud terroriakti toimepaneku või muu terroristliku tegevusega seotud kuriteo
+või sellele kihutamise, kaasaaitamise või selle katse eest". Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 1 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud rahapesualase süüteo või terrorismi rahastamise eest". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+9/20
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Viide seadusele:
+RHS § 95 lg 1 p 3 ja lg 2 "keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi
+või muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud laste tööjõu ebaseadusliku kasutamise või inimkaubandusega seotud
+teo eest". Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada
+tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise
+võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või
+hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku maksu, makse või keskkonnatasu maksuvõlg
+maksukorralduse seaduse tähenduses või maksuvõlg /…/ tema asukohariigi õigusaktide kohaselt“
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+10/20
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul, kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Viide seadusele:
+RHS § 95 lg 1 p 4 „kellel on riikliku /…/ makse /…/ maksuvõlg maksukorralduse seaduse
+tähenduses või sotsiaalkindlustusemaksete võlg tema asukohariigi õigusaktide kohaselt
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+11/20
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+12/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on muus sellesarnases olukorras tema asukohamaa õigusaktide kohaselt“,
+välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, likvideerimisel või kelle suhtes on algatatud
+pankrotimenetlus või kes on muus sellesarnases olukorras tema asukohamaa õigusaktide
+kohaselt, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+13/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kelle äritegevus on peatatud, välja arvatud asjade ostmisel RHS § 49 lõikes 4
+sätestatud juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Viide seadusele:
+RHS § 95 lg 4 p 4 „kes on raskelt eksinud ametialaste käitumisreeglite vastu ja see muudab tema
+aususe küsitavaks“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+14/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Viide seadusele:
+RHS § 95 lg 4 p 5 „konkurentsi kahjustava kokkuleppe, ettevõtjate ühenduse otsuse või
+kooskõlastatud tegevuse tõttu“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja
+soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse
+taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära
+ületava hankega või hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Viide seadusele:
+RHS § 95 lg 4 p 6 „kui huvide konflikti ei ole muude vahenditega võimalik vältida“. Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+15/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Viide seadusele:
+RHS § 95 lg 4 p 7 „kelle pakkumuse või taotluse koostamisel on osalenud isik, kes on osalenud
+sama riigihanke ettevalmistamisel või on muul viisil hankijaga seotud, ja sellele isikule seetõttu
+teadaolev info annab talle eelise teiste riigihankes osalejate eest ning sellest tingitud konkurentsi
+moonutamist ei ole muude vahenditega võimalik vältida“. Kui hankemenetlusest kõrvaldamise
+alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid
+oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Viide seadusele:
+RHS § 95 lg 4 p 8 „kes on oluliselt või pidevalt rikkunud eelnevalt sõlmitud hankelepingu olulist
+tingimust või hankelepingute olulisi tingimusi nii, et rikkumise tulemusena on lepingust
+taganetud või leping üles öeldud, hinda alandatud, hüvitatud kahju või makstud leppetrahvi". Kui
+hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud. Alates 1.09.2017 alustatud hangete tulemusena sõlmitud
+riigihankelepingute kohta leiab infot riigihangete registrist.
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+16/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Viide seadusele:
+RHS § 95 lg 4 p 9 „kes on esitanud valeandmeid käesolevas paragrahvis sätestatud või RHS §-
+des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele vastavuse kohta“;
+RHS § 95 lg 4 p 9 „kes on jätnud andmed käesolevas paragrahvis sätestatud või käesoleva
+seaduse §-des 98-101 sätestatu alusel hankija kehtestatud kvalifitseerimise tingimustele
+vastavuse kohta esitamata“;
+RHS § 95 lg 4 p 9 „kes on jätnud käesoleva seaduse § 104 lõigete 7 ja 8 alusel hankija nõutud
+täiendavad dokumendid esitamata“;
+RHS § 95 lg 4 p 10 „kes on tegutsenud eesmärgiga mõjutada hankijat või esitanud hooletusest
+eksitavat teavet, mis on võinud mõjutada hankija otsuseid riigihankes, või on tegutsenud
+eesmärgiga saada konfidentsiaalset teavet, mis on võinud anda talle põhjendamatu eelise teiste
+riigihankes osalejate ees“.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+17/20
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+keskkonnaõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid
+sotsiaalõiguse valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus
+esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 2 „kes on rikkunud õigusaktidest või kollektiivlepingust tulenevaid tööõiguse
+valdkonnas kohaldatavaid kohustusi“. Kui hankemenetlusest kõrvaldamise alus esineb, võib
+ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud meetmeid oma
+usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui tegemist on
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+18/20
+rahvusvahelist piirmäära ületava hankega või hankija on selle hanke alusdokumentides ette
+näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PANKROT
+Kas ettevõtja on pankrotis?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on pankrotis, välja arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud
+juhul ja tingimustel“. Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral
+esitada tõendeid selle kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks.
+Heastamise võimalus on ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava
+hankega või hankija on selle hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Viide seadusele:
+RHS § 95 lg 4 p 3 „kes on likvideerimisel või kelle suhtes on algatatud pankrotimenetlus, välja
+arvatud asjade ostmisel RHS § 49 lõikes 4 sätestatud juhul ja tingimustel“. Kui hankemenetlusest
+kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle kohta, et ta on võtnud
+meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on ettevõtjal juhul, kui
+tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle hanke
+alusdokumentides ette näinud.
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+19/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 2 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget, prokuristi või
+muud isikut, kellel on volitus seda ettevõtjat esindada, tema nimel otsuseid teha või teda
+kontrollida, on karistatud riigis ilma seadusliku aluseta viibivale välismaalasele töötamise
+võimaldamise või välismaalase Eestis töötamise tingimuste rikkumise võimaldamise, sealhulgas
+seaduses sätestatud töötasu määrast väiksema töötasu maksmise eest“. Kohustuslik kõrvaldamise
+alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Viide seadusele:
+RHS § 95 lg 1 p 5. Kellega hankelepingu sõlmimine rikuks rahvusvahelist või Vabariigi
+Valitsuse sanktsiooni rahvusvahelise sanktsiooni seaduse tähenduses. Hankija kontrollib
+käesoleva seaduse § 95 lõike 1 punktis 5 sätestatud kõrvaldamise alust pakkuja või taotleja
+kinnituse alusel. Hankija võib põhjendatud kahtluse korral nõuda pakkujalt või taotlejalt
+täiendavate andmete või tõendite esitamist, mis võimaldavad kõrvaldamise alust kontrollida.
+(RHS § 96 lg 2.1).
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+20/20
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Viide seadusele:
+RHS § 95 lg 4 p 11 „keda või kelle haldus-, juhtimis- või järelevalveorgani liiget või muud
+seaduslikku esindajat on karistatud maksualaste süütegude eest“. Vabatahtlik kõrvaldamise alus.
+Kui hankemenetlusest kõrvaldamise alus esineb, võib ettevõtja soovi korral esitada tõendeid selle
+kohta, et ta on võtnud meetmeid oma usaldusväärsuse taastamiseks. Heastamise võimalus on
+ettevõtjal juhul, kui tegemist on rahvusvahelist piirmäära ületava hankega või hankija on selle
+hanke alusdokumentides ette näinud.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 05.01.2026 13:25:54
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+
+=== 9763465_304575_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 304575
+Hankija:Tallinna Tehnikaülikool (74000323)
+Hange:Video-heledusmõõturi ostmine
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Video-heledusmõõtur Pakkumuse maksumus sisaldab seadme Maksumus - 100 1 jah
+maksumust eurodes, ilma käibemaksuta. vähim on parim
+Pakkumuse maksumus sisaldab mh
+asjade kohale toimetamist hankija
+asukohta, paigaldamist, asja kasutamise
+koolitust ja müügilepingu täitmisega
+seotud
+kulutusi.
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Video-heledusmõõtur
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 05.01.2026 13:43:44 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9763465/general-info
+
+=== 9763465_304575_vastavustingimused.pdf ===
+1/2
+VASTAVUSTINGIMUSED
+Viitenumber: 304575
+Hankija: Tallinna Tehnikaülikool (74000323)
+Hange: Video-heledusmõõturi ostmine
+VASTAVUS TEHNILISELE KIRJELDUSELE
+Pakkuja esitab pakutava toote tehnilise kirjelduse, kus peavad olema välja toodud kõik andmed
+vastavalt alusdokumentides toodud tehnilistele tingimustele.
+Vastavuse kontrollimiseks peab pakkuja esitama lisaks toote/asja tootenimetuse,
+spetsifikatsioonid, tootelehed ja/või muu info, mis on esitatud toote vastavuse kontrollimiseks
+vajalik.
+Küsimused ettevõtjale:
+1. Tehniline kirjeldus (Vabas vormis dokument) (Vabas vormis dokument)
+EL NÕUKOGU SANKTSIOON. ALLTÖÖVÕTJAD JA TARNIJAD.
+Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on:
+1. Vene Föderatsiooni kodanik, resident või Vene Föderatsioonis asutatud ettevõtja, sh füüsilisest
+isikust ettevõtja, juriidiline isik, asutus või muu üksus;
+2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või muu
+üksuse omandis;
+3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või tegutseb sellise isiku
+juhiste alusel.
+Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav hankeleping oleks RSanS § 7 lg 1 alusel
+tühine.
+Määrust kohaldatakse riigihangetele alates rahvusvahelisest piirmäärast. NÕUKOGU MÄÄRUS
+(EL) 2022/576, 8. aprill 2022, millega muudetakse määrust (EL) nr 833/2014, mis käsitleb
+piiravaid meetmeid seoses Venemaa tegevusega, mis destabiliseerib olukorda Ukrainas.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on: 1. Vene Föderatsiooni kodanik, resident või Vene
+Föderatsioonis asutatud ettevõtja, sh füüsilisest isikust ettevõtja, juriidiline isik, asutus või muu
+üksus; 2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või
+muu üksuse omandis; 3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või
+tegutseb sellise isiku juhiste alusel. (Raadionupp valikutega "Jah/Ei")
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+Koostatud 05.01.2026 13:41:40
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info
+2/2
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+RAHVUSVAHELISE SANKTSIOONI OBJEKT
+Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks või pärit
+sanktsiooni all olevatest piirkondadest. Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav
+hankeleping oleks RSanS § 7 lg 1 alusel tühine.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks ega pärit
+sanktsiooni all olevatest piirkondadest. (Raadionupp valikutega "Jah/Ei")
+VENEMAA JA VALGEVENE ETTEVÕTJATE OSALEMISE PIIRAMINE
+Riigihankes ei ole lubatud osaleda ettevõtjatel, kelle elu- või asukoht on Vene Föderatsioonis või
+Valgevene Vabariigis.
+RHS § 3 p 2 kohaselt kohtleb hankija kõiki isikuid, kelle elu- või asukoht on Eestis, mõnes muus
+Euroopa Liidu liikmesriigis, muus Euroopa Majanduspiirkonna
+lepinguriigis või Maailma Kaubandusorganisatsiooni riigihankelepinguga (GPA) ühinenud
+riigis võrdselt. Sellest tulenevalt ei pea võrdselt kohtlema isikuid, kelle elu- või asukoht loetletud
+riikides ei ole.
+Küsimused ettevõtjale:
+1. Ettevõtja kinnitab, et tema elu- või asukoht ei ole Vene Föderatsioonis või Valgevene
+Vabariigis (Raadionupp valikutega "Jah/Ei")
+Koostatud 05.01.2026 13:41:40
+https://riigihanked.riik.ee/rhr-web/#/procurement/9763465/general-info

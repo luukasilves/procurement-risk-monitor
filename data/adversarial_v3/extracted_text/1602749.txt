@@ -1,0 +1,1798 @@
+=== 1602749_213197_hankepass_taiendavate_selgitustega.pdf ===
+1/19
+HANKEPASS
+Hankepass ehk Euroopa ühtne hankedokument (ESPD) on ettevõtja enda kinnitus, mis on esialgne tõend
+ametiasutuste või kolmandate isikute poolt väljastatavate tõendite asemel. Käesolev PDF vormingus registri
+poolt koostatud dokument on selgitava iseloomuga ja sisaldab hankija sätestatud tingimusi, ettevõtjalt
+oodatavate vastuste vormingu vaadet ja registri poolt lisatud viiteid RHS-ile. Käesolev dokument ei ole ette
+nähtud täitmiseks vaid tingimustega tutvumiseks. Ettevõtja täidab hankepassi elektrooniliselt infosüsteemis või
+ESPD teenuses.
+I OSA: HANKE JA HANKIJAGA SEOTUD TEAVE
+Teave avaldamise kohta
+Teate number ELTs:
+2019
+ELT URL:
+http://ted.europa.eu/udl?uri=TED:NOTICE:497598-2019:TEXT:ET:HTML
+Riigi ametlik teataja:
+213197
+Kui Euroopa Liidu Teatajas hankekuulutust avaldatud ei ole või kui selle avaldamist ei nõuta, peab avaliku
+sektori hankija või võrgustiku sektori hankija ise teabe esitama, et hankemenetlust saaks üheselt
+identifitseerida (nt viide siseriikliku avaldamise kohta).
+Hankija andmed
+Ametlik nimi:
+Maanteeamet (70001490)
+Riik:
+Eesti
+Hankija aadress:
+Teelise tn 4
+Hankija veebiaadress:
+http://www.mnt.ee
+E-posti aadress:
+info@mnt.ee
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+2/19
+Teave hankemenetluse kohta
+Hanke menetlusliik:
+Avatud hankemenetlus
+Pealkiri:
+Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning teenindamine
+Lühikirjeldus:
+Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning teenindamine vastavalt
+riigihanke alusdokumentides sätestatud tingimustele
+Avaliku sektori hankija või võrgustiku sektori hankija poolt toimikule antud viitenumber (kui on
+asjakohane):
+213197
+Hanke liik:
+Teenused
+Hanke CPV-d:
+60410000-5 Õhutranspordi regulaarteenused
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+3/19
+II OSA: ETTEVÕTJAGA SEOTUD TEAVE
+A: Teave ettevõtja kohta
+Nimi:
+Registrikood:
+Riik:
+Aadress:
+Üldine veebileht:
+Kontaktisikud:
+Kontaktide e-posti aadressid:
+Kontaktide telefoninumbrid:
+Ettevõtte suurus:
+Töötajate arv:
+Käive:
+Valuuta:
+Finantsalase võimekuse kirjeldus:
+Tehnilise võimekuse kirjeldus:
+Teostatud tööde kirjeldus:
+Ettevõtja tegevusvaldkond:
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+4/19
+ETTEVÕTJA ON KAITSTUD TÖÖKOHT
+Ainult reserveeritud hangete puhul: kas ettevõtja puhul on tegemist kaitstud töökohaga, sotsiaalse
+ettevõttega või ta täidab lepingut kaitstud tööhõive programmide raames?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Milline on puudega või ebasoodsas olukorras olevate töötajate osakaal?
+3. Kui seda on nõutud, täpsustage, millisesse puudega või ebasoodsas olukorras olevate töötajate
+kategooriasse või kategooriatesse asjaomased töötajad kuuluvad?
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+ETTEVÕTJA ON KANTUD TUNNUSTATUD ETTEVÕTJATE AMETLIKKU
+NIMEKIRJA
+Kui see on asjakohane, siis kas ettevõtja on kantud tunnustatud ettevõtjate ametlikku nimekirja
+või kas tal on olemas samaväärne tõend (nt riikliku (eel)kvalifitseerimissüsteemi alusel)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. a) Vajaduse korral märkige asjakohane registreerimis- või sertifitseerimisnumber:
+3. c) Viited, millele registreerimine või sertifitseerimine tugineb ja vajaduse korral ametlikus
+nimekirjas omistatud klassifikatsioon:
+4. d) Kas registreerimine või sertifitseerimine hõlmab kõiki nõutud valikukriteeriume?
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKEMENETLUSES KOOS OSALEVAD ETTEVÕTJAD
+Kas ettevõtja osaleb hankemenetluses koos teistega?
+Küsimused ettevõtjale:
+1. Ettevõtja nimi
+2. Ettevõtja ID
+3. Ettevõtja roll
+4. Kas see teave on elektrooniliselt kättesaadav?
+5. URL
+6. Kood
+7. Väljaandja
+TEAVE TEISTE ÜKSUSTE SUUTLIKKUSELE TOETUMISE KOHTA
+Kas ettevõtja toetub teiste üksuste suutlikkusele, et täita esitatud valikukriteeriumid ning eeskirjad
+(kui neid on)?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+5/19
+TEAVE NENDE ALLHANKIJATE KOHTA, KELLE NÄITAJATELE ETTEVÕTJA
+EI TUGINE
+Kas ettevõtja kavatseb sõlmida lepingu mis tahes osa kohta allhanke kolmanda isikuga?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Ettevõtja nimi
+3. Ettevõtja ID
+4. Ettevõtja roll
+5. Kas see teave on elektrooniliselt kättesaadav?
+6. URL
+7. Kood
+8. Väljaandja
+HANKE OSAD
+Hanke osad, mille kohta ettevõtja soovib pakkumuse esitada
+Küsimused ettevõtjale:
+1. Hanke osa number
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+ETTEVÕTJA KINNITUSED MAKSUDE TASUMISE KOHTA
+Kas ettevõtja saab esitada tõendi sotsiaalkindlustusmaksete ja maksude tasumise kohta või esitada
+teabe, mis võimaldaks avaliku sektori hankijal või võrgustiku sektori hankijal saada sellise teabe
+otse ükskõik millise liikmesriigi tasuta andmebaasist?
+Küsimused ettevõtjale:
+1. Mis on Teie vastus?
+2. Kas see teave on elektrooniliselt kättesaadav?
+3. URL
+4. Kood
+5. Väljaandja
+B: Teave ettevõtja esindajate kohta
+Eesnimi:
+Perekonnanimi:
+Sünniaeg:
+Sünnikoht:
+Aadress:
+Linn/vald:
+Postiindeks:
+Riik:
+E-post:
+Telefon:
+Vajaduse korral esitage üksikasjalik teave esindamise kohta (selle vormid, ulatus, eesmärk, ...):
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+6/19
+III OSA: KÕRVALDAMISE ALUSED
+A: Kõrvalejätmise alused seoses kriminaalasjas tehtud süüdimõistva otsusega
+OSALEMINE KURITEGELIKUS ORGANISATSIOONIS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KORRUPTSIOON
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud korruptsiooni eest kõige rohkem viimase viie aasta jooksul või
+kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt? See
+kõrvalejätmise alus hõlmab ka korruptsiooni avaliku sektori hankija (võrgustiku sektori hankija)
+või ettevõtja riigi õiguses sätestatud määratluses.
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+7/19
+PETTUS
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud kuritegelikus organisatsioonis osalemise eest kõige rohkem
+viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise
+kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TERRORIAKTI TOIMEPANEK VÕI TERRORISTLIKU TEGEVUSEGA SEOTUD
+ÕIGUSRIKKUMISED
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud terroriakti toimepaneku või terroristliku tegevusega seotud
+õigusrikkumiste eest kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas
+kohtuotsuses sätestatud kõrvalejäämise kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+RAHAPESU VÕI TERRORISMI RAHASTAMINE
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud rahapesu või terrorismi rahastamise eest kõige rohkem viimase
+viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud kõrvalejäämise kohustus
+endiselt?
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+8/19
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+LASTE TÖÖJÕU KASUTAMINE JA MUUD INIMKAUBANDUSE VORMID
+Kas ettevõtja ise või tema haldus-, juht- või järelevalveorgani liige või isik, kellel on volitused
+seda ettevõtjat esindada, tema nimel otsuseid teha või teda kontrollida, on lõpliku süüdimõistva
+kohtuotsusega süüdi mõistetud laste tööjõu kasutamise või muude inimkaubanduse vormide eest
+kõige rohkem viimase viie aasta jooksul või kehtib süüdimõistvas kohtuotsuses sätestatud
+kõrvalejäämise kohustus endiselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Süüdimõistmise kuupäev (Kuupäev)
+3. Põhjus (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kes süüdi mõisteti? (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+6. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+7. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Kõrvalejätmise alused seoses maksude või sotsiaalkindlustusmaksete tasumisega
+MAKSUDE TASUMINE
+Kas ettevõtja on rikkunud oma maksude tasumise kohustusi nii asukohariigis kui ka avaliku
+sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb asukohariigist?
+Kehtib: Kogu hanke kohta
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+9/19
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SOTSIAALKINDLUSTUSMAKSETE TASUMINE
+Kas ettevõtja on rikkunud oma sotsiaalkindlustusmaksete tasumise kohustusi nii asukohariigis
+kui ka avaliku sektori hankija või võrgustiku sektori hankija liikmesriigis, kui see erineb
+asukohariigist?
+Kehtib: Kogu hanke kohta
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+10/19
+Tingimuse kirjeldus:
+Piirmäär: 0
+Valuuta: EUR
+Lisainfo: Maksukorralduse seaduse kohaselt ei väljasta maksuhaldur maksuvõlgade tõendit juhul,kui
+maksukohustuslasel olev kõikide sama maksuhalduri hallatavate maksude võlg, arvestamata
+haldusaktiga kindlaksmääramata intressi, on väiksem kui 100 eurot või kui maksuvõla tasumine on
+ajatatud. Välismaise ettevõtja puhul väljastatakse maksuvõlgade tõend tema asukohariigi õigusaktide
+kohaselt.
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Asjaomane riik või liikmesriik (Riigikood)
+3. Asjaomane summa (Summa)
+4. Valuuta (Vääring)
+5. Kas see kohustuste rikkumine on tuvastatud muude vahenditega kui kohtu- või haldusotsusega?
+(Raadionupp valikutega "Jah/Ei")
+6. Kirjeldage kasutatud vahendeid (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kohustuste rikkumine tuvastati kohtu- või haldusotsusega, märkige, kas see otsus on lõplik ja
+siduv. (Raadionupp valikutega "Jah/Ei")
+8. Süüdimõistmise kuupäev (Kuupäev)
+9. Süüdimõistvas otsuses sõnaselgelt esitatud kõrvalejätmise kestus. (Periood)
+10. Kas ettevõtja on täitnud oma kohustused tasumisele kuuluvate maksude või
+sotsiaalkindlustusmaksete tasumisega või siduva kokkuleppe sõlmimisega tasumisele kuuluvate
+maksude või sotsiaalkindlustusmaksete, sealhulgas vajaduse korral kogunenud intresside ja viiviste
+tasumise kohta? (Raadionupp valikutega "Jah/Ei")
+11. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+12. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+13. URL (Url)
+14. Kood (Sisestusväli (max pikkus 250 tähemärki))
+15. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Kõrvalejätmise alused seoses maksejõuetusega, huvide konfliktiga või ametialaste
+käitumisreeglite rikkumisega
+KESKKONNAÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud keskkonnaõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+11/19
+SOTSIAALÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud sotsiaalõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+TÖÖÕIGUSE VALDKONNAS KOHALDATAVATE KOHUSTUSTE TÄITMATA
+JÄTMINE
+Kas ettevõtja on enda teada rikkunud tööõiguse valdkonnas kohaldatavaid kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+PANKROT
+Kas ettevõtja on pankrotis?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+12/19
+MAKSEJÕUETUS
+Kas ettevõtja suhtes on algatatud maksejõuetus- või likvideerimismenetlus?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+KOKKULEPE VÕLAUSALDAJATEGA
+Kas ettevõtja on sõlminud kokkuleppe võlausaldajatega?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SISERIIKLIKU ÕIGUSE KOHANE SAMALAADNE OLUKORD, NÄITEKS PANKROT
+Kas ettevõtja on siseriiklike õigusnormide alusel toimuva samalaadse menetluse tõttu
+samalaadses olukorras?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+13/19
+VARA HALDAB LIKVIDEERIJA
+Kas ettevõtja vara haldab likvideerija või kohus?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+ÄRITEGEVUS ON PEATATUD
+Kas ettevõtja äritegevus on peatatud?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Märkige põhjused, miks lepingu täitmine on sellest hoolimata võimalik. Seda teavet ei ole tarvis
+esitada, kui ettevõtja kõrvalejätmine on kohaldatava siseriikliku õiguse alusel muudetud konkreetsel
+juhul kohustuslikuks ja puudub võimalus teha erandit, isegi kui ettevõtja suudab lepingut täita. (Suur
+sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI AMETIALASTE KÄITUMISREEGLITE OLULISES RIKKUMISES
+Kas ettevõtja on süüdi ametialaste käitumisreeglite olulises rikkumises? Vt siseriiklikud
+õigusaktid, asjaomane teade või hankedokumendid, kui see on asjakohane.
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+14/19
+KONKURENTSI MOONUTAMISE EESMÄRGIL TEISTE ETTEVÕTJATEGA
+SÕLMITUD KOKKULEPPED
+Kas ettevõtja on teiste ettevõtjatega sõlminud kokkuleppeid, mille eesmärk on moonutada
+konkurentsi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+HANKEMENETLUSES OSALEMISEGA KAASNEV HUVIDE KONFLIKT
+Kas ettevõtja on teadlik hankemenetluses osalemisega kaasnevast mis tahes huvide konfliktist
+siseriikliku õiguse, asjakohase teatise või hankedokumentide kohaselt?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+OTSENE VÕI KAUDNE OSALEMINE KÄESOLEVA HANKEMENETLUSE
+ETTEVALMISTAMISEL
+Kas ettevõtja või temaga seotud ettevõtja on nõustanud avaliku sektori hankijat või võrgustiku
+sektori hankijat hankemenetluse ettevalmistamisel või olnud muul viisil seotud hankemenetluse
+ettevalmistamisega?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+4. URL (Url)
+5. Kood (Sisestusväli (max pikkus 250 tähemärki))
+6. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+15/19
+ENNETÄHTAEGNE LÕPETAMINE, KAHJUTASU VÕI VÕRRELDAVAD
+SANKTSIOONID
+Kas ettevõtja on kogenud, et varasem riigihankeleping või võrgustiku sektori hankijaga sõlmitud
+varasem hankeleping või varasem kontsessioonileping on lõpetatud enneaegselt, või on määratud
+kahjutasu või sellega võrreldavad sanktsioonid seoses kõnealuse varasema lepinguga?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+3. Kas olete võtnud meetmeid, et tõendada oma usaldusväärsust („Self-Cleaning”)? (Raadionupp
+valikutega "Jah/Ei")
+4. Kirjeldage neid (Suur sisestusala (max pikkus 4000 tähemärki))
+5. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+6. URL (Url)
+7. Kood (Sisestusväli (max pikkus 250 tähemärki))
+8. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+SÜÜDI VALEANDMETE ESITAMISES, ON JÄTNUD TEAVET ESITAMATA, EI SUUDA
+NÕUTUD DOKUMENTE ESITADA, HANKINUD KÄESOLEVA MENETLUSE KOHTA
+KONFIDENTSIAALSET TEAVET
+Kas ettevõtja on olnud ühes järgmistest olukordadest:
+a) ta on kõrvalejätmise aluste puudumise või valikukriteeriumide täitmise kontrollimiseks
+nõutava teabe esitamisel esitanud valeandmeid;
+b) ta on jätnud sellist teavet esitamata;
+c) ta ei ole esitanud viivitamata avaliku sektori hankija või võrgustiku sektori hankija nõutud
+täiendavad dokumendid, ja
+d) ta on tegutsenud eesmärgiga mõjutada lubamatul viisil avaliku sektori hankija või võrgustiku
+sektori hankija otsustusprotsessi, et saada konfidentsiaalseid andmeid, mis võivad anda talle
+põhjendamatu eelise hankemenetluses, või hooletusest esitanud eksitavat teavet, mis võib
+oluliselt mõjutada kõrvalejätmise, valiku või lepingu hindamise kohta tehtavaid otsuseid?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: SEADUSLIKU ALUSETA VIIBIVALE VÄLISMAALASELE TÖÖTAMISE
+VÕIMALDAMISE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 2 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+16/19
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: RAHVUSVAHELISE SANKTSIOONI SUBJEKT
+Kas ettevõtja on rikkunud RHS § 95 lg 1 p-st 5 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: HANKIJA ASUKOHAJÄRGSE KOHALIKU MAKSU MAKSUVÕLG
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 1 tuleneva kõrvalejätmise alusega seotud kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: KARISTATUD MAKSUALASTE SÜÜTEGUDE EEST
+Kas ettevõtja on rikkunud RHS § 95 lg 4 p-st 11 tuleneva kõrvalejätmise alusega seotud
+kohustusi?
+Kehtib: Kogu hanke kohta
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3. URL (Url)
+4. Kood (Sisestusväli (max pikkus 250 tähemärki))
+5. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+17/19
+IV OSA: KVALIFITSEERIMISTINGIMUSED
+A: Sobivus
+TEENUSLEPINGUTE PUHUL: VAJA ON TEATAVAT LUBA
+Kas ettevõtjal on vaja teatavat luba, et osutada asjaomast teenust oma tegevusjärgses riigis?
+Viide seadusele:
+RHS § 99 lg 1 „pakkuja või taotleja asukohariigi õigusaktide kohaselt on teenuste hankelepingu
+alusel sooritatava tegevuse jaoks õigusaktides kehtestatud erinõuded“
+RHS § 99 lg 2 „hankija võib nõuda tegevusluba tõendava asjakohase tõendi esitamist“
+Tingimuse selgitus:
+Pakkuja peab omama kehtivat lennutegevusluba (OL) mis tõendab, et pakkuja tohib õhu kaudu
+vedada reisijaid, posti
+ja/või lasti tasu ja/või rendi eest. Pakkuja peab omama kehtivat lennuettevõtja sertifikaati (AOC).
+Pakkuja esitab hankepassis lennutegevusloa (OL) ja lennuettevõtja sertifikaadi (AOC) andmed.
+Ühispakkumuse esitamisel peavad olema nimetatud lennutegevusload ja lennuettevõtja
+sertifikaadid kõigil ühispakkujatel. Hankija nõudmisel esitab pakkuja lennutegevusloa (OL) ja
+lennuettevõtja sertifikaadi (AOC) koopia. Hankija soovitab hankemenetluse kiirema läbiviimise
+huvides esitada nimetatud dokumendid juba taotluse esitamisega.
+Tingimuse kirjelduse all nimetatud register ja selle veebiaadress kehtivad vaid pakkujatele, kelle
+asukohamaa on Eesti.
+Pakkuja, kelle asukohamaa ei ole Eesti ja kes ei oma Lennuameti poolt väljastatud kehtivat
+lennutegevusluba (OL) ja lennuettevõtja sertifikaati (AOC), esitab pakkuja hankija nõudmisel
+pakkuja asukohamaal väljastatud lennutegevusloa (OL) ja lennuettevõtja sertifikaadi (AOC)
+koopia. Pakkujal ei ole õigust tugineda teise isiku vastavale õigusele tulenevalt riigihangete
+seadusest.
+Kehtib: Kogu hanke kohta
+Tingimuse kirjeldus:
+Registri nimi: lennuameti register
+Veebiaadress (URL): https://www.ecaa.ee/et/lennundusspetsialistid-koolitus-ja-sertifikaadid/
+lennuettevotjad
+Ettevõtjalt oodatavad vastused:
+1. Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2. Registreerimise number (Sisestusväli (max pikkus 250 tähemärki))
+3. Põhjused, miks ei kuulu nõutud registrisse (Suur sisestusala (max pikkus 4000 tähemärki))
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+B: Majanduslik ja finantsseisund
+ÜLDINE AASTAKÄIVE
+Ettevõtja üldine aastakäive on asjaomases teates, hankedokumentides või hankepassis nõutud
+majandusaastate jooksul järgmine:
+Viide seadusele:
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+18/19
+RHS § 100 lg 1 p 4 „andmed pakkuja või taotleja kogu majandustegevuse netokäibe kohta kuni
+viimase kolme riigihanke algamise ajaks lõppenud majandusaasta jooksul, sõltuvalt pakkuja või
+taotleja asutamise või äritegevuse alguse kuupäevast“
+Tingimuse selgitus:
+Pakkuja viimase kolme, riigihanke algamise ajaks lõppenud, majandusaasta netokäive
+(müügitulu) peab olema kokku vähemalt 3 800 000 EUR. Ühispakkujad võivad vastavad näitajad
+summeerida. Pakkuja esitab hankija nõudmisel riigihanke algamise ajaks lõppenud viimase
+kolme majandusaasta aruande väljavõtte või muud dokumendid, mis tõendavad pakkuja
+majandusaasta netokäibe suurust, (juriidilisest isikust Eestis registreeritud pakkuja puhul ei
+kohaldu, kui andmed või dokumendid on hankijale andmekogust avalikult kättesaadavad).
+Hankija soovitab hankemenetluse kiirema läbiviimise huvides esitada nimetatud dokumendid
+juba koos pakkumusega kui need ei ole hankijale äriregistrist avalikult kättesaadavad. Kui
+pakkuja soovib tõendada oma vastavust majandusliku ja finantsseisundi tingimustes esitatud
+nõuetele teise ettevõtja vahendite alusel, esitab pakkuja hankepassis andmed tuginetava isiku
+kohta. Teine ettevõtja, kelle netokäibele tugineti vastutab koos pakkujaga solidaarselt
+hankelepingu täitmise eest summas, mille suhtes tema vahenditele tugineti. Kui pakkuja soovib
+tõendada enda vastavust netokäibele esitatud nõuetele teiste ettevõtjate vahendite alusel, peab
+pakkuja esitama hankepassi ka selle isiku kohta, kelle vahenditele ta tugineb. Pakkuja esitab
+hankija nõudmisel HD I Vormi 2 kohase teise ettevõtja nõusoleku, milles teine ettevõtja märgib:
+a) kui suures netokäibe summas ta lubab pakkujal tema netokäibele tugineda, b) kinnitab, et ta
+annab pakkujale lepingu täitmisel vajadusel rahalisi vahendeid ning c) kinnitab, et ta vastutab
+koos pakkujaga solidaarselt hankelepingu täitmise eest summas, mille suhtes tema vahenditele
+tugineti. Hankija soovitab hankemenetluse kiirema läbiviimise huvides esitada nimetatud
+dokument juba koos pakkumusega ning kui teise isiku majandusaastate aruanded ei ole hankijale
+äriregistrist avalikult kättesaadavad, siis soovitab hankija esitada aruannete väljavõtted või muud
+dokumendid, mis tõendavad teise isiku majandusaastate netokäibe suurust juba koos
+pakkumusega.
+Kehtib: Kogu hanke kohta
+Tingimuse kirjeldus:
+Miinimumnõue: 3800000
+Valuuta: EUR
+Ettevõtjalt oodatavad vastused:
+1. Ajavahemik (Periood)
+2. Käive (Summa)
+3. Valuuta (Vääring)
+4. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+5. URL (Url)
+6. Kood (Sisestusväli (max pikkus 250 tähemärki))
+7. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+C: Tehniline ja kutsealane suutlikkus
+TÖÖVAHENDID, SEADMED JA TEHNILINE VARUSTUS - KEHTETU
+Ettevõtja saab lepingu täitmisel kasutada järgmisi töövahendeid, seadmeid ja tehnilist varustust:
+Viide seadusele:
+RHS § 101 lg 1 p 9 „andmed töövahendite, seadmete ja tehnilise varustuse olemasolu kohta või
+vastav kirjalik kokkulepe hankelepingu täitmiseks vajaliku tehnika omandamiseks või kasutusse
+võtmiseks“
+Tingimuse selgitus:
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+19/19
+Pakkuja peab teenust osutama vähemalt 40 reisijakohaga lennukiga ja teenuse osutamiseks
+pakutava lennuki tootmisaasta peab olema 2000 või uuem. Pakkuja esitab hankepassis teenuse
+osutamiseks kasutatava lennuki margi ja mudeli andmed, seerianumbrid ( väljaarvatud juhul kui
+pakutud lennukid on tootmisel) ja andmed reisijakohtade arvu ja tootmisaasta kohta. Lisaks
+andmed selle kohta, kas pakutud lennuk on pakkuja omand või mitte. Kui pakutud lennuk ei ole
+pakkuja omand, siis esitab pakkuja hankepassis andmed selle kohta, kuidas pakkujal on võimalik
+nõutud lennukeid omandada või kasutusse võtta. Hankija nõudmisel esitab pakkuja lennukite
+tehnilised dokumendid koos lennuki tootja spetsifikatsioonidega ( sealhulgas ametlikud
+dokumendid, mis tõendavad reisijakohtade arvu ja lennuki tootmisaastat), mille alusel on
+hankijal võimalik kontrollida lennuki vastavust lennukile kehtestatud tingimustele. Juhul kui
+pakutud lennuk ei kuulu pakkujale, siis esitab pakkuja hankija nõudmisel kirjaliku kokkuleppe
+või eelkokkuleppe, mille alusel on pakkujal võimalik pakutud lennukit omandada või kasutusse
+võtta. Hankija soovitab hankemenetluse kiiremaks läbiviimiseks esitada need dokumendid juba
+koos pakkumusega.
+Kehtib: Kogu hanke kohta
+Tingimuse kirjeldus:
+Nõue: Pakkuja peab teenust osutama vähemalt 40 reisijakohaga lennukiga ja teenuse osutamiseks
+pakutava lennuki tootmisaasta peab olema 2000 või uuem.
+Ettevõtjalt oodatavad vastused:
+1. Tehniline töötaja / Tehniline üksus (Töötaja / Tehniline üksus)
+2. Eesnimi (Sisestusväli (max pikkus 250 tähemärki))
+3. Perekonnanimi (Sisestusväli (max pikkus 250 tähemärki))
+4. Kutseala, amet (Sisestusväli (max pikkus 250 tähemärki))
+5. Kvalifikatsioon, kogemus (Suur sisestusala (max pikkus 4000 tähemärki))
+6. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+7. Kui kaua ettevõtja juures (Number)
+8. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+9. URL (Url)
+10. Kood (Sisestusväli (max pikkus 250 tähemärki))
+11. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+12. Nimi (Sisestusväli (max pikkus 250 tähemärki))
+13. Kogemuse valdkond (Suur sisestusala (max pikkus 4000 tähemärki))
+14. Muu info (Suur sisestusala (max pikkus 4000 tähemärki))
+15. Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+16. URL (Url)
+17. Kood (Sisestusväli (max pikkus 250 tähemärki))
+18. Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 11.12.2019 12:23:03
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+
+=== 1602749_213197_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 213197
+Hankija:Maanteeamet (70001490)
+Hange:Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning teenindamine
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Ühe reisi maksumus liinil Tallinn - Pakkuja esitab HD VI hinnapakkumuse Maksumus - 100 jah
+Kuressaare - Tallinn jaotuse ja maksumuste kalkulatsioon vähim on parim
+punkti tabeli real 5 toodud maksumuse.
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Ühe reisi maksumus liinil Tallinn - Kuressaare - Tallinn
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte proportsionaalselt vähem ja arvutatakse valemiga: "madalaim väärtus" / "pakkumuse
+väärtus" * "osakaal".
+Koostatud 06.09.2019 10:17:49 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+1602749/general-info
+
+=== 1602749_213197_vastavustingimused.pdf ===
+1/2
+VASTAVUSTINGIMUSED
+Viitenumber: 213197
+Hankija: Maanteeamet (70001490)
+Hange: Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning
+teenindamine
+KINNITUSED PAKKUMUSE KOHTA
+Küsimused ettevõtjale:
+1. 1. Pakkuja kinnitab, et: 1) ta nõustub kõikide hanketeates ja riigihanke alusdokumentides
+esitatud tingimuste ülevõtmisega; 2) ta esitab pakkumuse üksnes kõigi nende asjaolude kohta,
+mille kohta hankija on soovinud võistlevaid pakkumusi. (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE TAGATIS
+Küsimused ettevõtjale:
+1. Pakkuja esitab pakkumuse tagatise krediidi- või finantseerimisasutuse või kindlustusandja
+garantiina summas 20 000 EUR või nimetatud summa deponeerimisena pakkumuse jõusoleku
+ajaks Rahandusministeeriumi arveldusarvele EE891010220034796011, BIC ehk SWIFT kood –
+EEUHEE2X, viitenumber 2800045496, selgitusega „Maanteeamet, riigihanke viitenumbriga
+213197 pakkumuse tagatis“. Pakkumuse tagatise realiseerimisel lähtub hankija riigihangete
+seaduse §-st 91. Pakkuja esitab nimetatud tingimustele vastava krediidi- või finantseerimisasutuse
+või kindlustusandja garantiikirja või maksekorralduse koopia. (Vabas vormis dokument)
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+ärisaladuseks määramist. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks käesoleva lõike punktis 1 nimetatule muid
+pakkumuste hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS §
+111 lg 5).
+Küsimused ettevõtjale:
+1. Kas ärisaladus ning selle määramise põhjendus on pakkumuses märgitud? (Raadionupp
+valikutega "Jah/Ei")
+2. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus.
+(Suur sisestusala (max pikkus 4000 tähemärki))
+ÜHISPAKKUMUS
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? Juhul kui tegemist on ühispakkumusega, siis ühispakkujad
+esitavad nende esindajale antud HD I Vormi 1 kohase volikirja originaali, milles ühispakkujad
+nimetavad hankemenetlusega ning hankelepingu sõlmimise ja täitmisega seotud toimingute
+tegemiseks volitatud esindaja. Ühispakkumuse esitamise korral tuleb esitada eraldi hankepassid
+kõikide ühispakkujate kohta. (Raadionupp valikutega "Jah/Ei")
+Koostatud 27.03.2020 12:00:09
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+2/2
+PAKKUJATE RINGI PIIRAMINE
+Küsimused ettevõtjale:
+1. Võttes arvesse riigihangete seaduse § 7 lõikes 3 sätestatut, võivad käesolevas hankemenetluses
+pakkujana osaleda isikud, kes on pärit riigihangete seaduse § 3 punktis 2 nimetatud riikidest.
+Ühispakkumuse korral peavad kõik ühispakkumuses osalevad pakkujad olema pärit riigihangete
+seaduse § 3 punktis 2 nimetatud riikidest. Pakkuja esitab enda päritolu riigi nime. Ühispakkumuse
+korral kõikide ühispakkujate päritoluriigi nimed (Sisestusväli (max pikkus 250 tähemärki))
+HD VI HINNAPAKKUMUSE JAOTUS JA MAKSUMUSTE KALKULATSIOON
+HD VI kohases hinnapakkumuse jaotuses ja maksumuste kalkulatsioonis peavad olema täidetud
+kõikide hankija poolt tühjaks jäetud andmete ja maksumuste lahtrid. HD VI kohase
+hinnapakkumuse jaotuse ja maksumuste kalkulatsiooni maksumused esitatakse eurodes täpsusega
+kaks kohta peale koma.
+Küsimused ettevõtjale:
+1. HD VI hinnapakkumuse jaotus ja maksumuste kalkulatsioon (Dokumendi vorm / HD VI
+hinnapakkumuse jaotus ja maksumuste kalkulatsioon.docx)
+LENNUGRAAFIK
+Küsimused ettevõtjale:
+1. Lennud peavad toimuma vastavalt riigihanke alusdokumendi HD III Tehniline kirjeldus
+punktis 1.11 lennugraafikus sätestatud kellaaegade ajavahemikes. Pakkuja esitab vabas vormis
+lennugraafiku sõltuvalt kasutatavast lennukitüübist tingimusel, et esitatavas lennugraafikus tuleb
+märkida kõik väljumiste ja saabumiste ajad täpse kellaajana, mitte ajavahemikuna ning pakutud
+väljumiste ja saabumiste täpsed kellaajad peavad mahtuma HD III punktis Tehniline kirjeldus
+1.11 lennugraafikus sätestatud kellaaegade ajavahemike sisse. (Vabas vormis dokument)
+KÜTUSE HINNA TÕENDAMINE
+Küsimused ettevõtjale:
+1. Pakkuja esitab HD VI hinnapakkumuse jaotuses ja maksumuste kalkulatsioonis pakutud kütuse
+hinna tõendamiseks AS Tallinna Lennujaam lepingulise kütusepartneri kinnitatud reaalse kütuse
+hinna seisuga 11.05.2020.a (Vabas vormis dokument)
+NÕUDED TEENUSE OSUTAMISEKS KASUTATAVALE LENNUKILE
+Küsimused ettevõtjale:
+1. Teenuse osutamiseks kasutatav lennuk peab vastama HD III Tehniline kirjeldus punktis 1.1.
+sätestatud tingimustele. Nimetatud tingimuste täitmise kontrollimiseks esitab pakkuja: a) teenuse
+osutamiseks kasutatava lennuki margi ja mudeli andmed, seerianumbri (juhul kui pakutud lennuk
+on tootmisel, siis seerianumbrit ei pea esitama). b) andmed selle kohta, kas pakutud lennuk on
+pakkuja omand või mitte. Kui pakutud lennuk ei ole pakkuja omand, siis esitab pakkuja andmed
+selle kohta, kuidas pakkujal on võimalik nõutud lennukit omandada või kasutusse võtta. Juhul kui
+pakutud lennuk ei kuulu pakkujale, siis esitab pakkuja kirjaliku kokkuleppe või eelkokkuleppe,
+mille alusel on pakkujal võimalik pakutud lennukit omandada või kasutusse võtta. c) lennuki
+tehnilised dokumendid koos lennuki tootja spetsifikatsioonidega, mis tõendavad reisijakohtade
+arvu ja lennuki tootmisaastat. (Vabas vormis dokument)
+Koostatud 27.03.2020 12:00:09
+https://riigihanked.riik.ee/rhr-web/#/procurement/1602749/general-info
+
+=== 1602749_HD_III_Tehniline_kirjeldus.docx ===
+
+HD III Tehniline kirjeldus 
+
+	•	Hankelepingu eseme tehniline kirjeldus
+	•	Teenuse osutamiseks kasutatav lennuk peab olema vähemalt 40 reisijakohaga ja lennuki tootmisaasta peab olema 2000 või uuem. 
+	•	Vedaja peab katkematut teenust osutama vedaja poolt  riigihankes  esitatud lennukiga. Juhul kui lepingu täitmise käigus tekib vedajal vajadus asendada riigihankes pakutud lennukit  teise lennukiga, siis asendava lennuki reisijakohtade arv peab olema vähemalt sama või suurem ja tootmisaasta peab olema vähemalt sama või uuem, kui asendataval lennukil on. Juhul kui reisijakohtade arv on suurem ja tootmisaasta on uuem, siis tellija täiendavaid kulusid vedajale ei kompenseeri. 
+	•	Lennuki tehniline seisukord peab vastama seadustes, sh lennundusseaduses, Euroopa Komisjoni määruses (EL) nr 748/2012, millega nähakse ette õhusõidukite ja nendega seotud toodete, osade ning seadmete lennukõlblikkuse ja keskkonnaohutuse sertifitseerimise ning projekteerimis- ja tootjaorganisatsioonide sertifitseerimise rakenduseeskirjad ning Euroopa Komisjoni määruse (EÜ) nr 1321/2014, õhusõidukite ja lennundustoodete ning nende osade ja seadmete jätkuva lennukõlblikkuse ning sellega tegelevate organisatsioonide ja isikute sertifitseerimise kohta sätestatud nõuetele.
+	•	Vedaja peab korraldama sõidupiletite müüki, sh elektrooniliste vahendite kaudu ja kontrollima selle toimivust lepingus ning selle lisades kehtestatud tingimustel ja korras;
+	•	Vedaja peab võimaldama osta pileteid nii oma veebilehe või teenusepakkuja veebilehe, kui ka rahvusvahelise veebipõhise piletimüügisüsteemi kaudu, kus on reisijal võimalik broneerida ja välja osta lennupiletid hankeesemeks oleval lennuliinil. 
+	•	Vedaja peab võimaldama ettevõtetele, kes seda soovivad, juurdepääsu veebipõhisele rahvusvahelisele piletimüügisüsteemile nii, et neil oleks võimalik broneerida ja välja osta oma klientidele lennupileteid hanke esemeks olevatel lennuliinil. Konkreetsed kasutamise tingimused lepivad omavahel kokku vedaja ja juurdepääsu sooviv ettevõte.
+	•	Vedaja peab võimaldama õigusaktide alusel kehtestatud sõidusoodustuste kasutamist;
+	•	Vedaja peab korraldama lennuliini reklaami ja teabe avaliku ning regulaarse kättesaadavuse lennuliinidega seotud lennujaamades ja meedias. Reklaam hõlmab pakkuja kulul teavitusi vähemalt kord kvartalis kohalikes lehtedes Saaremaal, regulaarset reklaami pakkuja kodulehel ning sotsiaalmeedias, samuti kohalike kogukondade turismiorganisatsioonide avaldatud turismikataloogide ja -materjalide paigutamist lennukisse.
+	•	Vedaja peab tagama eestikeelse klienditoe teenuse kasutamise võimaluse kõnekeskuse kaudu 2h enne ja 1h pärast graafikujärgse lennu aega.
+	•	Vedajal  peab olema võimekus kasutada instrumentaal maandumise süsteemi (ILS) põhiseid protseduure.
+1.11. Lennugraafik (Lepingusse lisatakse pakkuja poolt pakutud Lennugraafik) : Täpsed tingimused on toodud riigihanke alusdokumendis vastavustingimused  LENNUGRAAFIK
+ 
+ 
+Väljumine
+Saabumine
+tööpäeviti
+TLL-URE
+07:05-07:25
+07:45 - 08:05
+
+URE -TLL
+08:30-8:50
+9:10 - 9:30
+
+TLL- URE
+18:30-18:50
+19:10 - 19:30
+
+URE -TLL
+19:55-20:15
+20:35 - 20:55
+laupäeval
+TLL- URE
+10:05-10:25
+10:45 - 11:05
+
+URE -TLL
+11:30-11:50 
+12:10 - 12:30
+pühapäeval
+TLL- URE
+18:30-18:50
+19:10 - 19:30
+
+URE -TLL
+19:55-20:15
+20:35 - 20:55
+
+
+
+
+
+
+
+=== 1602749_HD_II_Hankelepingu_projekt_lisadega.docx ===
+HD II Hankelepingu projekt
+
+
+Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamise ning teenindamise leping
+
+
+Maanteeamet, asukoht Teelise 4 ………………….Tallinn (edaspidi tellija), mida esindab……………………………,
+ja
+… registrikood … asukoht … (edaspidi vedaja), mida esindab … 
+(edaspidi vastavalt pool või pooled), 
+
+sõlmisid lennuliini avaliku teenindamise lepingu (edaspidi leping) alljärgnevas:
+
+	•	Üldsätted
+	•	Lepingu reguleerib poolte suhteid, õigusi, kohustusi ning vastutust vedaja poolt avaliku liiniveo korraldamisel lepingu objektiks oleval Tallinn-Kuressaare-Tallinn lennuliinil.
+	•	Leping sätestab avaliku lennuliini liiniveo tingimused, tuginedes ühistranspordiseadusele ja tellija korraldatud riigihanke „Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning teenindamine“ (riigihanke viitenumber 213197) tingimustele ning edukaks tunnistatud vedaja pakkumusele. Samuti sätestab leping  avaliku lennuliini korraldamise kulude (ühe reisi, s.o edasi-tagasi lennu, maksumuse) arvestamise põhimõtted ning tellijalt vedajale sihtotstarbelise toetuse (edaspidi toetus) maksmise korra. 
+	•	Avaliku teenindamise leping on haldusleping haldusmenetluse seaduse ja halduskoostöö seaduse tähenduses.
+	•	Poolte esindajad kinnitavad, et neil on kõik õigused ja volitused esindatava nimel lepingu sõlmimiseks ning nad ei tea ühtegi takistust lepinguga võetud ja selles kehtestatud kohustuste täitmiseks. 
+	•	Lepingu lahutamatu osa moodustavad lepingu lisad ning lepingu võimalikud muudatused ja täiendused, milles lepitakse kokku pärast lepingule allakirjutamist. 
+	•	Lepingu tätimise keel on eesti keel.
+	•	Lepingu allakirjutamise hetkel on lepingule lisatud:
+	•	lepingu alusel korraldatava lennuliikluse aruannete vormid (lisad 1.1. ja 1.2.);
+	•	lendude graafik (lisa 2);
+	•	vedaja hinnapakkumuse jaotus ja lennureisi kalkulatsioon (lisa 3);
+	•	tehniline kirjeldus (lisa 4)
+	•	hankemenetluse käigus hankija antud selgitused pakkujate küsimustele (lisa 5).
+	•	vedaja  muud kvalifitseerimise ja pakkumusega seotud dokumendid ( lisa 6).
+
+	•	Lepingu objekt ja toetuse maksmine
+	•	Lepingu objektiks on vedaja poolt avaliku sõitjateveoteenuse osutamine lennuliinil Tallinn-Kuressaare-Tallinn algusega 01.06.2020.a kuni 31.05.2024.a  (edaspidi teenus). Avaliku teenindamise leping sõlmitakse ühistranspordiseaduse § 19 lõike 1 punkti 3 alusel ja kooskõlas lennundusseaduses, Euroopa Parlamendi ning Nõukogu määruses (EÜ) nr 1008/2008) kehtestatud tingimustega. Juhul, kui tellijast sõltuvatest asjaoludest tulenevalt ei ole lepingut sõlmitud hiljemalt 31.03.2020.a.,  siis lükkub käesoleva punkti esimeses lauses sätestatud teenuse osutamise algus  nende päevade võrra edasi, mis jäävad tegelikult sõlmitud lepingu kuupäeva ja 31.03.2020.a. vahele. Teenuse osutamise lõpp 31.05.2024.a jääb samaks. 
+	•	Vedaja teostab avaliku liiniveo korraldamisel sõiduplaanijärgset teenust vastavalt lepingus toodud lendude graafikule ja mahule.
+	•	Teenuse osutamiseks kasutatav lennuk peab olema vähemalt 40 reisijakohaga   ja lennuki tootmisaasta peab olema 2000 või uuem. Juhul, kui vedaja pakkus riigihankes suurema reisijakohtade arvuga lennukit kui minimaalselt nõutud 40 reisijakohta ja uuema tootmisaastaga lennukit võrreldes tootmisaastaga 2000, siis  vedaja peab teenuse osutamiseks kasutama vedaja poolt riigihankes pakutud istekohtade arvuga ja tootmisaastaga lennukit. Lennuki asendamise tingimused on sätestatud lepingu punktis 5.1.2.   
+	•	Lepingu täitmiseks kohustub tellija maksma vedajale toetust üksnes osutatud teenuse eest õigusaktides ja lepingus sätestatud korras.
+	•	Arvestades, et tellijal ei ole õigust sõlmida lepinguid ja võtta rahalisi kohustusi eelseisvate eelarveaastate arvel rohkem kui riigieelarve seaduse § 60 lõikes 4 näidatud mahus, võtab tellija endale rahalisi kohustusi eelarveaastate kaupa vastava aasta eelarveseaduse vastuvõtmisest arvates. Lendude graafik, veomahud ja tellija makstav toetuse suurus lennuliinide korraldamiseks igaks järgnevaks eelarveaastaks vormistatakse eraldi kokkuleppena pärast vastava aasta riigieelarve vastuvõtmist, arvestades riigieelarves ühistranspordi toetuseks maakonnale ja lennuliinile eraldatud vahendite suurust.
+	•	Tellija taotleb eelarvevahendeid järgnevateks eelarveaastateks vedaja pakkumuses esitatud pakkumuse maksumuse alusel, arvestades vedaja taotlusi toetuse muutmiseks lepingus kehtestatud korra kohaselt. 
+	•	Juhul, kui riigieelarvet ei ole vastava eelarveaasta alguseks vastu võetud, lähtutakse kuni riigieelarve vastuvõtmiseni eelmise aasta sama perioodi lendude graafikust ja veomahust, kui tellija ja vedaja ei ole kokku leppinud teisiti. 
+	•	Teenuse osutamisega ei või vedaja teenida ülemäärast kasu. Veoteenuse, kui üldist majandushuvi pakkuva teenuse hüvitatavad kulud ja mõistlik tulukus peavad vastama Altmarki kriteeriumidele ja Euroopa komisjoni teatisele 2012/C 8/02. Tellijal on õigus nõuda ja vedajal on kohustus Altmarki kriteeriumidele ja riigiabi reeglitele mittevastav ning ebaseaduslikuks riigiabiks kvalifitseeruv ühistranspordi sihtotstarbelise toetuse summa tellijale tagasi maksta koos intressidega.
+
+	•	Vedajale makstava toetuse arvutamine ja maksmine
+	•	Tellija maksab vedajale igakuiset toetust võttes aluseks lepingu lisas 3 toodud liini ühe reisi maksumuse, mis korrutatakse liinil tegelikult toimunud lendude arvuga. Piletitulu jääb vedajale. 
+	•	Tellijast ja vedajast mittesõltuvatel põhjustel ärajäänud lennureiside eest tasub tellija vedajale lepingus sätestatud püsikulude osa. Püsikuludeks loetakse lennuki renti, tööjõukulusid, remondi- ja hoolduskulusid ja muid kulusid (lepingu lisas 3 toodud lennureiside kalkulatsiooni read 5.3-5.8).
+	•	Tellija tasub vedajale viimasest mittesõltuval ja tõendatud (näiteks sihtlennujaama kirjalik kinnitus) põhjusel alustatud, kuid ilmastikutingimuste tõttu katkenud lennureiside toetuse, kui vedajast mittesõltuval põhjusel ei olnud sihtlennujaamas võimalik ohutult maanduda. Sellisel juhul tasub tellija vedajale toetuse iga katkenud reisi kohta lennuliinil Tallinn-Kuressaare-Tallinn täies mahus.
+	•	Kui tellija ei soovi lennugraafiku järgselt ära jäänud lennureiside teostamist, siis võetakse ärajäänud lennureiside eest makstud toetus arvesse järgmise kalendriaasta toetuse maksegraafiku koostamisel.  
+	•	Lepingu lisas 3 toodud lennureisi kalkulatsioonid on vedajale makstava toetuse arvutamise aluseks vastavalt lepingus kehtestatule kogu lepingu kehtivusaja vältel ning selle muutmine on võimalik ainult erandjuhtudel lepingus nimetatud alustel ja korras.
+	•	Põhjendatud ja vedajast mittesõltuvatel asjaoludel saab toetuse arvutamise aluseks olevat vedaja pakkumuses esitatud reisi maksumust muuta vastavalt vedaja tegelike kulude muutusele liinil lähtudes üksnes riigihangete seaduse tingimustest. Reisi maksumuse piirmäär lepingu kehtivuse esimesel aastal on vedaja pakkumuses esitatud reisi maksumus, mida korrigeeritakse üksnes kütuse hinna ja lennujaamatasude muutumise korral ja ulatuses. 
+	•	Punktis 3.6 nimetatud taotluse läbivaatamisel on tellijal õigus nõuda vedajalt lisaks esitatud põhjendustele kõiki andmeid ja dokumente, mis on vajalikud taotluste põhjenduste kontrollimiseks. Tellija nõutud dokumentide ja andmete esitamata jätmise korral võib tellija jätta esitatud taotluse läbi vaatamata.
+	•	Vedajal on õigus saada kütuse hinnatõusu kompensatsiooni, mille tellija vaatab läbi ilma vedaja taotluseta kvartaalselt ja lennujaamatasude osas üks kord aastas.
+	•	Vedajal tekib õigus saada kütuse hinnatõusu kompensatsiooni nende lepinguperioodide eest, kus kütuse keskmine  liitri hind ületab kütuse liitri hinda (edaspidi baashind), s.o EUR/liiter  + km (pakkumuses esitatud ja tõendatud AS Tallinna Lennujaam lepingulise kütusepartneri reaalne kütuse hind seisuga 11.05.2020.a). 
+	•	Kütuse hinnatõusu kompensatsioon arvutamise valem:
+Kütuse hinna tõusu kompensatsioon = kütusekulu (liiter/lennutunni kohta) x lennureiside arv kvartalis x lennuaeg tundides x (kvartali keskmine kütuse liitri hind – lepingu järgne baashind)
+Kütusekuluna kasutatakse pakkumuses nimetatud lennukitüübi keskmist kütusekulu vastavalt vedaja pakkumuses toodule.
+	•	Kütuse hinnatõusu kompensatsiooni arvestuse koostab tellija esindaja iga kvartali kohta hiljemalt kvartalile järgneva kuu 5. kuupäevaks AS Tallinna Lennujaam lepingulise kütusepartneri väljastatava keskmise kütuse liitri hinna arvutuse alusel ning esitab tehtud arvestuse vedajale hiljemalt sama kuu 8. kuupäevaks seisukoha esitamiseks ja arve koostamiseks. Tellija tasub kütuse hinnatõusu kompensatsiooni vedajale hiljemalt 20 päeva jooksul alates arve saamisest. Kui kütuse liitri keskmine hind vastavas kvartalis ei ületa baashinda, ei ole vedajal vastava kvartali osas õigust kütuse hinnatõusu kompensatsiooni saada.
+	•	Tellija tasub vedajale 50% toetusest lepingu objektiks olevate lennuliini teenindamise eest hiljemalt teenuse osutamisele järgneva kuu 15. kuupäevaks, kui vedaja on esitanud tellijale lennuliikluse aruande liini kohta vastavalt lepingu lisale 1.1 koos arvega tasumisele kuuluva toetuse kohta. 
+	•	Tellija kannab vedaja esitatud arve ja aruande alusel iga kuu 1. kuupäevaks ettemaksuna 50% jooksva kuu prognoositavast toetusest. Arvestuse aluseks võetakse eelmise kuu lennureisi toetus ja jooksva kuu lennureiside arv. Ettemaksu tasumine toimub vedaja esitatud arve ja aruande alusel. Vedaja esitab arve ettemaksu tasumiseks vähemalt 14 (neliteist) tööpäeva enne arve tasumise tähtaega. Vajadusel toimub tasaarvestus iga teenuse osutamise kuu lõppemise järel.
+	•	Tellija tasub vedajale makstava toetuse pangaülekandega vastavalt vedaja arvel näidatud arvelduskontole. Arve tuleb esitada masintöödeldaval kujul, e-arvena, mis vastab Eesti Pangaliidu standardile ja Rahandusministri 11.04.2017 määrusele nr 24 „Masintöödeldava algdokumendi juhendi kehtestamine“. Arve loetakse laekunuks selle Maanteeameti arvete halduskeskkonda laekumise kuupäevast.  Mitteresidentidel tuleb pdf formaadis arve saata meiliaadressile invoices@mnt.ee või edastada see e-arvena rahvusvahelise Peppol süsteemi kaudu.    Arvele tuleb märkida tellija kontaktisiku nimi ja lepingu number ning teenuste osutamise periood.
+	•	Toetuse maksmise tähtaeg lükkub edasi, kui vedaja ei ole tellijale tähtaegselt esitanud lennuliikluse aruannet liini kohta vastavalt lepingule. Sellisel juhul maksab tellija toetuse vedaja arveldusarvele 20 (kahekümne) päeva jooksul alates vedaja aruande esitamisest.
+	•	Vastavalt käibemaksuseaduse § 12 lõikele 2 ja rahandusministri 30.03.2004.a määruse nr 41 „Kauba või teenuse harilikust väärtusest madalama hinnaga võõrandamiseks maksukohustuslasele antava sihtotstarbelise toetuse maksustatava väärtuse hulka arvamise ja maksustamise kord” §-le 1 ei arvestata makstavalt toetuselt käibemaksu.
+
+	•	Sõidupiletihind, sõidusoodustused 
+	•	Sõidupiletihinnad ja sõidusoodustused kehtestatakse vastavalt ühistranspordiseadusele, millest tellija teavitab vedajat viivitamatult.
+
+	•	Vedaja õigused ja kohustused
+	•	Vedaja on kohustatud:
+	•	teostama lepingus nimetatud avalikku liinivedu kooskõlas Eesti Vabariigi õigusaktide ja Euroopa Liidu õigusaktide, rahvusvahelise õigusega, riigihanke alusdokumentides esitatud tingimustega ja lepinguga;
+	•	osutama katkematut teenust lepingus sätestatud lennugraafiku kohaselt vedaja poolt riigihankes pakutud lennukiga,  mille tehniline seisukord peab vastama seadustes, sh lennundusseaduses, Euroopa Komisjoni määruses (EL) nr 748/2012, millega nähakse ette õhusõidukite ja nendega seotud toodete, osade ning seadmete lennukõlblikkuse ja keskkonnaohutuse sertifitseerimise ning projekteerimis- ja tootjaorganisatsioonide sertifitseerimise rakenduseeskirjad ning Euroopa Komisjoni määruse (EÜ) nr 1321/2014, õhusõidukite ja lennundustoodete ning nende osade ja seadmete jätkuva lennukõlblikkuse ning sellega tegelevate organisatsioonide ja isikute sertifitseerimise kohta sätestatud nõuetele ning mida juhivad kvalifikatsiooninõuetele vastavad piloodid. Juhul kui lepingu täitmise käigus tekib vedajal vajadus asendada riigihankes pakutud lennukit  teise lennukiga, siis asendava lennuki reisijakohtade arv peab olema vähemalt sama või suurem ja tootmisaasta peab olema vähemalt sama või uuem, kui asendataval lennukil on. Juhul kui reisijakohtade arv on suurem ja tootmisaasta on uuem, siis tellija täiendavaid kulusid vedajale ei kompenseeri. Kui vedaja rendib lennukit nii, et vastutus õhusõiduki käitamise ja lennukõlblikkuse osas jääb rendileandjale (wet lease), peavad õhusõiduki käitamise reeglid vastama kõikidele lepingus ja selle lisades sätestatud tingimustele kogu lepingu perioodi jooksul ja tellija nõudmisel peab vedaja esitama tellijale tõenditeks vastavad dokumendid. Juhul kui lennuki käitamistingimused ei vasta lepingu ja selle lisade tingimustele, on tellijal õigus selline rentimine keelata;
+	•	omama kogu lepingu täitmise perioodil kehtivat lennuettevõtja sertifikaati (AOC ).
+	•	omama  kogu lepingu täitmise perioodil kehtivat Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 1008/2008 kohast lennutegevusluba  (OL).
+	•	vedama reisijaid ja nende pagasit vastavalt õigusaktide alusel kehtestatud hindadega;
+	•	võimaldama õigusaktide alusel kehtestatud sõidusoodustuste kasutamist;
+	•	esitama tellija esindajale igakuised aruanded lennuliinide kohta: lepingu lisa 1.1. jooksvale kuule järgneva kuu 5. kuupäevaks ja lepingu lisa 1.2. jooksvale kuule järgneva kuu 20. kuupäevaks;
+	•	eraldama lepingu objektiks oleva avaliku liiniveo majandusarvestuse muu ettevõtlustegevuse arvestusest (kommertsliiniveost ja muust ettevõtlusest);
+	•	kooskõlastama lennugraafiku võimalikud muudatused tellija esindajaga hiljemalt kaks nädalat enne lennu toimumist ja teatama muudatustest viivitamatult vastavatele lennujaamadele. Kui lennuliikluse katkemisest hoidumiseks on vajalik järgida käesolevas punktis nimetatud tähtajast lühemat tähtaega, võivad pooled selles kirjalikku taasesitamist võimaldavas vormis kokku leppida; 
+	•	informeerima tellija esindajat operatiivselt lennugraafiku muutmisest ilmastiku või tehnilise rikke tõttu, kui väljalend viibib üle 45 minuti;
+	•	teostama graafikujärgsed ärajäänud reisid tellija esindajaga kokkulepitud ajal;
+	•	kandma kõik liini opereerimisega seotud kulud, sh kohustuslike vastutuskindlustuslepingute sõlmimisega seotud kulud;
+	•	kandma kõik reisijate teenindamisega kaasnevad kulud lennujaamades;
+	•	tagama ohutu reisijateveo;
+	•	tagama, et tema töötajad osutavad ja tehnilised lahendused võimaldavad hanke esemeks olevat teenust reisijatele osutada eesti keeles;
+	•	tagama lennureisi tühistamisel reisijate assisteerimiskohustuse täitmise (duty of care) kohustusena või kandma lennu ärajäämisel reisija transpordikulu sihtkohta vastavalt Euroopa Parlamendi ja nõukogu määrusele (EÜ) nr 261/2004.
+	•	hiljemalt 14 päeva enne teenuse osutamise algust võimaldama tellija esindajatel tutvuda Tallinna Lennujaamas teenuse osutamisel kasutatava lennukiga.
+	•	Vedajal on õigus:
+	•	sõlmida tellija kirjalikul nõusolekul oma äritegevuses vajalikke koostöölepinguid teenuste tegemiseks lepingus nimetatud lennuliinidel kasutatava(te) lennuki(te)ga tingimusel, et see ei kahjusta lepingu täitmist;
+	•	peatada reisijatevedu liinil, kui ei ole tagatud reisijate ohutus, teatades sellest tellijale viivitamatult;
+	•	teha tellijale põhjendatud ettepanekuid lennugraafiku muutmiseks;
+	•	jätta ära graafikujärgseid reise ilmastikutingimuste tõttu, teavitades sellest tellija esindajat viivitamatult.
+
+	•	Tellija õigused ja kohustused
+	•	Tellijal on õigus:
+	•	kontrollida lennugraafiku täitmist, lennureisi täituvust ning teenuse vastavust õigusaktides ettenähtud nõuetele ja liinivedude teostamise kvaliteeti vastavalt lepingus kehtestatud nõuetele;
+	•	kontrollida igal ajal kõiki majandustegevuse ja raamatupidamisarvestuse algdokumente, mis on seotud lepingu täitmise ja toetuse kasutamisega;
+	•	nõuda vedajalt lepingu täitmise kohta asjassepuutuvat informatsiooni, dokumente ja andmeid kogu lepingu kehtivuse perioodil;
+	•	muuta  nõudlusest ja rahastamise võimalustest tulenevalt veomahtu, lendude graafikuid ja piletihindu, kahjustamata seejuures vedaja majandustegevust;
+	•	peatada toetuse maksmine, kui vedaja ei esita tähtaegselt lepinguss nõutud aruandeid ja muid dokumente;
+	•	muuta lennuliinil kuni 20% ulatuses liini veomahtu võrreldes lepingus sätestatuga, teatades sellest vedajale ette vähemalt 45 kalendripäeva. 
+	•	Tellija on kohustatud:
+	•	maksma vedajale toetust ja kütuse hinnatõusu kompensatsiooni lepingus ettenähtud korras ja tingimustel;
+	•	teavitama vedajat muudatustest lennugraafikus vähemalt üks kuu enne muudatuste rakendamist;
+	•	kindlustama vedajale lendude eest tasumise lähtudes lepingu tingimustest. 
+
+	•	Aruandlus 
+	•	Vedaja on kohustatud esitama tellija esindajale elektroonselt ja töödeldaval kujul tellija esindaja aktsepteeritavas formaadis (näiteks exceli formaadis fail vm, milles on tellija esindajaga eelnevalt kokku lepitud) iga kalendrikuu 5. kuupäevaks aruande vastavalt lepingu lisas 1.1. toodud vormile ja 20. kuupäevaks aruande vastavalt lepingu lisas 1.2. toodud vormile eelmisel kalendrikuul teostatud lennureiside mahu (sh ära jäänud reiside kohta), piletitulu laekumise ja lennureisi teenuse osutamisega seonduvate kulude kohta ning andma tellija esindajale viimase nõudel aruande kohta selgitusi ja lisateavet, sh võimaldama tellija volitatud isikul kontrollida vedaja tegevuskohas avaliku liiniveo kohta peetavat arvestust (sh tutvuda vastavate raamatupidamise algdokumentidega). Tellija tagab, et kontrollimise käigus tellijale teatavaks saanud vedaja ärisaladus hoitakse konfidentsiaalsena. Ärisaladuseks ei loeta õigusaktide kohaselt avalikustamisele kuuluvat või avalikustatud teavet.
+	•	Vedaja on kohustatud esitama tellija nõudmisel tellija määratud ajaperioodi kohta elektroonselt kogu piletimüüki puudutava andmestiku ja võimaldama tellija nõudmisel tutvuda kogu piletimüügi andmestikuga kohapeal. Vedaja on kohustatud esitama tellijale viimase nõudel avaliku liiniveo ja avaliku liiniveoga seotud majandustegevuse kohta muud informatsiooni, mis on vajalik liikluse kavandamiseks ja transpordiuuringuteks.
+
+	•	Poolte vastutus
+	•	Vedaja on kohustatud hüvitama lepingu mittetäitmise või mittekohase täitmisega tellijale ja reisijatele tekitatud kahju ja tellija poolt seoses vedaja poolse lepingu rikkumisega tehtud kulutused.
+	•	Tellija vastutab lepingu rikkumise eest ja on kohustatud  hüvitama lepingu rikkumisega tekitatud kahju ning vedaja poolt tellija poolse lepingu rikkumisega seoses tehtud kulutused.
+	•	Kui vedaja ei alusta teenuse osutamist või ei osuta teenust lepingus ja selle lisades kokkulepitud korras ning mahus või lõpetab ühepoolselt teenuse osutamise osaliselt või täielikult enne lepingu kehtivuse lõppemist, on tellijal õigus nõuda vedajalt leppetrahvi kuni 400 000 eurot. Eelnimetatud leppetrahvi võib sisse nõuda ka juhul, kui tellija on lepingu erakorraliselt üles öelnud. 
+	•	Tellijal puudub õigus nõuda leppetrahvi, kui vedaja lõpetab ühepoolselt teenuse osutamise enne lepingu kehtivuse lõppemist põhjusel, et tellija ei ole kolme (3) kalendrikuu  vältel vedajale maksnud lepingus ettenähtud korras ja alustel toetust.
+	•	Tellija esindajatelt vedaja esindajate telefoninumbrile teatatud või e-posti aadressile kirjalikku taasesitamist võimaldavas vormis saadetud teabe saamisel fikseeritud puuduse või vea kohta teenuse osutamisel, on vedaja kohustatud puuduse või vea kõrvaldama hiljemalt järgneva tööpäeva jooksul puuduse või vea kohta teabe saamisest. Teenuse osutamisel sama puuduse või vea jätkuval ilmnemisel pärast nõude esitamist vedajale, kohaldatakse punktis 8.7. nimetatud leppetrahvi. 
+	•	Vedajast sõltuval põhjusel lennureisi ärajäämise korral on tellijal õigus nõuda vedajalt leppetrahvi summas, mis on võrdne lepingu lisas 3 real 5 toodud ühe reisi maksumusega liinil Tallinn-Kuressaare - Tallinn.
+	•	Juhul kui teenuse mittevastavuse korral ei kõrvalda vedaja puudusi punkti 8.5. kohaselt tellija nimetatud tähtajaks või kui puudust ei ole võimalik kõrvaldada või kui vedaja rikub, on tellijal õigus nõuda leppetrahvi kuni 15% selles kuus makstava toetuse summast või olulise püsiva rikkumise korral kahe kuu jooksul lepingust taganeda. 
+	•	Leppetrahvi nõudmine ei välista tellija õigust kasutada vedaja suhtes teisi õigusaktides ettenähtud õiguskaitsevahendeid.
+	•	Tellijal on õigus leppetrahvi summa tasaarvestada vedajale maksmisele kuuluva toetusega.
+	•	Vedajal on õigus nõuetekohaselt osutatud teenuse  eest  arve mitteõigeaegse  tasumise  korral nõuda tellijalt viivist 0,05% õigeaegselt  tasumata summalt iga tasumisega viivitatud päeva eest.
+	•	Viiviste ja leppetrahvide tasumine ei vabasta pooli muudest õigusaktidest ja lepingust tulenevate kohustuste täitmisest.
+	•	Lepingut rikkunud pool on kohustatud tekkinud kahjud teisele poolele hüvitama.
+
+	•	Tagatis ja vastutuskindlustus
+	•	Vedaja on kohustatud lepingu sõlmimisel esitama tellijale viimase eelnevalt aktsepteeritud krediidi- või finantseerimisasutuse või kindlustusandja (mille reiting on vähemalt Moody’s Baa3 tasemel või tasemel, mis võrdsustatakse Moody’s Baa3 tasemega)  esimesel nõudmisel (first demand) garantiikirja lepingus ettenähtud kohustuste täitmise tagamiseks summas, mis võrdub 15% ga lepingu alusel osutatava Tallinn-Kuressaare-Tallinn avaliku lennuliini teenindamise summeeritud aastasest maksumusest. Vedaja esitab tellijale kehtiva garantiikirja hiljemalt 14 päeva jooksul pärast lepingu allkirjastamist.
+	•	Kui lepingu sõlmimisel esitatava garantiikirja kehtivusaeg on lühem kui lepingu kehtivusaeg, on vedaja kohustatud hiljemalt kolmkümmend päeva enne garantiikirja kehtivusaja lõppemist esitama tellijale krediidi- või finantseerimisasutuse või kindlustusandja uue garantiikirja.
+	•	Garantiikirja kehtivusaeg ei või olla lühem kui üks aasta.
+	•	Garantiikirja esitamisega viivitamisel või selle kehtivuse pikendamisega viivitamisel on Tellijal õigus nõuda vedajalt leppetrahvi 100 eurot iga viivituses oldud päeva eest ning samuti kinni pidada omapoolseid toetuse makseid.
+	•	Vedaja peab omama kindlustuskaitset kooskõlas Euroopa Parlamendi ja nõukogu määruse (EÜ) nr 785/2004 nõuetega. Vedaja esitab tellijale kehtiva kindlustuspoliisi koopia vähemalt 14 päeva enne teenuse osutamise algust ja kindlustuskaitse peab jõustuma hiljemalt teenuse osutamise alguseks ja peab olema kehtiv kogu lepingu kehtivuse jooksul. Pakkujal on lubatud kindlustuspoliisi regulaarselt uuendada.
+	•	Kindlustuspoliisi esitamisega viivitamisel või selle kehtivuse pikendamisega viivitamisel on tellijal õigus nõuda vedajalt leppetrahvi 100 eurot iga viivituses oldud päeva eest ning samuti kinni pidada omapoolseid toetuse makseid.
+
+	•	Vääramatu jõud
+	•	Pooled vastutavad kohustuste rikkumise eest, välja arvatud juhul, kui rikkumine on vabandatav. Eeldatakse, et rikkumine ei ole vabandatav. Kohustuse rikkumine on vabandatav, kui selle on põhjustanud prognoosimatud või poole tegevusest olenematud asjaolud (vääramatu jõud). Vääramatu jõud on asjaolu, mida pool ei saanud mõjutada ja mõistlikkuse põhimõttest lähtudes ei saanud temalt oodata, et ta lepingu sõlmimise ajal selle asjaoluga arvestaks, seda väldiks, takistava asjaolu või selle tagajärje ületaks. Vääramatuks jõuks loevad pooled muuhulgas ka ohutut lendamist takistavaid ilmastikutingimusi.
+	•	Vääramatu jõu esinemise korral muutuvad lepingus nimetatud tähtajad perioodi võrra, mille jooksul vääramatu jõu tegurid takistavad lepingu täitmist. 
+	•	Pool, kes rikub kohustust vääramatu jõu tõttu, peab vääramatu jõu asjaoludest ja nende mõjust teisele poolele viivitamata teatama pärast seda, kui pool sai teada või pidi teada saama vääramatu jõu asjaoludest. Poolel on kohustus võtta tarvitusele kõik võimalikud abinõud vääramatu jõu asjaolude ning nende tagajärjel tekitatava kahju vältimiseks või mõju vähendamiseks. Pool on kohustatud jätkama oma lepinguliste kohustuste täitmist niipea, kui vääramatu jõu asjaolud on kõrvaldatud.
+
+	•	Lepingu jõustumine, muutmine ja lõpetamine
+	•	Leping jõustub pärast lepingu mõlemapoolset allkirjastamist ja kehtib kuni poolte võetud kõikide kohustuste nõuetekohase täitmiseni või lepingu ennetähtaegse lõpetamiseni lepingus ja seadustes ettenähtud alustel.
+	•	Lepingule lisatavat iga-aastast kokkulepet, millega täpsustatakse vastava aasta lendude graafik, veomahud ja tellija makstav toetuse suurus, loetakse lepingu muutmiseks. Tellijalt vedajale makstava toetuse suuruse arvutamise aluseks jääb terve lepingu kehtivuse ajal lisas 3 toodud vastava reisi maksumus, mis saab muutuda vaid lepingus kehtestatu kohaselt.
+
+	•	Tellijal on õigus leping ennetähtaegselt ühepoolselt lõpetada:
+	•	kui vedaja on ükskõik, millist lepingust tulenevat kohustust rikkunud korduvalt või oluliselt ja see on põhjustanud olulise kahju kolmandale isikule või tema varale; 
+	•	kui vedaja ei täida talle õigustaktidega  ja lepinguga pandud kohustusi nõuetekohaselt ja vedaja ei ole ühe kuu jooksul tellija vastavasisulisest nõudest arvates asunud õigusaktidest ja lepingust tulenevaid kohustusi täitma.
+	•	Vedajal on õigus leping ennetähtaegselt ühepoolselt lõpetada:
+	•	kui tellija ei ole kolme kalendrikuu vältel vedajale maksnud lepingus ettenähtud korras ja alustel toetust.
+	•	Vedaja peab lepingu ennetähtaegsel lõpetamisel tellijale tagasi maksma lepingu alusel makstud toetuse, mille osas ta ei ole teenust osutanud, hiljemalt lepingu lõpetamise kuule järgneva kuu 1. kuupäevaks. 
+
+	•	Vaidluste lahendamine
+	•	Kõik lepingu täitmisest, muutmisest, lõpetamisest või vastutuse kohaldamisest tulenevad vaidlusküsimused lahendatakse läbirääkimiste teel.
+	•	Kui läbirääkimistega kokkulepet ei saavutata, lahendatakse vaidlus Eesti Vabariigi õigusaktidega sätestatud korras tellija asukohajärgses halduskohtus. Lepingu sisu osas kohaldatakse Eesti Vabariigis kehtivaid õigusakte.
+
+	•	Teabe vahetamine
+	•	Pooled kohustuvad teist poolt teavitama kõikidest asjaoludest, mis võivad mõjutada või takistada lepingus kehtestatud kohustuste täitmist või õiguste realiseerimist. 
+	•	Kõik lepingu täitmisega või lepingust tulenevate vaidlustega seotud teated ja teave on ametlikult ning kooskõlas lepinguga esitatud, kui nimetatud teated on poolele edastatud kirja (sh e-kirja) teel või antud teisele poolele üle allkirja vastu lepingus märgitud või pärast lepingu sõlmimist kirjalikult teatatud aadressil.
+	•	Kõigist muudatustest lepingus nimetatud andmetes teatatakse teisele poolele 2 (kahe) tööpäeva jooksul muudatuste tegemisest arvates. Kui üks pool rikub käesolevat tingimust, siis loetakse saadetud teade kohaseks, mille teine pool on edastanud lepingus märgitud aadressile.
+	•	Teade loetakse teisele poolele kättetoimetatuks, kui:
+	•	teade on edastatud teisele poolele e-posti teel digitaalselt allkirjastatuna (teate edastamise päeval) e-posti aadressil info@mnt.ee; 
+	•	teade on edastatud e-kirjaga ja selle kättesaamise kohta on esitatud kinnituskiri;
+	•	teade on üle antud allkirja vastu (teate allkirjastamise kuupäeval);
+	•	teade on saadetud postiasutuse tähitud kirjaga teise poole näidatud aadressil (kui postitamisest on möödunud 3 päeva).
+	•	Punktis 13.4.1 nimetatud viisil peavad olema edastatud eelkõige poolte lepingu lõpetamise avaldused, samuti poole nõue teisele poolele, mis esitatakse tulenevalt lepingu rikkumisest. Informatiivset teadet võib anda ka telefoni ja e-kirja teel.
+	•	Kõigist muudatustest lepingus nimetatud andmetes teatatakse teisele poolele 2 tööpäeva jooksul muudatuste tegemisest arvates.
+
+	•	Muud sätted
+	•	Kumbki pool ei tohi lepingust tulenevaid õigusi ja kohustusi anda üle kolmandale isikule ilma teise poole nõusolekuta. 
+	•	Leping on allkirjastatud digitaalselt.
+
+	•	Poolte volitatud esindajad
+	•	Tellija volitatud esindaja lepingu tingimuste täitmisel ja kontrollimisel on ühsitranspordi osakonna juhtivekspert Mika Männik, telefon …………., e-post: Mika.Mannik@mnt.ee.
+	•	Vedaja volitatud esindaja lepingu tingimuste täitmisel ja kontrollimisel on …
+	•	Juhul, kui pool asendab oma esindaja teisega, teatab ta sellest teisele poolele koheselt kirjalikult. 
+
+Poolte allkirjad:
+
+           Tellija:                                                                   Vedaja:
+
+
+
+
+
+NÄIDIS 
+Avaliku teenindamise lepingu alusel korraldatava lennuliikluse aruanded 
+Lepingu lisa 1.1.
+
+Aruanne lennuliinil Tallinn-Kuressaare-Tallinn 
+
+
+
+
+
+
+
+
+
+
+
+Kuupäev
+Lähtepunkt
+Sihtpunkt
+Reisijaid
+(arv)
+Pagas
+Post
+Täituvus
+
+
+
+
+(kg)
+(kg)
+(%)
+5. juuni
+Tallinn
+Kuressaare
+
+
+
+
+5. juuni
+Kuressaare
+Tallinn
+
+
+
+
+jne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KOKKU
+Reise
+
+Reisijaid
+Pagas
+Post
+Täituvus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NÄIDIS
+Lisa 1.2.
+Õiend avaliku liiniveo lepingu alusel makstud toetuse (eurod) kasutamise kohta lennuliinil Tallinn-Kuressaare-Tallinn
+Jrk
+Näitaja
+Juuni
+Juuli
+August
+jne
+nr
+
+
+
+
+
+1.
+Lepingujärgne reiside arv
+
+
+
+
+2.
+Tegelikult tehtud reiside arv
+
+
+
+
+3.
+Ilmastikutingimuste tõttu ära jäänud lennureiside arv
+
+
+
+
+4.
+Ilmastikutingimuste tõttu tagasi pöördunud lennureiside arv
+
+
+
+
+5.
+Tegelik liiniläbisõit (km)
+
+
+
+
+6.
+Tegelik liiniaeg (lennutunnid)
+
+
+
+
+7.
+Kulud* kokku (eur*)
+
+
+
+
+7.1.
+kütus
+
+
+
+
+7.2.
+kulud lennujaamades
+
+
+
+
+7.3.
+remondi- ja hoolduskulud
+
+
+
+
+7.4.
+amortisatsioon
+
+
+
+
+7.5.
+töötasu koos maksudega
+
+
+
+
+7.6.
+kindlustuskulud
+
+
+
+
+7.7.
+finantskulud
+
+
+
+
+7.8.
+muud kulud
+
+
+
+
+8.
+Piletitulu (euro)
+
+
+
+
+9.
+Lepingujärgne dotatsioon (eur)
+
+
+
+
+10.
+Tulud kokku (euro)  (r 6+r 7)
+
+
+
+
+11.
+Tulem (+/-)               (r 8 – r 5)
+
+
+
+
+12.
+Reisijate arv (tk)
+
+
+
+
+13.
+Kütuse kogus (tuh l)
+
+
+
+
+14.
+Sõitjakäive                (r 10 x r 3)
+
+
+
+
+* Kulude jaotust on lubatud laiendada või sobivaid kulukirjeid juurde lisada 
+Õiend müüdud piletite kohta (tk)
+Müüdud pileteid (tk):
+
+
+
+
+tk
+Reisijad
+
+
+
+
+
+
+Täiskasvanu
+
+
+
+
+
+
+Noor/seenior
+
+
+
+
+
+Laps (kuni 7. a) 
+
+
+
+
+
+Õpilane (7.-19. a)
+
+
+
+
+
+
+Üliõpilane (18.-26. a)
+
+
+
+
+
+
+Muud soodustusega reisijad
+
+
+
+
+
+Kokku
+
+
+
+
+
+
+* Loetelu on lubatud laiendada või sobivaid kirjeid muuta
+
+
+
+
+
+
+
+
+
+=== 1602749_HD_I_Vorm_1_Volikiri_ühispakkuja_esindamiseks.docx ===
+Vorm 1 VOLIKIRI ühispakkuja ESINDAMISEKS
+
+Hankija nimi: Maanteeamet
+
+Hanke nimetus: Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning teenindamine
+
+Käesolevaga ___________ (pakkuja nimi, kes volitab), registrikood ___________, aadress ___________ volitab ___________ (pakkuja nimi, keda volitatakse), registrikood ___________, aadress ___________ esitama ___________ (pakkuja nimi, kes volitab) nimel eelnimetatud riigihanke pakkumust ning tegema ___________ (pakkuja nimi, kes volitab) nimel kõiki hankemenetluse ning hankelepingu sõlmimise ja täitmisega seotud toiminguid.
+
+
+Volikiri on antud ilma edasivolitamise õiguseta.
+
+
+/Allkirjastatud digitaalselt/
+(Volitaja esindaja nimi ja ametinimetus)
+
+
+=== 1602749_HD_I_Vorm_2_Teise_isiku_nõusolek.docx ===
+Vorm 2
+TEISE ISIKU NÕUSOLEK  
+
+Hankija nimi: Maanteeamet
+
+Hanke nimetus: Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning teenindamine
+
+
+	•	Kinnitame, et oleme nõus, et …….… (pakkuja nimi ja registrikood) tõendab oma majandusliku ja finantsseisundi vastavust kvalifitseerimise tingimustele meie alljärgnevate näitajate alusel:
+
+Jrk.nr.
+Teise isiku netokäibe suurus, millele pakkuja tugineb:
+1.
+
+2.
+
+..
+
+
+	•	Kinnitame, et anname pakkujale hankelepingu täitmisel vajadusel rahalisi vahendeid ning kinnitame, et vastutame koos pakkujaga solidaarselt hankelepingu täitmise eest summas, mille suhtes meie vahenditele tugineti. 
+
+
+Märkused: ___________________________________________________
+
+
+Teise isiku nimi, registrikood  ja aadress: ___________________________
+
+
+Teise isiku esindaja nimi, kontaktandmed: ___________________
+
+
+/Allkirjastatud digitaalselt/
+(Teise isiku esindaja nimi)
+
+
+
+=== 1602749_HD_VI_hinnapakkumuse_jaotus_ja_maksumuste_kalkulatsioon.docx ===
+HD VI hinnapakkumuse jaotus ja maksumuste kalkulatsioon
+
+
+Hinnapakkumus tuleb esitada ühe reisi kohta tingimusel, et pakkuja teostab 12 (kaksteist) Tallinn-Kuressaare-Tallinn reisi nädalas reiside graafikute alusel vastavalt HD III Tehnilise kirjelduse punktile 1.11. 
+                                                                                  
+I. Lennureisi Tallinn-Kuressaare-Tallinn maksumuste kalkulatsioon
+Jrk
+Näitaja
+
+1.
+Tegelik liiniläbisõit (km)
+
+2.
+Tegelik liiniaeg (lennutunnid)
+
+3.
+Kütuse hind (seisuga 11.05.2020) (€/liiter). 
+Hind peab olema sama, mis esitatud riigihanke alusdokumendis vastavustingimused kehtestatud nõudega „ Pakkuja esitab HD VI hinnapakkumuse jaotuses ja maksumuste kalkulatsioonis pakutud kütuse hinna tõendamiseks AS Tallinna Lennujaam lepingulise kütusepartneri kinnitatud reaalse kütuse hinna seisuga 11.05.2020.a.
+
+4.
+Kütuse kulu (liiter)
+
+5.
+Ühe reisi maksumus liinil Tallinn-Kuressaare - Tallinn (eurot) käibemaksuta ( ridadel 5.1-5.9 toodud maksumused kokku)
+
+5.1.
+  Kütus
+
+5.2.
+  Kulud lennujaamades
+
+5.3.
+  Remondi- ja hoolduskulud
+
+5.4.
+  Amortisatsioon
+
+5.5.
+  Töötasu koos maksudega
+
+5.6.
+  Kindlustuskulud
+
+5.7.
+  Finantskulud
+
+5.8.
+  Muud kulud (üldkulud + lähetuskulud)
+
+5.9.
+  Kasum 
+
+
+
+
+
+=== 1602749_Riigihanke_alusdokument.doc ===
+Hankija nimi: MAANTEEAMET
+
+
+
+
+
+
+Riigihanke nimetus:
+
+Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning teenindamine
+RIIGIHANKE ALUSDOKUMENT
+Hankelepingu ese: TEENUSED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SISUKORD
+
+ TOC \o "1-3" \h \z  HYPERLINK \l "_Toc528765578" 1.	Üldandmed	 PAGEREF _Toc528765578 \h 2
+ HYPERLINK \l "_Toc528765579" 2.	Hankemenetluses osalemine	 PAGEREF _Toc528765579 \h 2
+ HYPERLINK \l "_Toc528765580" 3.	Tehniline kirjeldus	 PAGEREF _Toc528765580 \h 2
+ HYPERLINK \l "_Toc528765581" 4.	Pakkumuse koostamise keel	 PAGEREF _Toc528765581 \h 2
+ HYPERLINK \l "_Toc528765582" 5.	Pakkumuse tagatis	 PAGEREF _Toc528765582 \h 2
+ HYPERLINK \l "_Toc528765583" 6.	Hankelepingu tingimused ja täitmise tähtpäev	 PAGEREF _Toc528765583 \h 2
+ HYPERLINK \l "_Toc528765584" 7.	Pakkumuse maksumuse esitamise struktuur ja valuuta	 PAGEREF _Toc528765584 \h 3
+ HYPERLINK \l "_Toc528765585" 8.	Pakkumuse struktuur, nõutud dokumentide loetelu ja pakkumuse märgistamise nõuded	 PAGEREF _Toc528765585 \h 3
+ HYPERLINK \l "_Toc528765586" 9.	Pakkumuse jõusoleku tähtaeg	 PAGEREF _Toc528765586 \h 3
+ HYPERLINK \l "_Toc528765587" 10.	Täiendav teave hanketeate ja riigihanke alusdokumentide kohta	 PAGEREF _Toc528765587 \h 3
+ HYPERLINK \l "_Toc528765588" 11.	Pakkumuste esitamine	 PAGEREF _Toc528765588 \h 3
+ HYPERLINK \l "_Toc528765589" 12.	Pakkumuste avamine	 PAGEREF _Toc528765589 \h 4
+ HYPERLINK \l "_Toc528765590" 13.	Pakkuja kvalifitseerimine	 PAGEREF _Toc528765590 \h 4
+ HYPERLINK \l "_Toc528765591" 14.	Pakkumuste vastavuse kontroll	 PAGEREF _Toc528765591 \h 4
+ HYPERLINK \l "_Toc528765592" 15.	Kõikide pakkumuste tagasilükkamise alused	 PAGEREF _Toc528765592 \h 4
+ HYPERLINK \l "_Toc528765593" 16.	Pakkumuste hindamise kriteeriumid, hindamine ja edukaks tunnistamine	 PAGEREF _Toc528765593 \h 4
+ HYPERLINK \l "_Toc528765594" 17.	Hankelepingu jõustumine	 PAGEREF _Toc528765594 \h 4
+ HYPERLINK \l "_Toc528765595" 18.	Turu-uuring	 PAGEREF _Toc528765595 \h 5
+
+
+
+Muud riigihanke alusdokumendid:
+
+I:	Vormid
+II:	Hankelepingu projekt
+III: 	Tehniline kirjeldus
+IV: 	Kõrvaldamise alused ja kvalifitseerimistingimused (hankepass täiendavate selgitustega)
+V:	Vastavustingimused
+VI: 	Hinnapakkumuse jaotus ja lennureisi kalkulatsioonid
+VII: Hindamiskriteeriumid ja hinnatavad näitajad
+VIII: 	Hankepass (ESPD.xml fail)
+IX:       Hanketeade
+
+1.	Üldandmed
+
+Hankija nimi ja andmed: Maanteeamet; registrikood 70001490; aadress Teelise 4, 10916 Tallinn, Eesti; telefon: (+372) 611 9300; faks: (+372) 611 9360; e-post: info@mnt.ee; koduleht:  HYPERLINK "http://www.mnt.ee" http://www.mnt.ee.
+Hankija kontaktisiku nimi ja kontaktandmed seoses käesoleva riigihankega on toodud hanketeates. 
+Hankelepingu rahastamisallikas: riigieelarve.
+Riigihangete seadus ning selle alamastme õigusaktid on elektrooniliselt kättesaadavad interneti aadressidel: https://www.riigiteataja.ee ja  HYPERLINK "http://www.fin.ee" http://www.fin.ee.
+Hankija tagab piiramatu ja täieliku elektroonilise juurdepääsu riigihanke alusdokumentidele (edaspidi HD) e-riigihangete keskkonnas aadressil HYPERLINK "https://riigihanked.riik.ee/"https://riigihanked.riik.ee/.  
+Hange viiakse läbi elektroonilise hankena e-riigihangete keskkonnas aadressil HYPERLINK "https://riigihanked.riik.ee/"https://riigihanked.riik.ee/.
+Hankija otsustas riigihanget osadeks mitte jaotada, sest Tallinn-Kuressaare-Tallinn lennuühendus on üks tervik, mida ei ole otstarbekas osadeks jagada. Liinide osadeks jagamine ja erinevate ettevõtetega lepingute sõlmimine toob kaasa selle, et liinide käitamise üldkulud kujunevad kummalegi liinile eraldi, mis suurendab oluliselt hanke maksumust.
+
+
+Hankemenetluses osalemine
+
+Maanteeamet teeb ettepaneku osaleda riigihankes „Tallinn-Kuressaare-Tallinn lennuliinil avaliku liiniveo teostamine ning teenindamine“ ning esitada pakkumusi vastavalt hanketeates (või edaspidi HT) ja HDs sisalduvatele tingimustele.
+
+Tehniline kirjeldus
+
+Riigihanke tehniline kirjeldus on esitatud HD-s III Tehniline kirjeldus ja HD-S II Hankelepingu projekt.
+
+Pakkumuse koostamise keel
+
+Pakkumus koostatakse eesti keeles.
+Hankemenetlusest kõrvaldamise aluste puudumise ja kvalifikatsiooni tõendamiseks esitatavad dokumendid esitatakse punktis  REF _Ref171397994 \r \h  \* MERGEFORMAT 4.1 nimetatud keeles.
+
+Pakkumuse tagatis 
+
+Juhul, kui hankija on riigihanke alusdokumendis „Vastavustingimused“ nõudnud pakkumuse tagatise esitamist, siis pakkumuse tagatise realiseerimisel lähtub hankija riigihangete seaduse §-st 91. 
+
+Hankelepingu tingimused 
+
+Hankelepingu tingimused on toodud HD-s II Hankelepingu projekt
+
+Pakkumuse maksumuse esitamise struktuur ja valuuta
+
+Pakkuja esitab pakkumuse maksumuse e-riigihangete keskkonnas HD-s „Hindamiskriteeriumid ja hinnatavad näitajad“. Pakkumuse koostamise aluseks on HD VI Hinnapakkumuse jaotus ja maksumuste kalkulatsioon. Maksumus peab sisaldama kõiki kulusid, mis on vajalikud lepingu täimiseks. 
+Pakkumuse maksumus esitatakse eurodes täpsusega kaks kohta peale koma. 
+
+Pakkumuse struktuur, nõutud dokumentide loetelu ja pakkumuse märgistamise nõuded
+
+Hankemenetlusest kõrvaldamise aluste puudumise ja kvalifikatsiooni tõendamiseks esitatavate dokumentide ja andmete loetelu on toodud riigihangete registris hanke alusandmete alajaotuses „Kõrvaldamise alused ja kvalifitseerimistingimused“ (hankepass täiendavate selgitustega) ning hanketeates. Pakkumuse struktuur ja nõutud dokumentide ja andmete loetelu on toodud HD-s „Vastavustingimused“ ning „Hindamiskriteeriumid ja hinnatavad näitajad“.
+Nõutud dokumendid ja andmed  tuleb esitada elektrooniliselt e-riigihangete keskkonna kaudu aadressil HYPERLINK "https://riigihanked.riik.ee"https://riigihanked.riik.ee.
+
+Pakkumuse jõusoleku tähtaeg
+
+Pakkumuse jõusoleku tähtaeg on toodud HT-s.
+
+Täiendav teave hanketeate ja riigihanke alusdokumentide kohta
+
+HT ja HD sisu kohta saab selgitusi kirjalikul pöördumisel hankija poole läbi e-riigihangete keskkonna aadressil HYPERLINK "https://riigihanked.riik.ee/"https://riigihanked.riik.ee/, riigihanke viitenumber 213197.
+
+Pakkumuste esitamine
+
+Pakkumuste esitamise tähtpäev on sätestatud  HT-s.
+Pakkumuse tähtaegse esitamise eest vastutab pakkuja.
+Pakkuja esitab kõrvaldamise aluste ja kvalifitseerimise tingimustele vastavuse täitmise kohta esialgse tõendina täidetud hankepassi (Hankepass (ESPD.xml fail).
+Pakkuja kannab kõik pakkumuse koostamise ning esitamisega seotud kulud.
+Punktis  REF _Ref171415155 \r \h  \* MERGEFORMAT 11.1 nimetatud tähtajast hiljem saabunud pakkumusi arvesse ei võeta. 
+Pakkuja võib esitatud pakkumuse enne pakkumuste esitamise tähtaega iseseisvalt tagasi võtta e-riigihangete keskkonnas.
+Pakkuja võib esitada punktis  REF _Ref171415155 \r \h  \* MERGEFORMAT 11.1 nimetatud tähtaja jooksul uue pakkumuse. 
+Juhul kui esitatud pakkumus on pakkuja poolt e-riigihangete keskkonnas tagasi võetud.
+Pakkuja peab arvestama pakkumuse koostamisel ja esitamisel e-riigihangete keskkonnast tulenevate nõuete ja piirangutega. Hankija ei vastuta võimalike viivituste, tõrgete või katkestuste eest, mida põhjustavad e-keskkonnas hankija kontrollile mitte alluvad asjaolud, nt force majeure, elektrikatkestused, häired pakkuja või hankija telefoni või interneti ühenduses või muude elektrooniliste seadmete ja vahendite, sealhulgas tarkvara töös jne. Hankija ei vastuta e-keskkonna kasutamisest või mittekasutamisest tekkinud kahjude või saamatajäänud tulu eest.
+E-riigihangete keskkonna kasutamisega seotud tuge pakub e-riigihangete keskkond ja Rahandusministeerium.
+
+Pakkumuste avamine
+
+Pakkumused avatakse e-riigihangete keskkonnas HYPERLINK "https://riigihanked.riik.ee"https://riigihanked.riik.ee HT-s toodud ajal.
+
+Pakkuja kvalifitseerimine
+
+Pakkuja kõrvaldamine või kõrvaldamata jätmine ning kvalifitseerimine toimub vastavalt riigihangete seadusele võttes arvesse riigihangete registris hanke alusandmete alajaotuses „Kõrvaldamise alused ja kvalifitseerimistingimused (hankepass täiendavate selgitustega) sätestatud vastava hankeosa tingimustele.
+
+Pakkumuste vastavuse kontroll
+
+Hankija kontrollib pakkujate poolt esitatud pakkumuste vastavust HD-s „Vastavustingimused“ ja „Hindamiskriteeriumid ja hinnatavad näitajad“ esitatud tingimustele vastavalt riigihangete seadusele.
+
+Kõikide pakkumuste tagasilükkamise alused
+
+Hankija jätab enesele õiguse lükata tagasi kõik pakkumused juhul, kui: 
+kõikide pakkumuste maksumused ületavad eeldatava lennuliini ühe edasi-tagasi reisi hinda;
+kõikide vastavaks tunnistatud pakkumuste maksumused ületavad eeldatava lennuliini ühe edasi-tagasi reisi hinda;
+hankemenetluse käigus muutuvad hanke väljakuulutamise eeldused, mis muudavad hanke realiseerimise võimatuks (Hankija eelarveliste vahendite kärpimine, vms);
+Hankelepingu sõlmimine on muutunud võimatuks või ebaotstarbekaks Hankijast sõltumatutel põhjustel.
+
+
+Pakkumuste hindamise kriteeriumid, hindamine ja edukaks tunnistamine
+
+Hankija hindab pakkumusi HD punktis  REF _Ref187738106 \r \h  \* MERGEFORMAT 7.1 nimetatud dokumendis esitatud pakkumuse maksumuse alusel käibemaksuta. 
+Edukaks pakkumuseks tunnistatakse pakkumus, milles pakutud ühe reisi maksumus liinil Tallinn-Kuressaare - Tallinn ilma käibemaksuta on madalaim.
+Kui kaks või enam pakkumust, mille maksumused on madalaimad, on võrdsete maksumustega, siis valitakse edukas pakkumus liisuheitmise teel hankija poolt määratud korras, ajal ja kohas ning kus osalevad võrdsete maksumustega pakkumused esitanud pakkujate seadusjärgsed või volitatud esindajad. 
+
+Hankelepingu jõustumine
+
+Hankeleping jõustub hankelepingu allkirjastamisest poolte poolt. 
+Kui edukaks tunnistatud pakkuja ei allkirjasta hankelepingut 10 päeva jooksul alates Hankija poolt allkirjastatud lepingu saatmisest edukale pakkujale, hindab hankija kõiki ülejäänud pakkumusi uuesti ja tunnistab edukaks hindamise tulemusel järgmise pakkuja.
+
+Turu-uuring
+
+Hankija ei ole teinud riigihanke ettevalmistamisel turu-uuringut.
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  5
+
+
+PAGE  
+
+
+
+
+
+

@@ -1,0 +1,655 @@
+=== 9805224_304919_hindamiskriteeriumid.pdf ===
+HINDAMISKRITEERIUMID JA HINNATAVAD NÄITAJAD
+Viitenumber: 304919
+Hankija:Rõuge Priitahtlikud Pritsimehed (80266901)
+Hange:Rõuge depoo IV ehitusetapp
+Pakkumuse maksumust hinnatakse - Ilma maksudeta
+Kriteeriumi kaalumise meetod - Osakaaludega
+Elektroonilist oksjoni kasutatakse: ei
+Jrk Nimetus Kirjeldus Tüüp / Osakaal Kogus Ühik Pakkuja
+nr hindamismeetod täidetav
+1 Pakkumuse maksumus Pakkuja esitab pakkumuse maksumuse Maksumus - 100 1 EUR jah
+ilma tellija reservita. vähim on parim
+Kokku: 100
+Hindamismetoodika kirjeldus
+1. Pakkumuse maksumus
+Madalaima väärtusega pakkumus saab maksimaalse arvu punkte. Teised pakkumused saavad punkte arvutades valemiga: "osakaal" - ("pakkumuse väärtus" - madalaim väärtus") / "suurim
+väärtus" * "osakaal".
+Koostatud 13.01.2026 15:31:32 1/1 https://riigihanked.riik.ee/rhr-web/#/procurement/
+9805224/general-info
+
+=== 9805224_304919_korvaldamise_alused_ja_kvalifitseerimistingimused.pdf ===
+1/1
+KÕRVALDAMISE ALUSED JA
+KVALIFITSEERIMISTINGIMUSED
+Viitenumber: 304919
+Hankija: Rõuge Priitahtlikud Pritsimehed (80266901)
+Hange: Rõuge depoo IV ehitusetapp
+KÕRVALDAMISE ALUSED
+D: Ainult siseriiklikest õigusaktidest tulenevad kõrvalejätmise alused
+AINULT SISERIIKLIKEST ÕIGUSAKTIDEST TULENEVAD KÕRVALEJÄTMISE
+ALUSED: OSALEJA PIIRAMINE ETTEVÕTJA ELU- VÕI ASUKOHA PÕHISELT
+Kas ettevõtja rikub hankija kehtestatud piirangut pakkumust või taotlust esitada?
+RHS § 95 lg 4 p 12 „kellel puudub käesoleva seaduse alusel õigus pakkumust või taotlust
+esitada, välja arvatud § 111 lõikes 6 sätestatud juhul". RHS § 7 lg 3 sätestab, et hankija võib
+piirata pakkujate ja taotlejate ringi, lubades riigihankes osaleda ainult RHS § 3 punktis 2
+nimetatud riikidest pärit ettevõtjatel või andes nendest riikidest pärit ettevõtjate esitatud
+pakkumustele eeliseid teistest riikidest pärit ettevõtjate esitatud pakkumuste ees. Hankija
+sätestab piirangu ettevõtja elu- või asukohale hanke alusdokumentides.
+Kehtib:Kõik osad
+Küsimused ettevõtjale:
+1) Mis on Teie vastus? (Raadionupp valikutega "Jah/Ei")
+2) Kas see teave on elektrooniliselt kättesaadav? (Raadionupp valikutega "Jah/Ei")
+3) URL (Url)
+4) Kood (Sisestusväli (max pikkus 250 tähemärki))
+5) Väljaandja (Sisestusväli (max pikkus 250 tähemärki))
+Koostatud 13.01.2026 15:24:02
+https://riigihanked.riik.ee/rhr-web/#/procurement/9805224/general-info
+
+=== 9805224_304919_vastavustingimused.pdf ===
+1/3
+VASTAVUSTINGIMUSED
+Viitenumber: 304919
+Hankija: Rõuge Priitahtlikud Pritsimehed (80266901)
+Hange: Rõuge depoo IV ehitusetapp
+EL NÕUKOGU SANKTSIOON. ALLTÖÖVÕTJAD JA TARNIJAD.
+Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on:
+1. Vene Föderatsiooni kodanik, resident või Vene Föderatsioonis asutatud ettevõtja, sh füüsilisest
+isikust ettevõtja, juriidiline isik, asutus või muu üksus;
+2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või muu
+üksuse omandis;
+3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või tegutseb sellise isiku
+juhiste alusel.
+Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav hankeleping oleks RSanS § 7 lg 1 alusel
+tühine.
+Määrust kohaldatakse riigihangetele alates rahvusvahelisest piirmäärast. NÕUKOGU MÄÄRUS
+(EL) 2022/576, 8. aprill 2022, millega muudetakse määrust (EL) nr 833/2014, mis käsitleb
+piiravaid meetmeid seoses Venemaa tegevusega, mis destabiliseerib olukorda Ukrainas.
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ta ei kaasa üle 10% hankelepingu maksumusest hankelepingu täitmisele
+alltöövõtjaid ega tarnijaid, kes on: 1. Vene Föderatsiooni kodanik, resident või Vene
+Föderatsioonis asutatud ettevõtja, sh füüsilisest isikust ettevõtja, juriidiline isik, asutus või muu
+üksus; 2. rohkem kui 50% ulatuses otseselt või kaudselt punktis 1 nimetatud isiku, asutuse või
+muu üksuse omandis; 3. punktis 1 või 2 nimetatud isiku, asutuse või muu üksuse esindaja või
+tegutseb sellise isiku juhiste alusel. (Raadionupp valikutega "Jah/Ei")
+ÜHISPAKKUJATE VOLIKIRI
+Ühispakkujad nimetavad riigihankega ning hankelepingu sõlmimise ja täitmisega seotud
+toimingute tegemiseks endi seast volitatud esindaja.
+Küsimused ettevõtjale:
+1. Kas tegemist on ühispakkumusega? (Raadionupp valikutega "Jah/Ei")
+2. Kui tegemist on ühispakkumusega, kas olete lisanud pakkumuse "Lisadokumentide" lehele
+ühispakkujate volikirja? Kui tegemist ei ole ühispakkumusega, vastake "Ei"". (Raadionupp
+valikutega "Jah/Ei")
+ÄRISALADUS
+Pakkuja märgib pakkumuses, milline teave on pakkuja ärisaladus ning põhjendab teabe
+määramist ärisaladuseks.
+Teabe ärisaladuseks määramisel lähtutakse ebaausa konkurentsi takistamise ja ärisaladuse kaitse
+seaduse § 5 lõikes 2 sätestatust. Pakkuja ei või ärisaladusena märkida:
+1) pakkumuse maksumust ega osamaksumusi;
+2) teenuste hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste hindamise
+kriteeriumidele vastavaid pakkumust iseloomustavaid numbrilisi näitajaid;
+3) asjade ja ehitustööde hankelepingute puhul lisaks punktis 1 nimetatule muid pakkumuste
+hindamise kriteeriumidele vastavaid pakkumust iseloomustavaid näitajaid (RHS § 46 ülamärkega
+1).
+Küsimused ettevõtjale:
+1. Kirjeldage lühidalt pakkumuses sisalduvat ärisaladust ja lisage selle määramise põhjendus või
+märkige, et pakkumus ei sisalda ärisaladust. (Suur sisestusala (max pikkus 4000 tähemärki))
+Koostatud 15.01.2026 16:14:16
+https://riigihanked.riik.ee/rhr-web/#/procurement/9805224/general-info
+2/3
+KÕRVALDAMISE ALUSEGA ALLTÖÖVÕTJA MITTEKAASAMINE
+Pakkuja kinnitab, et ei kaasa hankelepingu täitmisel alltöövõtjat, kes kuuluks RHS § 122 lõike 7
+alusel asendamisele.
+Ehitustööde hankelepingu ja ehitustööde kontsessioonilepingu korral, mille eeldatav maksumus
+on vähemalt võrdne riigihanke piirmääraga, nõuab hankija riigihanke alusdokumentides pakkujalt
+pakkumuses kinnituse esitamist, et pakkuja ei kaasa hankelepingu täitmisel alltöövõtjat, kes
+kuuluks RHS § 122 lõike 7 alusel asendamisele (RHS § 122 lg 3).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et ei kaasa hankelepingu täitmisel alltöövõtjat, kes kuuluks RHS § 122 lõike
+7 alusel asendamisele. (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE ESITAMINE
+Pakkumuse esitamisega kinnitab pakkuja kõigi riigihanke alusdokumentides esitatud tingimuste
+ülevõtmist.
+Tingimusliku pakkumuse esitamine ei ole lubatud.
+Küsimused ettevõtjale:
+1. Kas ettevõtja saab kinnitada, et pakkumus vastab hanke alusdokumentides sätestatud
+tingimustele? (Raadionupp valikutega "Jah/Ei")
+PAKKUMUSE MAKSUMUS
+Pakkumuse maksumus tuleb esitada töölehel "Hindamiskriteeriumid ja hinnatavad näitajad"
+toodud struktuuri kohaselt.
+Küsimused ettevõtjale:
+1. Kas ettevõtja kinnitab, et täidab pakkumuse lehe "Hindamiskriteeriumid ja hinnatavad
+näitajad" lehel ette antud struktuuri kohaselt? (Raadionupp valikutega "Jah/Ei")
+2. Täidetud mahutabel (Dokumendi vorm / Mahutabel.docx)
+SAMAVÄÄRSUS
+Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud.
+Iga viidet, mille hankija teeb riigihanke alusdokumentides mõnele RHS-i § 88 lõikes 2 nimetatud
+alusele (standardile, tehnilisele tunnustusele, tehnilisele kontrollisüsteemile vms), tuleb lugeda
+selliselt, et see on täiendatud märkega „või sellega samaväärne“. Iga viidet, mille hankija teeb
+riigihanke alusdokumentides ostuallikale, protsessile, kaubamärgile, patendile, tüübile, päritolule,
+tootmisviisile, märgisele või vastavushindamisasutuse väljastatud katsearuandele või tõendile,
+tuleb lugeda selliselt, et see on täiendatud märkega „või sellega samaväärne“ (RHS § 88 lg-d 5-6,
+§ 89 lg 2, 114 lg-d 5-7).
+Hankija aktsepteerib objektiivsetel põhjustel muid asjakohaseid tõendeid, kui pakkuja tõendab
+hankijale vastuvõetaval viisil, et pakutav asi, teenus või ehitustöö vastab konkreetse märgise või
+hankija esitatud nõuetele, välja arvatud juhul, kui hankija nõutud märgis, samaväärne märgis või
+konkreetse või samaväärse vastavushindamisasutuse väljastatud katsearuanne või muu tõend on
+seaduse alusel eelduseks asja, teenuse või ehitustöö pakkumiseks turul (RHS § 114 lg 7).
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakkumus vastab hanke alusdokumentides nõutule ja vajadusel on
+samaväärsus selgitatud ja tõendid samaväärsuse kohta lisatud. (Raadionupp valikutega "Jah/Ei")
+RAHVUSVAHELISE SANKTSIOONI OBJEKT
+Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks või pärit
+sanktsiooni all olevatest piirkondadest. Hankija lükkab tagasi pakkumuse, mille alusel sõlmitav
+hankeleping oleks RSanS § 7 lg 1 alusel tühine.
+Koostatud 15.01.2026 16:14:16
+https://riigihanked.riik.ee/rhr-web/#/procurement/9805224/general-info
+3/3
+Küsimused ettevõtjale:
+1. Pakkuja kinnitab, et pakutav kaup ei ole rahvusvahelise sanktsiooni objektiks ega pärit
+sanktsiooni all olevatest piirkondadest. (Raadionupp valikutega "Jah/Ei")
+Koostatud 15.01.2026 16:14:16
+https://riigihanked.riik.ee/rhr-web/#/procurement/9805224/general-info
+
+=== 9805224_Hankeleping.docx ===
+
+HANKELEPINGU PROJEKT
+
+Hankija:	Rõuge Priitahtlikud Pritsimehed (registrikood 80266901)
+
+Riigihanke nimetus „Rõuge depoo IV ehitusetapp“ 
+
+
+EHITUSTÖÖDE TÖÖVÕTULEPING
+
+
+Leping sõlmitakse hankija korraldatud riigihankemenetluse tulemusena. Leping sisaldab üldtingimusi ja eritingimusi. Eritingimused sisaldavad üldtingimuste täpsustusi, täiendusi ja muudatusi. Üldtingimustena on käsitatavad „Ehituse töövõtulepingu üldtingimused (ETÜ 2013)”, mida kohaldatakse lepingule ka juhul, kui pooled ei ole üldtingimusi eraldi dokumendina allkirjastanud.
+
+ERITINGIMUSED
+1. ÜLDTINGIMUSTE TÄPSUSTUSED
+Jrk
+nr
+Üldtingimus, mida eritingimusega täpsustatakse
+
+Viide ETÜ tingimuse punktile
+Tingimuse määratlus või sõnastus
+1
+Tellija ja tema esindaja ning nende kontaktandmed
+14.1.1
+Nimi: Rõuge Priitahtlikud Pritsimehed
+Registrikood: 80266901
+Asukoht/aadress: Tehnika tn 3, 66201 Rõuge alevik, Rõuge vald, Võru maakond
+
+Tellija esindaja lepingu sõlmimisel: juhatuse liige Tiit Toots
+Tellija esindaja lepingulistes küsimustes: juhatuse liige Tiit Toots
+Tellija esindaja tehnilistes küsimustes: juhatuse liige Tiit Toots
+2
+Töövõtja ja tema esindaja ning nende kontaktandmed
+14.1.1
+Nimi: 
+Registrikood: 
+Asukoht/aadress: 
+
+Nimi: 
+Registrikood: 
+Asukoht/aadress: 
+
+Töövõtja esindaja lepingu sõlmimisel: 
+Töövõtja esindaja lepingulistes küsimustes: 
+Töövõtja esindaja tehnilistes küsimustes:  
+
+
+3
+Töövõtja esindaja lepingu täitmisel, kui tegemist on ühispakkujatega
+14.1.1
+
+4
+Andmed riigihanke kohta (olemasolu korral)
+---
+Riigihanke nimetus: Rõuge depoo IV ehitusetapp
+Viitenumber: 304919
+
+5
+Andmed ehitusprojekti kohta (olemasolu korral)
+---
+Ehitusprojekti autor:  PIKOPROJEKT OÜ, töö nr 1328/2021
+Autoriõigused on tööde tegemiseks vajalikus mahus üle antud tellijale: jah.
+6
+Andmed ehitusplatsi kohta
+---
+Kinnistu asukoht: Tehnika tn 3, Rõuge alevik, Rõuge vald, Võru maakond
+Kinnistu pindala: -
+Ehitusplats hõlmab kogu kinnistut: jah
+7
+Ehitusprojekti koostamise staadium (kui tellija nõuab selle koostamist) 
+3.2.2
+
+
+-
+8
+Tööprojekti koostamine
+3.1.6 ja 3.2.4
+-
+9
+Teostusjooniste koostamine
+3.1.6 ja 3.2.4
+
+10
+Lubade hankimine ja vastavate riigilõivude tasumine 
+ 2.9
+ 
+Ehitusluba: 
+Kasutusluba: töövõtja
+11
+Ajagraafiku esitamine
+4.1.8
+ 
+10 tööpäeva jooksul lepingu sõlmimisest arvates
+12
+Ehitusplatsile juurdepääsu õigus (kui on muul juhul, kui alates lepingu sõlmimisest)
+4.2.1
+
+-
+13
+Garantiiaja kestus
+5.1.1
+Vähemalt 36 kuud.
+Nimetatud garantiiaeg laieneb ühtlasi lepingu täitmise käigus paigaldatud seadmetele.
+14
+Garantii pikendatud kestus ehitise osadele (kui kohaldatakse)
+5.1.1
+hoone põhikonstruktsioonidele 10 aastat
+varjatud installatsioonidele 10 aastat
+metallkonstruktsioonide roostegarantii 10 aastat
+kaetud hüdroisolatsioonidele 10 aastat
+
+15
+Tehnosüsteemide hooldamine töövõtja poolt garantiiajal
+5.1.4
+Ei ole nõutav
+16
+Tehnosüsteemide hoolduse kestus, arvestatuna garantiiaja algusest 
+5.1.4
+Ei ole nõutav
+17
+Täitmisaja tagatis
+6.1.1
+- 
+18
+Arveldusarve number tagatiste deponeerimiseks
+6.1.1.2 ja 6.2.1.2
+
+19
+Ettemaksu tegemine töövõtjale
+6.1.4
+Ei tehta
+20
+Ettemaksu suurus, juhul kui ettemaksu makstakse
+6.1.4
+-
+21
+Ettemaksu tasa-arvestamise määr (igast summast)
+6.1.4.1
+-
+22
+CAR kindlustuse nõutavus
+6.1.6
+Nõutav.
+Kindlustusleping peab mh sisaldama tingimust, mille kohaselt on tellijale üle antud otsenõudeõigus kindlustusandja vastu.
+23
+CAR kindlustuse hüvitise minimaalne piirmäär
+6.1.6.1
+Vähemalt võrdne lepingu hinnaga arvestatuna summast ilma käibemaksuta.
+24
+CAR kindlustuse omavastutuse maksimaalne suurus
+6.1.6.1
+2 000 eurot
+25
+Tsiviilvastutus-kindlustuse nõutavus
+6.1.6
+-
+26
+Tsiviilvastutus-kindlustuse hüvitise minimaalne piirmäär
+6.1.6.2
+-
+
+27
+Tsiviilvastutus-kindlustuse oma-vastutuse maksimaalne suurus
+6.1.6.2
+-
+28
+Garantiiaja tagatis
+6.2.1
+nõutav
+29
+Täitmisaeg
+7.1
+Vastavalt eritingimuste punktile 3. Lepingu täitmise vahetähtajad ja valmidusastme lühikirjeldused
+30
+Põhilise kasutusvalmiduse teatise esitamise tähtaeg
+10.2.8
+-
+31
+Vahetähtajad ja
+valmidusastme lühikirjeldused
+
+7.1
+Vastavalt eritingimuste punktile 3. Lepingu täitmise vahetähtajad ja valmidusastme lühikirjeldused
+32
+Lepingu hind (tööde üldmaksumus ja reserv selle olemasolu korral), ilma käibemaksuta 
+11.1.1 ja selle alapunktid
+Lepingu hind:  eurot
+Tööde üldmaksumus:  eurot
+Reserv 5% tööde üldmaksumusest:  eurot
+33
+Maksetähtajad
+11.2.3
+30 kalendripäeva jooksul pärast arve saamist.
+Viimane makse peab moodustama minimaalselt 10 (kümme) % lepingu hinnast.
+34
+Tellija spetsialistide tunnihinnad (ilma käibemaksuta)
+12.1.6
+-
+35
+Normaalne tööaeg
+12.1.6
+-
+36
+Viivisemäär päevas (kalendripäev) 
+12.2.1
+0,1 protsenti tasumata summalt päevas
+37
+Leppetrahv
+
+12.2.2
+Vastavalt eritingimuste punktile 4. Leppetrahvid tähtaegade ületamise jm lepingurikkumiste korral
+38
+Leppetrahvi maksimummäär tööde teostamise tähtaegade ületamise korral (lepingu hinnast, ilma käibemaksuta)
+12.2.3
+10 protsenti 
+39
+Dokumentide pädevusjärjestus 
+2.2
+Vastavalt üldtingimustele
+40
+Lepingu lisade loetelu
+---
+Lisa 1 - riigihanke „Rõuge depoo IV ehitusetapp“ hankedokumendid, sh riigihanke käigus tellija antud selgitused, tõestusväärtust omav dokument on kättesaadav elektrooniliselt;
+Lisa 2 - töövõtja pakkumus koos kõikide selle lisadega, tõestusväärtust omav dokument on kättesaadav elektrooniliselt;
+Lisa 3 - ajagraafik (lisatakse pärast lepingu sõlmimist vastavalt lepingus sätestatule;
+Lisa 4 - töövõtja esitatavad tagatised ja/või kindlustuspoliisid, sh ehitusaegse (täitmisaegse) tagatise garantiikiri (lisatakse pärast lepingu sõlmimist vastavalt lepingus sätestatule);
+41
+Lepingus viidatud dokumentide vormid (kui kohaldatakse)
+6.1.1.1
+6.2.1.1
+10.1.2
+10.2.8
+10.2.4
+Garantiiaja garantiikirja vorm
+Tehtud tööde rahalise akti vorm – vormi töötab välja Töövõtja ja esitab selle kooskõlastamiseks Tellijale
+Täitmisakti vorm – vormi töötab välja Töövõtja ja esitab selle kooskõlastamiseks Tellijale
+
+2. ÜLDTINGIMUSTE TÄIENDUSED, MUUDATUSED VÕI MITTE-KOHALDAMINE
+Jrk nr
+Üldtingimuse punkt, mida täiendatakse, muudetakse või ei kohaldata
+
+Tingimuse määratlus või sõnastus
+	•	
+2.2.
+Üldtingimuste punkti 2.2. täiendatakse järgmiste alapunktidega:
+2.2.8. Eesti Vabariigis kehtivad standardid ja tehnilised normid
+2.2.9. Ehitustööde Üldised Kvaliteedinõuded (RYL).
+	•	
+3.1.3.
+Üldtingimuste punkti 3.1.3. muudetakse järgmiselt: 
+3.1.3. Töövõtja on kohustatud tegema tööd, võttes aluseks tellija esitatud ehitusprojekti ja muud lepingus kirjeldatud nõuded ja tingimused. 
+	•	
+4.6.3. 
+Üldtingimuste punkti 4.6.3. muudetakse järgmiselt: 
+Ehitustoodete jäätmed ja praht peavad olema ehitusplatsilt lõplikult eemaldatud enne täitmisakti allkirjastamist.
+	•	
+10.1.5.
+Üldtingimuste punkti 10.1.5 täiendatakse järgmise lausega:
+Nimetatud ühe tööpäevane lisatähtaeg peab tellijale olema antud kirjalikus vormis ning kättesaamise kinnitusega. 
+	•	
+10.2.5.
+Üldtingimuste punkti 10.2.5 täiendatakse järgmise lausega:
+Nimetatud kaks lisatööpäeva peab tellijale olema antud kirjalikus vormis ning kättesaamise kinnitusega. 
+	•	
+10.2.7.
+Üldtingimuste punkti 10.2.7. muudetakse järgmiselt:
+10.2.7.	Juhul kui muud täitmisakti allkirjastamise eeldused on täidetud, kuid töödes (sh täitedokumentatsioonis) esinevad vaegtööd ja/või puudused, on tellijal õigus lisaks puuduste ja/või vaegtööde maksumusele kinni pidada kuni 5 (viis) protsenti lepingu hinnast (arvestatuna summast ilma käibemaksuta) kuni puuduste kõrvaldamiseni.
+	•	
+10.2.9.
+Üldtingimuste punkti 10.2.9 täiendatakse järgmise lausega:
+10.2.9. Nimetatud mõistlik lisatähtaeg peab tellijale olema antud kirjalikus vormis ning kättesaamise kinnitusega.
+	•	
+10.2.
+Üldtingimusi täiendatakse punktiga 10.2.14 järgmiselt:
+10.2.14. Juhul kui pärast tööde vastuvõtmist tellija poolt (nt ehitise kasutamise käigus) ilmneb, et teostatud tööd ei vasta lepingu tingimustele, tööd on teostatud mittenõuetekohaselt või lepingus sätestatud muud kohustused on täitmata (sh ei ole tööde teostamise käigus tehtud muudatustööd või materjalide, seadmete, ehitustoodete vm asendamised tellijaga kooskõlastatud vastavalt lepingus sätestatule), on töövõtja kohustatud tellija nõudmisel teostatud tööd ümber tegema ja viima need vastavusse lepingu dokumentidega. Nimetatud töövõtja kohustused kehtivad kuni garantiiaja lõpuni sõltumata asjaolust, et tellija on tööd töövõtjalt vastu võtnud ning eelnimetatut käsitletakse kui erikokkulepet võlaõigusseaduse § 644 sätestatu suhtes.
+	•	
+12.2.
+Üldtingimuste punkti 12.2.4. muudetakse järgmiselt:
+Tellijal on õigus leppetrahv kinni pidada tellija poolt töövõtjale tasumisele kuuluvatest summadest.
+	•	
+15.3.
+Üldtingimuste punkti 15.3. muudetakse järgmiselt:
+15.3. Läbirääkimiste teel kokkuleppele mittejõudmisel lahendatakse kõik lepingust tulenevad vaidlusküsimused õigusaktidega ettenähtud korras. Sellisel juhul kohaldatakse vaidluse lahendamisele Eesti Vabariigi materiaal- ja protsessiõigust ning vaidlused lahendatakse kostja asukoha kohtus.
+
+3. LEPINGU TÄITMISE VAHETÄHTAJAD JA VALMIDUSASTME LÜHIKIRJELDUSED
+
+
+
+
+Vaheetapi nimetus
+Valmidusastme lühikirjeldus
+Valmidust fikseeriv dokument
+Tähtaeg
+
+1.
+Tööd on valmis kasutusloa taotlemiseks
+	•	Tööd on valmis vastuvõtmiseks ja kasutusloa taotlemiseks
+	•	Tööd on valmis sisustuse paigaldamiseks
+	•	Objekt on koristatud
+	•	Mõõdistused ja häälestused tehtud
+	•	Kasutusloa väljastamiseks vajalik dokumentatsioon on koostatud ja esitatud Tellijale
+	•	Vastavad ametkonnad on tööd üle vaadanud, heaks kiitnud
+	•	Pädevale asutusele on esitatud taotlus kasutusloa saamiseks
+	•	Täitedokumentatsioon, sh hooldusjuhendid, kasutusjuhendid tööjoonised, mõõdistused  jm dokumendid on valmis ning esitatud Tellijale  ülevaatamiseks
+	•	Tellijal on võimalik alustada tööde vastuvõtmist
+Allkirjastatakse vaheetapi valmimise akt
+
+Kuuenda kuu viimane tööpäev
+2.
+Tööde lõplik ülevaatus, puuduste fikseerimine, puuduste kõrvaldamine
+	•	Tellija teostab koos töövõtjaga objekti ülevaatuse, fikseerib puudused
+	•	Tellija vaatab üle täitedokumentatsiooni  ja fikseerib puudused
+	•	Töövõtja kõrvaldab puudused
+	•	Tellija kontrollib ja sulgeb kõrvaldatud puudused
+Tuvastatud puuduste nimekiri
+Seitsmenda kuu 15 tööpäev
+3.
+Lõplik kasutusvalmidus on saavutatud
+	•	Kõik lepingujärgsed kohustused on täidetud, puudused kõrvaldatud ja suletud, tööd on lõplikult valmis
+	•	Kõik ehitusdokumendid ja täitedokumentatsioon  on Tellijale üleantud, puudused kõrvaldatud, Tellija poolt üle vaadatud ning vastu võetud
+	•	Kasutusluba on väljastatud
+	•	Lõplik koristus on tehtud
+	•	Kasutaja koolitused on tehtud
+	•	Algab garantiiperiood
+Allkirjastatakse täitmisakt
+Seitsmenda kuu viimane tööpäev
+4. LEPPETRAHVID TÄHTAEGADE ÜLETAMISE JM LEPINGURIKKUMISTE KORRAL
+
+
+
+Vaheetapi nimetus
+Tähtaeg
+Leppetrahvi suurus 
+
+Kasutusluba on väljastatud
+Vt eritingimuste punkt 3 tabel
+0,01 % lepingu hinnast (km-ga) päevas iga tähtpäeva ületatud kalendripäeva eest 
+
+Lõplik kasutusvalmidus on saavutatud
+Vt eritingimuste punkt 3 tabel
+100 (viissada) eurot päevas
+
+Muud lepingu rikkumised
+
+150 (kolmsada viiskümmend) eurot kord
+
+Muud lepingus sätestatud tähtaegade, sh vaheetappide ja ajagraafiku rikkumised
+
+150 (kolmsada viiskümmend) eurot päevas
+
+
+
+
+Garantiikirja vorm – garantiiaegne tagatis
+
+GARANTIIKIRI nr ____ 
+
+Garant: 		___________________ (registrikood _____________)
+Asukoht:		___________________
+Volitatud esindaja:	___________________
+Garantii saaja:	Rõuge Priitahtlikud Pritsimehed (registrikood 80266901)
+Asukoht:		Tehnika tn 3, Rõuge alevik, Rõuge vald, Võru maakond
+
+Garantii tellija:	___________________ (registrikood _____________)
+Asukoht:		___________________
+Volitatud esindaja:	___________________
+
+	•	Garant on teadlik, et Garantii tellija ja temaga ühispakkumuses osalevad isikud nimetus ja nimetus on sõlminud Garantii saajaga kuupäev lepingu nr number (edaspidi Leping) „Rõuge depoo IV ehitusetapp“ ja muude sellega seonduvate tööde teostamiseks ning Lepingu kohaselt on Garantii tellija kohustatud esitama Garantii saajale garantii, tagamaks rahalise hüvitise maksmise juhul,  kui Garantii tellija rikub Lepingust tulenevaid garantiiaegseid kohustusi. 
+	•	Garant garanteerib Garantii saajale Garantii saaja esimesel nõudmisel garantiikirja punktis 1 nimetatud Lepingukokkuleppe järgsete garantiiaegsete kohustuste täitmise tagamiseks kuni summa numbritega (summa sõnadega) euro suuruse summa (edaspidi: Garantiisumma) tasumise garantiikirjas toodud tingimustel.
+	•	Garantiikirja alusel väljamakse saamiseks peab Garantii saaja esitama Garandile kirjaliku või digiallkirjastatud nõude, milles on toodud taotletava väljamakse summa, Garantii saaja kinnitus Garantii tellija Lepingust tuleneva kohustuse rikkumise kohta ning rikutud kohustuse kirjeldus.
+	•	Garant kannab garantiikirja alusel tasumisele kuuluvad summad Garantii saaja nõudes näidatud arveldusarvele 30 kalendripäeva jooksul Garantii saajalt punktis 3 toodud nõude saamisest. Nõue loetakse Garandi poolt kättesaaduks, kui see on Garandi esindajale üle antud allkirja vastu või saadetud digiallkirjastatult Garandi e-posti aadressil.
+	•	Garantiikiri jõustub Garandi poolt sellele allakirjutamise hetkest ja kehtib kuni kuupäev, hiljemalt millisel kuupäeval saab Garantii saaja Garandile nõude esitada. 
+	•	Garandi garantiikirjast tulenev kohustus lõpeb enne punktis 5 nimetatud tähtaega, kui:
+	•	 Garant maksab Garantii saajale Garantiisumma
+	•	Garantii saaja loobub garantiikirjast tulenevatest õigustest, teatades sellest kirjalikult või digiallkirjastatult või tagastades garantiikirja Garandile.
+	•	Kui Garant teeb garantiikirja alusel osalise väljamakse, siis väheneb Garantiisumma Garandi poolt väljamakstud summa võrra automaatselt.
+	•	Garantii saaja garantiikirjast tulenevad õigused ei ole loovutatavad ilma Garandi nõusolekuta.
+	•	Garantiikirjale kohaldatakse Eesti Vabariigi õigusnorme. Garantiikirjas tulenevad vaidlused, mida ei ole võimalik lahendada läbirääkimiste teel, lahendatakse Harju Maakohtus. 
+
+Garantiikiri on allkirjastatud digitaalselt
+
+
+
+=== 9805224_Mahutabel.docx ===
+
+Mahutabel
+NB! Pakkuja peab pakkumuse tegemisel arvestama, et I korrusele peab tööde lõppemisel saama väljastada kasutusloa
+Töö nimetus
+Maksumus (EUR)
+I korruse põrandad
+
+I korruse vaheseinad
+
+I korruse siseuksed
+
+I korruse välisuks
+
+Moodulvaheseinad
+
+I korruse trepikoja uks
+
+I korrus seinte viimistlus
+
+I korruse lagede viimistlus
+
+I korruse põranda viimistlus
+
+Hüppetoru ja pehmendus 0 korruse põrandal
+
+Ruum 106 (kriisistaap) ehitustööd
+
+I korruse vee- ja kanalisatsioonitööd (s.h. II korruse magistraalliinid)
+
+I korruse küttetööd (s.h. II korrus magistraalliinid)
+
+I korruse ventilatsioonitööd
+
+I korruse elektritööd (s.h. II korruse magistraalliinid)
+
+I korruse valgustid (v.a. välimise varikatuse valgustid)
+
+I korrus nõrkvoolu tööd (s.h. II korruse magistraalliinid)
+
+I korruse WC-de inventar (potid, kraanikausid, paberihoidjad, seebidosaatorid)
+
+Köögimööbel koos tehnikaga ruumi nr 104
+
+Välistrepp teljel E
+
+Välistrepp teljel 8
+
+Maksumus kokku
+
+
+
+
+=== 9805224_Rõuge_depoo_III_ehitusetapp_tehniline_kirjeldus.docx ===
+
+Rõuge depoo III ehitusetapi tehniline kirjeldus
+Objekt: Rõuge depoo
+Aadress: Tehnika tn 3, Rõuge alevik, Rõuge vald, Võru maakond
+Hankija: MTÜ Rõuge Priitahtlikud Pritsimehed
+Kontaktid: tehnilistes küsimustes Meelis Kann (tel. +372 506 5826), objektiga seonduvates küsimustes Tiit Toots (+372 517 6261).
+
+	•	Taustainformatsioon
+Rõuge päästedepoo hoone ehitusel on ellu viidud kolm etappi. Tööde käigus on valminud hoone karp koos välise soojustuse ja avatäidetega. Välja on ehitatud 0 korruse ruumid (ruumid 001, 003 ja 008 on täielikult viimistletud). Välja on ehitatud hoone eriosad – välivõrgud (veetorustik, kanalisatsioon, sadevesi (s.h. hoone sisene), soojatrass, elektri kaabelliinid) ja sisevõrgud (0 korruse veetorustik, kanalisatsioon, küte (koos soojasõlmega) tugevvool, nõrkvool (mh. paigaldatud ATS seade 1. korrusele) ja ventilatsioon (paigaldatud ventilatsiooniagregaat, rajatud magistraalliinid (s.h. väljavõte 1. korrusel), rajatud 0. korruse ventilatsioonitorustik)). 
+
+	•	Projektdokumentatsioon
+Pakkuja peab pakkumise tegemisel lähtuma hoone projektdokumentatsioonist, mis asub: https://www.dropbox.com/sh/6gq2f5iw3nv03hq/AACmAUe4KMHRjVS27HhOjX1Ba?dl=0 
+Kui on vajadus koostada töödele tööprojekt, siis selle peab tellima töövõtja omal kulul.
+
+	•	Töö tehniline kirjeldus
+Rõuge depoo ehituse IV etapis tuleb teostada järgmised tööd: 1. korruse ruumide veetorustiku, kanalisatsiooni, kütte, ventilatsiooni, tugevvoolu ja nõrkvoolu ehitus. 1. korruse vaheseinte ja põrandate ehitus. 1. korruse siseuste paigaldus. 1. korruse ruumide viimistlus (krohv, pahtel, värv, wc – keraamiline plaat). Lisaks tuleb rajad välistrepid telgedele E ja 8. Tööde lõpus peab saama väljastada 1. korrusele kasutusloa. Tööde loetelu on toodud tehnilise kirjelduse punktis 4.
+Enne pakkumise tegemist on kohustuslik tutvuda objektiga ning töötada läbi kõik projektiosad (arhitektuurne, konstruktiivne, eriosad jne), et tagada võimalikult täpne tööde kalkulatsioon. Kui pakkuja ei tutvu eelnevalt ehitusobjektiga, kaotab ta õiguse esitada hilisemalt pretensioone töömahtude mittevastavuse osas.
+
+	•	Teostatavate tööde loetelu on esitatud mahutabelis.
+
+	•	Tööde teostamise aeg
+Tööde teostamise aeg: 7 kuud. Lepingu sõlmimisest arvates. 
+
+	•	Eritingimused
+Töövõtja kohustus on ehituse dokumenteerimine vastavalt EV-s kehtestatud õigusaktidele, määrustele ja kehtestatud ja kasutusel olevatele standarditele ja normdokumentidele. Töövõtja mahus on vajalike mõõdistuste, auditite, aruannete ja aktide koostamine, mis on vajalikud 1. korruse kasutusele võtmiseks. Näiteks, ventilatsiooni mõõdistus, elektritööde mõõdistus ja audit, nõrkvoolutööde k.a. ATS mõõdistused, aktid ja katsetused, tehnosüsteemide katsetamised, töösse andmised ja kui vajalik siis ka kogu maja tehnosüsteemide uuesti reguleerimine ekspluatatsioonitingimustele vastavaks. Riigilõivud ja liitumistasud ei kuulu Töövõtja lepingu mahtu.
+  
+Töövõtja kohustus on esitada visuaalselt ekspluatatsioonis nähtavatele töödele näidistööd: erinevate viimistlusmaterjalide ühendused, kommunikatsioonide kulgemine, kinnitus, viimistlus, teenindavate luukide, kraanide, klappide, puhastuskorkide asukohad.  
+
+
+=== 9805224_Võimalikud_ärajäetavad_tööd.docx ===
+
+
+
+Võimalike ärajäetavate tööde pingerivi:
+
+Töö nimetus
+Maksumus (EUR)
+1.
+Hüppetoru ja pehmendus 0 korruse põrandal
+
+2.
+Ruum 106 (kriisistaap) ehitustööd. NB! ruumi uks tuleb paigaldada
+
+3.
+Köögimööbel koos tehnikaga ruumi nr 104
+
+4.
+Välistrepp teljel 8 (kui töö jäetakse tellija poolt ära, tuleb töövõtjal rajada ajutine trepp)
+
+5.
+Välistrepp teljel E (kui töö jäetakse tellija poolt ära, tuleb töövõtjal rajada ajutine trepp)
+
+6.
+Moodulvaheseinad
+
+7.
+I korruse WC-de inventar (potid, kraanikausid, paberihoidjad, seebidosaatorid)
+
+
+Maksumus kokku
+
+
